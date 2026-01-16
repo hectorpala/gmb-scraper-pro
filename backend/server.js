@@ -19,6 +19,10 @@ let lastSearchParams = null;
 
 const googleSheets = new GoogleSheetsExporter();
 
+// Database (cargado dinamicamente)
+let database = null;
+let dbEnabled = false;
+
 app.use(cors());
 app.use(express.json());
 app.use(express.static(path.join(__dirname, '..', 'frontend')));
@@ -55,6 +59,17 @@ app.post('/api/scrape', async (req, res) => {
     const exporter = new DataExporter();
     const exportResults = exporter.exportAll(businesses, businessType, city, country);
 
+    // Calcular estadisticas
+    const stats = {
+      total: businesses.length,
+      withPhone: businesses.filter(b => b.phone).length,
+      withWebsite: businesses.filter(b => b.website).length,
+      withRating: businesses.filter(b => b.rating).length,
+      withAddress: businesses.filter(b => b.address).length,
+      withInstagram: businesses.filter(b => b.socialMedia?.instagram).length,
+      withWhatsapp: businesses.filter(b => b.socialMedia?.whatsapp || (b.phone && b.phone.includes('WhatsApp'))).length
+    };
+
     const response = {
       success: true,
       data: {
@@ -62,6 +77,7 @@ app.post('/api/scrape', async (req, res) => {
         totalResults: businesses.length,
         duration: duration + 's',
         businesses,
+        stats,
         exports: {
           json: '/output/' + exportResults.json.filename,
           csv: '/output/' + exportResults.csv.filename
@@ -88,6 +104,27 @@ app.post('/api/scrape', async (req, res) => {
       } catch (gsError) {
         console.error('Error exportando a Google Sheets:', gsError.message);
         response.data.googleSheetsError = gsError.message;
+      }
+    }
+
+    // Guardar en base de datos local
+    if (dbEnabled && database) {
+      try {
+        const busquedaId = database.registrarBusqueda({
+          tipoNegocio: businessType,
+          ciudad: city,
+          pais: country,
+          totalEncontrados: businesses.length,
+          duracion: parseFloat(duration)
+        });
+        const dbResult = database.guardarNegocios(businesses, busquedaId);
+        console.log('Base de datos: ' + dbResult.nuevos + ' nuevos, ' + dbResult.actualizados + ' actualizados');
+        response.data.database = {
+          nuevos: dbResult.nuevos,
+          actualizados: dbResult.actualizados
+        };
+      } catch (dbError) {
+        console.error('Error guardando en base de datos:', dbError.message);
       }
     }
 
@@ -299,7 +336,22 @@ app.get('/', (req, res) => {
   res.sendFile(path.join(__dirname, '..', 'frontend', 'index.html'));
 });
 
-app.listen(PORT, () => {
+// Cargar base de datos al iniciar
+async function initDatabase() {
+  try {
+    database = await import('./services/database.js');
+    dbEnabled = database.isEnabled ? database.isEnabled() : true;
+    console.log('Base de datos:', dbEnabled ? 'Activa' : 'No disponible');
+  } catch (err) {
+    console.log('Base de datos no disponible:', err.message);
+    database = null;
+    dbEnabled = false;
+  }
+}
+
+initDatabase();
+
+app.listen(PORT, async () => {
   console.log('');
   console.log('========================================');
   console.log('  Google My Business Scraper');

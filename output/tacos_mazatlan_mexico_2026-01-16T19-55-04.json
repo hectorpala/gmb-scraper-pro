@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "query": {
+      "businessType": "tacos",
+      "city": "Mazatlan",
+      "country": "Mexico"
+    },
+    "totalResults": 9,
+    "exportedAt": "2026-01-16T19:55:04.105Z"
+  },
+  "businesses": [
+    {
+      "position": 1,
+      "placeId": null,
+      "name": "TAQUERIA EL CHILE (ZONA DORADA)",
+      "profileUrl": "https://www.google.com/maps/place/TAQUERIA+EL+CHILE+%28ZONA+DORADA%29/data=!4m7!3m6!1s0x869f55130d77c46f:0xfcb3a11f4efb4744!8m2!3d23.2414114!4d-106.4467551!16s%2Fg%2F11rqj685wg!19sChIJb8R3DRNVn4YRREf7Th-hs_w?authuser=0&hl=es&rclk=1",
+      "scrapedAt": "2026-01-16T19:54:29.312Z"
+    },
+    {
+      "position": 2,
+      "placeId": null,
+      "name": "Taqueria San Pablo",
+      "profileUrl": "https://www.google.com/maps/place/Taqueria+San+Pablo/data=!4m7!3m6!1s0x869f54a1d0c77e77:0x6a084ec2aacd2355!8m2!3d23.2407418!4d-106.4440415!16s%2Fg%2F11c60jsx5r!19sChIJd37H0KFUn4YRVSPNqsJOCGo?authuser=0&hl=es&rclk=1",
+      "scrapedAt": "2026-01-16T19:54:33.477Z"
+    },
+    {
+      "position": 3,
+      "placeId": null,
+      "name": "Taquería El Paisa Mazatlán Sinaloa 🦜🤠🌮",
+      "profileUrl": "https://www.google.com/maps/place/Taquer%C3%ADa+El+Paisa+Mazatl%C3%A1n+Sinaloa+%F0%9F%A6%9C%F0%9F%A4%A0%F0%9F%8C%AE/data=!4m7!3m6!1s0x869f549f63619eeb:0xce219d7ccbc2faf!8m2!3d23.2394342!4d-106.4444887!16s%2Fg%2F11hd5dnmkw!19sChIJ655hY59Un4YRry-8zNcZ4gw?authuser=0&hl=es&rclk=1",
+      "scrapedAt": "2026-01-16T19:54:37.312Z"
+    },
+    {
+      "position": 4,
+      "placeId": null,
+      "name": "Taquería Playa Sur",
+      "profileUrl": "https://www.google.com/maps/place/Taquer%C3%ADa+Playa+Sur/data=!4m7!3m6!1s0x869f53eb4089cebf:0x2d6bca293928712d!8m2!3d23.1949458!4d-106.4215922!16s%2Fg%2F11b70kcyg2!19sChIJv86JQOtTn4YRLXEoOSnKay0?authuser=0&hl=es&rclk=1",
+      "scrapedAt": "2026-01-16T19:54:41.152Z"
+    },
+    {
+      "position": 5,
+      "placeId": null,
+      "name": "Tacos de Mariscos El Gordo",
+      "profileUrl": "https://www.google.com/maps/place/Tacos+de+Mariscos+El+Gordo/data=!4m7!3m6!1s0x869f530958427617:0x5a4078eb1811f1e6!8m2!3d23.2579219!4d-106.4257412!16s%2Fg%2F11fr0q9d7s!19sChIJF3ZCWAlTn4YR5vERGOt4QFo?authuser=0&hl=es&rclk=1",
+      "scrapedAt": "2026-01-16T19:54:44.977Z"
+    },
+    {
+      "position": 6,
+      "placeId": null,
+      "name": "Tacos Tía Nena",
+      "profileUrl": "https://www.google.com/maps/place/Tacos+T%C3%ADa+Nena/data=!4m7!3m6!1s0x869f53aa64e32721:0xdc340b90aa7055e0!8m2!3d23.2331419!4d-106.4026145!16s%2Fg%2F11r348ym54!19sChIJISfjZKpTn4YR4FVwqpALNNw?authuser=0&hl=es&rclk=1",
+      "scrapedAt": "2026-01-16T19:54:48.792Z"
+    },
+    {
+      "position": 7,
+      "placeId": null,
+      "name": "Tacos Jimmy's",
+      "profileUrl": "https://www.google.com/maps/place/Tacos+Jimmy%27s/data=!4m7!3m6!1s0x869f53b0aed8a789:0xc833e25ae3427d37!8m2!3d23.1993259!4d-106.4202568!16s%2Fg%2F11sgcwb5x4!19sChIJiafYrrBTn4YRN31C41riM8g?authuser=0&hl=es&rclk=1",
+      "scrapedAt": "2026-01-16T19:54:52.615Z"
+    },
+    {
+      "position": 8,
+      "placeId": null,
+      "name": "Taquería Pardo (el pariente)",
+      "profileUrl": "https://www.google.com/maps/place/Taquer%C3%ADa+Pardo+%28el+pariente%29/data=!4m7!3m6!1s0x869f5397458ae335:0x39a9446bf335bef!8m2!3d23.2342467!4d-106.3894886!16s%2Fg%2F11fb0vfpt9!19sChIJNeOKRZdTn4YR71szv0aUmgM?authuser=0&hl=es&rclk=1",
+      "scrapedAt": "2026-01-16T19:54:56.417Z"
+    },
+    {
+      "position": 9,
+      "placeId": null,
+      "name": "Tacos Capeados Carmen - Sánchez Celis",
+      "profileUrl": "https://www.google.com/maps/place/Tacos+Capeados+Carmen+-+S%C3%A1nchez+Celis/data=!4m7!3m6!1s0x869f535c90af340f:0xf66766076d7f9cfc!8m2!3d23.2465828!4d-106.4306866!16s%2Fg%2F11hbt58qzn!19sChIJDzSvkFxTn4YR_Jx_bQdmZ_Y?authuser=0&hl=es&rclk=1",
+      "scrapedAt": "2026-01-16T19:55:04.093Z"
+    }
+  ]
+}

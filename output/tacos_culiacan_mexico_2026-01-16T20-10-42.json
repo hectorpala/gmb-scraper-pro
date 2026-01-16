@@ -1,0 +1,83 @@
+{
+  "metadata": {
+    "query": {
+      "businessType": "tacos",
+      "city": "Culiacan",
+      "country": "Mexico"
+    },
+    "totalResults": 10,
+    "exportedAt": "2026-01-16T20:10:42.914Z"
+  },
+  "businesses": [
+    {
+      "position": 1,
+      "placeId": null,
+      "name": "Taquería las Isabelas",
+      "profileUrl": "https://www.google.com/maps/place/Taquer%C3%ADa+las+Isabelas/data=!4m7!3m6!1s0x86bcd97dde15dc19:0x5cf5772738d0904a!8m2!3d24.831816!4d-107.3719654!16s%2Fg%2F11k4lb4w7m!19sChIJGdwV3n3ZvIYRSpDQOCd39Vw?authuser=0&hl=es&rclk=1",
+      "scrapedAt": "2026-01-16T20:10:08.177Z"
+    },
+    {
+      "position": 2,
+      "placeId": null,
+      "name": "Taqueria San Juan Los Ángeles",
+      "profileUrl": "https://www.google.com/maps/place/Taqueria+San+Juan+Los+%C3%81ngeles/data=!4m7!3m6!1s0x86bcd9ea6e0b6ee3:0x93ec83c312b37b5e!8m2!3d24.8378838!4d-107.3619862!16s%2Fg%2F11c60k5t6v!19sChIJ424LburZvIYRXnuzEsOD7JM?authuser=0&hl=es&rclk=1",
+      "scrapedAt": "2026-01-16T20:10:12.029Z"
+    },
+    {
+      "position": 3,
+      "placeId": null,
+      "name": "Tacos el Zurdo",
+      "profileUrl": "https://www.google.com/maps/place/Tacos+el+Zurdo/data=!4m7!3m6!1s0x86bcd9fd36c0813f:0x9d68cf98682c537c!8m2!3d24.8192409!4d-107.3735991!16s%2Fg%2F1232p593t!19sChIJP4HANv3ZvIYRfFMsaJjPaJ0?authuser=0&hl=es&rclk=1",
+      "scrapedAt": "2026-01-16T20:10:15.805Z"
+    },
+    {
+      "position": 4,
+      "placeId": null,
+      "name": "Taqueria Don Fruto",
+      "profileUrl": "https://www.google.com/maps/place/Taqueria+Don+Fruto/data=!4m7!3m6!1s0x86bcda042089417d:0x7a92d1f33658bb46!8m2!3d24.8208509!4d-107.392292!16s%2Fg%2F11b7ztpwq3!19sChIJfUGJIATavIYRRrtYNvPRkno?authuser=0&hl=es&rclk=1",
+      "scrapedAt": "2026-01-16T20:10:19.816Z"
+    },
+    {
+      "position": 5,
+      "placeId": null,
+      "name": "Taquería Sinaloa",
+      "profileUrl": "https://www.google.com/maps/place/Taquer%C3%ADa+Sinaloa/data=!4m7!3m6!1s0x86bcd75792d445e3:0x5f822c5aee6d66db!8m2!3d24.8158744!4d-107.374335!16s%2Fg%2F11clwnmyn_!19sChIJ40XUklfXvIYR22Zt7losgl8?authuser=0&hl=es&rclk=1",
+      "scrapedAt": "2026-01-16T20:10:23.750Z"
+    },
+    {
+      "position": 6,
+      "placeId": null,
+      "name": "Taqueria EL CHUKY",
+      "profileUrl": "https://www.google.com/maps/place/Taqueria+EL+CHUKY/data=!4m7!3m6!1s0x86bcd9eec5b8e147:0x4f1af3eb4d360a6d!8m2!3d24.8295948!4d-107.3765473!16s%2Fg%2F11fwfkx3nc!19sChIJR-G4xe7ZvIYRbQo2TevzGk8?authuser=0&hl=es&rclk=1",
+      "scrapedAt": "2026-01-16T20:10:27.668Z"
+    },
+    {
+      "position": 7,
+      "placeId": null,
+      "name": "Tacos y quesadillas \"Roberto's\"",
+      "profileUrl": "https://www.google.com/maps/place/Tacos+y+quesadillas+%22Roberto%27s%22/data=!4m7!3m6!1s0x86bcd91e1126614d:0x9b8f0360067083d2!8m2!3d24.8289104!4d-107.3801121!16s%2Fg%2F11rylvvzxl!19sChIJTWEmER7ZvIYR0oNwBmADj5s?authuser=0&hl=es&rclk=1",
+      "scrapedAt": "2026-01-16T20:10:31.485Z"
+    },
+    {
+      "position": 8,
+      "placeId": null,
+      "name": "Tacos de Birria dorados estilo Tijuana EL CHINO",
+      "profileUrl": "https://www.google.com/maps/place/Tacos+de+Birria+dorados+estilo+Tijuana+EL+CHINO/data=!4m7!3m6!1s0x86bcdb5ff4e307f9:0x3b256ca9ffecdf6!8m2!3d24.8252949!4d-107.389786!16s%2Fg%2F11t9v3530l!19sChIJ-Qfj9F_bvIYR9s3-n8pWsgM?authuser=0&hl=es&rclk=1",
+      "scrapedAt": "2026-01-16T20:10:35.326Z"
+    },
+    {
+      "position": 9,
+      "placeId": null,
+      "name": "Taquerias Las Chilakas Sucursal 3 Ríos",
+      "profileUrl": "https://www.google.com/maps/place/Taquerias+Las+Chilakas+Sucursal+3+R%C3%ADos/data=!4m7!3m6!1s0x86bcda09337a867b:0xf51aba87410acc61!8m2!3d24.8199604!4d-107.40066!16s%2Fg%2F11bc96b1fk!19sChIJe4Z6MwnavIYRYcwKQYe6GvU?authuser=0&hl=es&rclk=1",
+      "scrapedAt": "2026-01-16T20:10:39.077Z"
+    },
+    {
+      "position": 10,
+      "placeId": null,
+      "name": "Tacos Y Mariscos El Chef",
+      "profileUrl": "https://www.google.com/maps/place/Tacos+Y+Mariscos+El+Chef/data=!4m7!3m6!1s0x86bcd9f4994fa253:0x2d302396004797f3!8m2!3d24.8382559!4d-107.380471!16s%2Fg%2F11cnlv5lfl!19sChIJU6JPmfTZvIYR85dHAJYjMC0?authuser=0&hl=es&rclk=1",
+      "scrapedAt": "2026-01-16T20:10:42.893Z"
+    }
+  ]
+}
