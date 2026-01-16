@@ -54,19 +54,12 @@ export class DataExporterAdvanced {
       return { filename, filepath, size: 0 };
     }
 
-    // Columnas extendidas
+    // Columnas limpias y esenciales
     const columns = [
-      'position', 'placeId', 'name', 'rating', 'reviewCount',
-      'category', 'categories', 'priceLevel',
-      'address', 'phone', 'email', 'allEmails', 'website',
-      'hours', 'isOpenNow',
-      'latitude', 'longitude', 'plusCode',
-      'delivery', 'takeout', 'dineIn', 'wifi', 'wheelchair', 'parking',
-      'instagram', 'facebook', 'whatsapp', 'twitter', 'linkedin', 'youtube', 'tiktok',
-      'menuUrl', 'reservationUrl', 'orderUrl',
-      'mainPhoto', 'photosCount',
-      'topReviewText', 'topReviewRating',
-      'profileUrl', 'claimedBusiness', 'scrapedAt'
+      'position', 'name', 'rating', 'reviewCount',
+      'category', 'address', 'phone', 'email', 'website',
+      'instagram', 'facebook', 'whatsapp',
+      'hours', 'profileUrl', 'scrapedAt'
     ];
 
     const escapeCSV = (value) => {

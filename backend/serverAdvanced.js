@@ -4,7 +4,7 @@ import cors from 'cors';
 import path from 'path';
 import fs from 'fs';
 import { fileURLToPath } from 'url';
-import { GoogleMapsScraperAdvanced } from './scraperAdvanced.js';
+import { GoogleMapsScraperAdvanced, previewSearch } from './scraperAdvanced.js';
 import { DataExporterAdvanced } from './exporterAdvanced.js';
 import { GoogleSheetsExporter } from './googleSheets.js';
 import { ProxyManager } from './services/proxyManager.js';
@@ -41,6 +41,60 @@ app.post('/api/scrape', async (req, res) => {
   return handleAdvancedScrape(req, res);
 });
 
+
+/**
+ * POST /api/v2/preview - Preview rapido: cuenta negocios sin extraer detalles
+ */
+app.post('/api/v2/preview', async (req, res) => {
+  const {
+    businessType,
+    city,
+    country,
+    coordinates = null,
+    radius = null,
+    maxResults = 200
+  } = req.body;
+
+  if (!businessType || (!city && !coordinates)) {
+    return res.status(400).json({
+      success: false,
+      error: 'Campos requeridos: businessType y (city/country o coordinates)'
+    });
+  }
+
+  console.log('\n========================================');
+  console.log('PREVIEW: Contando negocios...');
+  console.log('Busqueda:', businessType, 'en', city || 'coordenadas');
+  console.log('========================================\n');
+
+  try {
+    const result = await previewSearch({
+      businessType,
+      city: city || '',
+      country: country || '',
+      maxResults: Math.min(parseInt(maxResults) || 200, 500),
+      coordinates,
+      radius
+    });
+
+    res.json({
+      success: result.success,
+      data: {
+        count: result.count,
+        sampleNames: result.sampleNames || [],
+        query: result.query,
+        message: result.message || result.error
+      }
+    });
+
+  } catch (error) {
+    console.error('Error en preview:', error);
+    res.status(500).json({
+      success: false,
+      error: 'Error durante el preview: ' + error.message
+    });
+  }
+});
 /**
  * POST /api/v2/scrape - Scraping avanzado con todas las opciones
  */

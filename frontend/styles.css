@@ -183,6 +183,7 @@ header .subtitle {
 }
 
 .btn-secondary {
+  cursor: pointer;
   background: var(--card-bg);
   color: var(--primary-color);
   border: 1px solid var(--primary-color);
@@ -384,4 +385,18 @@ footer {
   .results-header { flex-direction: column; align-items: flex-start; }
   .export-buttons { width: 100%; }
   .export-buttons .btn { flex: 1; }
+}
+
+/* Button group fix */
+.button-group {
+  display: flex;
+  gap: 12px;
+  margin-top: 16px;
+}
+
+.button-group .btn {
+  flex: 1;
+  min-height: 48px;
+  cursor: pointer !important;
+  pointer-events: auto !important;
 }

@@ -21,27 +21,22 @@ const MASTER_SHEET_NAME = 'GMB Scraper - Negocios';
 
 // Anchos de columna predefinidos (en pixeles)
 const COLUMN_WIDTHS = {
-  0: 140,  // BatchID
-  1: 180,  // PlaceID
-  2: 120,  // Busqueda
-  3: 100,  // Ciudad
-  4: 80,   // Pais
-  5: 40,   // #
-  6: 200,  // Nombre
-  7: 60,   // Rating
-  8: 70,   // Resenas
-  9: 150,  // Categoria
-  10: 200, // Categorias
-  11: 250, // Direccion
-  12: 120, // Telefono
-  13: 200, // Sitio Web
-  14: 150, // Horarios
-  15: 100, // Latitud
-  16: 100, // Longitud
-  17: 120, // Plus Code
-  18: 150, // Servicios
-  19: 250, // URL Perfil
-  20: 150  // Fecha Scraping
+  0: 40,   // #
+  1: 200,  // Nombre
+  2: 150,  // Categoria
+  3: 60,   // Rating
+  4: 70,   // Resenas
+  5: 120,  // Telefono
+  6: 180,  // Email
+  7: 180,  // Sitio Web
+  8: 250,  // Direccion
+  9: 150,  // Instagram
+  10: 150, // Facebook
+  11: 120, // WhatsApp
+  12: 150, // Horarios
+  13: 200, // URL Perfil
+  14: 150, // Ciudad
+  15: 100  // Fecha
 };
 
 export class GoogleSheetsExporter {
@@ -126,9 +121,10 @@ export class GoogleSheetsExporter {
     this.saveSpreadsheetConfig();
 
     const headers = [
-      'BatchID', 'PlaceID', 'Busqueda', 'Ciudad', 'Pais', '#', 'Nombre', 'Rating', 'Resenas',
-      'Categoria', 'Categorias', 'Direccion', 'Telefono', 'Sitio Web', 'Horarios',
-      'Latitud', 'Longitud', 'Plus Code', 'Servicios', 'URL Perfil', 'Fecha Scraping'
+      '#', 'Nombre', 'Categoria', 'Rating', 'Resenas',
+      'Telefono', 'Email', 'Sitio Web', 'Direccion',
+      'Instagram', 'Facebook', 'WhatsApp',
+      'Horarios', 'URL Perfil', 'Ciudad', 'Fecha'
     ];
 
     await this.sheets.spreadsheets.values.update({
@@ -146,8 +142,8 @@ export class GoogleSheetsExporter {
           range: { sheetId, startRowIndex: 0, endRowIndex: 1 },
           cell: { 
             userEnteredFormat: { 
-              backgroundColor: { red: 0.26, green: 0.52, blue: 0.96 }, 
-              textFormat: { bold: true, foregroundColor: { red: 1, green: 1, blue: 1 } },
+              backgroundColor: { red: 1, green: 1, blue: 1 }, 
+              textFormat: { bold: true, foregroundColor: { red: 0, green: 0, blue: 0 } },
               horizontalAlignment: 'CENTER'
             } 
           },
@@ -198,27 +194,22 @@ export class GoogleSheetsExporter {
     });
 
     const rows = businesses.map((b, index) => [
-      batchId,
-      this.val(b.placeId),
-      businessType,
-      city,
-      country,
       index + 1,
       this.val(b.name),
+      this.val(b.category),
       this.val(b.rating),
       this.val(b.reviewCount),
-      this.val(b.category),
-      this.val((b.categories || []).join(', ')),
-      this.val(b.address),
       this.val(b.phone),
+      this.val(b.email),
       this.val(b.website),
+      this.val(b.address),
+      this.val(b.socialMedia?.instagram),
+      this.val(b.socialMedia?.facebook),
+      this.val(b.socialMedia?.whatsapp),
       this.val(b.hours),
-      this.val(b.coordinates?.lat),
-      this.val(b.coordinates?.lng),
-      this.val(b.plusCode),
-      this.val((b.services || []).join(', ')),
       this.val(b.profileUrl),
-      scrapedAt
+      city + ', ' + country,
+      scrapedAt.split(',')[0]
     ]);
 
     // Obtener info del sheet para saber cuantas filas hay
@@ -226,9 +217,22 @@ export class GoogleSheetsExporter {
     const sheetId = sheetInfo.data.sheets[0].properties.sheetId;
 
     // Agregar filas
-    const appendResult = await this.sheets.spreadsheets.values.append({
-      spreadsheetId, range: 'Negocios!A:U',
-      valueInputOption: 'USER_ENTERED', insertDataOption: 'INSERT_ROWS',
+    // Insertar al inicio (fila 2, después del header) para que lo más reciente esté arriba
+    await this.sheets.spreadsheets.batchUpdate({
+      spreadsheetId,
+      requestBody: {
+        requests: [{
+          insertDimension: {
+            range: { sheetId, dimension: 'ROWS', startIndex: 1, endIndex: 1 + rows.length },
+            inheritFromBefore: false
+          }
+        }]
+      }
+    });
+    
+    const appendResult = await this.sheets.spreadsheets.values.update({
+      spreadsheetId, range: 'Negocios!A2',
+      valueInputOption: 'USER_ENTERED',
       requestBody: { values: rows }
     });
 

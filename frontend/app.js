@@ -8,7 +8,8 @@ const state = {
   stats: null,
   exports: { json: null, csv: null },
   googleSheets: { configured: false, authenticated: false, url: null },
-  activeTab: 'ciudad'
+  activeTab: 'ciudad',
+  previewData: null
 };
 
 const elements = {};
@@ -17,8 +18,7 @@ async function init() {
   // Cache elements
   elements.form = document.getElementById('searchForm');
   elements.searchBtn = document.getElementById('searchBtn');
-  elements.btnText = document.querySelector('.btn-text');
-  elements.btnLoading = document.querySelector('.btn-loading');
+  elements.previewBtn = document.getElementById('previewBtn');
   elements.progressSection = document.getElementById('progressSection');
   elements.progressText = document.getElementById('progressText');
   elements.progressPercent = document.getElementById('progressPercent');
@@ -39,9 +39,20 @@ async function init() {
   elements.exportToSheets = document.getElementById('exportToSheets');
   elements.filtersToggle = document.getElementById('filtersToggle');
   elements.filtersContent = document.getElementById('filtersContent');
+  
+  // Preview elements
+  elements.previewSection = document.getElementById('previewSection');
+  elements.previewTitle = document.getElementById('previewTitle');
+  elements.previewCount = document.getElementById('previewCount');
+  elements.previewSamples = document.getElementById('previewSamples');
+  elements.previewCancel = document.getElementById('previewCancel');
+  elements.previewConfirm = document.getElementById('previewConfirm');
 
   // Event listeners
   elements.form.addEventListener('submit', handleSubmit);
+  elements.previewBtn.addEventListener('click', handlePreview);
+  elements.previewCancel.addEventListener('click', hidePreview);
+  elements.previewConfirm.addEventListener('click', confirmScrape);
   elements.exportCsv.addEventListener('click', function() { downloadExport('csv'); });
   elements.exportJson.addEventListener('click', function() { downloadExport('json'); });
   elements.exportSheets.addEventListener('click', openGoogleSheets);
@@ -155,10 +166,7 @@ async function connectGoogleSheets() {
   }
 }
 
-async function handleSubmit(event) {
-  event.preventDefault();
-  if (state.isLoading) return;
-
+function getFormData() {
   const formData = new FormData(elements.form);
   let data = {};
 
@@ -169,8 +177,7 @@ async function handleSubmit(event) {
       country: formData.get('country')?.trim()
     };
     if (!data.businessType || !data.city || !data.country) {
-      showMessage('Por favor complete todos los campos', 'error');
-      return;
+      return { error: 'Por favor complete todos los campos' };
     }
   } else {
     const lat = parseFloat(formData.get('latitude'));
@@ -184,8 +191,7 @@ async function handleSubmit(event) {
     };
     
     if (!data.businessType || isNaN(lat) || isNaN(lng)) {
-      showMessage('Por favor complete tipo de negocio, latitud y longitud', 'error');
-      return;
+      return { error: 'Por favor complete tipo de negocio, latitud y longitud' };
     }
   }
 
@@ -203,6 +209,97 @@ async function handleSubmit(event) {
   if (document.getElementById('requirePhone').checked) data.filters.requirePhone = true;
   if (document.getElementById('requireWebsite').checked) data.filters.requireWebsite = true;
 
+  return data;
+}
+
+// ============ PREVIEW FUNCTIONALITY ============
+
+async function handlePreview() {
+  if (state.isLoading) return;
+
+  const data = getFormData();
+  if (data.error) {
+    showMessage(data.error, 'error');
+    return;
+  }
+
+  setPreviewLoading(true);
+  hideMessage();
+  hideResults();
+
+  try {
+    const response = await fetch('/api/v2/preview', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify(data)
+    });
+
+    const result = await response.json();
+
+    if (!result.success) {
+      throw new Error(result.data?.message || 'Error en preview');
+    }
+
+    state.previewData = data;
+    showPreviewResults(result.data);
+
+  } catch (error) {
+    showMessage(error.message || 'Error al realizar preview', 'error');
+  } finally {
+    setPreviewLoading(false);
+  }
+}
+
+function setPreviewLoading(loading) {
+  const btnText = elements.previewBtn.querySelector('.btn-text');
+  const btnLoading = elements.previewBtn.querySelector('.btn-loading');
+  elements.previewBtn.disabled = loading;
+  btnText.style.display = loading ? 'none' : 'inline';
+  btnLoading.style.display = loading ? 'inline-flex' : 'none';
+}
+
+function showPreviewResults(data) {
+  elements.previewCount.textContent = data.count;
+  
+  // Show sample names
+  if (data.sampleNames && data.sampleNames.length > 0) {
+    let html = '<p>Ejemplos de negocios encontrados:</p><ul>';
+    data.sampleNames.forEach(function(name) {
+      html += '<li>' + escapeHtml(name) + '</li>';
+    });
+    html += '</ul>';
+    elements.previewSamples.innerHTML = html;
+    elements.previewSamples.style.display = 'block';
+  } else {
+    elements.previewSamples.style.display = 'none';
+  }
+
+  elements.previewSection.style.display = 'block';
+}
+
+function hidePreview() {
+  elements.previewSection.style.display = 'none';
+  state.previewData = null;
+}
+
+async function confirmScrape() {
+  if (!state.previewData) return;
+  hidePreview();
+  await performSearch(state.previewData);
+}
+
+// ============ SEARCH FUNCTIONALITY ============
+
+async function handleSubmit(event) {
+  event.preventDefault();
+  if (state.isLoading) return;
+
+  const data = getFormData();
+  if (data.error) {
+    showMessage(data.error, 'error');
+    return;
+  }
+
   await performSearch(data);
 }
 
@@ -210,6 +307,7 @@ async function performSearch(data) {
   setLoading(true);
   hideMessage();
   hideResults();
+  hidePreview();
   showProgress();
 
   try {
@@ -262,8 +360,11 @@ async function performSearch(data) {
 function setLoading(loading) {
   state.isLoading = loading;
   elements.searchBtn.disabled = loading;
-  elements.btnText.style.display = loading ? 'none' : 'inline';
-  elements.btnLoading.style.display = loading ? 'inline-flex' : 'none';
+  elements.previewBtn.disabled = loading;
+  const btnText = elements.searchBtn.querySelector('.btn-text');
+  const btnLoading = elements.searchBtn.querySelector('.btn-loading');
+  btnText.style.display = loading ? 'none' : 'inline';
+  btnLoading.style.display = loading ? 'inline-flex' : 'none';
 }
 
 function showProgress() {

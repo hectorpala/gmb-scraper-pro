@@ -220,12 +220,40 @@ async function extractBusinessDetails(page) {
       data.rating = parseFloat(ratingEl.textContent.replace(',', '.'));
     }
 
-    // REVIEW COUNT
-    const reviewEl = document.querySelector(SELECTORS.reviewCount);
-    if (reviewEl) {
-      const label = reviewEl.getAttribute('aria-label') || reviewEl.textContent;
-      const m = label.match(/([\d,\.]+)/);
-      if (m) data.reviewCount = parseInt(m[1].replace(/[,\.]/g, ''));
+    // REVIEW COUNT - Extraccion robusta
+    // Metodo 1: Buscar el texto "(XXX)" cerca del rating que indica numero de reseñas
+    const ratingSection = document.querySelector('div.F7nice, div.fontBodyMedium, div[role="img"]')?.parentElement;
+    if (ratingSection) {
+      const fullText = ratingSection.textContent || '';
+      // Buscar patron (123) o (1,234) o (1.234)
+      const parenMatch = fullText.match(/\(([\d,\.\s]+)\)/);
+      if (parenMatch) {
+        const num = parenMatch[1].replace(/[,\.\s]/g, '');
+        if (num.length > 0) data.reviewCount = parseInt(num);
+      }
+    }
+    // Metodo 2: aria-label con opiniones/reviews
+    if (!data.reviewCount) {
+      const reviewEls = document.querySelectorAll('[aria-label]');
+      for (const el of reviewEls) {
+        const label = (el.getAttribute('aria-label') || '').toLowerCase();
+        if (label.includes('opini') || label.includes('review') || label.includes('reseña')) {
+          const numMatch = label.match(/([\d,\.]+)/);
+          if (numMatch) {
+            data.reviewCount = parseInt(numMatch[1].replace(/[,\.]/g, ''));
+            break;
+          }
+        }
+      }
+    }
+    // Metodo 3: Boton que lleva a reseñas
+    if (!data.reviewCount) {
+      const reviewBtn = document.querySelector('button[aria-label*="reseña"], button[jsaction*="review"]');
+      if (reviewBtn) {
+        const label = reviewBtn.getAttribute('aria-label') || reviewBtn.textContent || '';
+        const numMatch = label.match(/([\d,\.]+)/);
+        if (numMatch) data.reviewCount = parseInt(numMatch[1].replace(/[,\.]/g, ''));
+      }
     }
 
     // CATEGORIAS
@@ -237,28 +265,66 @@ async function extractBusinessDetails(page) {
       }
     });
 
-    // TELEFONO
-    const phoneBtn = document.querySelector(SELECTORS.buttons.phone);
+    // TELEFONO - Extraccion mejorada
+    // Metodo 1: Boton con data-item-id phone (selector principal de Google Maps)
+    const phoneBtn = document.querySelector('button[data-item-id^="phone:"]');
     if (phoneBtn) {
-      const phoneText = phoneBtn.querySelector('.Io6YTe, .fontBodyMedium, span');
-      data.phone = phoneText?.textContent?.trim();
+      // Obtener del data-item-id directamente
+      const dataId = phoneBtn.getAttribute('data-item-id') || '';
+      const phoneMatch = dataId.match(/phone:tel:([^\s]+)/);
+      if (phoneMatch) {
+        data.phone = decodeURIComponent(phoneMatch[1]).replace(/^\+?52/, '');
+      }
+      // Si no, del aria-label
       if (!data.phone) {
-        const dataId = phoneBtn.getAttribute('data-item-id');
-        const match = dataId?.match(/phone:tel:([^\s]+)/);
-        if (match) data.phone = match[1].replace(/\+52/, '');
+        const ariaLabel = phoneBtn.getAttribute('aria-label') || '';
+        const labelMatch = ariaLabel.match(/[\d\s\-\(\)\+]{7,}/);
+        if (labelMatch) data.phone = labelMatch[0].trim();
+      }
+      // Si no, del texto interno
+      if (!data.phone) {
+        const spans = phoneBtn.querySelectorAll('span, div');
+        for (const span of spans) {
+          const text = span.textContent?.trim() || '';
+          if (text.match(/^[\d\s\-\(\)\+]{7,}$/)) {
+            data.phone = text;
+            break;
+          }
+        }
       }
     }
+    // Metodo 2: Link tel: directo
     if (!data.phone) {
-      const phoneByLabel = document.querySelector('button[aria-label*="Telefono:"], button[aria-label*="Phone:"]');
-      if (phoneByLabel) {
-        const label = phoneByLabel.getAttribute('aria-label');
-        const match = label.match(/(?:Telefono|Phone):\s*([^\s]+)/i);
-        if (match) data.phone = match[1];
+      const telLinks = document.querySelectorAll('a[href^="tel:"]');
+      for (const link of telLinks) {
+        const phone = link.href.replace('tel:', '').replace(/^\+?52/, '');
+        if (phone.replace(/\D/g, '').length >= 7) {
+          data.phone = phone;
+          break;
+        }
       }
     }
+    // Metodo 3: Buscar en aria-labels de todos los botones
     if (!data.phone) {
-      const telLink = document.querySelector('a[href^="tel:"]');
-      if (telLink) data.phone = telLink.href.replace('tel:', '').replace(/\+52/, '');
+      const allBtns = document.querySelectorAll('button[aria-label]');
+      for (const btn of allBtns) {
+        const label = btn.getAttribute('aria-label') || '';
+        if (label.toLowerCase().includes('tel') || label.toLowerCase().includes('phone') || label.toLowerCase().includes('llamar')) {
+          const match = label.match(/[\d\s\-\(\)\+]{7,}/);
+          if (match) {
+            data.phone = match[0].trim();
+            break;
+          }
+        }
+      }
+    }
+    // Limpiar el telefono
+    if (data.phone) {
+      data.phone = data.phone.replace(/^\+?52\s?/, '').trim();
+      // Validar que tenga suficientes digitos
+      if (data.phone.replace(/\D/g, '').length < 7) {
+        data.phone = null;
+      }
     }
 
     // DIRECCION
@@ -627,7 +693,12 @@ export class GoogleMapsScraperAdvanced {
             details.name = biz.name !== 'Sin nombre' ? biz.name : extractNameFromUrl(biz.href);
           }
 
-          if (this.shouldInclude(details, filters)) {
+          // Filtrar negocios de otras ciudades
+          const targetCity = (city || '').toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '');
+          const businessCity = (details.address || '').toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '');
+          const isSameCity = !targetCity || businessCity.includes(targetCity) || targetCity.length < 3;
+          
+          if (isSameCity && this.shouldInclude(details, filters)) {
             const businessData = {
               position: results.length + 1,
               placeId,
@@ -645,7 +716,7 @@ export class GoogleMapsScraperAdvanced {
             results.push(businessData);
 
             if (details.name) console.log('    -> Nombre:', details.name);
-            if (details.phone) console.log('    -> Tel:', details.phone);
+            if (details.phone && details.phone.trim().length > 5) console.log('    -> Tel:', details.phone);
             if (websiteData?.email) console.log('    -> Email:', websiteData.email);
             if (websiteData?.socialMedia?.instagram) console.log('    -> IG:', websiteData.socialMedia.instagram);
             if (websiteData?.socialMedia?.whatsapp) console.log('    -> WA:', websiteData.socialMedia.whatsapp);
@@ -669,11 +740,11 @@ export class GoogleMapsScraperAdvanced {
 
       const stats = {
         total: uniqueResults.length,
-        withPhone: uniqueResults.filter(r => r.phone).length,
-        withEmail: uniqueResults.filter(r => r.email).length,
-        withWebsite: uniqueResults.filter(r => r.website).length,
-        withInstagram: uniqueResults.filter(r => r.socialMedia?.instagram).length,
-        withWhatsapp: uniqueResults.filter(r => r.socialMedia?.whatsapp).length
+        withPhone: uniqueResults.filter(r => r.phone && r.phone.trim().length > 5).length,
+        withEmail: uniqueResults.filter(r => r.email && r.email.includes('@')).length,
+        withWebsite: uniqueResults.filter(r => r.website && r.website.includes('.')).length,
+        withInstagram: uniqueResults.filter(r => r.socialMedia?.instagram && r.socialMedia.instagram.includes('instagram')).length,
+        withWhatsapp: uniqueResults.filter(r => r.socialMedia?.whatsapp && r.socialMedia.whatsapp.length > 5).length
       };
 
       console.log('\n=== ESTADISTICAS ===');
@@ -702,3 +773,144 @@ process.on('SIGINT', async () => {
 });
 
 export default GoogleMapsScraperAdvanced;
+
+// ============================================================================
+// PREVIEW - Solo cuenta negocios sin extraer detalles
+// ============================================================================
+
+export async function previewSearch(params) {
+  const {
+    businessType,
+    city,
+    country,
+    maxResults = 200,
+    coordinates = null,
+    radius = null
+  } = params;
+
+  const browser = await getBrowser();
+  const context = browser.createBrowserContext
+    ? await browser.createBrowserContext()
+    : await browser.createIncognitoBrowserContext();
+  const page = await context.newPage();
+
+  await page.setRequestInterception(true);
+  page.on('request', (req) => {
+    const url = req.url();
+    const resourceType = req.resourceType();
+    if (BLOCKED_RESOURCES.includes(resourceType)) return req.abort();
+    if (BLOCKED_DOMAINS.some(domain => url.includes(domain))) return req.abort();
+    req.continue();
+  });
+
+  await page.setUserAgent(getRandomUserAgent());
+
+  try {
+    await page.setViewport({ width: 1400, height: 900 });
+
+    let searchUrl;
+    if (coordinates && radius) {
+      const { lat, lng } = coordinates;
+      const query = encodeURIComponent(businessType);
+      const zoom = radiusToZoom(radius);
+      searchUrl = 'https://www.google.com/maps/search/' + query + '/@' + lat + ',' + lng + ',' + zoom + 'z';
+    } else {
+      const query = encodeURIComponent(businessType + ' en ' + city + ', ' + country);
+      searchUrl = 'https://www.google.com/maps/search/' + query;
+    }
+
+    console.log('Preview: Buscando', businessType, 'en', city || 'coordenadas');
+
+    await page.goto(searchUrl, {
+      waitUntil: 'domcontentloaded',
+      timeout: SCRAPER_CONFIG.timeouts.navigation
+    });
+
+    await page.waitForSelector(SELECTORS.feed, { timeout: SCRAPER_CONFIG.timeouts.selector });
+
+    // Aceptar cookies
+    const acceptBtn = await page.$('button[aria-label*="Aceptar"], button[aria-label*="Accept"]');
+    if (acceptBtn) await acceptBtn.click().catch(() => {});
+
+    // Scroll rapido para contar
+    const count = await quickScroll(page, maxResults);
+
+    // Obtener algunos nombres de ejemplo
+    const sampleNames = await page.evaluate((SELECTORS) => {
+      const cards = document.querySelectorAll(SELECTORS.businessCard);
+      const names = [];
+      for (let i = 0; i < Math.min(5, cards.length); i++) {
+        const card = cards[i];
+        for (const sel of SELECTORS.name) {
+          const el = card.querySelector(sel);
+          if (el && el.textContent && el.textContent.trim().length > 1) {
+            names.push(el.textContent.trim());
+            break;
+          }
+        }
+      }
+      return names;
+    }, SELECTORS);
+
+    return {
+      success: true,
+      count,
+      sampleNames,
+      query: { businessType, city, country, coordinates, radius },
+      message: 'Encontrados ' + count + ' negocios'
+    };
+
+  } catch (error) {
+    return {
+      success: false,
+      count: 0,
+      error: error.message
+    };
+  } finally {
+    await context.close();
+  }
+}
+
+// Scroll rapido solo para contar
+async function quickScroll(page, maxResults) {
+  const cardSelector = SELECTORS.businessCard;
+  const startTime = Date.now();
+  let lastCount = 0;
+  let noGrowthCount = 0;
+  const maxTime = 20000; // 20 segundos max para preview
+
+  while (true) {
+    if (Date.now() - startTime > maxTime) break;
+
+    await page.evaluate(() => {
+      const feed = document.querySelector('div[role="feed"]');
+      if (feed) feed.scrollBy(0, 1500); // Scroll mas rapido
+    });
+
+    await new Promise(r => setTimeout(r, 500));
+
+    const count = await page.evaluate((sel) => document.querySelectorAll(sel).length, cardSelector);
+
+    if (count >= maxResults) break;
+    if (count === lastCount) {
+      noGrowthCount++;
+      if (noGrowthCount >= 4) break;
+    } else {
+      noGrowthCount = 0;
+      lastCount = count;
+    }
+  }
+
+  return lastCount;
+}
+
+function radiusToZoom(radiusKm) {
+  if (radiusKm <= 0.5) return 17;
+  if (radiusKm <= 1) return 16;
+  if (radiusKm <= 2) return 15;
+  if (radiusKm <= 5) return 14;
+  if (radiusKm <= 10) return 13;
+  if (radiusKm <= 20) return 12;
+  if (radiusKm <= 50) return 11;
+  return 10;
+}
