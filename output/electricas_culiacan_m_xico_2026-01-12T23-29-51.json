@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "query": {
+      "businessType": "electricas",
+      "city": "culiacan",
+      "country": "México"
+    },
+    "totalResults": 3,
+    "exportedAt": "2026-01-12T23:29:51.261Z"
+  },
+  "businesses": [
+    {
+      "position": 1,
+      "placeId": null,
+      "name": "Resultados",
+      "rating": null,
+      "reviewCount": null,
+      "category": null,
+      "categories": [],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "hours": null,
+      "plusCode": null,
+      "coordinates": {
+        "lat": 24.8184719,
+        "lng": -107.3741824
+      },
+      "services": [],
+      "profileUrl": "https://www.google.com/maps/search/electricas+en+culiacan,+M%C3%A9xico/@24.8184719,-107.3741824,13z/data=!4m2!2m1!6e6?entry=ttu&g_ep=EgoyMDI2MDEwNy4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-01-12T23:29:07.788Z"
+    },
+    {
+      "position": 2,
+      "placeId": "0x86bcd0bc30c5469d:0x375501c6544d717c",
+      "name": "Resultados",
+      "rating": null,
+      "reviewCount": null,
+      "category": null,
+      "categories": [],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "hours": null,
+      "plusCode": null,
+      "coordinates": {
+        "lat": 24.8184719,
+        "lng": -107.3741824
+      },
+      "services": [],
+      "profileUrl": "https://www.google.com/maps/place/El%C3%A9ctrica+Dava/@24.8184719,-107.3741824,13z/data=!4m11!1m3!2m2!1selectricas+en+culiacan,+M%C3%A9xico!6e6!3m6!1s0x86bcd0bc30c5469d:0x375501c6544d717c!8m2!3d24.798!4d-107.405251!15sCh9lbGVjdHJpY2FzIGVuIGN1bGlhY2FuLCBNw6l4aWNvWiAiHmVsZWN0cmljYXMgZW4gY3VsaWFjYW4gbcOpeGljb5IBF2VsZWN0cmljYWxfc3VwcGx5X3N0b3Jl4AEA!16s%2Fg%2F11h54z4rjt?entry=ttu&g_ep=EgoyMDI2MDEwNy4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-01-12T23:29:40.374Z"
+    },
+    {
+      "position": 3,
+      "placeId": "0x86bcd0baa0763821:0xa95f87bc7770ac40",
+      "name": "Resultados",
+      "rating": null,
+      "reviewCount": null,
+      "category": null,
+      "categories": [],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "hours": null,
+      "plusCode": null,
+      "coordinates": {
+        "lat": 24.798,
+        "lng": -107.4814687
+      },
+      "services": [],
+      "profileUrl": "https://www.google.com/maps/place/Electrica+Tyler/@24.798,-107.4814687,13z/data=!4m11!1m3!2m2!1selectricas+en+culiacan,+M%C3%A9xico!6e6!3m6!1s0x86bcd0baa0763821:0xa95f87bc7770ac40!8m2!3d24.8023529!4d-107.3966522!15sCh9lbGVjdHJpY2FzIGVuIGN1bGlhY2FuLCBNw6l4aWNvWiAiHmVsZWN0cmljYXMgZW4gY3VsaWFjYW4gbcOpeGljb5IBF2VsZWN0cmljYWxfc3VwcGx5X3N0b3JlmgEkQ2hkRFNVaE5NRzluUzBWSlEwRm5TVVJYZERkTVJtMTNSUkFC4AEA-gEECAAQJQ!16s%2Fg%2F11c51wznht?entry=ttu&g_ep=EgoyMDI2MDEwNy4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-01-12T23:29:45.084Z"
+    }
+  ]
+}

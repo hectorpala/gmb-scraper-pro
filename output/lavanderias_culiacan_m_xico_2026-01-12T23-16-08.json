@@ -1,0 +1,758 @@
+{
+  "metadata": {
+    "query": {
+      "businessType": "lavanderias",
+      "city": "culiacan",
+      "country": "México"
+    },
+    "totalResults": 33,
+    "exportedAt": "2026-01-12T23:16:08.615Z"
+  },
+  "businesses": [
+    {
+      "position": 1,
+      "placeId": null,
+      "name": "Tintorería Pressto Culiacán",
+      "rating": 4.5,
+      "reviewCount": null,
+      "category": "Tintorería",
+      "categories": [
+        "Tintorería"
+      ],
+      "address": "Blvd. Emiliano Zapata 1061, Jorge Almada, Las Quintas, 80060 Culiacán Rosales, Sin.",
+      "phone": "667 712 6036",
+      "website": "http://tintoreriaspressto.com.mx/",
+      "hours": null,
+      "plusCode": "RJ8G+H7 Culiacán Rosales, Sinaloa",
+      "coordinates": null,
+      "services": [],
+      "profileUrl": "https://www.google.com/maps/search/lavanderias%20en%20culiacan%2C%20M%C3%A9xico",
+      "scrapedAt": "2026-01-12T23:15:54.923Z"
+    },
+    {
+      "position": 2,
+      "placeId": null,
+      "name": "Tintorería Pretty Clean - Las Quintas",
+      "rating": 4.5,
+      "reviewCount": null,
+      "category": "Tintorería",
+      "categories": [
+        "Tintorería"
+      ],
+      "address": "Blvrd Sinaloa 1116-L-2, Las Quintas, 80060 Culiacán Rosales, Sin.",
+      "phone": "667 584 2586",
+      "website": null,
+      "hours": null,
+      "plusCode": null,
+      "coordinates": null,
+      "services": [],
+      "profileUrl": "https://www.google.com/maps/search/lavanderias%20en%20culiacan%2C%20M%C3%A9xico",
+      "scrapedAt": "2026-01-12T23:15:55.180Z"
+    },
+    {
+      "position": 3,
+      "placeId": "0x86bcd79b9988cec7:0xe4be4128e6cac634",
+      "name": "Planchaduria angelito",
+      "rating": 5,
+      "reviewCount": null,
+      "category": "Servicio de lavandería",
+      "categories": [
+        "Servicio de lavandería"
+      ],
+      "address": "Estado de Puebla 1419, Las Quintas, 80060 Culiacán Rosales, Sin.",
+      "phone": "667 295 9134",
+      "website": null,
+      "hours": null,
+      "plusCode": null,
+      "coordinates": {
+        "lat": 24.8215098,
+        "lng": -107.3874527
+      },
+      "services": [],
+      "profileUrl": "https://www.google.com/maps/place/Planchaduria+angelito/@24.8215098,-107.3874527,15z/data=!4m10!1m2!2m1!1slavanderias+en+culiacan,+M%C3%A9xico!3m6!1s0x86bcd79b9988cec7:0xe4be4128e6cac634!8m2!3d24.8152062!4d-107.3736847!15sCiBsYXZhbmRlcmlhcyBlbiBjdWxpYWNhbiwgTcOpeGljb5IBD2xhdW5kcnlfc2VydmljZeABAA!16s%2Fg%2F11nyjq4srq?entry=ttu&g_ep=EgoyMDI2MDEwNy4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-01-12T23:15:55.540Z"
+    },
+    {
+      "position": 4,
+      "placeId": "0x86bcd0ab03ccf939:0xd1a84c40315db7ef",
+      "name": "Tintoreria El Angel",
+      "rating": 4.5,
+      "reviewCount": null,
+      "category": "Tintorería",
+      "categories": [
+        "Tintorería"
+      ],
+      "address": "Paseo Niños Héroes Esq. con Sepulveda Malecón Viejo atrás de Ley del rió, 80000 Culiacán Rosales, Sin.",
+      "phone": "667 712 0381",
+      "website": null,
+      "hours": null,
+      "plusCode": null,
+      "coordinates": {
+        "lat": 24.8215098,
+        "lng": -107.3874527
+      },
+      "services": [],
+      "profileUrl": "https://www.google.com/maps/place/Tintoreria+El+Angel/@24.8215098,-107.3874527,15z/data=!4m10!1m2!2m1!1slavanderias+en+culiacan,+M%C3%A9xico!3m6!1s0x86bcd0ab03ccf939:0xd1a84c40315db7ef!8m2!3d24.812862!4d-107.3874109!15sCiBsYXZhbmRlcmlhcyBlbiBjdWxpYWNhbiwgTcOpeGljb1ohIh9sYXZhbmRlcmlhcyBlbiBjdWxpYWNhbiBtw6l4aWNvkgELZHJ5X2NsZWFuZXKaASRDaGREU1VoTk1HOW5TMFZKUTBGblNVUlhNMHRoYVRKblJSQULgAQD6AQQIcRAl!16s%2Fg%2F11dfjwql97?entry=ttu&g_ep=EgoyMDI2MDEwNy4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-01-12T23:15:55.829Z"
+    },
+    {
+      "position": 5,
+      "placeId": "0x86bcd9fedb927fc3:0xdebdc3210db0977f",
+      "name": "Tint",
+      "rating": 4.8,
+      "reviewCount": null,
+      "category": "Tintorería",
+      "categories": [
+        "Tintorería"
+      ],
+      "address": "RETORNO JOSE, Diego Valadés Ríos 1517 OTE-L. 3 Y 4, Desarrollo Urbano Tres Ríos, 80020 Culiacán Rosales, Sin.",
+      "phone": null,
+      "website": "https://www.clynmembers.com/sucursal-culiacan-1/",
+      "hours": null,
+      "plusCode": null,
+      "coordinates": {
+        "lat": 24.8215098,
+        "lng": -107.3874527
+      },
+      "services": [],
+      "profileUrl": "https://www.google.com/maps/place/Tint/@24.8215098,-107.3874527,15z/data=!4m10!1m2!2m1!1slavanderias+en+culiacan,+M%C3%A9xico!3m6!1s0x86bcd9fedb927fc3:0xdebdc3210db0977f!8m2!3d24.8213042!4d-107.3814334!15sCiBsYXZhbmRlcmlhcyBlbiBjdWxpYWNhbiwgTcOpeGljb1ohIh9sYXZhbmRlcmlhcyBlbiBjdWxpYWNhbiBtw6l4aWNvkgELZHJ5X2NsZWFuZXKaASRDaGREU1VoTk1HOW5TMFZKUTBGblNVTXhNRkJQZDNWM1JSQULgAQD6AQQIABAS!16s%2Fg%2F11c5btp083?entry=ttu&g_ep=EgoyMDI2MDEwNy4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-01-12T23:15:56.123Z"
+    },
+    {
+      "position": 6,
+      "placeId": "0x86bcd9a8b83812f5:0x1206f2517f52a6df",
+      "name": "Bubba clean",
+      "rating": 5,
+      "reviewCount": null,
+      "category": "Lavandería de autoservicio",
+      "categories": [
+        "Lavandería de autoservicio"
+      ],
+      "address": "80065 Cancun 1494 local 3 olaza Bariloche, Fracc Musalá Isla Bonita, 80065 Culiacán Rosales, Sin.",
+      "phone": "667 461 8257",
+      "website": null,
+      "hours": null,
+      "plusCode": null,
+      "coordinates": {
+        "lat": 24.8215098,
+        "lng": -107.3874527
+      },
+      "services": [],
+      "profileUrl": "https://www.google.com/maps/place/Bubba+clean/@24.8215098,-107.3874527,15z/data=!4m10!1m2!2m1!1slavanderias+en+culiacan,+M%C3%A9xico!3m6!1s0x86bcd9a8b83812f5:0x1206f2517f52a6df!8m2!3d24.82342!4d-107.3689067!15sCiBsYXZhbmRlcmlhcyBlbiBjdWxpYWNhbiwgTcOpeGljb5IBCmxhdW5kcm9tYXTgAQA!16s%2Fg%2F11h6d6149n?entry=ttu&g_ep=EgoyMDI2MDEwNy4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-01-12T23:15:56.422Z"
+    },
+    {
+      "position": 7,
+      "placeId": "0x86bcd7573fffffc3:0x76cd80da7d2df2b3",
+      "name": "Lavandería Barcelona",
+      "rating": null,
+      "reviewCount": null,
+      "category": "Servicio de lavandería",
+      "categories": [
+        "Servicio de lavandería"
+      ],
+      "address": "calle ciudad de reynosa #1394 , Blvrd. Sinaloa, Las Quintas, 80060 Culiacán Rosales, Sin.",
+      "phone": "667 466 1698",
+      "website": null,
+      "hours": null,
+      "plusCode": null,
+      "coordinates": {
+        "lat": 24.8215098,
+        "lng": -107.3874527
+      },
+      "services": [],
+      "profileUrl": "https://www.google.com/maps/place/Lavander%C3%ADa+Barcelona/@24.8215098,-107.3874527,15z/data=!4m10!1m2!2m1!1slavanderias+en+culiacan,+M%C3%A9xico!3m6!1s0x86bcd7573fffffc3:0x76cd80da7d2df2b3!8m2!3d24.813151!4d-107.374535!15sCiBsYXZhbmRlcmlhcyBlbiBjdWxpYWNhbiwgTcOpeGljb5IBD2xhdW5kcnlfc2VydmljZeABAA!16s%2Fg%2F11gbfdkyzy?entry=ttu&g_ep=EgoyMDI2MDEwNy4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-01-12T23:15:57.104Z"
+    },
+    {
+      "position": 8,
+      "placeId": "0x86bcd7faee95a16f:0x7f5303475d5600e5",
+      "name": "Lavanderia La morena",
+      "rating": null,
+      "reviewCount": null,
+      "category": "Lavandería",
+      "categories": [
+        "Lavandería"
+      ],
+      "address": "Blvrd Dr Mora 1613, Las Quintas, 80060 Culiacán Rosales, Sin.",
+      "phone": "667 432 1109",
+      "website": null,
+      "hours": null,
+      "plusCode": null,
+      "coordinates": {
+        "lat": 24.8215098,
+        "lng": -107.3874527
+      },
+      "services": [],
+      "profileUrl": "https://www.google.com/maps/place/Lavanderia+La+morena/@24.8215098,-107.3874527,15z/data=!4m10!1m2!2m1!1slavanderias+en+culiacan,+M%C3%A9xico!3m6!1s0x86bcd7faee95a16f:0x7f5303475d5600e5!8m2!3d24.815196!4d-107.3700244!15sCiBsYXZhbmRlcmlhcyBlbiBjdWxpYWNhbiwgTcOpeGljb5IBB2xhdW5kcnngAQA!16s%2Fg%2F11qq0q6z27?entry=ttu&g_ep=EgoyMDI2MDEwNy4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-01-12T23:15:57.398Z"
+    },
+    {
+      "position": 9,
+      "placeId": "0x86bcd1da5821c8ef:0xad8f58222d78e497",
+      "name": "Tintorería Max Culiacan II",
+      "rating": 3.8,
+      "reviewCount": null,
+      "category": "Servicio de lavandería",
+      "categories": [
+        "Servicio de lavandería"
+      ],
+      "address": "P.º Niños Heroes 946 Oriente, Las Quintas, 80060 Culiacán Rosales, Sin.",
+      "phone": null,
+      "website": "http://www.tintoreriasmax.com/",
+      "hours": null,
+      "plusCode": null,
+      "coordinates": {
+        "lat": 24.8215098,
+        "lng": -107.3874527
+      },
+      "services": [],
+      "profileUrl": "https://www.google.com/maps/place/Tintorer%C3%ADa+Max+Culiacan+II/@24.8215098,-107.3874527,15z/data=!4m10!1m2!2m1!1slavanderias+en+culiacan,+M%C3%A9xico!3m6!1s0x86bcd1da5821c8ef:0xad8f58222d78e497!8m2!3d24.8167721!4d-107.3814182!15sCiBsYXZhbmRlcmlhcyBlbiBjdWxpYWNhbiwgTcOpeGljb1ohIh9sYXZhbmRlcmlhcyBlbiBjdWxpYWNhbiBtw6l4aWNvkgEPbGF1bmRyeV9zZXJ2aWNlmgEkQ2hkRFNVaE5NRzluUzBWSlEwRm5TVVF5Tm5WTWFqbEJSUkFC4AEA-gEECAAQGg!16s%2Fg%2F1thx4h9t?entry=ttu&g_ep=EgoyMDI2MDEwNy4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-01-12T23:15:57.690Z"
+    },
+    {
+      "position": 10,
+      "placeId": "0x86bcd939cc8c7611:0x5580223619ddb728",
+      "name": "Tintorería Pretty Clean - Tres Rios",
+      "rating": 4.3,
+      "reviewCount": null,
+      "category": "Tintorería",
+      "categories": [
+        "Tintorería"
+      ],
+      "address": "Retorno José, Diego Valadés Ríos 1517 OTE-Local 2, Cd Universitaria, Desarrollo Urbano Tres Ríos, 80020 Culiacán Rosales, Sin.",
+      "phone": "667 223 3742",
+      "website": null,
+      "hours": null,
+      "plusCode": null,
+      "coordinates": {
+        "lat": 24.8215098,
+        "lng": -107.3874527
+      },
+      "services": [],
+      "profileUrl": "https://www.google.com/maps/place/Tintorer%C3%ADa+Pretty+Clean+-+Tres+Rios/@24.8215098,-107.3874527,15z/data=!4m10!1m2!2m1!1slavanderias+en+culiacan,+M%C3%A9xico!3m6!1s0x86bcd939cc8c7611:0x5580223619ddb728!8m2!3d24.8213246!4d-107.3814514!15sCiBsYXZhbmRlcmlhcyBlbiBjdWxpYWNhbiwgTcOpeGljb1ohIh9sYXZhbmRlcmlhcyBlbiBjdWxpYWNhbiBtw6l4aWNvkgELZHJ5X2NsZWFuZXKaASRDaGREU1VoTk1HOW5TMFZKTjBVd2NWZFljRnBIU3pCUlJSQULgAQD6AQQITBAe!16s%2Fg%2F11vqhsq585?entry=ttu&g_ep=EgoyMDI2MDEwNy4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-01-12T23:15:57.982Z"
+    },
+    {
+      "position": 11,
+      "placeId": "0x86bcd9e284053edd:0xaa613d516b93f375",
+      "name": "LA PLANCHADURIA",
+      "rating": null,
+      "reviewCount": null,
+      "category": "Tintorería",
+      "categories": [
+        "Tintorería"
+      ],
+      "address": "Gran Avenida El Dorado 1632, Las Quintas, 80060 Culiacán Rosales, Sin.",
+      "phone": null,
+      "website": null,
+      "hours": null,
+      "plusCode": null,
+      "coordinates": {
+        "lat": 24.8215098,
+        "lng": -107.3874527
+      },
+      "services": [],
+      "profileUrl": "https://www.google.com/maps/place/LA+PLANCHADURIA/@24.8215098,-107.3874527,15z/data=!4m10!1m2!2m1!1slavanderias+en+culiacan,+M%C3%A9xico!3m6!1s0x86bcd9e284053edd:0xaa613d516b93f375!8m2!3d24.8183372!4d-107.3705089!15sCiBsYXZhbmRlcmlhcyBlbiBjdWxpYWNhbiwgTcOpeGljb5IBC2RyeV9jbGVhbmVy4AEA!16s%2Fg%2F11y3ytc_nf?entry=ttu&g_ep=EgoyMDI2MDEwNy4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-01-12T23:15:58.285Z"
+    },
+    {
+      "position": 12,
+      "placeId": "0x86bcd7576a131f93:0xb4e6ecd5c9da544a",
+      "name": "Plancha Miss Tela's",
+      "rating": null,
+      "reviewCount": null,
+      "category": "Tintorería",
+      "categories": [
+        "Tintorería"
+      ],
+      "address": "Blvrd Sinaloa, Las Quintas, 80060 Culiacán Rosales, Sin.",
+      "phone": "667 154 4706",
+      "website": null,
+      "hours": null,
+      "plusCode": null,
+      "coordinates": {
+        "lat": 24.8215098,
+        "lng": -107.3874527
+      },
+      "services": [],
+      "profileUrl": "https://www.google.com/maps/place/Plancha+Miss+Tela's/@24.8215098,-107.3874527,15z/data=!4m10!1m2!2m1!1slavanderias+en+culiacan,+M%C3%A9xico!3m6!1s0x86bcd7576a131f93:0xb4e6ecd5c9da544a!8m2!3d24.813239!4d-107.3742704!15sCiBsYXZhbmRlcmlhcyBlbiBjdWxpYWNhbiwgTcOpeGljb5IBC2RyeV9jbGVhbmVy4AEA!16s%2Fg%2F11w55vg00s?entry=ttu&g_ep=EgoyMDI2MDEwNy4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-01-12T23:15:58.622Z"
+    },
+    {
+      "position": 13,
+      "placeId": "0x86bcd758d738e3f7:0xe76d9307491060ff",
+      "name": "Titoreria La Familiar",
+      "rating": 5,
+      "reviewCount": null,
+      "category": "Tintorería",
+      "categories": [
+        "Tintorería"
+      ],
+      "address": "Blvrd Dr Mora 1702A, Las Quintas, La Campiña, 80060 Culiacán Rosales, Sin.",
+      "phone": "667 690 7359",
+      "website": null,
+      "hours": null,
+      "plusCode": null,
+      "coordinates": {
+        "lat": 24.8215098,
+        "lng": -107.3874527
+      },
+      "services": [],
+      "profileUrl": "https://www.google.com/maps/place/Titoreria+La+Familiar/@24.8215098,-107.3874527,15z/data=!4m10!1m2!2m1!1slavanderias+en+culiacan,+M%C3%A9xico!3m6!1s0x86bcd758d738e3f7:0xe76d9307491060ff!8m2!3d24.8156754!4d-107.3677834!15sCiBsYXZhbmRlcmlhcyBlbiBjdWxpYWNhbiwgTcOpeGljb5IBC2RyeV9jbGVhbmVy4AEA!16s%2Fg%2F11dym3q44n?entry=ttu&g_ep=EgoyMDI2MDEwNy4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-01-12T23:15:58.915Z"
+    },
+    {
+      "position": 14,
+      "placeId": "0x86bcd7576a1341e5:0xa5a161017a793ec0",
+      "name": "Planchar Lavanderia",
+      "rating": null,
+      "reviewCount": null,
+      "category": null,
+      "categories": [],
+      "address": "Blvrd Sinaloa, Las Quintas, 80060 Culiacán Rosales, Sin.",
+      "phone": null,
+      "website": null,
+      "hours": null,
+      "plusCode": null,
+      "coordinates": {
+        "lat": 24.8215098,
+        "lng": -107.3874527
+      },
+      "services": [],
+      "profileUrl": "https://www.google.com/maps/place/Planchar+Lavanderia/@24.8215098,-107.3874527,15z/data=!4m10!1m2!2m1!1slavanderias+en+culiacan,+M%C3%A9xico!3m6!1s0x86bcd7576a1341e5:0xa5a161017a793ec0!8m2!3d24.813247!4d-107.3742817!15sCiBsYXZhbmRlcmlhcyBlbiBjdWxpYWNhbiwgTcOpeGljb-ABAA!16s%2Fg%2F11lchh5r35?entry=ttu&g_ep=EgoyMDI2MDEwNy4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-01-12T23:15:59.338Z"
+    },
+    {
+      "position": 15,
+      "placeId": "0x86bcd7296adf5f5b:0xf031a972a2d18e44",
+      "name": "Master Clean Lavandería, Planchaduría y Tintorería",
+      "rating": 5,
+      "reviewCount": null,
+      "category": "Lavandería",
+      "categories": [
+        "Lavandería"
+      ],
+      "address": "Blvrd Dr Mora 1884, La Campiña, 80060 Culiacán Rosales, Sin.",
+      "phone": "667 203 8270",
+      "website": null,
+      "hours": null,
+      "plusCode": null,
+      "coordinates": {
+        "lat": 24.8215098,
+        "lng": -107.3874527
+      },
+      "services": [],
+      "profileUrl": "https://www.google.com/maps/place/Master+Clean+Lavander%C3%ADa,+Planchadur%C3%ADa+y+Tintorer%C3%ADa/@24.8215098,-107.3874527,15z/data=!4m10!1m2!2m1!1slavanderias+en+culiacan,+M%C3%A9xico!3m6!1s0x86bcd7296adf5f5b:0xf031a972a2d18e44!8m2!3d24.8156882!4d-107.3641329!15sCiBsYXZhbmRlcmlhcyBlbiBjdWxpYWNhbiwgTcOpeGljb5IBB2xhdW5kcnngAQA!16s%2Fg%2F11hz9d0myp?entry=ttu&g_ep=EgoyMDI2MDEwNy4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-01-12T23:15:59.643Z"
+    },
+    {
+      "position": 16,
+      "placeId": "0x86bcca2d2ed45e0d:0xb9b503db253082de",
+      "name": "MAX CULIACÁN III",
+      "rating": 4.6,
+      "reviewCount": null,
+      "category": "Tintorería",
+      "categories": [
+        "Tintorería"
+      ],
+      "address": "Avenida Tachichilte Ote.1233 Centro comercial Walmart, Isla Musala, 80065 Culiacán Rosales, Sin.",
+      "phone": "667 146 4672",
+      "website": "http://www.tintoreriasmax.com/",
+      "hours": null,
+      "plusCode": null,
+      "coordinates": {
+        "lat": 24.8215098,
+        "lng": -107.3874527
+      },
+      "services": [],
+      "profileUrl": "https://www.google.com/maps/place/MAX+CULIAC%C3%81N+III/@24.8215098,-107.3874527,15z/data=!4m10!1m2!2m1!1slavanderias+en+culiacan,+M%C3%A9xico!3m6!1s0x86bcca2d2ed45e0d:0xb9b503db253082de!8m2!3d24.8253224!4d-107.3702845!15sCiBsYXZhbmRlcmlhcyBlbiBjdWxpYWNhbiwgTcOpeGljb5IBC2RyeV9jbGVhbmVy4AEA!16s%2Fg%2F1tj7fhg5?entry=ttu&g_ep=EgoyMDI2MDEwNy4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-01-12T23:15:59.951Z"
+    },
+    {
+      "position": 17,
+      "placeId": "0x86bcd74a8ac7aed3:0xe67ded608591aea1",
+      "name": "Central De Lavado",
+      "rating": null,
+      "reviewCount": null,
+      "category": "Tintorería",
+      "categories": [
+        "Tintorería"
+      ],
+      "address": "Blvrd Sinaloa 669(3, Las Quintas, 80060 Culiacán Rosales, Sin.",
+      "phone": null,
+      "website": null,
+      "hours": null,
+      "plusCode": null,
+      "coordinates": {
+        "lat": 24.8215098,
+        "lng": -107.3874527
+      },
+      "services": [],
+      "profileUrl": "https://www.google.com/maps/place/Central+De+Lavado/@24.8215098,-107.3874527,15z/data=!4m10!1m2!2m1!1slavanderias+en+culiacan,+M%C3%A9xico!3m6!1s0x86bcd74a8ac7aed3:0xe67ded608591aea1!8m2!3d24.8116355!4d-107.3738897!15sCiBsYXZhbmRlcmlhcyBlbiBjdWxpYWNhbiwgTcOpeGljb5IBC2RyeV9jbGVhbmVy4AEA!16s%2Fg%2F11ghtghxy6?entry=ttu&g_ep=EgoyMDI2MDEwNy4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-01-12T23:16:00.258Z"
+    },
+    {
+      "position": 18,
+      "placeId": "0x86bcdb941a04f709:0x272984da84bbca4a",
+      "name": "Ito's Culiacán",
+      "rating": 4.2,
+      "reviewCount": null,
+      "category": "Tintorería",
+      "categories": [
+        "Tintorería"
+      ],
+      "address": "Calle Universitarios Ote. 264, Burócrata, 80030 Culiacán Rosales, Sin.",
+      "phone": "667 688 2680",
+      "website": "https://www.facebook.com/itostintoreria/",
+      "hours": null,
+      "plusCode": null,
+      "coordinates": {
+        "lat": 24.8215098,
+        "lng": -107.3874527
+      },
+      "services": [],
+      "profileUrl": "https://www.google.com/maps/place/Ito's+Culiac%C3%A1n/@24.8215098,-107.3874527,15z/data=!4m10!1m2!2m1!1slavanderias+en+culiacan,+M%C3%A9xico!3m6!1s0x86bcdb941a04f709:0x272984da84bbca4a!8m2!3d24.8313166!4d-107.3901731!15sCiBsYXZhbmRlcmlhcyBlbiBjdWxpYWNhbiwgTcOpeGljb1ohIh9sYXZhbmRlcmlhcyBlbiBjdWxpYWNhbiBtw6l4aWNvkgELZHJ5X2NsZWFuZXKaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVTlBjM1YxU0ZwUkVBReABAPoBBAgAEEE!16s%2Fg%2F11h0rm0d66?entry=ttu&g_ep=EgoyMDI2MDEwNy4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-01-12T23:16:00.563Z"
+    },
+    {
+      "position": 19,
+      "placeId": "0x86bcdbcf95806db7:0x24b2b679bf273cc8",
+      "name": "Klinko Culiacán",
+      "rating": 5,
+      "reviewCount": null,
+      "category": "Lavandería de autoservicio",
+      "categories": [
+        "Lavandería de autoservicio"
+      ],
+      "address": "Calle Universitarios Ote. 264, Burócrata, 80030 Culiacán Rosales, Sin.",
+      "phone": "667 688 2680",
+      "website": "https://klinko.com.mx/klinko-culiacan/",
+      "hours": null,
+      "plusCode": null,
+      "coordinates": {
+        "lat": 24.8215098,
+        "lng": -107.3874527
+      },
+      "services": [],
+      "profileUrl": "https://www.google.com/maps/place/Klinko+Culiac%C3%A1n/@24.8215098,-107.3874527,15z/data=!4m10!1m2!2m1!1slavanderias+en+culiacan,+M%C3%A9xico!3m6!1s0x86bcdbcf95806db7:0x24b2b679bf273cc8!8m2!3d24.8313848!4d-107.3901523!15sCiBsYXZhbmRlcmlhcyBlbiBjdWxpYWNhbiwgTcOpeGljb1ohIh9sYXZhbmRlcmlhcyBlbiBjdWxpYWNhbiBtw6l4aWNvkgEKbGF1bmRyb21hdJoBRENpOURRVWxSUVVOdlpFTm9kSGxqUmpsdlQydFNXVnA1TVU1VFJYaHdWa1pvTkZwVlVuQk9NVVo2VFd4T1RGa3pZeEFC4AEA-gEECAAQEg!16s%2Fg%2F11xtzh02_h?entry=ttu&g_ep=EgoyMDI2MDEwNy4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-01-12T23:16:00.871Z"
+    },
+    {
+      "position": 20,
+      "placeId": "0x86bcd75928892fdf:0xf731a47bdcea4f",
+      "name": "Tintorería Del Noroeste",
+      "rating": null,
+      "reviewCount": null,
+      "category": "Tintorería",
+      "categories": [
+        "Tintorería"
+      ],
+      "address": "Gran Avenida El Dorado, Las Quintas, 80060 Culiacán Rosales, Sin.",
+      "phone": null,
+      "website": null,
+      "hours": null,
+      "plusCode": "RJ8J+3V Culiacán Rosales, Sinaloa",
+      "coordinates": {
+        "lat": 24.8215098,
+        "lng": -107.3874527
+      },
+      "services": [],
+      "profileUrl": "https://www.google.com/maps/place/Tintorer%C3%ADa+Del+Noroeste/@24.8215098,-107.3874527,15z/data=!4m10!1m2!2m1!1slavanderias+en+culiacan,+M%C3%A9xico!3m6!1s0x86bcd75928892fdf:0xf731a47bdcea4f!8m2!3d24.8151874!4d-107.3678217!15sCiBsYXZhbmRlcmlhcyBlbiBjdWxpYWNhbiwgTcOpeGljb5IBC2RyeV9jbGVhbmVy4AEA!16s%2Fg%2F11gfn42_dy?entry=ttu&g_ep=EgoyMDI2MDEwNy4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-01-12T23:16:01.645Z"
+    },
+    {
+      "position": 21,
+      "placeId": "0x86bcd99fa92ea27b:0x9d91bf8a74596972",
+      "name": "Lavandería Trapitos",
+      "rating": null,
+      "reviewCount": null,
+      "category": "Lavandería",
+      "categories": [
+        "Lavandería"
+      ],
+      "address": "Blvrd Dr Manuel Romero 598, Fovissste, 80040 Culiacán Rosales, Sin.",
+      "phone": "667 100 0803",
+      "website": null,
+      "hours": null,
+      "plusCode": null,
+      "coordinates": {
+        "lat": 24.8215098,
+        "lng": -107.3874527
+      },
+      "services": [],
+      "profileUrl": "https://www.google.com/maps/place/Lavander%C3%ADa+Trapitos/@24.8215098,-107.3874527,15z/data=!4m10!1m2!2m1!1slavanderias+en+culiacan,+M%C3%A9xico!3m6!1s0x86bcd99fa92ea27b:0x9d91bf8a74596972!8m2!3d24.8183413!4d-107.3848262!15sCiBsYXZhbmRlcmlhcyBlbiBjdWxpYWNhbiwgTcOpeGljb5IBB2xhdW5kcnngAQA!16s%2Fg%2F11sc655s3x?entry=ttu&g_ep=EgoyMDI2MDEwNy4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-01-12T23:16:01.940Z"
+    },
+    {
+      "position": 22,
+      "placeId": "0x86bcd750572c4d49:0xbb3208a8eba52109",
+      "name": "Lavanderia FreshCleanu",
+      "rating": 5,
+      "reviewCount": null,
+      "category": null,
+      "categories": [],
+      "address": "Indio de Guelatao, Miguel Hidalgo, 80090 Culiacán Rosales, Sin.",
+      "phone": null,
+      "website": null,
+      "hours": null,
+      "plusCode": "RJ5F+9R Culiacán Rosales, Sinaloa",
+      "coordinates": {
+        "lat": 24.8215098,
+        "lng": -107.3874527
+      },
+      "services": [],
+      "profileUrl": "https://www.google.com/maps/place/Lavanderia+FreshCleanu/@24.8215098,-107.3874527,15z/data=!4m10!1m2!2m1!1slavanderias+en+culiacan,+M%C3%A9xico!3m6!1s0x86bcd750572c4d49:0xbb3208a8eba52109!8m2!3d24.8083938!4d-107.3754241!15sCiBsYXZhbmRlcmlhcyBlbiBjdWxpYWNhbiwgTcOpeGljb1ohIh9sYXZhbmRlcmlhcyBlbiBjdWxpYWNhbiBtw6l4aWNvmgFEQ2k5RFFVbFJRVU52WkVOb2RIbGpSamx2VDJ0ME5tTnVWbTVQVldSUVdsVmtTRkV6VmxCVk1Wb3daR3BqTUU5VlJSQULgAQD6AQQIABAi!16s%2Fg%2F11wfpm140n?entry=ttu&g_ep=EgoyMDI2MDEwNy4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-01-12T23:16:02.492Z"
+    },
+    {
+      "position": 23,
+      "placeId": "0x86bcd0b1f40cc187:0xbced1ac1d0728b36",
+      "name": "Lavanderia Aquairi",
+      "rating": 4,
+      "reviewCount": null,
+      "category": "Lavandería",
+      "categories": [
+        "Lavandería"
+      ],
+      "address": "Blvrd Gral Gabriel Leyva Solano 284, Primer Cuadro, 80000 Culiacán Rosales, Sin.",
+      "phone": "667 712 0488",
+      "website": null,
+      "hours": null,
+      "plusCode": null,
+      "coordinates": {
+        "lat": 24.8215098,
+        "lng": -107.3874527
+      },
+      "services": [],
+      "profileUrl": "https://www.google.com/maps/place/Lavanderia+Aquairi/@24.8215098,-107.3874527,15z/data=!4m10!1m2!2m1!1slavanderias+en+culiacan,+M%C3%A9xico!3m6!1s0x86bcd0b1f40cc187:0xbced1ac1d0728b36!8m2!3d24.8028496!4d-107.3911363!15sCiBsYXZhbmRlcmlhcyBlbiBjdWxpYWNhbiwgTcOpeGljb1ohIh9sYXZhbmRlcmlhcyBlbiBjdWxpYWNhbiBtw6l4aWNvkgEHbGF1bmRyeZoBI0NoWkRTVWhOTUc5blMwVkpRMEZuU1VSd05tTnhaa2RuRUFF4AEA-gEECAAQRA!16s%2Fg%2F11dx8kd861?entry=ttu&g_ep=EgoyMDI2MDEwNy4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-01-12T23:16:02.993Z"
+    },
+    {
+      "position": 24,
+      "placeId": "0x86bcd9c50f8d6f7b:0xeb1463412735bc25",
+      "name": "lavanderia y planchaduria express",
+      "rating": 5,
+      "reviewCount": null,
+      "category": "Lavandería",
+      "categories": [
+        "Lavandería"
+      ],
+      "address": "Heráclito 3106, U.a.s., UAS, 80013 Culiacán Rosales, Sin.",
+      "phone": "667 413 4238",
+      "website": null,
+      "hours": null,
+      "plusCode": null,
+      "coordinates": {
+        "lat": 24.8183413,
+        "lng": -107.4038806
+      },
+      "services": [],
+      "profileUrl": "https://www.google.com/maps/place/lavanderia+y+planchaduria+express/@24.8183413,-107.4038806,15z/data=!4m10!1m2!2m1!1slavanderias+en+culiacan,+M%C3%A9xico!3m6!1s0x86bcd9c50f8d6f7b:0xeb1463412735bc25!8m2!3d24.8310537!4d-107.3831114!15sCiBsYXZhbmRlcmlhcyBlbiBjdWxpYWNhbiwgTcOpeGljb5IBB2xhdW5kcnngAQA!16s%2Fg%2F11fmprn7_8?entry=ttu&g_ep=EgoyMDI2MDEwNy4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-01-12T23:16:03.489Z"
+    },
+    {
+      "position": 25,
+      "placeId": "0x86bcd0ab0177736d:0xcc2e7937b1b1b422",
+      "name": "Blancura Y Calidad De Tintoreria",
+      "rating": 4,
+      "reviewCount": null,
+      "category": "Servicio de lavandería",
+      "categories": [
+        "Servicio de lavandería"
+      ],
+      "address": "P.º Niños Heroes 698, Malecon, Las Quintas, 80000 Culiacán Rosales, Sin.",
+      "phone": null,
+      "website": null,
+      "hours": null,
+      "plusCode": "RJ76+4X Culiacán Rosales, Sinaloa",
+      "coordinates": {
+        "lat": 24.8183413,
+        "lng": -107.4038806
+      },
+      "services": [],
+      "profileUrl": "https://www.google.com/maps/place/Blancura+Y+Calidad+De+Tintoreria/@24.8183413,-107.4038806,15z/data=!4m10!1m2!2m1!1slavanderias+en+culiacan,+M%C3%A9xico!3m6!1s0x86bcd0ab0177736d:0xcc2e7937b1b1b422!8m2!3d24.812846!4d-107.3875218!15sCiBsYXZhbmRlcmlhcyBlbiBjdWxpYWNhbiwgTcOpeGljb5IBD2xhdW5kcnlfc2VydmljZeABAA!16s%2Fg%2F11j2yqdd5g?entry=ttu&g_ep=EgoyMDI2MDEwNy4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-01-12T23:16:04.047Z"
+    },
+    {
+      "position": 26,
+      "placeId": "0x86bcd75c65d13cad:0xac2b67e387c77dff",
+      "name": "Lavanderia La Familiar",
+      "rating": 3,
+      "reviewCount": null,
+      "category": "Lavandería",
+      "categories": [
+        "Lavandería"
+      ],
+      "address": "Av Revolución 610, Aurora, 80070 Culiacán Rosales, Sin.",
+      "phone": null,
+      "website": null,
+      "hours": null,
+      "plusCode": "RJ6M+5H Culiacán Rosales, Sinaloa",
+      "coordinates": {
+        "lat": 24.8183413,
+        "lng": -107.4038806
+      },
+      "services": [],
+      "profileUrl": "https://www.google.com/maps/place/Lavanderia+La+Familiar/@24.8183413,-107.4038806,15z/data=!4m10!1m2!2m1!1slavanderias+en+culiacan,+M%C3%A9xico!3m6!1s0x86bcd75c65d13cad:0xac2b67e387c77dff!8m2!3d24.8104263!4d-107.3660384!15sCiBsYXZhbmRlcmlhcyBlbiBjdWxpYWNhbiwgTcOpeGljb5IBB2xhdW5kcnngAQA!16s%2Fg%2F1tfgpv7x?entry=ttu&g_ep=EgoyMDI2MDEwNy4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-01-12T23:16:04.605Z"
+    },
+    {
+      "position": 27,
+      "placeId": "0x86bcd7005f1d50f7:0x5d07acec0bef1fb5",
+      "name": "LAVANDERIA GASA",
+      "rating": 5,
+      "reviewCount": null,
+      "category": "Lavandería",
+      "categories": [
+        "Lavandería"
+      ],
+      "address": "Av Revolución 177, Guadalupe Victoria, 80240 Culiacán Rosales, Sin.",
+      "phone": "667 531 8985",
+      "website": null,
+      "hours": null,
+      "plusCode": null,
+      "coordinates": {
+        "lat": 24.8183413,
+        "lng": -107.4038806
+      },
+      "services": [],
+      "profileUrl": "https://www.google.com/maps/place/LAVANDERIA+GASA/@24.8183413,-107.4038806,15z/data=!4m10!1m2!2m1!1slavanderias+en+culiacan,+M%C3%A9xico!3m6!1s0x86bcd7005f1d50f7:0x5d07acec0bef1fb5!8m2!3d24.8004203!4d-107.3659877!15sCiBsYXZhbmRlcmlhcyBlbiBjdWxpYWNhbiwgTcOpeGljb1ohIh9sYXZhbmRlcmlhcyBlbiBjdWxpYWNhbiBtw6l4aWNvkgEHbGF1bmRyeZoBI0NoWkRTVWhOTUc5blMwVkpRMEZuVFVSUmVIQnRjRTluRUFF4AEA-gEECAAQKQ!16s%2Fg%2F11x13pxz0r?entry=ttu&g_ep=EgoyMDI2MDEwNy4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-01-12T23:16:04.844Z"
+    },
+    {
+      "position": 28,
+      "placeId": "0x86bcd0ace27cdae1:0x42ef07447de018db",
+      "name": "Lava Fácil Lavandería",
+      "rating": 4.5,
+      "reviewCount": null,
+      "category": "Lavandería",
+      "categories": [
+        "Lavandería"
+      ],
+      "address": "Juan B. Sepúlveda 259, Primer Cuadro, 80000 Culiacán Rosales, Sin.",
+      "phone": null,
+      "website": null,
+      "hours": null,
+      "plusCode": "RJ47+X6 Culiacán Rosales, Sinaloa",
+      "coordinates": {
+        "lat": 24.8104263,
+        "lng": -107.3850928
+      },
+      "services": [],
+      "profileUrl": "https://www.google.com/maps/place/Lava+F%C3%A1cil+Lavander%C3%ADa/@24.8104263,-107.3850928,15z/data=!4m10!1m2!2m1!1slavanderias+en+culiacan,+M%C3%A9xico!3m6!1s0x86bcd0ace27cdae1:0x42ef07447de018db!8m2!3d24.8074011!4d-107.3869233!15sCiBsYXZhbmRlcmlhcyBlbiBjdWxpYWNhbiwgTcOpeGljb5IBB2xhdW5kcnngAQA!16s%2Fg%2F11c5zwqg8b?entry=ttu&g_ep=EgoyMDI2MDEwNy4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-01-12T23:16:05.649Z"
+    },
+    {
+      "position": 29,
+      "placeId": "0x86bcd753fce8d4cb:0x3f7c34753be904b5",
+      "name": "Lavanderia",
+      "rating": null,
+      "reviewCount": null,
+      "category": null,
+      "categories": [],
+      "address": "Blvd. Xicotencatl, Las Quintas, 80060 Culiacán Rosales, Sin.",
+      "phone": null,
+      "website": null,
+      "hours": null,
+      "plusCode": "RJ6C+68 Culiacán Rosales, Sinaloa",
+      "coordinates": {
+        "lat": 24.8104263,
+        "lng": -107.3850928
+      },
+      "services": [],
+      "profileUrl": "https://www.google.com/maps/place/Lavanderia/@24.8104263,-107.3850928,15z/data=!4m10!1m2!2m1!1slavanderias+en+culiacan,+M%C3%A9xico!3m6!1s0x86bcd753fce8d4cb:0x3f7c34753be904b5!8m2!3d24.8105525!4d-107.3792112!15sCiBsYXZhbmRlcmlhcyBlbiBjdWxpYWNhbiwgTcOpeGljb-ABAA!16s%2Fg%2F11vm5759wn?entry=ttu&g_ep=EgoyMDI2MDEwNy4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-01-12T23:16:06.207Z"
+    },
+    {
+      "position": 30,
+      "placeId": "0x86bcda01cc8d172d:0x6aedfe46d24ba48a",
+      "name": "Planchamax",
+      "rating": 5,
+      "reviewCount": null,
+      "category": "Tintorería",
+      "categories": [
+        "Tintorería"
+      ],
+      "address": "Estatuto Jurídico 1369, Fovissste, 80040 Culiacán Rosales, Sin.",
+      "phone": null,
+      "website": null,
+      "hours": null,
+      "plusCode": "RJ97+JJ Culiacán Rosales, Sinaloa",
+      "coordinates": {
+        "lat": 24.8074011,
+        "lng": -107.4059777
+      },
+      "services": [],
+      "profileUrl": "https://www.google.com/maps/place/Planchamax/@24.8074011,-107.4059777,15z/data=!4m10!1m2!2m1!1slavanderias+en+culiacan,+M%C3%A9xico!3m6!1s0x86bcda01cc8d172d:0x6aedfe46d24ba48a!8m2!3d24.8190865!4d-107.3859303!15sCiBsYXZhbmRlcmlhcyBlbiBjdWxpYWNhbiwgTcOpeGljb5IBC2RyeV9jbGVhbmVy4AEA!16s%2Fg%2F11y3ytfjd9?entry=ttu&g_ep=EgoyMDI2MDEwNy4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-01-12T23:16:07.003Z"
+    },
+    {
+      "position": 31,
+      "placeId": "0x86bcdbe0b3d722b7:0xce8f02cc71fe0356",
+      "name": "Tintorería y Lavandería La Familiar Sucursal Botánico",
+      "rating": 3.3,
+      "reviewCount": null,
+      "category": "Tintorería",
+      "categories": [
+        "Tintorería"
+      ],
+      "address": "Carlos Lineo y Universitarios local 5, Blvd. Universitarios, Chapultepec, 80040 Culiacán Rosales, Sin.",
+      "phone": "667 170 2345",
+      "website": null,
+      "hours": null,
+      "plusCode": null,
+      "coordinates": {
+        "lat": 24.8074011,
+        "lng": -107.4059777
+      },
+      "services": [],
+      "profileUrl": "https://www.google.com/maps/place/Tintorer%C3%ADa+y+Lavander%C3%ADa+La+Familiar+Sucursal+Bot%C3%A1nico/@24.8074011,-107.4059777,15z/data=!4m10!1m2!2m1!1slavanderias+en+culiacan,+M%C3%A9xico!3m6!1s0x86bcdbe0b3d722b7:0xce8f02cc71fe0356!8m2!3d24.8309049!4d-107.388974!15sCiBsYXZhbmRlcmlhcyBlbiBjdWxpYWNhbiwgTcOpeGljb5IBC2RyeV9jbGVhbmVy4AEA!16s%2Fg%2F11jyrlshsv?entry=ttu&g_ep=EgoyMDI2MDEwNy4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-01-12T23:16:07.476Z"
+    },
+    {
+      "position": 32,
+      "placeId": "0x86bcd75f4a2a8713:0x554bbcc98fa28bc4",
+      "name": "El Planchazo Planchaduria",
+      "rating": null,
+      "reviewCount": null,
+      "category": "Tintorería",
+      "categories": [
+        "Tintorería"
+      ],
+      "address": "Del Guamuchil 1785, La Campiña, 80060 Culiacán Rosales, Sin.",
+      "phone": null,
+      "website": null,
+      "hours": null,
+      "plusCode": "RJ8M+R7 Culiacán Rosales, Sinaloa",
+      "coordinates": {
+        "lat": 24.8074011,
+        "lng": -107.4059777
+      },
+      "services": [],
+      "profileUrl": "https://www.google.com/maps/place/El+Planchazo+Planchaduria/@24.8074011,-107.4059777,15z/data=!4m10!1m2!2m1!1slavanderias+en+culiacan,+M%C3%A9xico!3m6!1s0x86bcd75f4a2a8713:0x554bbcc98fa28bc4!8m2!3d24.8171159!4d-107.3667755!15sCiBsYXZhbmRlcmlhcyBlbiBjdWxpYWNhbiwgTcOpeGljb5IBC2RyeV9jbGVhbmVy4AEA!16s%2Fg%2F11w1q3sll6?entry=ttu&g_ep=EgoyMDI2MDEwNy4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-01-12T23:16:08.058Z"
+    },
+    {
+      "position": 33,
+      "placeId": "0x86bcd9fa6457f0a3:0x2154a7c14b32888c",
+      "name": "Lavanderia La Espuma",
+      "rating": null,
+      "reviewCount": null,
+      "category": null,
+      "categories": [],
+      "address": "C. Josefa Ortiz de Domínguez 2740, La Lima, 80040 Culiacán Rosales, Sin.",
+      "phone": null,
+      "website": null,
+      "hours": null,
+      "plusCode": "RJHF+49 Culiacán Rosales, Sinaloa",
+      "coordinates": {
+        "lat": 24.8135143,
+        "lng": -107.3932995
+      },
+      "services": [],
+      "profileUrl": "https://www.google.com/maps/place/Lavanderia+La+Espuma/@24.8135143,-107.3932995,15z/data=!4m10!1m2!2m1!1slavanderias+en+culiacan,+M%C3%A9xico!3m6!1s0x86bcd9fa6457f0a3:0x2154a7c14b32888c!8m2!3d24.8278057!4d-107.3765229!15sCiBsYXZhbmRlcmlhcyBlbiBjdWxpYWNhbiwgTcOpeGljb-ABAA!16s%2Fg%2F11vwyqrrvy?entry=ttu&g_ep=EgoyMDI2MDEwNy4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-01-12T23:16:08.603Z"
+    }
+  ]
+}

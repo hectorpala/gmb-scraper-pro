@@ -1,0 +1,298 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>GMB Scraper Pro v2.0</title>
+  <link rel="stylesheet" href="styles.css">
+  <style>
+    /* Estilos adicionales para v2 */
+    .tabs { display: flex; gap: 0; margin-bottom: 20px; border-bottom: 2px solid #e0e0e0; }
+    .tab { padding: 12px 24px; cursor: pointer; border: none; background: none; color: #666; font-size: 14px; font-weight: 500; border-bottom: 2px solid transparent; margin-bottom: -2px; transition: all 0.2s; }
+    .tab:hover { color: #4285F4; }
+    .tab.active { color: #4285F4; border-bottom-color: #4285F4; }
+    .tab-content { display: none; }
+    .tab-content.active { display: block; }
+    
+    .filters-section { background: #f8f9fa; border-radius: 8px; padding: 16px; margin-top: 16px; }
+    .filters-title { font-size: 14px; font-weight: 600; color: #333; margin-bottom: 12px; display: flex; align-items: center; gap: 8px; cursor: pointer; }
+    .filters-title::before { content: ''; width: 0; height: 0; border-left: 5px solid transparent; border-right: 5px solid transparent; border-top: 6px solid #666; transition: transform 0.2s; }
+    .filters-title.collapsed::before { transform: rotate(-90deg); }
+    .filters-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 12px; }
+    .filters-content { display: block; }
+    .filters-content.collapsed { display: none; }
+    
+    .filter-group { display: flex; flex-direction: column; gap: 4px; }
+    .filter-group label { font-size: 12px; color: #666; }
+    .filter-group input, .filter-group select { padding: 8px; border: 1px solid #ddd; border-radius: 4px; font-size: 13px; }
+    .filter-group input[type="checkbox"] { width: auto; }
+    
+    .checkbox-row { display: flex; align-items: center; gap: 8px; }
+    .checkbox-row label { font-size: 13px; color: #333; cursor: pointer; }
+    
+    .geo-inputs { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 12px; }
+    .geo-inputs .form-group { margin-bottom: 0; }
+    
+    .stats-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 12px; margin-bottom: 20px; }
+    .stat-card { background: white; border: 1px solid #e0e0e0; border-radius: 8px; padding: 12px; text-align: center; }
+    .stat-value { font-size: 24px; font-weight: 700; color: #4285F4; }
+    .stat-label { font-size: 12px; color: #666; margin-top: 4px; }
+    
+    .results-table th, .results-table td { font-size: 12px; padding: 8px 6px; }
+    .badge { display: inline-block; padding: 2px 6px; border-radius: 4px; font-size: 10px; font-weight: 600; }
+    .badge-email { background: #e3f2fd; color: #1976d2; }
+    .badge-phone { background: #e8f5e9; color: #388e3c; }
+    .badge-social { background: #fce4ec; color: #c2185b; }
+    
+    .social-icons { display: flex; gap: 4px; }
+    .social-icon { width: 20px; height: 20px; border-radius: 4px; display: flex; align-items: center; justify-content: center; font-size: 10px; text-decoration: none; color: white; }
+    .social-icon.ig { background: linear-gradient(45deg, #f09433, #e6683c, #dc2743, #cc2366, #bc1888); }
+    .social-icon.fb { background: #1877f2; }
+    .social-icon.wa { background: #25d366; }
+    .social-icon.tw { background: #1da1f2; }
+    
+    .version-badge { background: #4285F4; color: white; padding: 2px 8px; border-radius: 4px; font-size: 11px; margin-left: 8px; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <div class="logo">
+        <span style="color:#4285F4">G</span><span style="color:#EA4335">M</span><span style="color:#FBBC04">B</span>
+      </div>
+      <h1>Google My Business Scraper <span class="version-badge">PRO v2.0</span></h1>
+      <p class="subtitle">Extrae 40+ campos de negocios incluyendo emails y redes sociales</p>
+    </header>
+
+    <main>
+      <!-- Google Sheets Status -->
+      <section id="googleSection" class="google-section">
+        <div class="google-status">
+          <span id="googleIcon" class="google-icon"></span>
+          <span id="googleStatusText">Verificando Google Sheets...</span>
+          <button id="googleConnectBtn" class="btn btn-google" style="display: none;">Conectar Google Sheets</button>
+        </div>
+      </section>
+
+      <!-- Tabs de busqueda -->
+      <section class="search-section">
+        <div class="tabs">
+          <button class="tab active" data-tab="ciudad">Buscar por Ciudad</button>
+          <button class="tab" data-tab="geo">Buscar por Coordenadas</button>
+        </div>
+
+        <form id="searchForm">
+          <!-- Tab Ciudad -->
+          <div class="tab-content active" id="tab-ciudad">
+            <div class="form-group">
+              <label for="businessType">Tipo de Negocio</label>
+              <input type="text" id="businessType" name="businessType" placeholder="ej: plomeria, electricistas, restaurantes..." required minlength="2">
+            </div>
+            <div class="form-row">
+              <div class="form-group">
+                <label for="city">Ciudad</label>
+                <input type="text" id="city" name="city" placeholder="ej: Monterrey, CDMX..." required minlength="2">
+              </div>
+              <div class="form-group">
+                <label for="country">Pais</label>
+                <input type="text" id="country" name="country" placeholder="ej: Mexico" required minlength="2">
+              </div>
+            </div>
+          </div>
+
+          <!-- Tab Geolocalizacion -->
+          <div class="tab-content" id="tab-geo">
+            <div class="form-group">
+              <label for="businessTypeGeo">Tipo de Negocio</label>
+              <input type="text" id="businessTypeGeo" name="businessTypeGeo" placeholder="ej: plomeria, electricistas...">
+            </div>
+            <div class="geo-inputs">
+              <div class="form-group">
+                <label for="latitude">Latitud</label>
+                <input type="text" id="latitude" name="latitude" placeholder="ej: 25.6866">
+              </div>
+              <div class="form-group">
+                <label for="longitude">Longitud</label>
+                <input type="text" id="longitude" name="longitude" placeholder="ej: -100.3161">
+              </div>
+              <div class="form-group">
+                <label for="radius">Radio (km)</label>
+                <input type="number" id="radius" name="radius" placeholder="5" min="0.5" max="50" step="0.5" value="5">
+              </div>
+            </div>
+            <p style="font-size: 12px; color: #666; margin-top: 8px;">Tip: Busca las coordenadas en Google Maps y copialas aqui</p>
+          </div>
+
+          <!-- Cantidad de resultados -->
+          <div class="form-group">
+            <label for="maxResults">Cantidad de resultados</label>
+            <select id="maxResults" name="maxResults">
+              <option value="10">10 negocios</option>
+              <option value="25">25 negocios</option>
+              <option value="50" selected>50 negocios</option>
+              <option value="100">100 negocios</option>
+              <option value="150">150 negocios</option>
+              <option value="200">200 negocios</option>
+            </select>
+          </div>
+
+          <!-- Opciones avanzadas -->
+          <div class="filters-section">
+            <div class="filters-title" id="filtersToggle">Opciones avanzadas</div>
+            <div class="filters-content" id="filtersContent">
+              <div class="filters-grid">
+                <div class="checkbox-row">
+                  <input type="checkbox" id="extractEmails" name="extractEmails" checked>
+                  <label for="extractEmails">Extraer emails</label>
+                </div>
+                <div class="checkbox-row">
+                  <input type="checkbox" id="extractSocial" name="extractSocial" checked>
+                  <label for="extractSocial">Extraer redes sociales</label>
+                </div>
+              </div>
+              
+              <div style="margin-top: 12px; padding-top: 12px; border-top: 1px solid #e0e0e0;">
+                <p style="font-size: 12px; font-weight: 600; color: #333; margin-bottom: 8px;">Filtros de resultados</p>
+                <div class="filters-grid">
+                  <div class="filter-group">
+                    <label for="minRating">Rating minimo</label>
+                    <select id="minRating" name="minRating">
+                      <option value="">Sin filtro</option>
+                      <option value="3">3+ estrellas</option>
+                      <option value="3.5">3.5+ estrellas</option>
+                      <option value="4">4+ estrellas</option>
+                      <option value="4.5">4.5+ estrellas</option>
+                    </select>
+                  </div>
+                  <div class="filter-group">
+                    <label for="minReviews">Resenas minimas</label>
+                    <select id="minReviews" name="minReviews">
+                      <option value="">Sin filtro</option>
+                      <option value="5">5+ resenas</option>
+                      <option value="10">10+ resenas</option>
+                      <option value="25">25+ resenas</option>
+                      <option value="50">50+ resenas</option>
+                      <option value="100">100+ resenas</option>
+                    </select>
+                  </div>
+                  <div class="checkbox-row">
+                    <input type="checkbox" id="requirePhone" name="requirePhone">
+                    <label for="requirePhone">Solo con telefono</label>
+                  </div>
+                  <div class="checkbox-row">
+                    <input type="checkbox" id="requireWebsite" name="requireWebsite">
+                    <label for="requireWebsite">Solo con sitio web</label>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Google Sheets option -->
+          <div class="form-group checkbox-group" id="sheetsOptionGroup" style="display: none; margin-top: 16px;">
+            <label class="checkbox-label">
+              <input type="checkbox" id="exportToSheets" name="exportToSheets" checked>
+              <span class="checkmark"></span>
+              Guardar automaticamente en Google Sheets
+            </label>
+          </div>
+
+          <button type="submit" id="searchBtn" class="btn btn-primary">
+            <span class="btn-text">Buscar Negocios</span>
+            <span class="btn-loading" style="display: none;">
+              <span class="spinner"></span>
+              Buscando...
+            </span>
+          </button>
+        </form>
+      </section>
+
+      <!-- Progress -->
+      <section id="progressSection" class="progress-section" style="display: none;">
+        <div class="progress-info">
+          <span id="progressText">Iniciando scraping...</span>
+          <span id="progressPercent">0%</span>
+        </div>
+        <div class="progress-bar">
+          <div id="progressFill" class="progress-fill"></div>
+        </div>
+      </section>
+
+      <!-- Messages -->
+      <section id="messageSection" class="message-section" style="display: none;">
+        <div id="messageBox" class="message-box"></div>
+      </section>
+
+      <!-- Stats -->
+      <section id="statsSection" style="display: none;">
+        <div class="stats-grid">
+          <div class="stat-card">
+            <div class="stat-value" id="statTotal">0</div>
+            <div class="stat-label">Total</div>
+          </div>
+          <div class="stat-card">
+            <div class="stat-value" id="statPhone">0</div>
+            <div class="stat-label">Con Telefono</div>
+          </div>
+          <div class="stat-card">
+            <div class="stat-value" id="statEmail">0</div>
+            <div class="stat-label">Con Email</div>
+          </div>
+          <div class="stat-card">
+            <div class="stat-value" id="statWebsite">0</div>
+            <div class="stat-label">Con Web</div>
+          </div>
+          <div class="stat-card">
+            <div class="stat-value" id="statInstagram">0</div>
+            <div class="stat-label">Instagram</div>
+          </div>
+          <div class="stat-card">
+            <div class="stat-value" id="statWhatsapp">0</div>
+            <div class="stat-label">WhatsApp</div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Results -->
+      <section id="resultsSection" class="results-section" style="display: none;">
+        <div class="results-header">
+          <div class="results-info">
+            <h2>Resultados</h2>
+            <span id="resultsCount" class="results-count"></span>
+          </div>
+          <div class="export-buttons">
+            <button id="exportSheets" class="btn btn-google" style="display: none;">Google Sheets</button>
+            <button id="exportCsv" class="btn btn-secondary">CSV</button>
+            <button id="exportJson" class="btn btn-secondary">JSON</button>
+          </div>
+        </div>
+
+        <div class="table-container">
+          <table id="resultsTable" class="results-table">
+            <thead>
+              <tr>
+                <th>#</th>
+                <th>Nombre</th>
+                <th>Rating</th>
+                <th>Categoria</th>
+                <th>Telefono</th>
+                <th>Email</th>
+                <th>Redes</th>
+                <th>Web</th>
+                <th>Perfil</th>
+              </tr>
+            </thead>
+            <tbody id="resultsBody"></tbody>
+          </table>
+        </div>
+      </section>
+    </main>
+
+    <footer>
+      <p>GMB Scraper Pro v2.0 - 40+ campos por negocio</p>
+    </footer>
+  </div>
+
+  <script src="app-advanced.js"></script>
+</body>
+</html>

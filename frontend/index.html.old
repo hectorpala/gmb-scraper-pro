@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>GMB Scraper - Google My Business</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="container">
+    <header>
+      <div class="logo">
+        <span class="logo-g" style="color:#4285F4">G</span><span class="logo-m" style="color:#EA4335">M</span><span class="logo-b" style="color:#FBBC04">B</span>
+      </div>
+      <h1>Google My Business Scraper</h1>
+      <p class="subtitle">Extrae informacion de negocios de Google Maps</p>
+    </header>
+
+    <main>
+      <!-- Seccion de Google Sheets -->
+      <section id="googleSection" class="google-section">
+        <div class="google-status">
+          <span id="googleIcon" class="google-icon"></span>
+          <span id="googleStatusText">Verificando Google Sheets...</span>
+          <button id="googleConnectBtn" class="btn btn-google" style="display: none;">
+            Conectar Google Sheets
+          </button>
+        </div>
+      </section>
+
+      <!-- Formulario de busqueda -->
+      <section class="search-section">
+        <form id="searchForm">
+          <div class="form-group">
+            <label for="businessType">Tipo de Negocio</label>
+            <input 
+              type="text" 
+              id="businessType" 
+              name="businessType" 
+              placeholder="ej: plomeria, electricistas, restaurantes..."
+              required
+              minlength="2"
+              maxlength="100"
+            >
+          </div>
+
+          <div class="form-row">
+            <div class="form-group">
+              <label for="city">Ciudad</label>
+              <input 
+                type="text" 
+                id="city" 
+                name="city" 
+                placeholder="ej: Monterrey, CDMX..."
+                required
+                minlength="2"
+                maxlength="100"
+              >
+            </div>
+
+            <div class="form-group">
+              <label for="country">Pais</label>
+              <input 
+                type="text" 
+                id="country" 
+                name="country" 
+                placeholder="ej: Mexico, Colombia..."
+                required
+                minlength="2"
+                maxlength="100"
+              >
+            </div>
+          </div>
+
+          <div class="form-group">
+            <label for="maxResults">Cantidad de resultados</label>
+            <select id="maxResults" name="maxResults">
+              <option value="10">10 negocios</option>
+              <option value="25">25 negocios</option>
+              <option value="50" selected>50 negocios</option>
+              <option value="100">100 negocios</option>
+              <option value="150">150 negocios (puede tardar)</option>
+            </select>
+          </div>
+
+          <!-- Opcion de Google Sheets -->
+          <div class="form-group checkbox-group" id="sheetsOptionGroup" style="display: none;">
+            <label class="checkbox-label">
+              <input type="checkbox" id="exportToSheets" name="exportToSheets" checked>
+              <span class="checkmark"></span>
+              Guardar automaticamente en Google Sheets
+            </label>
+          </div>
+
+          <button type="submit" id="searchBtn" class="btn btn-primary">
+            <span class="btn-text">Buscar Negocios</span>
+            <span class="btn-loading" style="display: none;">
+              <span class="spinner"></span>
+              Buscando...
+            </span>
+          </button>
+        </form>
+      </section>
+
+      <!-- Indicador de progreso -->
+      <section id="progressSection" class="progress-section" style="display: none;">
+        <div class="progress-info">
+          <span id="progressText">Iniciando scraping...</span>
+          <span id="progressPercent">0%</span>
+        </div>
+        <div class="progress-bar">
+          <div id="progressFill" class="progress-fill"></div>
+        </div>
+      </section>
+
+      <!-- Mensajes -->
+      <section id="messageSection" class="message-section" style="display: none;">
+        <div id="messageBox" class="message-box"></div>
+      </section>
+
+      <!-- Resultados -->
+      <section id="resultsSection" class="results-section" style="display: none;">
+        <div class="results-header">
+          <div class="results-info">
+            <h2>Resultados</h2>
+            <span id="resultsCount" class="results-count"></span>
+          </div>
+          <div class="export-buttons">
+            <button id="exportSheets" class="btn btn-google" style="display: none;">
+              Abrir en Google Sheets
+            </button>
+            <button id="exportCsv" class="btn btn-secondary">
+              CSV
+            </button>
+            <button id="exportJson" class="btn btn-secondary">
+              JSON
+            </button>
+          </div>
+        </div>
+
+        <div class="table-container">
+          <table id="resultsTable">
+            <thead>
+              <tr>
+                <th>#</th>
+                <th>Nombre</th>
+                <th>Rating</th>
+                <th>Resenas</th>
+                <th>Categoria</th>
+                <th>Direccion</th>
+                <th>Telefono</th>
+                <th>Web</th>
+                <th>Perfil</th>
+              </tr>
+            </thead>
+            <tbody id="resultsBody">
+            </tbody>
+          </table>
+        </div>
+      </section>
+    </main>
+
+    <footer>
+      <p>GMB Scraper v1.0</p>
+    </footer>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

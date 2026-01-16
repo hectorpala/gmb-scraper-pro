@@ -1,0 +1,27 @@
+{
+  "name": "gmb-scraper",
+  "version": "1.0.0",
+  "description": "Google My Business Scraper - Extrae informacion de negocios de Google Maps",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "keywords": [
+    "scraper",
+    "google-maps",
+    "google-my-business",
+    "puppeteer",
+    "google-sheets"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "express": "^4.18.2",
+    "googleapis": "^129.0.0",
+    "puppeteer": "^21.7.0"
+  }
+}

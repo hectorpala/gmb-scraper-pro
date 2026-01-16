@@ -1,0 +1,30 @@
+# Dependencias
+node_modules/
+package-lock.json
+
+# Variables de entorno y credenciales
+.env
+.env.local
+.env.*.local
+backend/.env
+backend/.env.local
+credentials.json
+token.json
+spreadsheet_config.json
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Output de scraping (opcional - descomenta si no quieres versionar)
+# output/
+
+# Claude Code
+.claude/

@@ -1,0 +1,452 @@
+{
+  "metadata": {
+    "query": {
+      "businessType": "esteticas",
+      "city": "culiacan",
+      "country": "México"
+    },
+    "totalResults": 19,
+    "exportedAt": "2026-01-12T23:25:33.662Z"
+  },
+  "businesses": [
+    {
+      "position": 1,
+      "placeId": null,
+      "name": "Resultados",
+      "rating": null,
+      "reviewCount": null,
+      "category": null,
+      "categories": [],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "hours": null,
+      "plusCode": null,
+      "coordinates": null,
+      "services": [],
+      "profileUrl": "https://www.google.com/maps/search/esteticas%20en%20culiacan%2C%20M%C3%A9xico",
+      "scrapedAt": "2026-01-12T23:25:26.213Z"
+    },
+    {
+      "position": 2,
+      "placeId": null,
+      "name": "Studio De Belleza Express",
+      "rating": 5,
+      "reviewCount": null,
+      "category": "Centro de estética",
+      "categories": [
+        "Centro de estética"
+      ],
+      "address": "Blvrd Sinaloa, Las Quintas, 80060 Culiacán Rosales, Sin.",
+      "phone": null,
+      "website": null,
+      "hours": null,
+      "plusCode": null,
+      "coordinates": null,
+      "services": [],
+      "profileUrl": "https://www.google.com/maps/search/esteticas%20en%20culiacan%2C%20M%C3%A9xico",
+      "scrapedAt": "2026-01-12T23:25:26.582Z"
+    },
+    {
+      "position": 3,
+      "placeId": null,
+      "name": "Estética Gladys",
+      "rating": 5,
+      "reviewCount": null,
+      "category": "Centro de estética",
+      "categories": [
+        "Centro de estética"
+      ],
+      "address": "Blvrd Sinaloa 1408, Las Quintas, 80060 Culiacán Rosales, Sin.",
+      "phone": "667 712 4959",
+      "website": null,
+      "hours": null,
+      "plusCode": "RJ9G+57 Culiacán Rosales, Sinaloa",
+      "coordinates": null,
+      "services": [],
+      "profileUrl": "https://www.google.com/maps/search/esteticas%20en%20culiacan%2C%20M%C3%A9xico",
+      "scrapedAt": "2026-01-12T23:25:27.170Z"
+    },
+    {
+      "position": 4,
+      "placeId": "0x86bcd750a6a132f7:0xb6c6f2890cf74f8",
+      "name": "Central de Belleza Culiacán",
+      "rating": 4.3,
+      "reviewCount": null,
+      "category": "Centro de estética",
+      "categories": [
+        "Centro de estética"
+      ],
+      "address": "Blvrd Sinaloa 1061, Las Quintas, 80060 Culiacán Rosales, Sin.",
+      "phone": "667 224 0685",
+      "website": null,
+      "hours": null,
+      "plusCode": null,
+      "coordinates": {
+        "lat": 24.817633,
+        "lng": -107.3796487
+      },
+      "services": [],
+      "profileUrl": "https://www.google.com/maps/place/Central+de+Belleza+Culiac%C3%A1n/@24.817633,-107.3796487,16z/data=!4m11!1m3!2m2!1sesteticas+en+culiacan,+M%C3%A9xico!6e1!3m6!1s0x86bcd750a6a132f7:0xb6c6f2890cf74f8!8m2!3d24.8164718!4d-107.3743622!15sCh5lc3RldGljYXMgZW4gY3VsaWFjYW4sIE3DqXhpY2-SAQxiZWF1dHlfc2Fsb27gAQA!16s%2Fg%2F11f11gqwd7?entry=ttu&g_ep=EgoyMDI2MDEwNy4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-01-12T23:25:27.420Z"
+    },
+    {
+      "position": 5,
+      "placeId": "0x86bcd9fd43456ba7:0x3a76d4bd0ea81406",
+      "name": "BLUSH Beauty & Fit",
+      "rating": null,
+      "reviewCount": null,
+      "category": "Centro de estética",
+      "categories": [
+        "Centro de estética"
+      ],
+      "address": "Blvrd Sinaloa 1197, Las Quintas, 80060 Culiacán Rosales, Sin.",
+      "phone": null,
+      "website": null,
+      "hours": null,
+      "plusCode": null,
+      "coordinates": {
+        "lat": 24.817633,
+        "lng": -107.3796487
+      },
+      "services": [],
+      "profileUrl": "https://www.google.com/maps/place/BLUSH+Beauty+%26+Fit/@24.817633,-107.3796487,16z/data=!4m11!1m3!2m2!1sesteticas+en+culiacan,+M%C3%A9xico!6e1!3m6!1s0x86bcd9fd43456ba7:0x3a76d4bd0ea81406!8m2!3d24.8182634!4d-107.3742179!15sCh5lc3RldGljYXMgZW4gY3VsaWFjYW4sIE3DqXhpY2-SAQxiZWF1dHlfc2Fsb27gAQA!16s%2Fg%2F11vwvlk728?entry=ttu&g_ep=EgoyMDI2MDEwNy4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-01-12T23:25:28.054Z"
+    },
+    {
+      "position": 6,
+      "placeId": "0x86bcd987fda074a1:0x768add7a4eb86ca0",
+      "name": "Fashion 911 Suc. Las Quintas",
+      "rating": 4.3,
+      "reviewCount": null,
+      "category": "Centro de estética",
+      "categories": [
+        "Centro de estética"
+      ],
+      "address": "Gran Avenida El Dorado 1641-Local 5, Las Quintas, Raquet Club, 80060 Culiacán Rosales, Sin.",
+      "phone": "667 172 0119",
+      "website": "http://fashion911.mx/",
+      "hours": null,
+      "plusCode": null,
+      "coordinates": {
+        "lat": 24.817905,
+        "lng": -107.383798
+      },
+      "services": [],
+      "profileUrl": "https://www.google.com/maps/place/Fashion+911+Suc.+Las+Quintas/@24.817905,-107.383798,16z/data=!4m11!1m3!2m2!1sesteticas+en+culiacan,+M%C3%A9xico!6e1!3m6!1s0x86bcd987fda074a1:0x768add7a4eb86ca0!8m2!3d24.8187796!4d-107.3725931!15sCh5lc3RldGljYXMgZW4gY3VsaWFjYW4sIE3DqXhpY29aHyIdZXN0ZXRpY2FzIGVuIGN1bGlhY2FuIG3DqXhpY2-SAQxiZWF1dHlfc2Fsb26aAURDaTlEUVVsUlFVTnZaRU5vZEhsalJqbHZUMjVLZG1SWE9WZGliV2g1WTJwb1IwNHdWazlaVmxwTFRWUmtSazFyUlJBQuABAPoBBAgAEDs!16s%2Fg%2F11j3m0xdc6?entry=ttu&g_ep=EgoyMDI2MDEwNy4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-01-12T23:25:28.358Z"
+    },
+    {
+      "position": 7,
+      "placeId": "0x86bcd7c5dc5deddf:0x8b43f99ac7446239",
+      "name": "Lisos y Risos",
+      "rating": 4.4,
+      "reviewCount": null,
+      "category": "Centro de estética",
+      "categories": [
+        "Centro de estética"
+      ],
+      "address": "80060, Las Quintas, 80060 Culiacán Rosales, Sin.",
+      "phone": "667 377 0697",
+      "website": null,
+      "hours": null,
+      "plusCode": null,
+      "coordinates": {
+        "lat": 24.817905,
+        "lng": -107.383798
+      },
+      "services": [],
+      "profileUrl": "https://www.google.com/maps/place/Lisos+y+Risos/@24.817905,-107.383798,16z/data=!4m11!1m3!2m2!1sesteticas+en+culiacan,+M%C3%A9xico!6e1!3m6!1s0x86bcd7c5dc5deddf:0x8b43f99ac7446239!8m2!3d24.81641!4d-107.3743294!15sCh5lc3RldGljYXMgZW4gY3VsaWFjYW4sIE3DqXhpY29aHyIdZXN0ZXRpY2FzIGVuIGN1bGlhY2FuIG3DqXhpY2-SAQxiZWF1dHlfc2Fsb26aASRDaGREU1VoTk1HOW5TMFZKUTBGblNVUmFaMlpFUnpKQlJSQULgAQD6AQQIABBC!16s%2Fg%2F11hf35jy7k?entry=ttu&g_ep=EgoyMDI2MDEwNy4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-01-12T23:25:28.647Z"
+    },
+    {
+      "position": 8,
+      "placeId": "0x86bcd7aeb958c127:0x96e2a005a38db29",
+      "name": "El salon de janelle",
+      "rating": 5,
+      "reviewCount": null,
+      "category": "Centro de estética",
+      "categories": [
+        "Centro de estética"
+      ],
+      "address": "Estado de Puebla 1312, Las Quintas, 80060 Culiacán Rosales, Sin.",
+      "phone": "667 259 6494",
+      "website": null,
+      "hours": null,
+      "plusCode": null,
+      "coordinates": {
+        "lat": 24.817905,
+        "lng": -107.383798
+      },
+      "services": [],
+      "profileUrl": "https://www.google.com/maps/place/El+salon+de+janelle/@24.817905,-107.383798,16z/data=!4m11!1m3!2m2!1sesteticas+en+culiacan,+M%C3%A9xico!6e1!3m6!1s0x86bcd7aeb958c127:0x96e2a005a38db29!8m2!3d24.8152547!4d-107.3724424!15sCh5lc3RldGljYXMgZW4gY3VsaWFjYW4sIE3DqXhpY29aHyIdZXN0ZXRpY2FzIGVuIGN1bGlhY2FuIG3DqXhpY2-SAQxiZWF1dHlfc2Fsb26aASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVUlhkRFZRZEVsQkVBReABAPoBBAgAEDI!16s%2Fg%2F11f6y3hq1y?entry=ttu&g_ep=EgoyMDI2MDEwNy4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-01-12T23:25:28.937Z"
+    },
+    {
+      "position": 9,
+      "placeId": "0x86bcd7441ed79f95:0x66eea34f6f820859",
+      "name": "Marcela Rivas Make Up Artist",
+      "rating": 5,
+      "reviewCount": null,
+      "category": "Centro de estética",
+      "categories": [
+        "Centro de estética"
+      ],
+      "address": "Blvrd Sinaloa 5, Las Quintas, 80060 Culiacán Rosales, Sin.",
+      "phone": "667 780 5763",
+      "website": "http://www.instagram.com/marcelarivas_mua",
+      "hours": null,
+      "plusCode": null,
+      "coordinates": {
+        "lat": 24.817905,
+        "lng": -107.383798
+      },
+      "services": [],
+      "profileUrl": "https://www.google.com/maps/place/Marcela+Rivas+Make+Up+Artist/@24.817905,-107.383798,16z/data=!4m11!1m3!2m2!1sesteticas+en+culiacan,+M%C3%A9xico!6e1!3m6!1s0x86bcd7441ed79f95:0x66eea34f6f820859!8m2!3d24.8162394!4d-107.3743173!15sCh5lc3RldGljYXMgZW4gY3VsaWFjYW4sIE3DqXhpY2-SAQxiZWF1dHlfc2Fsb27gAQA!16s%2Fg%2F11c80jk6lj?entry=ttu&g_ep=EgoyMDI2MDEwNy4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-01-12T23:25:29.230Z"
+    },
+    {
+      "position": 10,
+      "placeId": "0x86bcd757e4e62be3:0xf3b190ecf9c96c06",
+      "name": "Belleza con Angel",
+      "rating": 3.5,
+      "reviewCount": null,
+      "category": "Centro de estética",
+      "categories": [
+        "Centro de estética"
+      ],
+      "address": "Francisco Zarco 988, Las Quintas, 80060 Culiacán Rosales, Sin.",
+      "phone": "667 715 7760",
+      "website": null,
+      "hours": null,
+      "plusCode": null,
+      "coordinates": {
+        "lat": 24.817905,
+        "lng": -107.383798
+      },
+      "services": [],
+      "profileUrl": "https://www.google.com/maps/place/Belleza+con+Angel/@24.817905,-107.383798,16z/data=!4m11!1m3!2m2!1sesteticas+en+culiacan,+M%C3%A9xico!6e1!3m6!1s0x86bcd757e4e62be3:0xf3b190ecf9c96c06!8m2!3d24.8170055!4d-107.3739272!15sCh5lc3RldGljYXMgZW4gY3VsaWFjYW4sIE3DqXhpY2-SAQxiZWF1dHlfc2Fsb27gAQA!16s%2Fg%2F1thhky_2?entry=ttu&g_ep=EgoyMDI2MDEwNy4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-01-12T23:25:29.672Z"
+    },
+    {
+      "position": 11,
+      "placeId": "0x86bcd79895766217:0xfeee4ac2650a214f",
+      "name": "Estética del Boulevard",
+      "rating": 5,
+      "reviewCount": null,
+      "category": "Centro de estética",
+      "categories": [
+        "Centro de estética"
+      ],
+      "address": "Blvrd Sinaloa 3065-D, Las Quintas, 80060 Culiacán Rosales, Sin.",
+      "phone": "667 467 0368",
+      "website": null,
+      "hours": null,
+      "plusCode": null,
+      "coordinates": {
+        "lat": 24.817905,
+        "lng": -107.383798
+      },
+      "services": [],
+      "profileUrl": "https://www.google.com/maps/place/Est%C3%A9tica+del+Boulevard/@24.817905,-107.383798,16z/data=!4m11!1m3!2m2!1sesteticas+en+culiacan,+M%C3%A9xico!6e1!3m6!1s0x86bcd79895766217:0xfeee4ac2650a214f!8m2!3d24.8146205!4d-107.3739944!15sCh5lc3RldGljYXMgZW4gY3VsaWFjYW4sIE3DqXhpY29aHyIdZXN0ZXRpY2FzIGVuIGN1bGlhY2FuIG3DqXhpY2-SAQxiZWF1dHlfc2Fsb26aAURDaTlEUVVsUlFVTnZaRU5vZEhsalJqbHZUMjVHVGxSSFZrNWFiRll4VlRKUmVtSkZVbFZhYldjelYyMXpNV1ZyUlJBQuABAPoBBAgAEDo!16s%2Fg%2F11j4910hlh?entry=ttu&g_ep=EgoyMDI2MDEwNy4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-01-12T23:25:30.047Z"
+    },
+    {
+      "position": 12,
+      "placeId": "0x86bcd7541c36b5b3:0x14707e2b7906e663",
+      "name": "SPA Celia y peluquería",
+      "rating": 4.8,
+      "reviewCount": null,
+      "category": "Centro de estética",
+      "categories": [
+        "Centro de estética"
+      ],
+      "address": "Estado de Puebla 1680, Las Quintas, 80060 Culiacán Rosales, Sin.",
+      "phone": "667 497 6605",
+      "website": null,
+      "hours": null,
+      "plusCode": null,
+      "coordinates": {
+        "lat": 24.817905,
+        "lng": -107.383798
+      },
+      "services": [
+        "Amigable con LGBTQ+",
+        "Se identifica como mujer empresaria"
+      ],
+      "profileUrl": "https://www.google.com/maps/place/SPA+Celia+y+peluquer%C3%ADa/@24.817905,-107.383798,16z/data=!4m11!1m3!2m2!1sesteticas+en+culiacan,+M%C3%A9xico!6e1!3m6!1s0x86bcd7541c36b5b3:0x14707e2b7906e663!8m2!3d24.8156489!4d-107.3689143!15sCh5lc3RldGljYXMgZW4gY3VsaWFjYW4sIE3DqXhpY29aHyIdZXN0ZXRpY2FzIGVuIGN1bGlhY2FuIG3DqXhpY2-SAQxiZWF1dHlfc2Fsb27gAQA!16s%2Fg%2F11yq05mx9l?entry=ttu&g_ep=EgoyMDI2MDEwNy4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-01-12T23:25:30.350Z"
+    },
+    {
+      "position": 13,
+      "placeId": "0x86bcd75b5d777aa3:0xc8666935d01dfd2e",
+      "name": "Myriam Santana salón",
+      "rating": 4.4,
+      "reviewCount": null,
+      "category": "Centro de estética",
+      "categories": [
+        "Centro de estética"
+      ],
+      "address": "Blvrd Dr Mora 1396, Las Quintas, 80060 Culiacán Rosales, Sin.",
+      "phone": "667 410 5758",
+      "website": "https://www.facebook.com/MyriamSantanaSalon",
+      "hours": null,
+      "plusCode": null,
+      "coordinates": {
+        "lat": 24.817905,
+        "lng": -107.383798
+      },
+      "services": [],
+      "profileUrl": "https://www.google.com/maps/place/Myriam+Santana+sal%C3%B3n/@24.817905,-107.383798,16z/data=!4m11!1m3!2m2!1sesteticas+en+culiacan,+M%C3%A9xico!6e1!3m6!1s0x86bcd75b5d777aa3:0xc8666935d01dfd2e!8m2!3d24.8140059!4d-107.374515!15sCh5lc3RldGljYXMgZW4gY3VsaWFjYW4sIE3DqXhpY29aHyIdZXN0ZXRpY2FzIGVuIGN1bGlhY2FuIG3DqXhpY2-SAQxiZWF1dHlfc2Fsb26aASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVUlBhR1ptZDFkUkVBReABAPoBBAgAEEc!16s%2Fg%2F1tfk08sf?entry=ttu&g_ep=EgoyMDI2MDEwNy4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-01-12T23:25:30.802Z"
+    },
+    {
+      "position": 14,
+      "placeId": "0x86bcd750b031e33d:0x74eba4f71011d614",
+      "name": "ESMERALDA PALMA Spa | Salón | Consultoría de Imagen",
+      "rating": 4.9,
+      "reviewCount": null,
+      "category": "Centro de estética",
+      "categories": [
+        "Centro de estética"
+      ],
+      "address": "Laguna del Carmen 799, Las Quintas, 80060 Culiacán Rosales, Sin.",
+      "phone": "667 716 5057",
+      "website": "http://www.esmeraldapalma.mx/",
+      "hours": null,
+      "plusCode": null,
+      "coordinates": {
+        "lat": 24.817905,
+        "lng": -107.383798
+      },
+      "services": [
+        "Amigable con LGBTQ+",
+        "Se identifica como mujer empresaria"
+      ],
+      "profileUrl": "https://www.google.com/maps/place/ESMERALDA+PALMA+Spa+%7C+Sal%C3%B3n+%7C+Consultor%C3%ADa+de+Imagen/@24.817905,-107.383798,16z/data=!4m11!1m3!2m2!1sesteticas+en+culiacan,+M%C3%A9xico!6e1!3m6!1s0x86bcd750b031e33d:0x74eba4f71011d614!8m2!3d24.8112792!4d-107.3738608!15sCh5lc3RldGljYXMgZW4gY3VsaWFjYW4sIE3DqXhpY29aHyIdZXN0ZXRpY2FzIGVuIGN1bGlhY2FuIG3DqXhpY2-SAQNzcGGaASRDaGREU1VoTk1HOW5TMFZKUTBGblNVTTFhVGxJTlRoQlJSQULgAQD6AQQINhA8!16s%2Fg%2F1thqb8_l?entry=ttu&g_ep=EgoyMDI2MDEwNy4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-01-12T23:25:31.204Z"
+    },
+    {
+      "position": 15,
+      "placeId": "0x86bcd9e38ca9d33d:0x1726f436834f1caa",
+      "name": "La Coquetería Beauty Bar (isla) Estética en Culiacán",
+      "rating": 4.8,
+      "reviewCount": null,
+      "category": "Centro de estética",
+      "categories": [
+        "Centro de estética"
+      ],
+      "address": "Cancún 1494, Fracc Musalá Isla Bonita, Raquet Club, 80060 Culiacán Rosales, Sin.",
+      "phone": "667 197 4540",
+      "website": "https://instagram.com/lacoqueteriasin?igshid=YTY2NzY3YTc=",
+      "hours": null,
+      "plusCode": null,
+      "coordinates": {
+        "lat": 24.817905,
+        "lng": -107.383798
+      },
+      "services": [
+        "Se identifica como mujer empresaria"
+      ],
+      "profileUrl": "https://www.google.com/maps/place/La+Coqueter%C3%ADa+Beauty+Bar+(isla)+Est%C3%A9tica+en+Culiac%C3%A1n/@24.817905,-107.383798,16z/data=!4m11!1m3!2m2!1sesteticas+en+culiacan,+M%C3%A9xico!6e1!3m6!1s0x86bcd9e38ca9d33d:0x1726f436834f1caa!8m2!3d24.8234366!4d-107.3688074!15sCh5lc3RldGljYXMgZW4gY3VsaWFjYW4sIE3DqXhpY29aHyIdZXN0ZXRpY2FzIGVuIGN1bGlhY2FuIG3DqXhpY2-SAQxiZWF1dHlfc2Fsb26aASRDaGREU1VoTk1HOW5TMFZKUTBGblNVTTFkRTR5VVMxUlJSQULgAQD6AQQIABBI!16s%2Fg%2F11hzxl871f?entry=ttu&g_ep=EgoyMDI2MDEwNy4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-01-12T23:25:31.665Z"
+    },
+    {
+      "position": 16,
+      "placeId": "0x86bcdbb71f5d72b3:0x57ef98991e2131d3",
+      "name": "Clínica de belleza Pamela silva",
+      "rating": 5,
+      "reviewCount": null,
+      "category": "Centro de estética",
+      "categories": [
+        "Centro de estética"
+      ],
+      "address": "Estado de Puebla 1312, Las Quintas, 80060 Culiacán Rosales, Sin.",
+      "phone": "667 176 9269",
+      "website": null,
+      "hours": null,
+      "plusCode": null,
+      "coordinates": {
+        "lat": 24.817905,
+        "lng": -107.383798
+      },
+      "services": [
+        "Amigable con LGBTQ+",
+        "Se identifica como mujer empresaria"
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Cl%C3%ADnica+de+belleza+Pamela+silva/@24.817905,-107.383798,16z/data=!4m11!1m3!2m2!1sesteticas+en+culiacan,+M%C3%A9xico!6e1!3m6!1s0x86bcdbb71f5d72b3:0x57ef98991e2131d3!8m2!3d24.8154166!4d-107.3724819!15sCh5lc3RldGljYXMgZW4gY3VsaWFjYW4sIE3DqXhpY29aHyIdZXN0ZXRpY2FzIGVuIGN1bGlhY2FuIG3DqXhpY2-SAQNzcGGaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVTjFlRGt6U1ZoM0VBReABAPoBBAgAEDo!16s%2Fg%2F11hh106ydd?entry=ttu&g_ep=EgoyMDI2MDEwNy4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-01-12T23:25:32.000Z"
+    },
+    {
+      "position": 17,
+      "placeId": "0x86bcd780b1ed74b9:0xac27e3940fed2b0b",
+      "name": "Ambar Spa Culiacan",
+      "rating": 5,
+      "reviewCount": null,
+      "category": "Centro de estética",
+      "categories": [
+        "Centro de estética"
+      ],
+      "address": "Gran Avenida El Dorado 916-local 3, Las Quintas, 80060 Mexico, Sin.",
+      "phone": null,
+      "website": null,
+      "hours": null,
+      "plusCode": null,
+      "coordinates": {
+        "lat": 24.817905,
+        "lng": -107.383798
+      },
+      "services": [],
+      "profileUrl": "https://www.google.com/maps/place/Ambar+Spa+Culiacan/@24.817905,-107.383798,16z/data=!4m11!1m3!2m2!1sesteticas+en+culiacan,+M%C3%A9xico!6e1!3m6!1s0x86bcd780b1ed74b9:0xac27e3940fed2b0b!8m2!3d24.8168706!4d-107.3692708!15sCh5lc3RldGljYXMgZW4gY3VsaWFjYW4sIE3DqXhpY29aHyIdZXN0ZXRpY2FzIGVuIGN1bGlhY2FuIG3DqXhpY2-SAQxiZWF1dHlfc2Fsb26aASRDaGREU1VoTk1HOW5TMFZKUTBGblNVTjROVXBQYW5WUlJSQULgAQD6AQQIABAU!16s%2Fg%2F11stl9lyvj?entry=ttu&g_ep=EgoyMDI2MDEwNy4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-01-12T23:25:32.384Z"
+    },
+    {
+      "position": 18,
+      "placeId": "0x86bcd750f0d697ab:0x43956772756a5a8f",
+      "name": "Lodos Spa",
+      "rating": 4.7,
+      "reviewCount": null,
+      "category": "Spa de día",
+      "categories": [
+        "Spa de día"
+      ],
+      "address": "Lago de Chapala 1205, Las Quintas, 80060 Culiacán Rosales, Sin.",
+      "phone": "667 712 7285",
+      "website": "http://www.lodosspa.com/",
+      "hours": null,
+      "plusCode": "RJ7C+6P Culiacán Rosales, Sinaloa",
+      "coordinates": {
+        "lat": 24.817905,
+        "lng": -107.383798
+      },
+      "services": [],
+      "profileUrl": "https://www.google.com/maps/place/Lodos+Spa/@24.817905,-107.383798,16z/data=!4m11!1m3!2m2!1sesteticas+en+culiacan,+M%C3%A9xico!6e1!3m6!1s0x86bcd750f0d697ab:0x43956772756a5a8f!8m2!3d24.8130426!4d-107.3781371!15sCh5lc3RldGljYXMgZW4gY3VsaWFjYW4sIE3DqXhpY29aHyIdZXN0ZXRpY2FzIGVuIGN1bGlhY2FuIG3DqXhpY2-SAQdkYXlfc3BhmgEjQ2haRFNVaE5NRzluUzBWSlEwRm5TVVJHTlhSTFdFOTNFQUXgAQD6AQQIABBH!16s%2Fg%2F1tdb03m2?entry=ttu&g_ep=EgoyMDI2MDEwNy4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-01-12T23:25:33.041Z"
+    },
+    {
+      "position": 19,
+      "placeId": "0x86bcd73b860209cb:0xb090bffc01e2c9fd",
+      "name": "GEMA Centro Integral de Belleza",
+      "rating": 5,
+      "reviewCount": null,
+      "category": "Spa y gimnasio",
+      "categories": [
+        "Spa y gimnasio"
+      ],
+      "address": "Boulevard el Dorado 879 Plaza Josefina, Local 1 y 2, 80060 Culiacán Rosales, Sin.",
+      "phone": "667 232 9897",
+      "website": "https://gemacib.negocio.site/?utm_source=gmb&utm_medium=referral",
+      "hours": null,
+      "plusCode": "RJ8J+9G Culiacán Rosales, Sinaloa",
+      "coordinates": {
+        "lat": 24.817905,
+        "lng": -107.383798
+      },
+      "services": [
+        "Amigable con LGBTQ+"
+      ],
+      "profileUrl": "https://www.google.com/maps/place/GEMA+Centro+Integral+de+Belleza/@24.817905,-107.383798,16z/data=!4m11!1m3!2m2!1sesteticas+en+culiacan,+M%C3%A9xico!6e1!3m6!1s0x86bcd73b860209cb:0xb090bffc01e2c9fd!8m2!3d24.8159894!4d-107.3687349!15sCh5lc3RldGljYXMgZW4gY3VsaWFjYW4sIE3DqXhpY29aHyIdZXN0ZXRpY2FzIGVuIGN1bGlhY2FuIG3DqXhpY2-SARNzcGFfYW5kX2hlYWx0aF9jbHVimgEkQ2hkRFNVaE5NRzluUzBWSlEwRm5TVVJLYldOMk1sOTNSUkFC4AEA-gEECAAQEw!16s%2Fg%2F11s5h1h73p?entry=ttu&g_ep=EgoyMDI2MDEwNy4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-01-12T23:25:33.652Z"
+    }
+  ]
+}

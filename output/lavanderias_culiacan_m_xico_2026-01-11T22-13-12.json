@@ -1,0 +1,89 @@
+{
+  "metadata": {
+    "query": {
+      "businessType": "lavanderias",
+      "city": "culiacan",
+      "country": "México"
+    },
+    "totalResults": 4,
+    "exportedAt": "2026-01-11T22:13:12.204Z"
+  },
+  "businesses": [
+    {
+      "position": 2,
+      "name": "Tintorería Pretty Clean - Las Quintas",
+      "rating": 4.5,
+      "reviewCount": 45,
+      "category": "",
+      "priceLevel": null,
+      "address": null,
+      "hours": "· Abre a las 8:30 a.m. del lun",
+      "phone": "667 584 2586",
+      "website": null,
+      "profileUrl": "https://www.google.com/maps/search/lavanderias+en+culiacan,+M%C3%A9xico/@24.8184719,-107.3741824,13z?entry=ttu&g_ep=EgoyMDI2MDEwNy4wIKXMDSoKLDEwMDc5MjA3MUgBUAM%3D",
+      "coordinates": {
+        "lat": 24.8184719,
+        "lng": -107.3741824
+      },
+      "plusCode": null,
+      "scrapedAt": "2026-01-11T22:12:54.881Z"
+    },
+    {
+      "position": 3,
+      "name": "Tintorería Pressto Culiacán",
+      "rating": 4.5,
+      "reviewCount": 45,
+      "category": "",
+      "priceLevel": null,
+      "address": "Tintorería Pressto Culiacán  4,5(15)Tintorería",
+      "hours": "· Abre a las 8 a.m. del lun",
+      "phone": "667 712 6036",
+      "website": "http://tintoreriaspressto.com.mx/",
+      "profileUrl": "https://www.google.com/maps/search/lavanderias+en+culiacan,+M%C3%A9xico/@24.8184719,-107.3741824,13z?entry=ttu&g_ep=EgoyMDI2MDEwNy4wIKXMDSoKLDEwMDc5MjA3MUgBUAM%3D",
+      "coordinates": {
+        "lat": 24.8184719,
+        "lng": -107.3741824
+      },
+      "plusCode": null,
+      "scrapedAt": "2026-01-11T22:13:00.658Z"
+    },
+    {
+      "position": 4,
+      "name": "Planchaduria angelito",
+      "rating": 5,
+      "reviewCount": 50,
+      "category": "",
+      "priceLevel": null,
+      "address": null,
+      "hours": "· Abre a las 9 a.m. del lun",
+      "phone": "667 295 9134",
+      "website": null,
+      "profileUrl": "https://www.google.com/maps/search/lavanderias+en+culiacan,+M%C3%A9xico/@24.8184606,-107.3741825,13z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI2MDEwNy4wIKXMDSoKLDEwMDc5MjA3MUgBUAM%3D",
+      "coordinates": {
+        "lat": 24.8184606,
+        "lng": -107.3741825
+      },
+      "plusCode": null,
+      "scrapedAt": "2026-01-11T22:13:05.379Z"
+    },
+    {
+      "position": 5,
+      "name": "Tint",
+      "rating": 4.8,
+      "reviewCount": 48,
+      "category": "",
+      "priceLevel": null,
+      "address": null,
+      "hours": "· Abre a las 8 a.m. del lun",
+      "phone": null,
+      "website": "https://www.clynmembers.com/sucursal-culiacan-1/",
+      "profileUrl": "https://www.google.com/maps/search/lavanderias+en+culiacan,+M%C3%A9xico/@24.8184719,-107.3741824,13z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI2MDEwNy4wIKXMDSoKLDEwMDc5MjA3MUgBUAM%3D",
+      "coordinates": {
+        "lat": 24.8184719,
+        "lng": -107.3741824
+      },
+      "plusCode": null,
+      "scrapedAt": "2026-01-11T22:13:10.171Z"
+    }
+  ]
+}
