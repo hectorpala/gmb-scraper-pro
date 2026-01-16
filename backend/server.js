@@ -101,6 +101,44 @@ app.post('/api/scrape', async (req, res) => {
     });
   }
 });
+/**
+ * POST /api/v2/preview - Vista previa rapida sin extraccion completa
+ */
+app.post('/api/v2/preview', async (req, res) => {
+  const { businessType, city, country, maxResults } = req.body;
+  const limit = Math.min(Math.max(parseInt(maxResults) || 50, 10), 200);
+
+  if (!businessType || !city || !country) {
+    return res.status(400).json({
+      success: false,
+      data: { message: 'Todos los campos son requeridos: businessType, city, country' }
+    });
+  }
+
+  console.log('Preview:', { businessType, city, country, limit });
+
+  const scraper = new GoogleMapsScraper();
+
+  try {
+    const previewData = await scraper.preview(businessType, city, country, limit);
+    
+    res.json({
+      success: true,
+      data: {
+        count: Math.min(previewData.count, limit),
+        sampleNames: previewData.sampleNames,
+        query: { businessType, city, country }
+      }
+    });
+
+  } catch (error) {
+    console.error('Error en preview:', error);
+    res.status(500).json({
+      success: false,
+      data: { message: 'Error en preview: ' + error.message }
+    });
+  }
+});
 
 /**
  * GET /api/google/status - Estado de Google Sheets

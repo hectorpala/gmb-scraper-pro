@@ -300,8 +300,8 @@ export class GoogleSheetsExporter {
     });
 
     // Aplicar bordes y alineacion a las nuevas filas
-    const updatedRange = appendResult.data.updates.updatedRange;
-    const rangeMatch = updatedRange.match(/!A(\d+):/);
+    const updatedRange = appendResult.data.updatedRange || (appendResult.data.updates && appendResult.data.updates.updatedRange);
+    const rangeMatch = updatedRange ? updatedRange.match(/!A(\d+):/) : null;
     if (rangeMatch) {
       const startRow = parseInt(rangeMatch[1]) - 1;
       const endRow = startRow + rows.length;

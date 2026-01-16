@@ -172,20 +172,20 @@ function getFormData() {
 
   if (state.activeTab === 'ciudad') {
     data = {
-      businessType: formData.get('businessType')?.trim(),
-      city: formData.get('city')?.trim(),
-      country: formData.get('country')?.trim()
+      businessType: document.getElementById('businessType').value.trim(),
+      city: document.getElementById('city').value.trim(),
+      country: document.getElementById('country').value.trim()
     };
     if (!data.businessType || !data.city || !data.country) {
       return { error: 'Por favor complete todos los campos' };
     }
   } else {
-    const lat = parseFloat(formData.get('latitude'));
-    const lng = parseFloat(formData.get('longitude'));
-    const radius = parseFloat(formData.get('radius')) || 5;
+    const lat = parseFloat(document.getElementById('latitude').value);
+    const lng = parseFloat(document.getElementById('longitude').value);
+    const radius = parseFloat(document.getElementById('radius')?.value) || 5;
 
     data = {
-      businessType: formData.get('businessTypeGeo')?.trim(),
+      businessType: document.getElementById('businessTypeGeo').value.trim(),
       coordinates: { lat, lng },
       radius: radius
     };
@@ -196,7 +196,7 @@ function getFormData() {
   }
 
   // Common options
-  data.maxResults = parseInt(formData.get('maxResults')) || 50;
+  data.maxResults = parseInt(document.getElementById('maxResults')?.value) || 50;
   data.extractEmails = document.getElementById('extractEmails').checked;
   data.extractSocialMedia = document.getElementById('extractSocial').checked;
 
@@ -314,7 +314,7 @@ async function performSearch(data) {
   try {
     updateProgress('Conectando con el servidor...', 5);
 
-    const response = await fetch('/api/v2/scrape', {
+    const response = await fetch('/api/scrape', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify(data)

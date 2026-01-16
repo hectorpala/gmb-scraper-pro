@@ -6,6 +6,27 @@
   <title>GMB Scraper Pro v2.0</title>
   <link rel="stylesheet" href="styles.css">
   <style>
+    /* Ocultar autocompletado de Chrome */
+    input:-webkit-autofill,
+    input:-webkit-autofill:hover,
+    input:-webkit-autofill:focus,
+    input:-webkit-autofill:active {
+      -webkit-box-shadow: 0 0 0 30px white inset !important;
+      -webkit-text-fill-color: #333 !important;
+      transition: background-color 5000s ease-in-out 0s;
+    }
+    
+    input::-webkit-contacts-auto-fill-button,
+    input::-webkit-credentials-auto-fill-button {
+      visibility: hidden;
+      display: none !important;
+      pointer-events: none;
+      height: 0;
+      width: 0;
+      margin: 0;
+    }
+
+
     /* Estilos adicionales para v2 */
     .tabs { display: flex; gap: 0; margin-bottom: 20px; border-bottom: 2px solid #e0e0e0; }
     .tab { padding: 12px 24px; cursor: pointer; border: none; background: none; color: #666; font-size: 14px; font-weight: 500; border-bottom: 2px solid transparent; margin-bottom: -2px; transition: all 0.2s; }
@@ -68,11 +89,331 @@
     .preview-actions { display: flex; justify-content: center; gap: 12px; margin-top: 20px; }
     .button-group { display: flex; gap: 12px; }
     
-    /* Estilos para autocomplete */
-    .autocomplete-wrapper { position: relative; }
-    .autocomplete-wrapper input { width: 100%; }
-    input::-webkit-calendar-picker-indicator { display: none !important; }
-    input[list]::-webkit-list-button { display: none !important; }
+    /* ========== NUEVO DISEÑO DE DROPDOWNS ========== */
+    
+    /* Contenedor de negocio/profesion */
+    .business-section {
+      background: linear-gradient(135deg, #fef3c7 0%, #fde68a 100%);
+      border: 1px solid #f59e0b;
+      border-radius: 12px;
+      padding: 20px;
+      margin-bottom: 16px;
+    }
+    
+    .business-header {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      margin-bottom: 16px;
+      color: #92400e;
+      font-weight: 600;
+      font-size: 14px;
+    }
+    
+    .business-header svg {
+      width: 20px;
+      height: 20px;
+      color: #f59e0b;
+    }
+    
+    .business-section .custom-select {
+      margin: 0;
+    }
+    
+    .business-section .dropdown-menu {
+      max-height: 350px;
+    }
+    
+    .category-badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
+      background: #fef3c7;
+      color: #92400e;
+      padding: 2px 8px;
+      border-radius: 4px;
+      font-size: 11px;
+      font-weight: 500;
+    }
+
+    /* Contenedor de ubicacion con mejor estructura */
+    .location-section {
+      background: linear-gradient(135deg, #f8fafc 0%, #f1f5f9 100%);
+      border: 1px solid #e2e8f0;
+      border-radius: 12px;
+      padding: 20px;
+      margin-bottom: 16px;
+    }
+    
+    .location-header {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      margin-bottom: 16px;
+      padding-bottom: 12px;
+      border-bottom: 1px solid #e2e8f0;
+    }
+    
+    .location-header svg {
+      width: 20px;
+      height: 20px;
+      color: #4285F4;
+    }
+    
+    .location-header span {
+      font-size: 14px;
+      font-weight: 600;
+      color: #334155;
+    }
+    
+    .location-fields {
+      display: grid;
+      grid-template-columns: 1fr 1.5fr;
+      gap: 16px;
+    }
+    
+    /* Custom Select/Dropdown */
+    .custom-select {
+      position: relative;
+    }
+    
+    .custom-select label {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      font-size: 12px;
+      font-weight: 600;
+      color: #64748b;
+      margin-bottom: 6px;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+    
+    .custom-select label .optional {
+      font-size: 10px;
+      font-weight: 400;
+      color: #94a3b8;
+      text-transform: none;
+    }
+    
+    .custom-select label .required {
+      color: #ef4444;
+      font-size: 10px;
+    }
+    
+    .select-wrapper {
+      position: relative;
+    }
+    
+    .select-wrapper input {
+      width: 100%;
+      padding: 12px 40px 12px 14px;
+      border: 2px solid #e2e8f0;
+      border-radius: 10px;
+      font-size: 14px;
+      color: #1e293b;
+      background: white;
+      transition: all 0.2s ease;
+      cursor: pointer;
+    }
+    
+    .select-wrapper input:hover {
+      border-color: #cbd5e1;
+    }
+    
+    .select-wrapper input:focus {
+      outline: none;
+      border-color: #4285F4;
+      box-shadow: 0 0 0 3px rgba(66, 133, 244, 0.1);
+    }
+    
+    .select-wrapper input::placeholder {
+      color: #94a3b8;
+    }
+    
+    /* Icono de flecha */
+    .select-arrow {
+      position: absolute;
+      right: 12px;
+      top: 50%;
+      transform: translateY(-50%);
+      pointer-events: none;
+      color: #64748b;
+      transition: transform 0.2s ease;
+    }
+    
+    .select-wrapper input:focus + .select-arrow {
+      transform: translateY(-50%) rotate(180deg);
+      color: #4285F4;
+    }
+    
+    /* Boton de limpiar */
+    .select-clear {
+      position: absolute;
+      right: 36px;
+      top: 50%;
+      transform: translateY(-50%);
+      width: 18px;
+      height: 18px;
+      border: none;
+      background: #e2e8f0;
+      border-radius: 50%;
+      cursor: pointer;
+      display: none;
+      align-items: center;
+      justify-content: center;
+      font-size: 12px;
+      color: #64748b;
+      transition: all 0.2s;
+    }
+    
+    .select-clear:hover {
+      background: #cbd5e1;
+      color: #475569;
+    }
+    
+    .select-wrapper input:not(:placeholder-shown) ~ .select-clear {
+      display: flex;
+    }
+    
+    /* Dropdown personalizado */
+    .dropdown-menu {
+      position: absolute;
+      top: 100%;
+      left: 0;
+      right: 0;
+      background: white;
+      border: 1px solid #e2e8f0;
+      border-radius: 10px;
+      box-shadow: 0 10px 40px rgba(0,0,0,0.1);
+      max-height: 280px;
+      overflow-y: auto;
+      z-index: 1000;
+      display: none;
+      margin-top: 4px;
+    }
+    
+    .dropdown-menu.show {
+      display: block;
+      animation: dropdownFade 0.15s ease-out;
+    }
+    
+    @keyframes dropdownFade {
+      from { opacity: 0; transform: translateY(-8px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+    
+    .dropdown-header {
+      padding: 10px 14px;
+      font-size: 11px;
+      font-weight: 600;
+      color: #94a3b8;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      background: #f8fafc;
+      border-bottom: 1px solid #e2e8f0;
+      position: sticky;
+      top: 0;
+    }
+    
+    .dropdown-item {
+      padding: 10px 14px;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      transition: background 0.15s;
+      border-bottom: 1px solid #f1f5f9;
+    }
+    
+    .dropdown-item:last-child {
+      border-bottom: none;
+    }
+    
+    .dropdown-item:hover {
+      background: #f1f5f9;
+    }
+    
+    .dropdown-item.selected {
+      background: #eff6ff;
+      color: #4285F4;
+    }
+    
+    .dropdown-item .item-icon {
+      width: 24px;
+      height: 24px;
+      background: #f1f5f9;
+      border-radius: 6px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 12px;
+    }
+    
+    .dropdown-item .item-text {
+      flex: 1;
+    }
+    
+    .dropdown-item .item-text .main {
+      font-size: 14px;
+      color: #1e293b;
+    }
+    
+    .dropdown-item .item-text .sub {
+      font-size: 11px;
+      color: #94a3b8;
+    }
+    
+    .dropdown-item .item-count {
+      font-size: 11px;
+      color: #94a3b8;
+      background: #f1f5f9;
+      padding: 2px 8px;
+      border-radius: 10px;
+    }
+    
+    .dropdown-empty {
+      padding: 20px;
+      text-align: center;
+      color: #94a3b8;
+      font-size: 13px;
+    }
+    
+    /* Estado seleccionado visual */
+    .has-value input {
+      font-weight: 500;
+      color: #1e293b;
+    }
+    
+    /* Pais field simplificado */
+    .country-field {
+      margin-top: 12px;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      padding: 8px 12px;
+      background: #f1f5f9;
+      border-radius: 8px;
+      font-size: 13px;
+      color: #64748b;
+    }
+    
+    .country-field .flag {
+      font-size: 16px;
+    }
+    
+    .country-field input {
+      border: none;
+      background: transparent;
+      font-size: 13px;
+      color: #334155;
+      font-weight: 500;
+      width: 100px;
+    }
+    
+    .country-field input:focus {
+      outline: none;
+    }
     
   </style>
 </head>
@@ -103,182 +444,89 @@
           <button class="tab" data-tab="geo">Buscar por Coordenadas</button>
         </div>
 
-        <form id="searchForm">
+        <form id="searchForm" autocomplete="off">
           <!-- Tab Ciudad -->
           <div class="tab-content active" id="tab-ciudad">
-            <div class="form-group">
-              <label for="businessType">Tipo de Negocio</label>
-              <input type="text" id="businessType" name="businessType" placeholder="ej: plomeria, electricistas, restaurantes..." required minlength="2">
-            </div>
-            
-            <div class="form-row">
-              <div class="form-group">
-                <label for="state">Estado</label>
-                <div class="autocomplete-wrapper">
-                  <input type="text" id="state" name="state" list="statesList" placeholder="Escribe para buscar..." autocomplete="off">
-                  <datalist id="statesList">
-                    <option value="Aguascalientes">
-                    <option value="Baja California">
-                    <option value="Baja California Sur">
-                    <option value="Campeche">
-                    <option value="Chiapas">
-                    <option value="Chihuahua">
-                    <option value="Ciudad de Mexico">
-                    <option value="Coahuila">
-                    <option value="Colima">
-                    <option value="Durango">
-                    <option value="Estado de Mexico">
-                    <option value="Guanajuato">
-                    <option value="Guerrero">
-                    <option value="Hidalgo">
-                    <option value="Jalisco">
-                    <option value="Michoacan">
-                    <option value="Morelos">
-                    <option value="Nayarit">
-                    <option value="Nuevo Leon">
-                    <option value="Oaxaca">
-                    <option value="Puebla">
-                    <option value="Queretaro">
-                    <option value="Quintana Roo">
-                    <option value="San Luis Potosi">
-                    <option value="Sinaloa">
-                    <option value="Sonora">
-                    <option value="Tabasco">
-                    <option value="Tamaulipas">
-                    <option value="Tlaxcala">
-                    <option value="Veracruz">
-                    <option value="Yucatan">
-                    <option value="Zacatecas">
-                  </datalist>
-                </div>
+            <!-- Dropdown de Profesiones -->
+            <div class="business-section">
+              <div class="business-header">
+                <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 13.255A23.931 23.931 0 0112 15c-3.183 0-6.22-.62-9-1.745M16 6V4a2 2 0 00-2-2h-4a2 2 0 00-2 2v2m4 6h.01M5 20h14a2 2 0 002-2V8a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" />
+                </svg>
+                <span>Tipo de Negocio</span>
               </div>
-              <div class="form-group">
-                <label for="city">Ciudad</label>
-                <div class="autocomplete-wrapper">
-                  <input type="text" id="city" name="city" list="citiesList" placeholder="Escribe para buscar..." required minlength="2" autocomplete="off">
-                  <datalist id="citiesList">
-                    <!-- Ciudades principales de Mexico -->
-                    <option value="Ciudad de Mexico">
-                    <option value="Guadalajara">
-                    <option value="Monterrey">
-                    <option value="Puebla">
-                    <option value="Tijuana">
-                    <option value="Leon">
-                    <option value="Juarez">
-                    <option value="Zapopan">
-                    <option value="Nezahualcoyotl">
-                    <option value="Merida">
-                    <option value="San Luis Potosi">
-                    <option value="Aguascalientes">
-                    <option value="Hermosillo">
-                    <option value="Saltillo">
-                    <option value="Mexicali">
-                    <option value="Culiacan">
-                    <option value="Queretaro">
-                    <option value="Morelia">
-                    <option value="Chihuahua">
-                    <option value="Cancun">
-                    <option value="Acapulco">
-                    <option value="Tlalnepantla">
-                    <option value="Torreon">
-                    <option value="Toluca">
-                    <option value="Durango">
-                    <option value="Tuxtla Gutierrez">
-                    <option value="Mazatlan">
-                    <option value="Irapuato">
-                    <option value="Reynosa">
-                    <option value="Villahermosa">
-                    <option value="Matamoros">
-                    <option value="Veracruz">
-                    <option value="Xalapa">
-                    <option value="Oaxaca">
-                    <option value="Celaya">
-                    <option value="Tampico">
-                    <option value="Cuernavaca">
-                    <option value="Ensenada">
-                    <option value="Los Mochis">
-                    <option value="Tepic">
-                    <option value="Playa del Carmen">
-                    <option value="Pachuca">
-                    <option value="Campeche">
-                    <option value="La Paz">
-                    <option value="Cabo San Lucas">
-                    <option value="Puerto Vallarta">
-                    <option value="Colima">
-                    <option value="Zacatecas">
-                    <option value="Tlaxcala">
-                    <option value="Chetumal">
-                    <option value="Nogales">
-                    <option value="Nuevo Laredo">
-                    <option value="Ciudad Obregon">
-                    <option value="Ciudad Victoria">
-                    <option value="Guaymas">
-                    <option value="Navojoa">
-                    <option value="Guasave">
-                    <option value="Salamanca">
-                    <option value="Silao">
-                    <option value="Tehuacan">
-                    <option value="San Juan del Rio">
-                    <option value="Uruapan">
-                    <option value="Zamora">
-                    <option value="Lazaro Cardenas">
-                    <option value="Piedras Negras">
-                    <option value="Monclova">
-                    <option value="Delicias">
-                    <option value="Cuauhtemoc">
-                    <option value="Parral">
-                    <option value="Fresnillo">
-                    <option value="Rio Bravo">
-                    <option value="Altamira">
-                    <option value="Ciudad Madero">
-                    <option value="Poza Rica">
-                    <option value="Coatzacoalcos">
-                    <option value="Minatitlan">
-                    <option value="Cordoba">
-                    <option value="Orizaba">
-                    <option value="San Cristobal de las Casas">
-                    <option value="Tapachula">
-                    <option value="Comitan">
-                    <option value="Chetumal">
-                    <option value="Cozumel">
-                    <option value="Tulum">
-                    <option value="Valladolid">
-                    <option value="Progreso">
-                    <option value="Ecatepec">
-                    <option value="Naucalpan">
-                    <option value="Cuautitlan Izcalli">
-                    <option value="Atizapan">
-                    <option value="Coacalco">
-                    <option value="Tultitlan">
-                    <option value="Ixtapaluca">
-                    <option value="Chalco">
-                    <option value="Texcoco">
-                    <option value="Teotihuacan">
-                    <option value="San Pedro Garza Garcia">
-                    <option value="Santa Catarina">
-                    <option value="Apodaca">
-                    <option value="Escobedo">
-                    <option value="Guadalupe">
-                    <option value="San Nicolas de los Garza">
-                    <option value="Tonala">
-                    <option value="Tlaquepaque">
-                    <option value="Tlajomulco">
-                    <option value="El Salto">
-                    <option value="Lagos de Moreno">
-                    <option value="Tepatitlan">
-                    <option value="Ocotlan">
-                    <option value="Arandas">
-                    <option value="Autlan">
-                    <option value="Chapala">
-                    <option value="Tequila">
-                  </datalist>
+              
+              <div class="custom-select" id="businessSelect">
+                <label>
+                  Profesion o Negocio <span class="required">*</span>
+                </label>
+                <div class="select-wrapper">
+                  <input type="text" id="businessType" name="btype_x7k9" placeholder="Escribe o selecciona..." autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" data-lpignore="true" data-form-type="other" data-1p-ignore="true" aria-autocomplete="none" required>
+                  <button type="button" class="select-clear" id="businessClear">&times;</button>
+                  <svg class="select-arrow" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <path d="M6 9l6 6 6-6"/>
+                  </svg>
+                </div>
+                <div class="dropdown-menu" id="businessDropdown">
+                  <div class="dropdown-header" id="businessDropdownHeader">Profesiones populares</div>
+                  <div id="businessOptions"></div>
                 </div>
               </div>
             </div>
             
-            <div class="form-group">
-              <label for="country">Pais</label>
-              <input type="text" id="country" name="country" value="Mexico" required minlength="2">
+            <!-- Nueva seccion de ubicacion mejorada -->
+            <div class="location-section">
+              <div class="location-header">
+                <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" />
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
+                </svg>
+                <span>Ubicacion</span>
+              </div>
+              
+              <div class="location-fields">
+                <!-- Estado Dropdown -->
+                <div class="custom-select" id="stateSelect">
+                  <label>
+                    Estado <span class="optional">(opcional)</span>
+                  </label>
+                  <div class="select-wrapper">
+                    <input type="text" id="state" name="st_x7k9" placeholder="Escribe o selecciona..." autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" data-lpignore="true" data-form-type="other" data-1p-ignore="true">
+                    <button type="button" class="select-clear" id="stateClear">&times;</button>
+                    <svg class="select-arrow" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                      <path d="M6 9l6 6 6-6"/>
+                    </svg>
+                  </div>
+                  <div class="dropdown-menu" id="stateDropdown">
+                    <div class="dropdown-header">32 Estados de Mexico</div>
+                    <div id="stateOptions"></div>
+                  </div>
+                </div>
+                
+                <!-- Ciudad Dropdown -->
+                <div class="custom-select" id="citySelect">
+                  <label>
+                    Ciudad <span class="required">*</span>
+                  </label>
+                  <div class="select-wrapper">
+                    <input type="text" id="city" name="ct_x7k9" placeholder="Escribe o selecciona..." autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" data-lpignore="true" data-form-type="other" data-1p-ignore="true" required>
+                    <button type="button" class="select-clear" id="cityClear">&times;</button>
+                    <svg class="select-arrow" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                      <path d="M6 9l6 6 6-6"/>
+                    </svg>
+                  </div>
+                  <div class="dropdown-menu" id="cityDropdown">
+                    <div class="dropdown-header" id="cityDropdownHeader">Ciudades populares</div>
+                    <div id="cityOptions"></div>
+                  </div>
+                </div>
+              </div>
+              
+              <div class="country-field">
+                <span class="flag">🇲🇽</span>
+                <span>Pais:</span>
+                <input type="text" id="country" name="co_x7k9" value="Mexico" required autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" data-lpignore="true" data-form-type="other" data-1p-ignore="true">
+              </div>
             </div>
           </div>
 
@@ -286,20 +534,20 @@
           <div class="tab-content" id="tab-geo">
             <div class="form-group">
               <label for="businessTypeGeo">Tipo de Negocio</label>
-              <input type="text" id="businessTypeGeo" name="businessTypeGeo" placeholder="ej: plomeria, electricistas...">
+              <input type="text" id="businessTypeGeo" name="btypegeo_x7k9" placeholder="ej: plomeria, electricistas..." autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" data-lpignore="true" data-form-type="other" data-1p-ignore="true">
             </div>
             <div class="geo-inputs">
               <div class="form-group">
                 <label for="latitude">Latitud</label>
-                <input type="text" id="latitude" name="latitude" placeholder="ej: 25.6866">
+                <input type="text" id="latitude" name="lat_x7k9" placeholder="ej: 25.6866" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" data-lpignore="true" data-form-type="other" data-1p-ignore="true">
               </div>
               <div class="form-group">
                 <label for="longitude">Longitud</label>
-                <input type="text" id="longitude" name="longitude" placeholder="ej: -100.3161">
+                <input type="text" id="longitude" name="lng_x7k9" placeholder="ej: -100.3161" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" data-lpignore="true" data-form-type="other" data-1p-ignore="true">
               </div>
               <div class="form-group">
                 <label for="radius">Radio (km)</label>
-                <input type="number" id="radius" name="radius" placeholder="5" min="0.5" max="50" step="0.5" value="5">
+                <input type="number" id="radius" name="rad_x7k9" placeholder="5" min="0.5" max="50" step="0.5" value="5">
               </div>
             </div>
             <p style="font-size: 12px; color: #666; margin-top: 8px;">Tip: Busca las coordenadas en Google Maps y copialas aqui</p>
@@ -308,7 +556,7 @@
           <!-- Cantidad de resultados -->
           <div class="form-group">
             <label for="maxResults">Cantidad de resultados</label>
-            <select id="maxResults" name="maxResults">
+            <select id="maxResults" name="max_x7k9">
               <option value="10">10 negocios</option>
               <option value="25">25 negocios</option>
               <option value="50" selected>50 negocios</option>
@@ -378,7 +626,6 @@
               Guardar automaticamente en Google Sheets
             </label>
           </div>
-
 
           <div class="button-group" style="display: flex; gap: 12px;">
             <button type="button" id="previewBtn" class="btn btn-secondary">
@@ -567,79 +814,460 @@
   </div>
 
   <script>
-    // Actualizar ciudades segun el estado seleccionado
-    const citiesByState = {
-      'Aguascalientes': ['Aguascalientes', 'Calvillo', 'Jesus Maria', 'Rincon de Romos', 'Pabellon de Arteaga'],
-      'Baja California': ['Tijuana', 'Mexicali', 'Ensenada', 'Rosarito', 'Tecate', 'San Quintin'],
-      'Baja California Sur': ['La Paz', 'Cabo San Lucas', 'San Jose del Cabo', 'Loreto', 'Ciudad Constitucion'],
-      'Campeche': ['Campeche', 'Ciudad del Carmen', 'Champoton', 'Escarcega', 'Calkini'],
-      'Chiapas': ['Tuxtla Gutierrez', 'San Cristobal de las Casas', 'Tapachula', 'Comitan', 'Palenque', 'Chiapa de Corzo'],
-      'Chihuahua': ['Chihuahua', 'Juarez', 'Delicias', 'Cuauhtemoc', 'Parral', 'Nuevo Casas Grandes'],
-      'Ciudad de Mexico': ['Ciudad de Mexico', 'Coyoacan', 'Xochimilco', 'Tlalpan', 'Iztapalapa', 'Gustavo A. Madero'],
-      'Coahuila': ['Saltillo', 'Torreon', 'Monclova', 'Piedras Negras', 'Acuna', 'Sabinas'],
-      'Colima': ['Colima', 'Manzanillo', 'Tecoman', 'Villa de Alvarez', 'Armeria'],
-      'Durango': ['Durango', 'Gomez Palacio', 'Lerdo', 'Santiago Papasquiaro', 'Canatlán'],
-      'Estado de Mexico': ['Toluca', 'Ecatepec', 'Nezahualcoyotl', 'Naucalpan', 'Tlalnepantla', 'Cuautitlan Izcalli', 'Atizapan', 'Texcoco', 'Chalco'],
-      'Guanajuato': ['Leon', 'Irapuato', 'Celaya', 'Salamanca', 'Silao', 'Guanajuato', 'San Miguel de Allende', 'Dolores Hidalgo'],
-      'Guerrero': ['Acapulco', 'Chilpancingo', 'Iguala', 'Taxco', 'Zihuatanejo', 'Ixtapa'],
-      'Hidalgo': ['Pachuca', 'Tulancingo', 'Tula', 'Huejutla', 'Tizayuca', 'Actopan'],
-      'Jalisco': ['Guadalajara', 'Zapopan', 'Tlaquepaque', 'Tonala', 'Tlajomulco', 'Puerto Vallarta', 'Lagos de Moreno', 'Tepatitlan', 'Chapala', 'Tequila'],
-      'Michoacan': ['Morelia', 'Uruapan', 'Zamora', 'Lazaro Cardenas', 'Apatzingan', 'Patzcuaro', 'Zitacuaro'],
-      'Morelos': ['Cuernavaca', 'Jiutepec', 'Cuautla', 'Temixco', 'Yautepec', 'Tepoztlan'],
-      'Nayarit': ['Tepic', 'Bahia de Banderas', 'Compostela', 'Santiago Ixcuintla', 'San Blas', 'Sayulita'],
-      'Nuevo Leon': ['Monterrey', 'San Pedro Garza Garcia', 'San Nicolas de los Garza', 'Guadalupe', 'Apodaca', 'Santa Catarina', 'Escobedo'],
-      'Oaxaca': ['Oaxaca', 'Salina Cruz', 'Juchitan', 'Tuxtepec', 'Huatulco', 'Puerto Escondido'],
-      'Puebla': ['Puebla', 'Tehuacan', 'San Martin Texmelucan', 'Atlixco', 'Cholula', 'Izucar de Matamoros'],
-      'Queretaro': ['Queretaro', 'San Juan del Rio', 'Corregidora', 'El Marques', 'Tequisquiapan'],
-      'Quintana Roo': ['Cancun', 'Playa del Carmen', 'Chetumal', 'Cozumel', 'Tulum', 'Isla Mujeres', 'Puerto Morelos'],
-      'San Luis Potosi': ['San Luis Potosi', 'Soledad de Graciano Sanchez', 'Ciudad Valles', 'Matehuala', 'Rioverde'],
-      'Sinaloa': ['Culiacan', 'Mazatlan', 'Los Mochis', 'Guasave', 'Navolato', 'El Rosario'],
-      'Sonora': ['Hermosillo', 'Ciudad Obregon', 'Nogales', 'Guaymas', 'San Luis Rio Colorado', 'Navojoa', 'Puerto Penasco'],
-      'Tabasco': ['Villahermosa', 'Cardenas', 'Comalcalco', 'Paraiso', 'Macuspana'],
-      'Tamaulipas': ['Reynosa', 'Matamoros', 'Nuevo Laredo', 'Tampico', 'Ciudad Victoria', 'Ciudad Madero', 'Altamira'],
-      'Tlaxcala': ['Tlaxcala', 'Apizaco', 'Huamantla', 'Chiautempan', 'Calpulalpan'],
-      'Veracruz': ['Veracruz', 'Xalapa', 'Coatzacoalcos', 'Poza Rica', 'Cordoba', 'Orizaba', 'Minatitlan', 'Boca del Rio'],
-      'Yucatan': ['Merida', 'Valladolid', 'Progreso', 'Tizimin', 'Izamal', 'Uman'],
-      'Zacatecas': ['Zacatecas', 'Fresnillo', 'Guadalupe', 'Jerez', 'Rio Grande', 'Sombrerete']
+    // Datos de estados y ciudades
+    const statesData = {
+      'Aguascalientes': { abbr: 'AGS', cities: ['Aguascalientes', 'Calvillo', 'Jesus Maria', 'Rincon de Romos', 'Pabellon de Arteaga'] },
+      'Baja California': { abbr: 'BC', cities: ['Tijuana', 'Mexicali', 'Ensenada', 'Rosarito', 'Tecate', 'San Quintin'] },
+      'Baja California Sur': { abbr: 'BCS', cities: ['La Paz', 'Cabo San Lucas', 'San Jose del Cabo', 'Loreto', 'Ciudad Constitucion'] },
+      'Campeche': { abbr: 'CAM', cities: ['Campeche', 'Ciudad del Carmen', 'Champoton', 'Escarcega', 'Calkini'] },
+      'Chiapas': { abbr: 'CHIS', cities: ['Tuxtla Gutierrez', 'San Cristobal de las Casas', 'Tapachula', 'Comitan', 'Palenque', 'Chiapa de Corzo'] },
+      'Chihuahua': { abbr: 'CHIH', cities: ['Chihuahua', 'Juarez', 'Delicias', 'Cuauhtemoc', 'Parral', 'Nuevo Casas Grandes'] },
+      'Ciudad de Mexico': { abbr: 'CDMX', cities: ['Ciudad de Mexico', 'Coyoacan', 'Xochimilco', 'Tlalpan', 'Iztapalapa', 'Gustavo A. Madero'] },
+      'Coahuila': { abbr: 'COAH', cities: ['Saltillo', 'Torreon', 'Monclova', 'Piedras Negras', 'Acuna', 'Sabinas'] },
+      'Colima': { abbr: 'COL', cities: ['Colima', 'Manzanillo', 'Tecoman', 'Villa de Alvarez', 'Armeria'] },
+      'Durango': { abbr: 'DGO', cities: ['Durango', 'Gomez Palacio', 'Lerdo', 'Santiago Papasquiaro', 'Canatlan'] },
+      'Estado de Mexico': { abbr: 'MEX', cities: ['Toluca', 'Ecatepec', 'Nezahualcoyotl', 'Naucalpan', 'Tlalnepantla', 'Cuautitlan Izcalli', 'Atizapan', 'Texcoco', 'Chalco'] },
+      'Guanajuato': { abbr: 'GTO', cities: ['Leon', 'Irapuato', 'Celaya', 'Salamanca', 'Silao', 'Guanajuato', 'San Miguel de Allende', 'Dolores Hidalgo'] },
+      'Guerrero': { abbr: 'GRO', cities: ['Acapulco', 'Chilpancingo', 'Iguala', 'Taxco', 'Zihuatanejo', 'Ixtapa'] },
+      'Hidalgo': { abbr: 'HGO', cities: ['Pachuca', 'Tulancingo', 'Tula', 'Huejutla', 'Tizayuca', 'Actopan'] },
+      'Jalisco': { abbr: 'JAL', cities: ['Guadalajara', 'Zapopan', 'Tlaquepaque', 'Tonala', 'Tlajomulco', 'Puerto Vallarta', 'Lagos de Moreno', 'Tepatitlan', 'Chapala', 'Tequila'] },
+      'Michoacan': { abbr: 'MICH', cities: ['Morelia', 'Uruapan', 'Zamora', 'Lazaro Cardenas', 'Apatzingan', 'Patzcuaro', 'Zitacuaro'] },
+      'Morelos': { abbr: 'MOR', cities: ['Cuernavaca', 'Jiutepec', 'Cuautla', 'Temixco', 'Yautepec', 'Tepoztlan'] },
+      'Nayarit': { abbr: 'NAY', cities: ['Tepic', 'Bahia de Banderas', 'Compostela', 'Santiago Ixcuintla', 'San Blas', 'Sayulita'] },
+      'Nuevo Leon': { abbr: 'NL', cities: ['Monterrey', 'San Pedro Garza Garcia', 'San Nicolas de los Garza', 'Guadalupe', 'Apodaca', 'Santa Catarina', 'Escobedo'] },
+      'Oaxaca': { abbr: 'OAX', cities: ['Oaxaca', 'Salina Cruz', 'Juchitan', 'Tuxtepec', 'Huatulco', 'Puerto Escondido'] },
+      'Puebla': { abbr: 'PUE', cities: ['Puebla', 'Tehuacan', 'San Martin Texmelucan', 'Atlixco', 'Cholula', 'Izucar de Matamoros'] },
+      'Queretaro': { abbr: 'QRO', cities: ['Queretaro', 'San Juan del Rio', 'Corregidora', 'El Marques', 'Tequisquiapan'] },
+      'Quintana Roo': { abbr: 'QROO', cities: ['Cancun', 'Playa del Carmen', 'Chetumal', 'Cozumel', 'Tulum', 'Isla Mujeres', 'Puerto Morelos'] },
+      'San Luis Potosi': { abbr: 'SLP', cities: ['San Luis Potosi', 'Soledad de Graciano Sanchez', 'Ciudad Valles', 'Matehuala', 'Rioverde'] },
+      'Sinaloa': { abbr: 'SIN', cities: ['Culiacan', 'Mazatlan', 'Los Mochis', 'Guasave', 'Navolato', 'El Rosario'] },
+      'Sonora': { abbr: 'SON', cities: ['Hermosillo', 'Ciudad Obregon', 'Nogales', 'Guaymas', 'San Luis Rio Colorado', 'Navojoa', 'Puerto Penasco'] },
+      'Tabasco': { abbr: 'TAB', cities: ['Villahermosa', 'Cardenas', 'Comalcalco', 'Paraiso', 'Macuspana'] },
+      'Tamaulipas': { abbr: 'TAMPS', cities: ['Reynosa', 'Matamoros', 'Nuevo Laredo', 'Tampico', 'Ciudad Victoria', 'Ciudad Madero', 'Altamira'] },
+      'Tlaxcala': { abbr: 'TLAX', cities: ['Tlaxcala', 'Apizaco', 'Huamantla', 'Chiautempan', 'Calpulalpan'] },
+      'Veracruz': { abbr: 'VER', cities: ['Veracruz', 'Xalapa', 'Coatzacoalcos', 'Poza Rica', 'Cordoba', 'Orizaba', 'Minatitlan', 'Boca del Rio'] },
+      'Yucatan': { abbr: 'YUC', cities: ['Merida', 'Valladolid', 'Progreso', 'Tizimin', 'Izamal', 'Uman'] },
+      'Zacatecas': { abbr: 'ZAC', cities: ['Zacatecas', 'Fresnillo', 'Guadalupe', 'Jerez', 'Rio Grande', 'Sombrerete'] }
     };
 
     const stateInput = document.getElementById('state');
     const cityInput = document.getElementById('city');
-    const citiesList = document.getElementById('citiesList');
+    const stateDropdown = document.getElementById('stateDropdown');
+    const cityDropdown = document.getElementById('cityDropdown');
+    const stateOptions = document.getElementById('stateOptions');
+    const cityOptions = document.getElementById('cityOptions');
+    const stateClear = document.getElementById('stateClear');
+    const cityClear = document.getElementById('cityClear');
+    const cityDropdownHeader = document.getElementById('cityDropdownHeader');
 
-    stateInput.addEventListener('change', function() {
-      const selectedState = this.value;
-      const cities = citiesByState[selectedState] || [];
+    let selectedState = null;
+
+    function highlightMatch(text, filter) {
+      if (!filter) return text;
+      const escaped = filter.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+      const regex = new RegExp('(' + escaped + ')', 'gi');
+      return text.replace(regex, '<mark style="background:#fef08a;padding:0 2px;border-radius:2px">$1</mark>');
+    }
+
+    function getAllCitiesWithState() {
+      const result = [];
+      for (const [state, data] of Object.entries(statesData)) {
+        for (const city of data.cities) {
+          result.push({ city, state, abbr: data.abbr });
+        }
+      }
+      return result;
+    }
+
+    function renderStates(filter = '') {
+      stateOptions.innerHTML = '';
+      const states = Object.keys(statesData).filter(s => 
+        s.toLowerCase().includes(filter.toLowerCase()) ||
+        statesData[s].abbr.toLowerCase().includes(filter.toLowerCase())
+      );
       
-      // Limpiar lista actual
-      citiesList.innerHTML = '';
+      if (states.length === 0) {
+        stateOptions.innerHTML = '<div class="dropdown-empty">No se encontraron estados</div>';
+        return;
+      }
       
-      // Agregar ciudades del estado seleccionado
-      cities.forEach(city => {
-        const option = document.createElement('option');
-        option.value = city;
-        citiesList.appendChild(option);
+      states.forEach(state => {
+        const data = statesData[state];
+        const item = document.createElement('div');
+        item.className = 'dropdown-item' + (selectedState === state ? ' selected' : '');
+        item.innerHTML = 
+          '<div class="item-icon">' + data.abbr.substring(0,2) + '</div>' +
+          '<div class="item-text">' +
+            '<div class="main">' + highlightMatch(state, filter) + '</div>' +
+            '<div class="sub">' + highlightMatch(data.abbr, filter) + '</div>' +
+          '</div>' +
+          '<span class="item-count">' + data.cities.length + ' ciudades</span>';
+        item.addEventListener('click', () => selectState(state));
+        stateOptions.appendChild(item);
+      });
+    }
+
+    function renderCities(filter = '') {
+      cityOptions.innerHTML = '';
+      let citiesToShow = [];
+      
+      if (selectedState) {
+        citiesToShow = statesData[selectedState].cities.map(city => ({
+          city, state: selectedState, abbr: statesData[selectedState].abbr
+        }));
+        cityDropdownHeader.textContent = 'Ciudades de ' + selectedState;
+      } else if (filter && filter.length >= 1) {
+        citiesToShow = getAllCitiesWithState();
+        cityDropdownHeader.textContent = 'Resultados de busqueda';
+      } else {
+        const popularCities = ['Ciudad de Mexico', 'Guadalajara', 'Monterrey', 'Puebla', 'Tijuana', 'Leon', 'Cancun', 'Merida', 'Queretaro', 'San Luis Potosi', 'Aguascalientes', 'Morelia', 'Chihuahua', 'Culiacan', 'Hermosillo', 'Acapulco', 'Veracruz', 'Oaxaca', 'Mazatlan', 'Toluca'];
+        citiesToShow = getAllCitiesWithState().filter(c => popularCities.includes(c.city));
+        cityDropdownHeader.textContent = 'Ciudades populares';
+      }
+      
+      const filtered = filter 
+        ? citiesToShow.filter(c => c.city.toLowerCase().includes(filter.toLowerCase()))
+        : citiesToShow;
+      
+      const limited = filtered.slice(0, 30);
+      
+      if (limited.length === 0) {
+        cityOptions.innerHTML = '<div class="dropdown-empty">No se encontraron ciudades</div>';
+        return;
+      }
+      
+      limited.forEach(({ city, state, abbr }) => {
+        const item = document.createElement('div');
+        item.className = 'dropdown-item';
+        const showState = !selectedState;
+        item.innerHTML = 
+          '<div class="item-icon">📍</div>' +
+          '<div class="item-text">' +
+            '<div class="main">' + highlightMatch(city, filter) + '</div>' +
+            (showState ? '<div class="sub">' + state + ' (' + abbr + ')</div>' : '') +
+          '</div>';
+        item.addEventListener('click', () => selectCity(city));
+        cityOptions.appendChild(item);
       });
       
-      // Limpiar campo de ciudad y enfocarlo
+      if (filter && filtered.length > 30) {
+        const moreDiv = document.createElement('div');
+        moreDiv.className = 'dropdown-empty';
+        moreDiv.textContent = '...y ' + (filtered.length - 30) + ' mas. Escribe para filtrar.';
+        cityOptions.appendChild(moreDiv);
+      }
+    }
+
+    function selectState(state) {
+      selectedState = state;
+      stateInput.value = state;
+      stateInput.parentElement.parentElement.classList.add('has-value');
+      stateDropdown.classList.remove('show');
+      renderCities();
       cityInput.value = '';
       cityInput.focus();
+    }
+
+    function selectCity(city) {
+      cityInput.value = city;
+      cityInput.parentElement.parentElement.classList.add('has-value');
+      cityDropdown.classList.remove('show');
+    }
+
+    stateInput.addEventListener('focus', () => {
+      renderStates(stateInput.value);
+      stateDropdown.classList.add('show');
+      cityDropdown.classList.remove('show');
     });
 
-    // Si escriben directamente en ciudad sin seleccionar estado, mostrar todas
-    cityInput.addEventListener('focus', function() {
-      if (!stateInput.value) {
-        // Restaurar todas las ciudades si no hay estado seleccionado
-        const allCities = Object.values(citiesByState).flat().sort();
-        const uniqueCities = [...new Set(allCities)];
-        citiesList.innerHTML = '';
-        uniqueCities.forEach(city => {
-          const option = document.createElement('option');
-          option.value = city;
-          citiesList.appendChild(option);
-        });
+    stateInput.addEventListener('input', () => {
+      renderStates(stateInput.value);
+      stateDropdown.classList.add('show');
+    });
+
+    stateClear.addEventListener('click', (e) => {
+      e.stopPropagation();
+      selectedState = null;
+      stateInput.value = '';
+      stateInput.parentElement.parentElement.classList.remove('has-value');
+      renderCities();
+    });
+
+    cityInput.addEventListener('focus', () => {
+      renderCities(cityInput.value);
+      cityDropdown.classList.add('show');
+      stateDropdown.classList.remove('show');
+    });
+
+    cityInput.addEventListener('input', () => {
+      renderCities(cityInput.value);
+      cityDropdown.classList.add('show');
+    });
+
+    cityClear.addEventListener('click', (e) => {
+      e.stopPropagation();
+      cityInput.value = '';
+      cityInput.parentElement.parentElement.classList.remove('has-value');
+    });
+
+    document.addEventListener('click', (e) => {
+      if (!e.target.closest('#stateSelect')) {
+        stateDropdown.classList.remove('show');
+      }
+      if (!e.target.closest('#citySelect')) {
+        cityDropdown.classList.remove('show');
       }
     });
+
+    renderStates();
+    renderCities();
+
+
+    // ========== DROPDOWN DE PROFESIONES ==========
+    
+    const categoriesData = {
+      'Servicios del Hogar': {
+        icon: '🏠',
+        items: ['Plomeros', 'Electricistas', 'Cerrajeros', 'Pintores', 'Carpinteros', 'Albaniles', 'Jardineros', 'Fumigadores', 'Impermeabilizadores', 'Aires acondicionados', 'Instaladores de gas', 'Herreros', 'Vidrieros', 'Tapiceros', 'Mudanzas', 'Limpieza de casas', 'Control de plagas', 'Plomeria', 'Instalaciones electricas', 'Remodelaciones', 'Pisos y azulejos', 'Canceleria de aluminio', 'Puertas y ventanas', 'Techos y laminas', 'Tinacos y cisternas']
+      },
+      'Salud y Medicina': {
+        icon: '🏥',
+        items: ['Medicos generales', 'Dentistas', 'Pediatras', 'Ginecologos', 'Cardiologos', 'Dermatologos', 'Oftalmologos', 'Traumatologos', 'Psicologos', 'Psiquiatras', 'Nutriologos', 'Quiropracticos', 'Fisioterapeutas', 'Veterinarios', 'Farmacias', 'Laboratorios clinicos', 'Clinicas', 'Hospitales', 'Opticas', 'Ortopedias', 'Consultorios medicos', 'Dentistas pediatricos', 'Ortodoncistas', 'Urologos', 'Neurologos', 'Geriatras', 'Medicina alternativa', 'Acupuntura', 'Homeopatia']
+      },
+      'Comida y Restaurantes': {
+        icon: '🍽️',
+        items: ['Restaurantes', 'Tacos', 'Taquerias', 'Mariscos', 'Pizzerias', 'Cafeterias', 'Pastelerias', 'Panaderias', 'Carnicerias', 'Tortillerias', 'Comida china', 'Comida japonesa', 'Sushi', 'Comida italiana', 'Birria', 'Pozole', 'Cocinas economicas', 'Food trucks', 'Bares', 'Antros', 'Discotecas', 'Hamburguesas', 'Hot dogs', 'Pollos asados', 'Buffet', 'Comida vegana', 'Comida vegetariana', 'Heladerias', 'Jugos y licuados', 'Cerveza artesanal']
+      },
+      'Belleza y Estetica': {
+        icon: '💇',
+        items: ['Salones de belleza', 'Barberias', 'Spas', 'Manicure', 'Pedicure', 'Unas acrilicas', 'Esteticas', 'Maquillistas', 'Depilacion', 'Tatuajes', 'Peluquerias caninas', 'Tratamientos faciales', 'Masajes', 'Extensiones de pestanas', 'Microblading', 'Botox', 'Tratamientos capilares', 'Cortes de cabello', 'Tintes y mechas']
+      },
+      'Automotriz': {
+        icon: '🚗',
+        items: ['Mecanicos', 'Talleres mecanicos', 'Refaccionarias', 'Llantas', 'Llanteras', 'Hojalateria y pintura', 'Autolavados', 'Agencias de autos', 'Autos usados', 'Gruas', 'Verificentros', 'Electromecanicos', 'Alineacion y balanceo', 'Frenos', 'Suspensiones', 'Clutch', 'Transmisiones', 'Aire acondicionado automotriz', 'Polarizado', 'Rines y llantas', 'Baterias', 'Mofles', 'Radiadores']
+      },
+      'Educacion': {
+        icon: '📚',
+        items: ['Escuelas primarias', 'Escuelas secundarias', 'Preparatorias', 'Universidades', 'Guarderias', 'Kinders', 'Clases de ingles', 'Escuelas de idiomas', 'Clases de musica', 'Academias de baile', 'Escuelas de manejo', 'Tutores', 'Clases particulares', 'Cursos de computacion', 'Escuelas de natacion', 'Clases de karate', 'Escuelas de cocina', 'Capacitacion empresarial']
+      },
+      'Servicios Profesionales': {
+        icon: '💼',
+        items: ['Abogados', 'Contadores', 'Notarios', 'Arquitectos', 'Ingenieros civiles', 'Disenadores graficos', 'Fotografos', 'Agentes de seguros', 'Agentes inmobiliarios', 'Consultores', 'Traductores', 'Detectives privados', 'Gestores', 'Asesores fiscales', 'Abogados de divorcios', 'Abogados penalistas', 'Abogados laborales', 'Valuadores', 'Peritos']
+      },
+      'Deportes y Fitness': {
+        icon: '🏋️',
+        items: ['Gimnasios', 'Yoga', 'Pilates', 'CrossFit', 'Albercas', 'Natacion', 'Canchas de futbol', 'Artes marciales', 'Box', 'Boxeo', 'Entrenadores personales', 'Zumba', 'Spinning', 'Tenis', 'Padel', 'Escalada', 'Ciclismo', 'Running clubs']
+      },
+      'Comercio y Tiendas': {
+        icon: '🛒',
+        items: ['Ferreterias', 'Papelerias', 'Tiendas de ropa', 'Zapaterias', 'Joyerias', 'Mueblerias', 'Tiendas de electronica', 'Celulares', 'Tiendas de mascotas', 'Florerias', 'Licorerias', 'Abarrotes', 'Supermercados', 'Tiendas de materiales', 'Telas y merceria', 'Jugueterias', 'Librerias', 'Tiendas de regalos', 'Boutiques', 'Tiendas deportivas']
+      },
+      'Eventos y Entretenimiento': {
+        icon: '🎉',
+        items: ['Salones de fiestas', 'DJ', 'Sonido', 'Organizadores de eventos', 'Payasos', 'Mariachis', 'Grupos musicales', 'Banquetes', 'Renta de mobiliario', 'Decoracion de eventos', 'Pinatas', 'Inflables', 'Quinceanerias', 'Bodas', 'Fotografos de eventos', 'Videografos', 'Catering', 'Iluminacion', 'Carpas y toldos']
+      },
+      'Tecnologia': {
+        icon: '💻',
+        items: ['Reparacion de computadoras', 'Reparacion de celulares', 'Desarrollo web', 'Soporte tecnico', 'Camaras de seguridad', 'Internet', 'Imprentas', 'Diseno web', 'Redes y cableado', 'Sistemas de alarmas', 'Domotica', 'Servidores', 'Software', 'Apps moviles', 'Marketing digital', 'Community manager', 'SEO']
+      },
+      'Construccion e Industria': {
+        icon: '🔧',
+        items: ['Constructoras', 'Soldadores', 'Torneros', 'Maquinaria pesada', 'Renta de andamios', 'Block y tabique', 'Concreto premezclado', 'Gruas industriales', 'Topografia', 'Demoliciones', 'Excavaciones', 'Estructuras metalicas', 'Prefabricados', 'Acabados', 'Impermeabilizantes']
+      }
+    };
+    
+    const businessInput = document.getElementById('businessType');
+    const businessDropdown = document.getElementById('businessDropdown');
+    const businessOptions = document.getElementById('businessOptions');
+    const businessClear = document.getElementById('businessClear');
+    const businessDropdownHeader = document.getElementById('businessDropdownHeader');
+    const businessSelect = document.getElementById('businessSelect');
+    
+    let selectedCategory = null;
+    
+    function getAllBusinessesWithCategory() {
+      const result = [];
+      for (const [category, data] of Object.entries(categoriesData)) {
+        for (const item of data.items) {
+          result.push({ name: item, category, icon: data.icon });
+        }
+      }
+      return result;
+    }
+    
+    function renderCategories(filter = '') {
+      businessOptions.innerHTML = '';
+      const categories = Object.keys(categoriesData).filter(c => 
+        c.toLowerCase().includes(filter.toLowerCase())
+      );
+      
+      if (categories.length === 0) {
+        businessOptions.innerHTML = '<div class="dropdown-empty">No se encontraron categorias</div>';
+        return;
+      }
+      
+      categories.forEach(category => {
+        const data = categoriesData[category];
+        const item = document.createElement('div');
+        item.className = 'dropdown-item' + (selectedCategory === category ? ' selected' : '');
+        item.innerHTML = 
+          '<div class="item-icon">' + data.icon + '</div>' +
+          '<div class="item-text">' +
+            '<div class="main">' + highlightMatch(category, filter) + '</div>' +
+            '<div class="sub">' + data.items.length + ' profesiones</div>' +
+          '</div>' +
+          '<span class="item-count">' + data.items.length + '</span>';
+        item.addEventListener('click', (e) => {
+          e.stopPropagation();
+          selectCategory(category);
+        });
+        businessOptions.appendChild(item);
+      });
+    }
+    
+    function renderBusinesses(filter = '') {
+      businessOptions.innerHTML = '';
+      let itemsToShow = [];
+      
+      if (selectedCategory) {
+        const data = categoriesData[selectedCategory];
+        itemsToShow = data.items.map(name => ({
+          name, category: selectedCategory, icon: data.icon
+        }));
+        businessDropdownHeader.textContent = selectedCategory;
+      } else if (filter && filter.length >= 1) {
+        itemsToShow = getAllBusinessesWithCategory();
+        businessDropdownHeader.textContent = 'Resultados de busqueda';
+      } else {
+        // Profesiones populares
+        const popular = ['Plomeros', 'Electricistas', 'Dentistas', 'Restaurantes', 'Tacos', 'Mecanicos', 'Abogados', 'Doctores', 'Gimnasios', 'Salones de belleza', 'Barberias', 'Farmacias', 'Veterinarios', 'Cerrajeros', 'Pintores', 'Contadores', 'Fotografos', 'Constructoras', 'Carpinteros', 'Jardineros'];
+        itemsToShow = getAllBusinessesWithCategory().filter(b => popular.includes(b.name));
+        businessDropdownHeader.textContent = 'Profesiones populares';
+      }
+      
+      const filtered = filter 
+        ? itemsToShow.filter(b => b.name.toLowerCase().includes(filter.toLowerCase()))
+        : itemsToShow;
+      
+      const limited = filtered.slice(0, 30);
+      
+      if (limited.length === 0) {
+        businessOptions.innerHTML = '<div class="dropdown-empty">No se encontraron resultados</div>';
+        
+        // Mostrar boton para ver categorias
+        if (!selectedCategory) {
+          const catBtn = document.createElement('div');
+          catBtn.className = 'dropdown-item';
+          catBtn.innerHTML = '<div class="item-icon">📂</div><div class="item-text"><div class="main">Ver todas las categorias</div></div>';
+          catBtn.addEventListener('click', () => {
+            businessInput.value = '';
+            renderCategories();
+          });
+          businessOptions.appendChild(catBtn);
+        }
+        return;
+      }
+      
+      limited.forEach(({ name, category, icon }) => {
+        const item = document.createElement('div');
+        item.className = 'dropdown-item';
+        const showCategory = !selectedCategory;
+        item.innerHTML = 
+          '<div class="item-icon">' + icon + '</div>' +
+          '<div class="item-text">' +
+            '<div class="main">' + highlightMatch(name, filter) + '</div>' +
+            (showCategory ? '<div class="sub">' + category + '</div>' : '') +
+          '</div>';
+        item.addEventListener('click', () => selectBusiness(name));
+        businessOptions.appendChild(item);
+      });
+      
+      if (filter && filtered.length > 30) {
+        const moreDiv = document.createElement('div');
+        moreDiv.className = 'dropdown-empty';
+        moreDiv.textContent = '...y ' + (filtered.length - 30) + ' mas. Escribe para filtrar.';
+        businessOptions.appendChild(moreDiv);
+      }
+      
+      // Boton para ver categorias si no hay filtro
+      if (!filter && !selectedCategory) {
+        const catBtn = document.createElement('div');
+        catBtn.className = 'dropdown-item';
+        catBtn.style.borderTop = '1px solid #e2e8f0';
+        catBtn.style.marginTop = '8px';
+        catBtn.style.paddingTop = '12px';
+        catBtn.innerHTML = '<div class="item-icon">📂</div><div class="item-text"><div class="main">Ver todas las categorias</div><div class="sub">12 categorias disponibles</div></div>';
+        catBtn.addEventListener('click', (e) => {
+          e.stopPropagation();
+          renderCategories();
+          businessDropdownHeader.textContent = 'Categorias';
+        });
+        businessOptions.appendChild(catBtn);
+      }
+      
+      // Boton para volver si hay categoria seleccionada
+      if (selectedCategory) {
+        const backBtn = document.createElement('div');
+        backBtn.className = 'dropdown-item';
+        backBtn.style.borderTop = '1px solid #e2e8f0';
+        backBtn.style.marginTop = '8px';
+        backBtn.style.paddingTop = '12px';
+        backBtn.innerHTML = '<div class="item-icon">←</div><div class="item-text"><div class="main">Volver a categorias</div></div>';
+        backBtn.addEventListener('click', (e) => {
+          e.stopPropagation();
+          selectedCategory = null;
+          renderCategories();
+          businessDropdownHeader.textContent = 'Categorias';
+        });
+        businessOptions.appendChild(backBtn);
+      }
+    }
+    
+    function selectCategory(category) {
+      selectedCategory = category;
+      renderBusinesses();
+    }
+    
+    function selectBusiness(name) {
+      businessInput.value = name;
+      businessSelect.classList.add('has-value');
+      businessDropdown.classList.remove('show');
+      selectedCategory = null;
+    }
+    
+    businessInput.addEventListener('focus', () => {
+      if (businessInput.value.length >= 1) {
+        renderBusinesses(businessInput.value);
+      } else {
+        renderBusinesses();
+      }
+      businessDropdown.classList.add('show');
+      stateDropdown.classList.remove('show');
+      cityDropdown.classList.remove('show');
+    });
+    
+    businessInput.addEventListener('input', () => {
+      selectedCategory = null;
+      renderBusinesses(businessInput.value);
+      businessDropdown.classList.add('show');
+    });
+    
+    businessClear.addEventListener('click', (e) => {
+      e.stopPropagation();
+      businessInput.value = '';
+      businessSelect.classList.remove('has-value');
+      selectedCategory = null;
+      renderBusinesses();
+    });
+    
+    document.addEventListener('click', (e) => {
+      if (!e.target.closest('#businessSelect')) {
+        businessDropdown.classList.remove('show');
+      }
+    });
+    
+    renderBusinesses();
+
   </script>
   <script src="app-advanced.js"></script>
 </body>

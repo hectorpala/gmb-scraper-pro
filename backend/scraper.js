@@ -464,6 +464,82 @@ export class GoogleMapsScraper {
       await context.close();
     }
   }
+
+  async preview(businessType, city, country, maxResults = 50) {
+    const browser = await getBrowser();
+    const context = browser.createBrowserContext
+      ? await browser.createBrowserContext()
+      : await browser.createIncognitoBrowserContext();
+    const page = await context.newPage();
+
+    await page.setRequestInterception(true);
+    page.on('request', (req) => {
+      const url = req.url();
+      const resourceType = req.resourceType();
+      if (BLOCKED_RESOURCES.includes(resourceType)) return req.abort();
+      if (BLOCKED_DOMAINS.some(domain => url.includes(domain))) return req.abort();
+      req.continue();
+    });
+
+    const userAgent = getRandomUserAgent();
+    await page.setUserAgent(userAgent);
+
+    try {
+      await page.setViewport({ width: 1400, height: 900 });
+      console.log('Preview:', businessType, 'en', city, country);
+
+      const query = encodeURIComponent(businessType + ' en ' + city + ', ' + country);
+      await page.goto('https://www.google.com/maps/search/' + query, {
+        waitUntil: 'domcontentloaded',
+        timeout: 30000
+      });
+
+      await page.waitForSelector('div[role="feed"]', { timeout: 10000 });
+
+      const blockCheck = await checkForBlock(page);
+      if (blockCheck.blocked) {
+        throw new Error('BLOQUEADO: ' + blockCheck.reason);
+      }
+
+      const acceptBtn = await page.$('button[aria-label*="Aceptar"], button[aria-label*="Accept"]');
+      if (acceptBtn) await acceptBtn.click().catch(() => {});
+
+      await smartScroll(page, maxResults);
+
+      const previewData = await page.evaluate((max) => {
+        const names = [];
+        const cards = document.querySelectorAll('div[role="feed"] a[href*="/maps/place/"]');
+
+        for (let i = 0; i < Math.min(cards.length, max); i++) {
+          const card = cards[i];
+          let name = null;
+
+          const selectors = ['.fontHeadlineSmall', '[class*="qBF1Pd"]', '[class*="fontHeadline"]'];
+          for (const sel of selectors) {
+            const el = card.querySelector(sel);
+            if (el && el.textContent && el.textContent.trim().length > 1) {
+              name = el.textContent.trim();
+              break;
+            }
+          }
+
+          if (!name) {
+            const ariaLabel = card.getAttribute('aria-label');
+            if (ariaLabel && ariaLabel.length > 1) name = ariaLabel;
+          }
+
+          if (name) names.push(name);
+        }
+        return { count: cards.length, sampleNames: names.slice(0, 5) };
+      }, maxResults);
+
+      console.log('Preview completado:', previewData.count, 'negocios encontrados');
+      return previewData;
+
+    } finally {
+      await context.close();
+    }
+  }
 }
 
 process.on('SIGINT', async () => {
