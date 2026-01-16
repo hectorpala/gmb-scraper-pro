@@ -1,0 +1,2233 @@
+{
+  "metadata": {
+    "query": {
+      "businessType": "electricistas",
+      "city": "mazatlan",
+      "country": "México"
+    },
+    "totalResults": 31,
+    "stats": {
+      "total": 31,
+      "withPhone": 31,
+      "withEmail": 4,
+      "withWebsite": 11,
+      "withInstagram": 1,
+      "withWhatsapp": 0
+    },
+    "exportedAt": "2026-01-16T06:28:36.240Z",
+    "version": "2.0"
+  },
+  "businesses": [
+    {
+      "position": 1,
+      "placeId": "0x86bcda19a671864d:0x36bc7457d2eefd7d",
+      "name": "Plomería y Electricidad Ruiz",
+      "rating": 3.4,
+      "reviewCount": 30,
+      "category": "Electricista",
+      "categories": [
+        "Electricista"
+      ],
+      "address": "Calle Constitución 318-Poniente, Jorge Almada, Juan Almada, 80000 Culiacán Rosales, Sin.",
+      "phone": "6677140006",
+      "website": "http://www.facebook.com/plomeria.ruiz.1",
+      "coordinates": {
+        "lat": 24.8250128,
+        "lng": -107.4392605
+      },
+      "plusCode": "QJX2+HJ Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Julio alfredo Venegas avendaño1 reseña",
+          "rating": null,
+          "text": "Y después andan llorando que no tienen trabajo que andan ocupados si le hablo tarde es por una urgencia y en ningún momento le regatie en precio",
+          "date": "Hace un mes"
+        },
+        {
+          "author": "Julio alfredo Venegas avendaño1 reseña",
+          "rating": null,
+          "text": "Y después andan llorando que no tienen trabajo que andan ocupados si le hablo tarde es por una urgencia y en ningún momento le regatie en precio",
+          "date": "Hace un mes"
+        },
+        {
+          "author": "jose adrian tapia serrano1 reseña",
+          "rating": null,
+          "text": "Dice 24 horas el servicio pero ya me cansé de llamar NO CONTESTA EL VERGA.  NO RECOMENDABLE",
+          "date": "Hace 6 meses"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Plomer%C3%ADa+y+Electricidad+Ruiz/@24.8250128,-107.4392605,12z/data=!4m10!1m2!2m1!1selectricistas+en+mazatlan,+M%C3%A9xico!3m6!1s0x86bcda19a671864d:0x36bc7457d2eefd7d!8m2!3d24.7989728!4d-107.3984907!15sCiJlbGVjdHJpY2lzdGFzIGVuIG1hemF0bGFuLCBNw6l4aWNvWiMiIWVsZWN0cmljaXN0YXMgZW4gbWF6YXRsYW4gbcOpeGljb5IBC2VsZWN0cmljaWFumgEjQ2haRFNVaE5NRzluUzBWSlEwRm5TVVJQYjE4elFVeFJFQUXgAQD6AQQIABAn!16s%2Fg%2F1tg5_1_q?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": "facebook.com/plomeria.ruiz.1",
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "electricistas",
+        "city": "mazatlan",
+        "country": "México",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T06:28:03.996Z"
+    },
+    {
+      "position": 2,
+      "placeId": "0x86bcdb8edc040577:0x2a678772e71e9e38",
+      "name": "Coseesa Eléctrica",
+      "rating": 4,
+      "reviewCount": 30,
+      "category": "Electricista",
+      "categories": [
+        "Electricista"
+      ],
+      "address": "Buscar en Google Maps, 80030, Agustina Ramírez 1569, Gabriel Leyva, 80030 Culiacán Rosales, Sin.",
+      "phone": "6677121042",
+      "website": "http://www.coseesaelectrica.com/",
+      "coordinates": {
+        "lat": 24.8214067,
+        "lng": -107.5496334
+      },
+      "plusCode": "RJC3+H4 Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Juan de Dios Perez Arellano9 reseñas · 3 fotos",
+          "rating": 4,
+          "text": "Me parecio buen ubicar una antigua ex. Casa",
+          "date": "Hace un año"
+        },
+        {
+          "author": "Juan de Dios Perez Arellano9 reseñas · 3 fotos",
+          "rating": 4,
+          "text": "Me parecio buen ubicar una antigua ex. Casa",
+          "date": "Hace un año"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Coseesa+El%C3%A9ctrica/@24.8214067,-107.5496334,12z/data=!4m10!1m2!2m1!1selectricistas+en+mazatlan,+M%C3%A9xico!3m6!1s0x86bcdb8edc040577:0x2a678772e71e9e38!8m2!3d24.8214067!4d-107.3971981!15sCiJlbGVjdHJpY2lzdGFzIGVuIG1hemF0bGFuLCBNw6l4aWNvWiMiIWVsZWN0cmljaXN0YXMgZW4gbWF6YXRsYW4gbcOpeGljb5IBC2VsZWN0cmljaWFumgEjQ2haRFNVaE5NRzluUzBWSlEwRm5TVVJRYW05WFNXVlJFQUXgAQD6AQQIABAm!16s%2Fg%2F11jjkftj8f?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "electricistas",
+        "city": "mazatlan",
+        "country": "México",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T06:28:08.205Z"
+    },
+    {
+      "position": 3,
+      "placeId": "0x869f53a6f5bd3fcb:0xd9dbac1c875abdec",
+      "name": "Servicios cristerna plomeria y electricidad",
+      "rating": 4.8,
+      "reviewCount": 30,
+      "category": "Electricista",
+      "categories": [
+        "Electricista"
+      ],
+      "address": "Juan escutia #1221 esq, C. Jorge Negrete Col, Benito Juárez, 82180 Mazatlán, Sin.",
+      "phone": "6692705016",
+      "website": null,
+      "coordinates": {
+        "lat": 24.8214067,
+        "lng": -107.5496334
+      },
+      "plusCode": "6HMV+WR Mazatlán, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Ariadna Serrano5 reseñas · 1 foto",
+          "rating": 5,
+          "text": "Excelente atención, amabilidad y muy profesionales en su trabajo. Respuesta inmediata y soluciones prontas y acertadas. Trabajos garantizados y bien hechos. Los recomiendo ampliamente.",
+          "date": "Hace 3 meses"
+        },
+        {
+          "author": "Ariadna Serrano5 reseñas · 1 foto",
+          "rating": 5,
+          "text": "Excelente atención, amabilidad y muy profesionales en su trabajo. Respuesta inmediata y soluciones prontas y acertadas. Trabajos garantizados y bien hechos. Los recomiendo ampliamente.",
+          "date": "Hace 3 meses"
+        },
+        {
+          "author": "Enner Garcia RodriguezLocal Guide · 73 reseñas · 5 fotos",
+          "rating": 5,
+          "text": "Servicio profesional, atención inmediata, excelente trato",
+          "date": "Hace 11 meses"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Servicios+cristerna+plomeria+y+electricidad/@24.8214067,-107.5496334,12z/data=!4m10!1m2!2m1!1selectricistas+en+mazatlan,+M%C3%A9xico!3m6!1s0x869f53a6f5bd3fcb:0xd9dbac1c875abdec!8m2!3d23.2348734!4d-106.4054799!15sCiJlbGVjdHJpY2lzdGFzIGVuIG1hemF0bGFuLCBNw6l4aWNvWiMiIWVsZWN0cmljaXN0YXMgZW4gbWF6YXRsYW4gbcOpeGljb5IBC2VsZWN0cmljaWFumgEjQ2haRFNVaE5NRzluUzBWSlEwRm5TVU5tT1hSbFJHWlJFQUXgAQD6AQQIABAS!16s%2Fg%2F11jn535rv6?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "electricistas",
+        "city": "mazatlan",
+        "country": "México",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T06:28:08.736Z"
+    },
+    {
+      "position": 4,
+      "placeId": "0x86bcd74c1d7f994d:0x6ec386badc5f5976",
+      "name": "Grupo Eléctrico Del Noroeste - Material Eléctrico e Iluminación LED | Eléctrica En Culiacán",
+      "rating": 5,
+      "reviewCount": 30,
+      "category": "Electricista",
+      "categories": [
+        "Electricista"
+      ],
+      "address": "José, Gral. José Aguilar Barraza 85-Oriente, Miguel Alemán, 80200 Culiacán Rosales, Sin.",
+      "phone": "6674188115",
+      "website": "https://grupoelectrico.com.mx/",
+      "coordinates": {
+        "lat": 23.2348734,
+        "lng": -106.5579152
+      },
+      "plusCode": null,
+      "hours": "Cerrado · Abre a las 8 a.m. del vie",
+      "hoursDetailed": [],
+      "isOpenNow": false,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [],
+      "profileUrl": "https://www.google.com/maps/place/Grupo+El%C3%A9ctrico+Del+Noroeste+-+Material+El%C3%A9ctrico+e+Iluminaci%C3%B3n+LED+%7C+El%C3%A9ctrica+En+Culiac%C3%A1n/@23.2348734,-106.5579152,12z/data=!4m10!1m2!2m1!1selectricistas+en+mazatlan,+M%C3%A9xico!3m6!1s0x86bcd74c1d7f994d:0x6ec386badc5f5976!8m2!3d24.8003599!4d-107.3903351!15sCiJlbGVjdHJpY2lzdGFzIGVuIG1hemF0bGFuLCBNw6l4aWNvWiMiIWVsZWN0cmljaXN0YXMgZW4gbWF6YXRsYW4gbcOpeGljb5IBF2VsZWN0cmljYWxfc3VwcGx5X3N0b3JlmgEjQ2haRFNVaE5NRzluUzBWSlEwRm5TVU5LTVZCNWVGVm5FQUXgAQD6AQQIABBJ!16s%2Fg%2F1thw_wwn?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": "atencion@grupoelectrico.com.mx",
+      "allEmails": [
+        "atencion@grupoelectrico.com.mx",
+        "contacto@grupoelectrico.com.mx"
+      ],
+      "socialMedia": {
+        "instagram": "instagram.com/grupoelectricodelnoroeste",
+        "facebook": "facebook.com/grupoelectricodelnoroeste",
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": "linkedin.com/company/gpoelectrico",
+        "youtube": "youtube.com/channel/UC8RX6Rn0HEN4RhRXyvTPPMQ",
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "electricistas",
+        "city": "mazatlan",
+        "country": "México",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T06:28:10.920Z"
+    },
+    {
+      "position": 5,
+      "placeId": "0x869f52dd84ce3d6b:0x15160747ad41a91",
+      "name": "Nicolas Mojica (electricista)",
+      "rating": 5,
+      "reviewCount": 30,
+      "category": "Electricista",
+      "categories": [
+        "Electricista"
+      ],
+      "address": "82190, Ricardo Flores Magón, 82190 Mazatlán, Sin.",
+      "phone": "6691585649",
+      "website": null,
+      "coordinates": {
+        "lat": 24.8003599,
+        "lng": -107.5427704
+      },
+      "plusCode": "6JW7+JR Mazatlán, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Antonio VerdugoLocal Guide · 51 reseñas · 279 fotos",
+          "rating": 5,
+          "text": "Buen servicio me cambio cableado, instalo contactos, muy profesional y precios moderados",
+          "date": "Hace 6 años"
+        },
+        {
+          "author": "Antonio VerdugoLocal Guide · 51 reseñas · 279 fotos",
+          "rating": 5,
+          "text": "Buen servicio me cambio cableado, instalo contactos, muy profesional y precios moderados",
+          "date": "Hace 6 años"
+        },
+        {
+          "author": "Norma HermosilloLocal Guide · 43 reseñas · 24 fotos",
+          "rating": 5,
+          "text": "Gracias Norma Hermosillo, estamos para servirle.",
+          "date": "Hace 5 años"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Nicolas+Mojica+(electricista)/@24.8003599,-107.5427704,12z/data=!4m10!1m2!2m1!1selectricistas+en+mazatlan,+M%C3%A9xico!3m6!1s0x869f52dd84ce3d6b:0x15160747ad41a91!8m2!3d23.2465866!4d-106.3853771!15sCiJlbGVjdHJpY2lzdGFzIGVuIG1hemF0bGFuLCBNw6l4aWNvkgELZWxlY3RyaWNpYW7gAQA!16s%2Fg%2F1tpbcdyj?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "electricistas",
+        "city": "mazatlan",
+        "country": "México",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T06:28:11.451Z"
+    },
+    {
+      "position": 6,
+      "placeId": "0x869f5399f63b8fd3:0x3178831e40e341a5",
+      "name": "Instalaciones Eléctricas Aramburo",
+      "rating": 4.9,
+      "reviewCount": 30,
+      "category": "Electricista",
+      "categories": [
+        "Electricista"
+      ],
+      "address": null,
+      "phone": "6691108203",
+      "website": null,
+      "coordinates": {
+        "lat": 23.2465866,
+        "lng": -106.5378124
+      },
+      "plusCode": null,
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Alejandro EspinozaLocal Guide · 105 reseñas · 25 fotos",
+          "rating": 5,
+          "text": "Excelente servicio, acudieron muy rápido, evidentemente si entienden lo que es urgencia",
+          "date": "Hace 4 años"
+        },
+        {
+          "author": "Alejandro EspinozaLocal Guide · 105 reseñas · 25 fotos",
+          "rating": 5,
+          "text": "Excelente servicio, acudieron muy rápido, evidentemente si entienden lo que es urgencia",
+          "date": "Hace 4 años"
+        },
+        {
+          "author": "alfonso ramirez2 reseñas",
+          "rating": 5,
+          "text": "Cobra el precio justo para el buen trabajo que hace con  calidad.Aspectos positivos… Más",
+          "date": "Hace 5 años"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Instalaciones+El%C3%A9ctricas+Aramburo/@23.2465866,-106.5378124,12z/data=!4m10!1m2!2m1!1selectricistas+en+mazatlan,+M%C3%A9xico!3m6!1s0x869f5399f63b8fd3:0x3178831e40e341a5!8m2!3d23.2473025!4d-106.4082259!15sCiJlbGVjdHJpY2lzdGFzIGVuIG1hemF0bGFuLCBNw6l4aWNvkgELZWxlY3RyaWNpYW7gAQA!16s%2Fg%2F1tm0tln0?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "electricistas",
+        "city": "mazatlan",
+        "country": "México",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T06:28:11.786Z"
+    },
+    {
+      "position": 7,
+      "placeId": "0x869f52c5f2a8d319:0x49ce8a9df34debd6",
+      "name": "Instalaciones Eléctricas",
+      "rating": 5,
+      "reviewCount": 30,
+      "category": "Electricista",
+      "categories": [
+        "Electricista"
+      ],
+      "address": "Av. del Sol 5804, Esperanza, 82180 Mazatlán, Sin.",
+      "phone": "6699846784",
+      "website": null,
+      "coordinates": {
+        "lat": 23.2465866,
+        "lng": -106.5378124
+      },
+      "plusCode": null,
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Joe NavarroLocal Guide · 11 reseñas",
+          "rating": 5,
+          "text": null,
+          "date": "Hace 5 años"
+        },
+        {
+          "author": "Joe NavarroLocal Guide · 11 reseñas",
+          "rating": 5,
+          "text": null,
+          "date": "Hace 5 años"
+        },
+        {
+          "author": "Jose Vazquez",
+          "rating": 5,
+          "text": null,
+          "date": "Hace 6 años"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Instalaciones+El%C3%A9ctricas/@23.2465866,-106.5378124,12z/data=!4m10!1m2!2m1!1selectricistas+en+mazatlan,+M%C3%A9xico!3m6!1s0x869f52c5f2a8d319:0x49ce8a9df34debd6!8m2!3d23.2575593!4d-106.3772697!15sCiJlbGVjdHJpY2lzdGFzIGVuIG1hemF0bGFuLCBNw6l4aWNvkgELZWxlY3RyaWNpYW7gAQA!16s%2Fg%2F1td_z0pw?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "electricistas",
+        "city": "mazatlan",
+        "country": "México",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T06:28:12.121Z"
+    },
+    {
+      "position": 8,
+      "placeId": "0x869f533c77779edb:0xb42a4ec46f1b79cc",
+      "name": "Servicios de Electricidad",
+      "rating": 5,
+      "reviewCount": 30,
+      "category": "Electricista",
+      "categories": [
+        "Electricista"
+      ],
+      "address": "Tucan 303, Francisco Alarcón, 82132 Mazatlán, Sin.",
+      "phone": "6694314662",
+      "website": "https://servicios-de-electricidad.ueniweb.com/?utm_campaign=gmb",
+      "coordinates": {
+        "lat": 23.2465866,
+        "lng": -106.5378124
+      },
+      "plusCode": null,
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [],
+      "profileUrl": "https://www.google.com/maps/place/Servicios+de+Electricidad/@23.2465866,-106.5378124,12z/data=!4m10!1m2!2m1!1selectricistas+en+mazatlan,+M%C3%A9xico!3m6!1s0x869f533c77779edb:0xb42a4ec46f1b79cc!8m2!3d23.2721208!4d-106.4121677!15sCiJlbGVjdHJpY2lzdGFzIGVuIG1hemF0bGFuLCBNw6l4aWNvkgELZWxlY3RyaWNpYW7gAQA!16s%2Fg%2F11ft194_47?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": "chuyitomartin@hotmail.com",
+      "allEmails": [
+        "chuyitomartin@hotmail.com"
+      ],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": "facebook.com/share.php",
+        "twitter": "twitter.com/intent",
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "electricistas",
+        "city": "mazatlan",
+        "country": "México",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T06:28:13.475Z"
+    },
+    {
+      "position": 9,
+      "placeId": "0x869f53c1e8cf3655:0x7953b0f5f92c112c",
+      "name": "Preyc Electricidad",
+      "rating": 5,
+      "reviewCount": 30,
+      "category": "Electricista",
+      "categories": [
+        "Electricista"
+      ],
+      "address": "Marsella 16001, Costa Azul, 82164 Mazatlán, Sin.",
+      "phone": "6691557158",
+      "website": "http://preycelectricidad.com/",
+      "coordinates": {
+        "lat": 23.2465866,
+        "lng": -106.5378124
+      },
+      "plusCode": null,
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [],
+      "profileUrl": "https://www.google.com/maps/place/Preyc+Electricidad/@23.2465866,-106.5378124,12z/data=!4m10!1m2!2m1!1selectricistas+en+mazatlan,+M%C3%A9xico!3m6!1s0x869f53c1e8cf3655:0x7953b0f5f92c112c!8m2!3d23.259285!4d-106.392822!15sCiJlbGVjdHJpY2lzdGFzIGVuIG1hemF0bGFuLCBNw6l4aWNvkgELZWxlY3RyaWNpYW7gAQA!16s%2Fg%2F11fjzblpnl?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "electricistas",
+        "city": "mazatlan",
+        "country": "México",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T06:28:14.837Z"
+    },
+    {
+      "position": 10,
+      "placeId": "0x869f53cf203b7c0d:0x7eccf09a173e0d8",
+      "name": "ELECTRICIDAD INDUSTRIAL SÁNCHEZ",
+      "rating": null,
+      "reviewCount": 30,
+      "category": "Servicio de instalación eléctrica",
+      "categories": [
+        "Servicio de instalación eléctrica"
+      ],
+      "address": "Corl. Trillo 18, Francisco Villa, 82127 Mazatlán, Sin.",
+      "phone": "6691493148",
+      "website": null,
+      "coordinates": {
+        "lat": 23.2465866,
+        "lng": -106.5378124
+      },
+      "plusCode": "7H4F+WF Mazatlán, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [],
+      "profileUrl": "https://www.google.com/maps/place/ELECTRICIDAD+INDUSTRIAL+S%C3%81NCHEZ/@23.2465866,-106.5378124,12z/data=!4m10!1m2!2m1!1selectricistas+en+mazatlan,+M%C3%A9xico!3m6!1s0x869f53cf203b7c0d:0x7eccf09a173e0d8!8m2!3d23.2572662!4d-106.4262837!15sCiJlbGVjdHJpY2lzdGFzIGVuIG1hemF0bGFuLCBNw6l4aWNvkgEfZWxlY3RyaWNhbF9pbnN0YWxsYXRpb25fc2VydmljZeABAA!16s%2Fg%2F11msdngkkp?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "electricistas",
+        "city": "mazatlan",
+        "country": "México",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T06:28:15.371Z"
+    },
+    {
+      "position": 11,
+      "placeId": "0x1407af10f153f2c9:0x19b7799139a42424",
+      "name": "HERRERIA Y ELECTRICIDAD Betoncourt",
+      "rating": 5,
+      "reviewCount": 30,
+      "category": "Electricista",
+      "categories": [
+        "Electricista"
+      ],
+      "address": "Circunvalación 91-Int. B, Benito Juárez, 82180 Mazatlán, Sin.",
+      "phone": "6699835136",
+      "website": null,
+      "coordinates": {
+        "lat": 23.2465866,
+        "lng": -106.5378124
+      },
+      "plusCode": "6HGR+77 Mazatlán, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Emily Lizarraga Solano2 reseñas · 1 foto",
+          "rating": 5,
+          "text": null,
+          "date": "Hace 2 años"
+        },
+        {
+          "author": "Emily Lizarraga Solano2 reseñas · 1 foto",
+          "rating": 5,
+          "text": null,
+          "date": "Hace 2 años"
+        },
+        {
+          "author": "Juan Betancourt",
+          "rating": 5,
+          "text": null,
+          "date": "Hace 7 años"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/HERRERIA+Y+ELECTRICIDAD+Betoncourt/@23.2465866,-106.5378124,12z/data=!4m10!1m2!2m1!1selectricistas+en+mazatlan,+M%C3%A9xico!3m6!1s0x1407af10f153f2c9:0x19b7799139a42424!8m2!3d23.225674!4d-106.4093609!15sCiJlbGVjdHJpY2lzdGFzIGVuIG1hemF0bGFuLCBNw6l4aWNvkgELZWxlY3RyaWNpYW7gAQA!16s%2Fg%2F11b7cgkj2j?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "electricistas",
+        "city": "mazatlan",
+        "country": "México",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T06:28:15.847Z"
+    },
+    {
+      "position": 12,
+      "placeId": "0x869f53b619404a7f:0x848275c3d979215c",
+      "name": "ELECTRICISTA EN MAZATLAN EXPRESS",
+      "rating": null,
+      "reviewCount": 30,
+      "category": "Electricista",
+      "categories": [
+        "Electricista"
+      ],
+      "address": "El Toreo 111-84, Azalea, 82120 Mazatlán, Sin.",
+      "phone": "6692304121",
+      "website": null,
+      "coordinates": {
+        "lat": 23.2465866,
+        "lng": -106.5378124
+      },
+      "plusCode": "6HX6+9H Mazatlán, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [],
+      "profileUrl": "https://www.google.com/maps/place/ELECTRICISTA+EN+MAZATLAN+EXPRESS/@23.2465866,-106.5378124,12z/data=!4m10!1m2!2m1!1selectricistas+en+mazatlan,+M%C3%A9xico!3m6!1s0x869f53b619404a7f:0x848275c3d979215c!8m2!3d23.2484076!4d-106.4386202!15sCiJlbGVjdHJpY2lzdGFzIGVuIG1hemF0bGFuLCBNw6l4aWNvkgELZWxlY3RyaWNpYW7gAQA!16s%2Fg%2F11yk5vg4jn?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "electricistas",
+        "city": "mazatlan",
+        "country": "México",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T06:28:16.319Z"
+    },
+    {
+      "position": 13,
+      "placeId": "0x869f53174b8edbed:0x74dba8ce4a14ac2f",
+      "name": "Multiservicios Santana",
+      "rating": 4,
+      "reviewCount": 30,
+      "category": "Electricista",
+      "categories": [
+        "Electricista"
+      ],
+      "address": "Montes de Oca 921, Juárez, 82120 Mazatlán, Sin.",
+      "phone": "6699863726",
+      "website": null,
+      "coordinates": {
+        "lat": 23.2465866,
+        "lng": -106.5378124
+      },
+      "plusCode": "6HQV+CC Mazatlán, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Fernando QuinteroLocal Guide · 15 reseñas · 12 fotos",
+          "rating": 4,
+          "text": null,
+          "date": "Hace 8 años"
+        },
+        {
+          "author": "Fernando QuinteroLocal Guide · 15 reseñas · 12 fotos",
+          "rating": 4,
+          "text": null,
+          "date": "Hace 8 años"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Multiservicios+Santana/@23.2465866,-106.5378124,12z/data=!4m10!1m2!2m1!1selectricistas+en+mazatlan,+M%C3%A9xico!3m6!1s0x869f53174b8edbed:0x74dba8ce4a14ac2f!8m2!3d23.2386128!4d-106.4064318!15sCiJlbGVjdHJpY2lzdGFzIGVuIG1hemF0bGFuLCBNw6l4aWNvkgELZWxlY3RyaWNpYW7gAQA!16s%2Fg%2F1tfgdp30?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "electricistas",
+        "city": "mazatlan",
+        "country": "México",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T06:28:16.863Z"
+    },
+    {
+      "position": 14,
+      "placeId": "0x8698adead4503341:0x40118091ebeda337",
+      "name": "Elemf",
+      "rating": 4,
+      "reviewCount": 30,
+      "category": "Electricista",
+      "categories": [
+        "Electricista"
+      ],
+      "address": "18321, Fraccionamiento Pradera Dorada, ll, 82139 Mazatlán, Sin.",
+      "phone": "6692147067",
+      "website": null,
+      "coordinates": {
+        "lat": 23.2465866,
+        "lng": -106.5378124
+      },
+      "plusCode": "7JFG+MG Mazatlán, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [
+        "Se identifica como mujer empresaria"
+      ],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Vicky Zans4 reseñas",
+          "rating": 5,
+          "text": "Excelente trato, servicio,  calidad en su trabajo y muy responsables. Estoy muy contenta los recomiendo ampliamente. Más",
+          "date": "Hace 2 años"
+        },
+        {
+          "author": "Vicky Zans4 reseñas",
+          "rating": 5,
+          "text": "Excelente trato, servicio,  calidad en su trabajo y muy responsables. Estoy muy contenta los recomiendo ampliamente. Más",
+          "date": "Hace 2 años"
+        },
+        {
+          "author": "Gilberto Bibriesca4 reseñas",
+          "rating": null,
+          "text": null,
+          "date": "Hace 2 meses"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Elemf/@23.2465866,-106.5378124,12z/data=!4m10!1m2!2m1!1selectricistas+en+mazatlan,+M%C3%A9xico!3m6!1s0x8698adead4503341:0x40118091ebeda337!8m2!3d23.2741993!4d-106.3737322!15sCiJlbGVjdHJpY2lzdGFzIGVuIG1hemF0bGFuLCBNw6l4aWNvWiMiIWVsZWN0cmljaXN0YXMgZW4gbWF6YXRsYW4gbcOpeGljb5IBC2VsZWN0cmljaWFumgEjQ2haRFNVaE5NRzluUzBWSlEwRm5TVU5LZEdOcFJsZDNFQUXgAQD6AQQIABBF!16s%2Fg%2F11gsfmmh5y?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "electricistas",
+        "city": "mazatlan",
+        "country": "México",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T06:28:17.392Z"
+    },
+    {
+      "position": 15,
+      "placeId": "0x869f53584e12fbf5:0xea25ee66d0200bb1",
+      "name": "Soluciones Eléctricas Emx",
+      "rating": null,
+      "reviewCount": 30,
+      "category": "Electricista",
+      "categories": [
+        "Electricista"
+      ],
+      "address": "Luis Castro 110, El Toreo, 82120 Mazatlán, Sin.",
+      "phone": "6691027710",
+      "website": null,
+      "coordinates": {
+        "lat": 23.2465866,
+        "lng": -106.5378124
+      },
+      "plusCode": "7H26+5R Mazatlán, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [],
+      "profileUrl": "https://www.google.com/maps/place/Soluciones+El%C3%A9ctricas+Emx/@23.2465866,-106.5378124,12z/data=!4m10!1m2!2m1!1selectricistas+en+mazatlan,+M%C3%A9xico!3m6!1s0x869f53584e12fbf5:0xea25ee66d0200bb1!8m2!3d23.2504288!4d-106.4379849!15sCiJlbGVjdHJpY2lzdGFzIGVuIG1hemF0bGFuLCBNw6l4aWNvkgELZWxlY3RyaWNpYW7gAQA!16s%2Fg%2F12j4_q7v6?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "electricistas",
+        "city": "mazatlan",
+        "country": "México",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T06:28:17.853Z"
+    },
+    {
+      "position": 16,
+      "placeId": "0x869f5396c0b9262f:0xf3683a6bdd0f20ca",
+      "name": "Solar Iluminación y Construcción",
+      "rating": 4.9,
+      "reviewCount": 30,
+      "category": "Electricista",
+      "categories": [
+        "Electricista"
+      ],
+      "address": "C. Benito Juárez 2006, Centro, 82000 Mazatlán, Sin.",
+      "phone": "6699813223",
+      "website": "http://solargi.net/",
+      "coordinates": {
+        "lat": 23.2465866,
+        "lng": -106.5378124
+      },
+      "plusCode": "6H3H+C8 Mazatlán, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [
+        "Amigable con LGBTQ+"
+      ],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "bety chavez2 reseñas",
+          "rating": 5,
+          "text": "Muy accesibles y amables. Tienen variedad en productos y si buscas algo en específico ellos lo consiguen.",
+          "date": "Hace 4 años"
+        },
+        {
+          "author": "bety chavez2 reseñas",
+          "rating": 5,
+          "text": "Muy accesibles y amables. Tienen variedad en productos y si buscas algo en específico ellos lo consiguen.",
+          "date": "Hace 4 años"
+        },
+        {
+          "author": "IAES AutomotrizLocal Guide · 44 reseñas · 37 fotos",
+          "rating": 5,
+          "text": "Gran variedad de articulos de ilumincion y ventilacion\nExcelente atencion",
+          "date": "Hace 4 años"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Solar+Iluminaci%C3%B3n+y+Construcci%C3%B3n/@23.2465866,-106.5378124,12z/data=!4m10!1m2!2m1!1selectricistas+en+mazatlan,+M%C3%A9xico!3m6!1s0x869f5396c0b9262f:0xf3683a6bdd0f20ca!8m2!3d23.2035028!4d-106.4217312!15sCiJlbGVjdHJpY2lzdGFzIGVuIG1hemF0bGFuLCBNw6l4aWNvWiMiIWVsZWN0cmljaXN0YXMgZW4gbWF6YXRsYW4gbcOpeGljb5IBC2VsZWN0cmljaWFumgEkQ2hkRFNVaE5NRzluUzBWSlEwRm5UVU52Y1U5RVNuZFJSUkFC4AEA-gEECAAQEA!16s%2Fg%2F1vcq80lr?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": "facebook.com/profile.php",
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "electricistas",
+        "city": "mazatlan",
+        "country": "México",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T06:28:20.929Z"
+    },
+    {
+      "position": 17,
+      "placeId": "0x869f53b68e73df99:0xfb56c23bc96307b4",
+      "name": "Electrica Zepeda",
+      "rating": 5,
+      "reviewCount": 30,
+      "category": "Electricista",
+      "categories": [
+        "Electricista"
+      ],
+      "address": "Av de las Américas 1107, Benito Juárez, 82180 Mazatlán, Sin.",
+      "phone": "6695652932",
+      "website": null,
+      "coordinates": {
+        "lat": 23.2465866,
+        "lng": -106.5378124
+      },
+      "plusCode": "6HMW+7P Mazatlán, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "GERALDINE MONSERRAT PERAZA ZAZUETA4 reseñas · 1 foto",
+          "rating": 5,
+          "text": "Buena atención, encontré lo que buscaba",
+          "date": "Hace 2 días Nueva"
+        },
+        {
+          "author": "GERALDINE MONSERRAT PERAZA ZAZUETA4 reseñas · 1 foto",
+          "rating": 5,
+          "text": "Buena atención, encontré lo que buscaba",
+          "date": "Hace 2 días Nueva"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Electrica+Zepeda/@23.2465866,-106.5378124,12z/data=!4m10!1m2!2m1!1selectricistas+en+mazatlan,+M%C3%A9xico!3m6!1s0x869f53b68e73df99:0xfb56c23bc96307b4!8m2!3d23.2331459!4d-106.4031895!15sCiJlbGVjdHJpY2lzdGFzIGVuIG1hemF0bGFuLCBNw6l4aWNvkgELZWxlY3RyaWNpYW7gAQA!16s%2Fg%2F11ysbs1nyg?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "electricistas",
+        "city": "mazatlan",
+        "country": "México",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T06:28:21.471Z"
+    },
+    {
+      "position": 18,
+      "placeId": "0x869f530c496c64b7:0x972129b4ec909822",
+      "name": "Anrob Comunicaciones Mzt",
+      "rating": 5,
+      "reviewCount": 30,
+      "category": "Electricista",
+      "categories": [
+        "Electricista"
+      ],
+      "address": "Princesa Mir 20820, Urbivilla del Real, 82090 Mazatlán, Sin.",
+      "phone": "6699400288",
+      "website": "https://www.anrobcomunicacionesmzt.com.mx/",
+      "coordinates": {
+        "lat": 23.2465866,
+        "lng": -106.5378124
+      },
+      "plusCode": "6J9M+75 Mazatlán, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "NEXUS2 reseñas · 5 fotos",
+          "rating": 5,
+          "text": "Hola busco amigos 🌈…",
+          "date": "Hace un año"
+        },
+        {
+          "author": "NEXUS2 reseñas · 5 fotos",
+          "rating": 5,
+          "text": "Hola busco amigos 🌈…",
+          "date": "Hace un año"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Anrob+Comunicaciones+Mzt/@23.2465866,-106.5378124,12z/data=!4m10!1m2!2m1!1selectricistas+en+mazatlan,+M%C3%A9xico!3m6!1s0x869f530c496c64b7:0x972129b4ec909822!8m2!3d23.2181778!4d-106.367073!15sCiJlbGVjdHJpY2lzdGFzIGVuIG1hemF0bGFuLCBNw6l4aWNvkgELZWxlY3RyaWNpYW7gAQA!16s%2Fg%2F11t6v9hkk_?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": "anrobcomunicaciones@hotmail.com",
+      "allEmails": [
+        "anrobcomunicaciones@hotmail.com"
+      ],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "electricistas",
+        "city": "mazatlan",
+        "country": "México",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T06:28:23.856Z"
+    },
+    {
+      "position": 19,
+      "placeId": "0x869f53429645da85:0xe030339297cc7eeb",
+      "name": "Proyectos y Tecnología Avanzada",
+      "rating": 3,
+      "reviewCount": 30,
+      "category": "Electricista",
+      "categories": [
+        "Electricista"
+      ],
+      "address": "Estado de Occidente 1239, Sanchez Celis, 82120 Mazatlán, Sin.",
+      "phone": "6699841916",
+      "website": null,
+      "coordinates": {
+        "lat": 23.2465866,
+        "lng": -106.5378124
+      },
+      "plusCode": "6HVF+54 Mazatlán, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Jose Luis Gutiérrez7 reseñas",
+          "rating": 5,
+          "text": "Por su cooperación",
+          "date": "Hace 5 años"
+        },
+        {
+          "author": "Jose Luis Gutiérrez7 reseñas",
+          "rating": 5,
+          "text": "Por su cooperación",
+          "date": "Hace 5 años"
+        },
+        {
+          "author": "Carol Nuñez1 reseña",
+          "rating": null,
+          "text": null,
+          "date": "Hace 6 años"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Proyectos+y+Tecnolog%C3%ADa+Avanzada/@23.2465866,-106.5378124,12z/data=!4m10!1m2!2m1!1selectricistas+en+mazatlan,+M%C3%A9xico!3m6!1s0x869f53429645da85:0xe030339297cc7eeb!8m2!3d23.2429481!4d-106.4271941!15sCiJlbGVjdHJpY2lzdGFzIGVuIG1hemF0bGFuLCBNw6l4aWNvkgELZWxlY3RyaWNpYW7gAQA!16s%2Fg%2F1td1kf67?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "electricistas",
+        "city": "mazatlan",
+        "country": "México",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T06:28:24.387Z"
+    },
+    {
+      "position": 20,
+      "placeId": "0x869f54a3e7900b47:0x4b621c86454e6b6",
+      "name": "Smar México",
+      "rating": null,
+      "reviewCount": 30,
+      "category": "Electricista",
+      "categories": [
+        "Electricista"
+      ],
+      "address": "Cerro de los Cubiletes 140, Lomas de Mazatlán, 82110 Mazatlán, Sin.",
+      "phone": "6699133296",
+      "website": null,
+      "coordinates": {
+        "lat": 23.2465866,
+        "lng": -106.5378124
+      },
+      "plusCode": "6HV3+M6 Mazatlán, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [],
+      "profileUrl": "https://www.google.com/maps/place/Smar+M%C3%A9xico/@23.2465866,-106.5378124,12z/data=!4m10!1m2!2m1!1selectricistas+en+mazatlan,+M%C3%A9xico!3m6!1s0x869f54a3e7900b47:0x4b621c86454e6b6!8m2!3d23.244179!4d-106.4469592!15sCiJlbGVjdHJpY2lzdGFzIGVuIG1hemF0bGFuLCBNw6l4aWNvkgELZWxlY3RyaWNpYW7gAQA!16s%2Fg%2F1td3m0j5?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "electricistas",
+        "city": "mazatlan",
+        "country": "México",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T06:28:24.931Z"
+    },
+    {
+      "position": 21,
+      "placeId": "0x869f530366f1c541:0x4da163ec26d57b8e",
+      "name": "PROELECTRICA",
+      "rating": 4.5,
+      "reviewCount": 30,
+      "category": "Servicio de instalación eléctrica",
+      "categories": [
+        "Servicio de instalación eléctrica"
+      ],
+      "address": "16 de Septiembre 124, Centro, 82000 Mazatlán, Sin.",
+      "phone": "6692622701",
+      "website": "https://www.facebook.com/ELECTRICOSMZT",
+      "coordinates": {
+        "lat": 23.2465866,
+        "lng": -106.5378124
+      },
+      "plusCode": "6H5M+HR Mazatlán, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "oscar hernandezLocal Guide · 72 reseñas · 159 fotos",
+          "rating": 5,
+          "text": "Saben lo que hacen, y son muy buenos. Saludos ❗",
+          "date": "Hace un año"
+        },
+        {
+          "author": "oscar hernandezLocal Guide · 72 reseñas · 159 fotos",
+          "rating": 5,
+          "text": "Saben lo que hacen, y son muy buenos. Saludos ❗",
+          "date": "Hace un año"
+        },
+        {
+          "author": "Victor Ibarra Campillo1 reseña",
+          "rating": 5,
+          "text": "Calidad y  Confianza.",
+          "date": "Hace 7 años"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/PROELECTRICA/@23.2465866,-106.5378124,12z/data=!4m10!1m2!2m1!1selectricistas+en+mazatlan,+M%C3%A9xico!3m6!1s0x869f530366f1c541:0x4da163ec26d57b8e!8m2!3d23.2088986!4d-106.4154925!15sCiJlbGVjdHJpY2lzdGFzIGVuIG1hemF0bGFuLCBNw6l4aWNvWiMiIWVsZWN0cmljaXN0YXMgZW4gbWF6YXRsYW4gbcOpeGljb5IBH2VsZWN0cmljYWxfaW5zdGFsbGF0aW9uX3NlcnZpY2WaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVUklYMlUyUlVaQkVBReABAPoBBAgAECU!16s%2Fg%2F11g4b86cl0?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": "proelectrica_gonzalez@hotmail.com",
+      "allEmails": [
+        "proelectrica_gonzalez@hotmail.com"
+      ],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": "facebook.com/ELECTRICOSMZT",
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "electricistas",
+        "city": "mazatlan",
+        "country": "México",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T06:28:26.127Z"
+    },
+    {
+      "position": 22,
+      "placeId": "0x869f55c4523ae67b:0x72498a5a99d734fc",
+      "name": "Taller de electricidad \"jc electricos\"",
+      "rating": 5,
+      "reviewCount": 30,
+      "category": "Compañía eléctrica",
+      "categories": [
+        "Compañía eléctrica"
+      ],
+      "address": "Av. de la Marina 643A, Francisco Villa, 82127 Mazatlán, Sin.",
+      "phone": "6691515547",
+      "website": null,
+      "coordinates": {
+        "lat": 23.2465866,
+        "lng": -106.5378124
+      },
+      "plusCode": "7H45+WP Mazatlán, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Cintia Robles Camacho1 reseña · 2 fotos",
+          "rating": 5,
+          "text": "Excelente servicio muy rápidos y eficientes",
+          "date": "Hace 10 meses"
+        },
+        {
+          "author": "Cintia Robles Camacho1 reseña · 2 fotos",
+          "rating": 5,
+          "text": "Excelente servicio muy rápidos y eficientes",
+          "date": "Hace 10 meses"
+        },
+        {
+          "author": "Carlos Alonso Galarza1 reseña",
+          "rating": 5,
+          "text": null,
+          "date": "Hace 10 meses"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Taller+de+electricidad+%22jc+electricos%22/@23.2465866,-106.5378124,12z/data=!4m10!1m2!2m1!1selectricistas+en+mazatlan,+M%C3%A9xico!3m6!1s0x869f55c4523ae67b:0x72498a5a99d734fc!8m2!3d23.2572554!4d-106.4406704!15sCiJlbGVjdHJpY2lzdGFzIGVuIG1hemF0bGFuLCBNw6l4aWNvWiMiIWVsZWN0cmljaXN0YXMgZW4gbWF6YXRsYW4gbcOpeGljb5IBGGVsZWN0cmljX3V0aWxpdHlfY29tcGFueZoBJENoZERTVWhOTUc5blMwVkpRMEZuVFVSblgxOXFWVzVSUlJBQuABAPoBBAgAECs!16s%2Fg%2F11x0rm48kd?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "electricistas",
+        "city": "mazatlan",
+        "country": "México",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T06:28:26.667Z"
+    },
+    {
+      "position": 23,
+      "placeId": "0x1407af15ce44f8a5:0x6a2174b28e153e57",
+      "name": "Servicios Eléctricos Industriales y Navales de Mazatlán S.A. de C.V.",
+      "rating": 5,
+      "reviewCount": 30,
+      "category": "Electricista",
+      "categories": [
+        "Electricista"
+      ],
+      "address": "Av. Gabriel Leyva 3122-A-3122-A, Loma Atravesada, 82185 Mazatlán, Sin.",
+      "phone": "6691180900",
+      "website": "http://www.sein.com.mx/",
+      "coordinates": {
+        "lat": 23.2465866,
+        "lng": -106.5378124
+      },
+      "plusCode": "6HCX+73 Mazatlán, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Mowgli BenítezLocal Guide · 7 reseñas · 1 foto",
+          "rating": 5,
+          "text": null,
+          "date": "Editado Hace 4 meses"
+        },
+        {
+          "author": "Mowgli BenítezLocal Guide · 7 reseñas · 1 foto",
+          "rating": 5,
+          "text": null,
+          "date": "Editado Hace 4 meses"
+        },
+        {
+          "author": "Rene Roman Lizarraga7 reseñas",
+          "rating": 5,
+          "text": null,
+          "date": "Editado Hace 2 años"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Servicios+El%C3%A9ctricos+Industriales+y+Navales+de+Mazatl%C3%A1n+S.A.+de+C.V./@23.2465866,-106.5378124,12z/data=!4m10!1m2!2m1!1selectricistas+en+mazatlan,+M%C3%A9xico!3m6!1s0x1407af15ce44f8a5:0x6a2174b28e153e57!8m2!3d23.2207078!4d-106.4023332!15sCiJlbGVjdHJpY2lzdGFzIGVuIG1hemF0bGFuLCBNw6l4aWNvkgELZWxlY3RyaWNpYW7gAQA!16s%2Fg%2F11b7fdsm2b?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": "facebook.com/SEIN",
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "electricistas",
+        "city": "mazatlan",
+        "country": "México",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T06:28:30.914Z"
+    },
+    {
+      "position": 24,
+      "placeId": "0x8698ad6ffe7d089f:0x8983f333e328dfa3",
+      "name": "Vacef",
+      "rating": 5,
+      "reviewCount": 30,
+      "category": "Electricista",
+      "categories": [
+        "Electricista"
+      ],
+      "address": "Avenida libramiento 2 Infonavit, Francisco Alarcón, 82132 Mazatlán, Sin.",
+      "phone": "6699189758",
+      "website": null,
+      "coordinates": {
+        "lat": 23.2465866,
+        "lng": -106.5378124
+      },
+      "plusCode": "7HCR+JG Mazatlán, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Zuly J. Castillo1 reseña · 2 fotos",
+          "rating": 5,
+          "text": null,
+          "date": "Hace un año"
+        },
+        {
+          "author": "Zuly J. Castillo1 reseña · 2 fotos",
+          "rating": 5,
+          "text": null,
+          "date": "Hace un año"
+        },
+        {
+          "author": "Aaron Reyes4 reseñas · 8 fotos",
+          "rating": 5,
+          "text": null,
+          "date": "Hace 6 años"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Vacef/@23.2465866,-106.5378124,12z/data=!4m10!1m2!2m1!1selectricistas+en+mazatlan,+M%C3%A9xico!3m6!1s0x8698ad6ffe7d089f:0x8983f333e328dfa3!8m2!3d23.2715726!4d-106.4087058!15sCiJlbGVjdHJpY2lzdGFzIGVuIG1hemF0bGFuLCBNw6l4aWNvkgELZWxlY3RyaWNpYW7gAQA!16s%2Fg%2F11h1lt66tg?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "electricistas",
+        "city": "mazatlan",
+        "country": "México",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T06:28:31.454Z"
+    },
+    {
+      "position": 25,
+      "placeId": "0x869f53554736c83f:0x32db126ca121bcbf",
+      "name": "Eléctronica Zatarain",
+      "rating": 5,
+      "reviewCount": 30,
+      "category": "Electricista",
+      "categories": [
+        "Electricista"
+      ],
+      "address": "82180, 80182 Mazatlán, Sin.",
+      "phone": "6694447137",
+      "website": null,
+      "coordinates": {
+        "lat": 23.2465866,
+        "lng": -106.5378124
+      },
+      "plusCode": "6HJX+33 Mazatlán, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": true,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "BERTHA TORRES3 reseñas",
+          "rating": 5,
+          "text": "Buena atención muy profesionales",
+          "date": "Hace un año"
+        },
+        {
+          "author": "BERTHA TORRES3 reseñas",
+          "rating": 5,
+          "text": "Buena atención muy profesionales",
+          "date": "Hace un año"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/El%C3%A9ctronica+Zatarain/@23.2465866,-106.5378124,12z/data=!4m10!1m2!2m1!1selectricistas+en+mazatlan,+M%C3%A9xico!3m6!1s0x869f53554736c83f:0x32db126ca121bcbf!8m2!3d23.2301373!4d-106.4023245!15sCiJlbGVjdHJpY2lzdGFzIGVuIG1hemF0bGFuLCBNw6l4aWNvkgELZWxlY3RyaWNpYW7gAQA!16s%2Fg%2F11vptgdkm2?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "electricistas",
+        "city": "mazatlan",
+        "country": "México",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T06:28:31.996Z"
+    },
+    {
+      "position": 26,
+      "placeId": "0x869f5330074105f3:0x3293bd09027a07b2",
+      "name": "PROSELEC PROYECTOS Y SERVICIOS ELECTRICOS",
+      "rating": null,
+      "reviewCount": 30,
+      "category": "Ingeniero eléctrico",
+      "categories": [
+        "Ingeniero eléctrico"
+      ],
+      "address": "Luis Donaldo Colosio Murrieta 14003, Fuentes del Valle, 82163 Mazatlán, Sin.",
+      "phone": "6696694583",
+      "website": null,
+      "coordinates": {
+        "lat": 23.2465866,
+        "lng": -106.5378124
+      },
+      "plusCode": "7H4V+7Q Mazatlán, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [],
+      "profileUrl": "https://www.google.com/maps/place/PROSELEC+PROYECTOS+Y+SERVICIOS+ELECTRICOS/@23.2465866,-106.5378124,12z/data=!4m10!1m2!2m1!1selectricistas+en+mazatlan,+M%C3%A9xico!3m6!1s0x869f5330074105f3:0x3293bd09027a07b2!8m2!3d23.2557229!4d-106.4056041!15sCiJlbGVjdHJpY2lzdGFzIGVuIG1hemF0bGFuLCBNw6l4aWNvkgETZWxlY3RyaWNhbF9lbmdpbmVlcuABAA!16s%2Fg%2F11b7d464ph?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "electricistas",
+        "city": "mazatlan",
+        "country": "México",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T06:28:32.532Z"
+    },
+    {
+      "position": 27,
+      "placeId": "0x869f53659f49cd03:0xb3d85ce12d5a6af0",
+      "name": "SIELEC",
+      "rating": 5,
+      "reviewCount": 30,
+      "category": "Electricista",
+      "categories": [
+        "Electricista"
+      ],
+      "address": "Av México 68 1010A, Villa Galaxia, 82135 Mazatlán, Sin.",
+      "phone": "6692381081",
+      "website": null,
+      "coordinates": {
+        "lat": 23.2465866,
+        "lng": -106.5378124
+      },
+      "plusCode": "6HMQ+Q2 Mazatlán, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Efren Jaír Garcia gaytan1 reseña",
+          "rating": 5,
+          "text": "Compromiso con nuestros proyectos, e innovación constante para brindar un mejor servicio.",
+          "date": "Hace 9 meses"
+        },
+        {
+          "author": "Efren Jaír Garcia gaytan1 reseña",
+          "rating": 5,
+          "text": "Compromiso con nuestros proyectos, e innovación constante para brindar un mejor servicio.",
+          "date": "Hace 9 meses"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/SIELEC/@23.2465866,-106.5378124,12z/data=!4m10!1m2!2m1!1selectricistas+en+mazatlan,+M%C3%A9xico!3m6!1s0x869f53659f49cd03:0xb3d85ce12d5a6af0!8m2!3d23.2344932!4d-106.4124065!15sCiJlbGVjdHJpY2lzdGFzIGVuIG1hemF0bGFuLCBNw6l4aWNvkgELZWxlY3RyaWNpYW7gAQA!16s%2Fg%2F11x7tw9p89?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "electricistas",
+        "city": "mazatlan",
+        "country": "México",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T06:28:33.084Z"
+    },
+    {
+      "position": 28,
+      "placeId": "0x869f535a41158adb:0x1a7644046c578972",
+      "name": "Electricista \"JESUS\"",
+      "rating": null,
+      "reviewCount": 30,
+      "category": "Electricista",
+      "categories": [
+        "Electricista"
+      ],
+      "address": "Av. Gral. Pesqueira 616, Francisco Solís, 82037 Mazatlán, Sin.",
+      "phone": "6691964983",
+      "website": "https://jesus.negocio.site/?utm_source=gmb&utm_medium=referral",
+      "coordinates": {
+        "lat": 23.2465866,
+        "lng": -106.5378124
+      },
+      "plusCode": "6H7P+MJ Mazatlán, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [],
+      "profileUrl": "https://www.google.com/maps/place/Electricista+%22JESUS%22/@23.2465866,-106.5378124,12z/data=!4m10!1m2!2m1!1selectricistas+en+mazatlan,+M%C3%A9xico!3m6!1s0x869f535a41158adb:0x1a7644046c578972!8m2!3d23.2142339!4d-106.4134334!15sCiJlbGVjdHJpY2lzdGFzIGVuIG1hemF0bGFuLCBNw6l4aWNvkgETZWxlY3Ryb25pY3NfY29tcGFueeABAA!16s%2Fg%2F11n13sv63x?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "electricistas",
+        "city": "mazatlan",
+        "country": "México",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T06:28:34.153Z"
+    },
+    {
+      "position": 29,
+      "placeId": "0x869f5332f6f4a76f:0x70261e415e9a0de3",
+      "name": "Siga",
+      "rating": 2,
+      "reviewCount": 30,
+      "category": "Electricista",
+      "categories": [
+        "Electricista"
+      ],
+      "address": "C. Cedro 267, Arboledas I, 82132 Mazatlán, Sin.",
+      "phone": "6691805661",
+      "website": "http://www.sigamzt.weebly.com/",
+      "coordinates": {
+        "lat": 23.2465866,
+        "lng": -106.5378124
+      },
+      "plusCode": "7H7V+Q4 Mazatlán, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Gaspar Hernandez",
+          "rating": 2,
+          "text": null,
+          "date": "Hace 11 años"
+        },
+        {
+          "author": "Gaspar Hernandez",
+          "rating": 2,
+          "text": null,
+          "date": "Hace 11 años"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Siga/@23.2465866,-106.5378124,12z/data=!4m10!1m2!2m1!1selectricistas+en+mazatlan,+M%C3%A9xico!3m6!1s0x869f5332f6f4a76f:0x70261e415e9a0de3!8m2!3d23.2644991!4d-106.4071966!15sCiJlbGVjdHJpY2lzdGFzIGVuIG1hemF0bGFuLCBNw6l4aWNvkgELZWxlY3RyaWNpYW7gAQA!16s%2Fg%2F1xb2d_y4?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "electricistas",
+        "city": "mazatlan",
+        "country": "México",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T06:28:35.572Z"
+    },
+    {
+      "position": 30,
+      "placeId": "0x440159964f070da3:0xe02cd9f191a2fa10",
+      "name": "Servicio técnico el alacran",
+      "rating": null,
+      "reviewCount": 30,
+      "category": "Electricista",
+      "categories": [
+        "Electricista"
+      ],
+      "address": null,
+      "phone": "6692300484",
+      "website": null,
+      "coordinates": {
+        "lat": 23.2465866,
+        "lng": -106.5378124
+      },
+      "plusCode": null,
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [],
+      "profileUrl": "https://www.google.com/maps/place/Servicio+t%C3%A9cnico+el+alacran/@23.2465866,-106.5378124,12z/data=!4m10!1m2!2m1!1selectricistas+en+mazatlan,+M%C3%A9xico!3m6!1s0x440159964f070da3:0xe02cd9f191a2fa10!8m2!3d23.2473025!4d-106.4082259!15sCiJlbGVjdHJpY2lzdGFzIGVuIG1hemF0bGFuLCBNw6l4aWNvkgELZWxlY3RyaWNpYW7gAQA!16s%2Fg%2F11yjvf6474?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "electricistas",
+        "city": "mazatlan",
+        "country": "México",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T06:28:35.940Z"
+    },
+    {
+      "position": 31,
+      "placeId": "0x8d8a028d1faaa0c7:0x7b687b8e6bc6771f",
+      "name": "Servicios de electricidad 2",
+      "rating": null,
+      "reviewCount": 30,
+      "category": "Electricista",
+      "categories": [
+        "Electricista"
+      ],
+      "address": null,
+      "phone": "6694314662",
+      "website": null,
+      "coordinates": {
+        "lat": 23.2465866,
+        "lng": -106.5378124
+      },
+      "plusCode": null,
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [],
+      "profileUrl": "https://www.google.com/maps/place/Servicios+de+electricidad+2/@23.2465866,-106.5378124,12z/data=!4m10!1m2!2m1!1selectricistas+en+mazatlan,+M%C3%A9xico!3m6!1s0x8d8a028d1faaa0c7:0x7b687b8e6bc6771f!8m2!3d23.2473025!4d-106.4082259!15sCiJlbGVjdHJpY2lzdGFzIGVuIG1hemF0bGFuLCBNw6l4aWNvkgELZWxlY3RyaWNpYW7gAQA!16s%2Fg%2F11yff3dgcm?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "electricistas",
+        "city": "mazatlan",
+        "country": "México",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T06:28:36.195Z"
+    }
+  ]
+}

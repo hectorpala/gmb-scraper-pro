@@ -1,0 +1,3485 @@
+{
+  "metadata": {
+    "query": {
+      "businessType": "llantera",
+      "city": "mazatlan",
+      "country": "México"
+    },
+    "totalResults": 45,
+    "stats": {
+      "total": 45,
+      "withPhone": 45,
+      "withEmail": 16,
+      "withWebsite": 26,
+      "withInstagram": 5,
+      "withWhatsapp": 14
+    },
+    "exportedAt": "2026-01-16T06:13:27.463Z",
+    "version": "2.0"
+  },
+  "businesses": [
+    {
+      "position": 1,
+      "placeId": "0x86bcd0962d645b4b:0xaa0b1b7973fdbf20",
+      "name": "Vitallantas Centros de Servicio",
+      "rating": 4.2,
+      "reviewCount": null,
+      "category": "Tienda de neumáticos",
+      "categories": [
+        "Tienda de neumáticos"
+      ],
+      "address": "De Los Insurgentes 19, Centro Sinaloa, Centro, 80000 Culiacán Rosales, Sin.",
+      "phone": "6692408025",
+      "website": "http://www.vitallantas.com.mx/",
+      "coordinates": {
+        "lat": 24.8250128,
+        "lng": -107.4392605
+      },
+      "plusCode": "RH3V+MM Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Guillermo Verdugo1 reseña",
+          "rating": 3,
+          "text": "Capacitar al personal técnico o contratar al personal técnico calificado con el fin de brindar un servicio de calidad, no veo personal supervisando el trabajo del personal técnico (alineador), en mi caso lo lleve alinear por que tienen… Más",
+          "date": "Hace 4 meses"
+        },
+        {
+          "author": "Guillermo Verdugo1 reseña",
+          "rating": 3,
+          "text": "Capacitar al personal técnico o contratar al personal técnico calificado con el fin de brindar un servicio de calidad, no veo personal supervisando el trabajo del personal técnico (alineador), en mi caso lo lleve alinear por que tienen… Más",
+          "date": "Hace 4 meses"
+        },
+        {
+          "author": "mosquichungoLocal Guide · 78 reseñas · 151 fotos",
+          "rating": 4,
+          "text": "Buen servicio y calidad",
+          "date": "Hace 8 meses"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Vitallantas+Centros+de+Servicio/@24.8250128,-107.4392605,12z/data=!4m11!1m3!2m2!1sllantera+en+mazatlan,+M%C3%A9xico!6e6!3m6!1s0x86bcd0962d645b4b:0xaa0b1b7973fdbf20!8m2!3d24.804129!4d-107.405802!15sCh1sbGFudGVyYSBlbiBtYXphdGxhbiwgTcOpeGljb1oeIhxsbGFudGVyYSBlbiBtYXphdGxhbiBtw6l4aWNvkgEJdGlyZV9zaG9wmgEkQ2hkRFNVaE5NRzluUzBWSlEwRm5TVU5HT0RsNWN6Tm5SUkFC4AEA-gEECBQQOg!16s%2Fg%2F1tfmj7np?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "llantera",
+        "city": "mazatlan",
+        "country": "México",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T06:12:20.917Z"
+    },
+    {
+      "position": 2,
+      "placeId": "0x86bcd0ba417f80bf:0x625e84792116c669",
+      "name": "Llantas Royal de Sinaloa - Progreso",
+      "rating": 4.5,
+      "reviewCount": null,
+      "category": "Tienda de neumáticos",
+      "categories": [
+        "Tienda de neumáticos"
+      ],
+      "address": "Calle Constitución S/N, Jorge Almada, 80200 Culiacán Rosales, Sin.",
+      "phone": "6677153800",
+      "website": "https://www.llantasroyaldesinaloa.com.mx/",
+      "coordinates": {
+        "lat": 24.804129,
+        "lng": -107.5582373
+      },
+      "plusCode": "QJX2+MM Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "IK BjrLocal Guide · 12 reseñas",
+          "rating": 5,
+          "text": "Excelente servicio, muy buena atencion, los mejores precios.",
+          "date": "Hace 9 meses"
+        },
+        {
+          "author": "IK BjrLocal Guide · 12 reseñas",
+          "rating": 5,
+          "text": "Excelente servicio, muy buena atencion, los mejores precios.",
+          "date": "Hace 9 meses"
+        },
+        {
+          "author": "cipriano nandyapaLocal Guide · 311 reseñas · 9 fotos",
+          "rating": 4,
+          "text": "Buen servicio del sr. Mony",
+          "date": "Hace un mes"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Llantas+Royal+de+Sinaloa+-+Progreso/@24.804129,-107.5582373,12z/data=!4m11!1m3!2m2!1sllantera+en+mazatlan,+M%C3%A9xico!6e6!3m6!1s0x86bcd0ba417f80bf:0x625e84792116c669!8m2!3d24.7991729!4d-107.398365!15sCh1sbGFudGVyYSBlbiBtYXphdGxhbiwgTcOpeGljb1oeIhxsbGFudGVyYSBlbiBtYXphdGxhbiBtw6l4aWNvkgEJdGlyZV9zaG9wmgEkQ2hkRFNVaE5NRzluUzBWSlEwRm5UVVJKTVdZeWJIRjNSUkFC4AEA-gEECAAQPA!16s%2Fg%2F1tr7d75s?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": "TECMAZATLAN@LLANTASROYAL.MX",
+      "allEmails": [
+        "TECMAZATLAN@LLANTASROYAL.MX",
+        "oduarte@gmail.com",
+        "TECBUELNA@LLANTASROYAL.MX",
+        "TECCOLOSIO@LLANTASROYAL.MX",
+        "TECSERDAN@LLANTASROYAL.MX",
+        "TECANGELFLORES@LLANTASROYAL.MX",
+        "TECELIASCALLES@LLANTASROYAL.MX",
+        "MAGNIGUAMUCHIL@LLANTASROYAL.MX",
+        "TECNAVOLATO@LLANTASROYAL.MX",
+        "TECQUILA@LLANTASROYAL.MX",
+        "TECPROGRESO@LLANTASROYAL.MX",
+        "TECAEROPUERTO@LLANTASROYAL.MX",
+        "techumaya@llantasroyal.mx",
+        "TECPEDROINFANTE@LLANTASROYAL.MX",
+        "MAGNICENTRO@LLANTASROYAL.MX",
+        "ODUARTE@GMAIL.COM",
+        "TECMATRIZ@LLANTASROYAL.MX",
+        "mi.nombre@ejemplo.com"
+      ],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": "5216671630897",
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "llantera",
+        "city": "mazatlan",
+        "country": "México",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T06:12:23.297Z"
+    },
+    {
+      "position": 3,
+      "placeId": "0x86bcd724a2e0c87b:0x108fbaac1126cfea",
+      "name": "Pima Llantas - Llantas automotriz, agrícola, industrial y camiones.",
+      "rating": 4.6,
+      "reviewCount": null,
+      "category": "Tienda de neumáticos",
+      "categories": [
+        "Tienda de neumáticos"
+      ],
+      "address": "Blvd. Emiliano Zapata 2210, Sin Asignación En Nombre de Asentamiento, El Vallado, 80110 Culiacán Rosales, Sin.",
+      "phone": "6677171411",
+      "website": "http://www.pimallantas.com/",
+      "coordinates": {
+        "lat": 24.804129,
+        "lng": -107.5582373
+      },
+      "plusCode": null,
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [],
+      "profileUrl": "https://www.google.com/maps/place/Pima+Llantas+-+Llantas+automotriz,+agr%C3%ADcola,+industrial+y+camiones./@24.804129,-107.5582373,12z/data=!4m11!1m3!2m2!1sllantera+en+mazatlan,+M%C3%A9xico!6e6!3m6!1s0x86bcd724a2e0c87b:0x108fbaac1126cfea!8m2!3d24.7925576!4d-107.417652!15sCh1sbGFudGVyYSBlbiBtYXphdGxhbiwgTcOpeGljb1oeIhxsbGFudGVyYSBlbiBtYXphdGxhbiBtw6l4aWNvkgEJdGlyZV9zaG9wmgEjQ2haRFNVaE5NRzluUzBWSlEwRm5TVU5sZWtsWWRtVjNFQUXgAQD6AQQIABA7!16s%2Fg%2F1tftlnhj?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": "iromero@pimallantas.com",
+      "allEmails": [
+        "iromero@pimallantas.com"
+      ],
+      "socialMedia": {
+        "instagram": "instagram.com/pimallantas",
+        "facebook": "facebook.com/Pimallanta",
+        "twitter": null,
+        "whatsapp": "5216673559582",
+        "linkedin": null,
+        "youtube": "youtube.com/channel/UCL-GCdUudzA3fQvdDR9RZkw",
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "llantera",
+        "city": "mazatlan",
+        "country": "México",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T06:12:28.337Z"
+    },
+    {
+      "position": 4,
+      "placeId": "0x86bcd158ee7fbfa9:0x5044d123a1f30acc",
+      "name": "LLANTERA AYÓN",
+      "rating": 4.6,
+      "reviewCount": null,
+      "category": "Taller de automóviles",
+      "categories": [
+        "Taller de automóviles"
+      ],
+      "address": "Blvd. Emiliano Zapata 198, Guadalupe, 80220 Culiacán Rosales, Sin.",
+      "phone": "6677126921",
+      "website": null,
+      "coordinates": {
+        "lat": 24.804129,
+        "lng": -107.5582373
+      },
+      "plusCode": "QJW3+RG Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Luis Felipe Lim ZamudioLocal Guide · 6 reseñas · 28 fotos",
+          "rating": 5,
+          "text": "Excelente servicio y muy buenos precios",
+          "date": "Hace un año"
+        },
+        {
+          "author": "Luis Felipe Lim ZamudioLocal Guide · 6 reseñas · 28 fotos",
+          "rating": 5,
+          "text": "Excelente servicio y muy buenos precios",
+          "date": "Hace un año"
+        },
+        {
+          "author": "oscar uriasLocal Guide · 10 reseñas · 16 fotos",
+          "rating": 5,
+          "text": "Muy buen servicio y costos justos",
+          "date": "Hace 5 meses"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/LLANTERA+AY%C3%93N/@24.804129,-107.5582373,12z/data=!4m11!1m3!2m2!1sllantera+en+mazatlan,+M%C3%A9xico!6e6!3m6!1s0x86bcd158ee7fbfa9:0x5044d123a1f30acc!8m2!3d24.7970891!4d-107.3961656!15sCh1sbGFudGVyYSBlbiBtYXphdGxhbiwgTcOpeGljb1oeIhxsbGFudGVyYSBlbiBtYXphdGxhbiBtw6l4aWNvkgEKY2FyX3JlcGFpcpoBRENpOURRVWxSUVVOdlpFTm9kSGxqUmpsdlQyMU9VMDR5YXpOTk1UbEtURmMxYkZRd2RIbFRSMnd4Vlc1Q2FrNXNSUkFC4AEA-gEECAAQIQ!16s%2Fg%2F11f328mtys?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "llantera",
+        "city": "mazatlan",
+        "country": "México",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T06:12:28.884Z"
+    },
+    {
+      "position": 5,
+      "placeId": "0x86bcd76961fb6ab5:0x1090c12b879827d9",
+      "name": "Llantera Tamazula",
+      "rating": 4.5,
+      "reviewCount": null,
+      "category": "Tienda de neumáticos",
+      "categories": [
+        "Tienda de neumáticos"
+      ],
+      "address": "Blvd. Francisco I. Madero 4061, Villa Satélite, San Juan, 80240 Culiacán Rosales, Sin.",
+      "phone": "6671890198",
+      "website": "http://www.michelin.com.mx/",
+      "coordinates": {
+        "lat": 24.804129,
+        "lng": -107.5582373
+      },
+      "plusCode": "RJ3V+4V Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": true,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "luis enrique espinoza serrano8 reseñas · 2 fotos",
+          "rating": 5,
+          "text": "Excelente servicio y atención, me resolvieron mis problemas con las llantas que necesitaba muy rapido",
+          "date": "Hace 11 meses"
+        },
+        {
+          "author": "luis enrique espinoza serrano8 reseñas · 2 fotos",
+          "rating": 5,
+          "text": "Excelente servicio y atención, me resolvieron mis problemas con las llantas que necesitaba muy rapido",
+          "date": "Hace 11 meses"
+        },
+        {
+          "author": "antonio rodriguezLocal Guide · 57 reseñas · 218 fotos",
+          "rating": 5,
+          "text": "Exelente atención y servicio, además se destacan por su honestidad, por favor sigan así.",
+          "date": "Hace 2 años"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Llantera+Tamazula/@24.804129,-107.5582373,12z/data=!4m11!1m3!2m2!1sllantera+en+mazatlan,+M%C3%A9xico!6e6!3m6!1s0x86bcd76961fb6ab5:0x1090c12b879827d9!8m2!3d24.8027755!4d-107.3553632!15sCh1sbGFudGVyYSBlbiBtYXphdGxhbiwgTcOpeGljb1oeIhxsbGFudGVyYSBlbiBtYXphdGxhbiBtw6l4aWNvkgEJdGlyZV9zaG9wmgEjQ2haRFNVaE5NRzluUzBWSlEwRm5TVVJDZDAxRFowNW5FQUXgAQD6AQQIHhAy!16s%2Fg%2F1tctg12b?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": "sylvain.bougnoux_ext@michelin.com",
+      "allEmails": [
+        "sylvain.bougnoux_ext@michelin.com",
+        "atencionconsumidor.mexico@michelin.com"
+      ],
+      "socialMedia": {
+        "instagram": "instagram.com/michelin_mexico",
+        "facebook": "facebook.com/MichelinMexico",
+        "twitter": "twitter.com/michelinmex",
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "llantera",
+        "city": "mazatlan",
+        "country": "México",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T06:12:30.263Z"
+    },
+    {
+      "position": 6,
+      "placeId": "0x86bcd024383f4ef9:0x5bc28d68ce87a036",
+      "name": "MyM Llantas",
+      "rating": 4.6,
+      "reviewCount": null,
+      "category": "Tienda de neumáticos",
+      "categories": [
+        "Tienda de neumáticos"
+      ],
+      "address": "Blvd. Lola Beltrán 3367, La Conquista, 80058 Culiacán Rosales, Sin.",
+      "phone": "6677522540",
+      "website": "https://www.mymllantas.com/",
+      "coordinates": {
+        "lat": 24.804129,
+        "lng": -107.5582373
+      },
+      "plusCode": "RH66+MF Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Jesus Ramon Osuna1 reseña",
+          "rating": 5,
+          "text": "Los precios son accesibles, la oportunidad del trabajo es muy a tiempo. El trabajo a nivel tecnico es muy bueno, pero lo mas destacable es la atencion personalizada, cortés y sin engaños. He ido en 3 ocasiones y continuaré. Los recomiendo ampliamente. Dios los bendiga",
+          "date": "4 semanas atrás"
+        },
+        {
+          "author": "Jesus Ramon Osuna1 reseña",
+          "rating": 5,
+          "text": "Los precios son accesibles, la oportunidad del trabajo es muy a tiempo. El trabajo a nivel tecnico es muy bueno, pero lo mas destacable es la atencion personalizada, cortés y sin engaños. He ido en 3 ocasiones y continuaré. Los recomiendo ampliamente. Dios los bendiga",
+          "date": "4 semanas atrás"
+        },
+        {
+          "author": "Healthy womanLocal Guide · 107 reseñas · 107 fotos",
+          "rating": 5,
+          "text": "Acudí a comprar dos llantas, antes me ofrecieron revisar los amortiguadores y me los cambiaron ya qué estaban dañados. Lo cual agradezco ya qué con eso y las dos llantas nuevas mi auto quedo al 100% además amablemente me cambiaron un foco… Más",
+          "date": "Hace 2 años"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/MyM+Llantas/@24.804129,-107.5582373,12z/data=!4m11!1m3!2m2!1sllantera+en+mazatlan,+M%C3%A9xico!6e6!3m6!1s0x86bcd024383f4ef9:0x5bc28d68ce87a036!8m2!3d24.8116633!4d-107.4388124!15sCh1sbGFudGVyYSBlbiBtYXphdGxhbiwgTcOpeGljb1oeIhxsbGFudGVyYSBlbiBtYXphdGxhbiBtw6l4aWNvkgEJdGlyZV9zaG9wmgEkQ2hkRFNVaE5NRzluUzBWSlEwRm5TVVF3T0U1aGR6bG5SUkFC4AEA-gEECAAQPQ!16s%2Fg%2F1tghdk_f?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": "mymllantas@hotmail.com",
+      "allEmails": [
+        "mymllantas@hotmail.com"
+      ],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": "5216671180157",
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "llantera",
+        "city": "mazatlan",
+        "country": "México",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T06:12:32.283Z"
+    },
+    {
+      "position": 7,
+      "placeId": "0x86bcd08905f5e557:0xf5d31fc66960c1ac",
+      "name": "Llantas Royal de Sinaloa - Pedro Infante",
+      "rating": 4.8,
+      "reviewCount": null,
+      "category": "Tienda de neumáticos",
+      "categories": [
+        "Tienda de neumáticos"
+      ],
+      "address": "Blvd. Pedro Infante 2207, COUNTRY TRES RIOS, 80107 Culiacán Rosales, Sin.",
+      "phone": "6677662797",
+      "website": "http://llantasroyaldesinaloa.com.mx/",
+      "coordinates": {
+        "lat": 24.804129,
+        "lng": -107.5582373
+      },
+      "plusCode": "QHWC+F9 Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Lau CBLocal Guide · 270 reseñas · 89 fotos",
+          "rating": 5,
+          "text": "Excelente servicio, muy atentos y amables. Me asesoraron durante todo el servicio. Muy recomendado.",
+          "date": "Hace 3 años"
+        },
+        {
+          "author": "Lau CBLocal Guide · 270 reseñas · 89 fotos",
+          "rating": 5,
+          "text": "Excelente servicio, muy atentos y amables. Me asesoraron durante todo el servicio. Muy recomendado.",
+          "date": "Hace 3 años"
+        },
+        {
+          "author": "Jose Manuel Perez Gamez2 reseñas",
+          "rating": 5,
+          "text": "Encontré lo que buscaba, me dieron muy buena recomendación del producto, me asesoraron en toda la estadía y muy buena atención de parte del personal, las instalaciones muy limpias. Recomendable 100%.",
+          "date": "Hace un año"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Llantas+Royal+de+Sinaloa+-+Pedro+Infante/@24.804129,-107.5582373,12z/data=!4m11!1m3!2m2!1sllantera+en+mazatlan,+M%C3%A9xico!6e6!3m6!1s0x86bcd08905f5e557:0xf5d31fc66960c1ac!8m2!3d24.7962055!4d-107.4290237!15sCh1sbGFudGVyYSBlbiBtYXphdGxhbiwgTcOpeGljb1oeIhxsbGFudGVyYSBlbiBtYXphdGxhbiBtw6l4aWNvkgEJdGlyZV9zaG9wmgEjQ2haRFNVaE5NRzluUzBWSlEwRm5TVU5zTWpSRFJrRlJFQUXgAQD6AQQIABAv!16s%2Fg%2F11hhjsmhwf?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": "TECMAZATLAN@LLANTASROYAL.MX",
+      "allEmails": [
+        "TECMAZATLAN@LLANTASROYAL.MX",
+        "oduarte@gmail.com",
+        "TECBUELNA@LLANTASROYAL.MX",
+        "TECCOLOSIO@LLANTASROYAL.MX",
+        "TECSERDAN@LLANTASROYAL.MX",
+        "TECANGELFLORES@LLANTASROYAL.MX",
+        "TECELIASCALLES@LLANTASROYAL.MX",
+        "MAGNIGUAMUCHIL@LLANTASROYAL.MX",
+        "TECNAVOLATO@LLANTASROYAL.MX",
+        "TECQUILA@LLANTASROYAL.MX",
+        "TECPROGRESO@LLANTASROYAL.MX",
+        "TECAEROPUERTO@LLANTASROYAL.MX",
+        "techumaya@llantasroyal.mx",
+        "TECPEDROINFANTE@LLANTASROYAL.MX",
+        "MAGNICENTRO@LLANTASROYAL.MX",
+        "ODUARTE@GMAIL.COM",
+        "TECMATRIZ@LLANTASROYAL.MX",
+        "mi.nombre@ejemplo.com"
+      ],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": "5216671630897",
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "llantera",
+        "city": "mazatlan",
+        "country": "México",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T06:12:33.501Z"
+    },
+    {
+      "position": 8,
+      "placeId": "0x8698addca2746073:0xa210d85437d94d0d",
+      "name": "Llantera móvil",
+      "rating": 4.9,
+      "reviewCount": null,
+      "category": null,
+      "categories": [],
+      "address": "Av San Miguel $1833, Av. San Miguel 1833, Fraccionamiento Pradera Dorada, 4, 82139 Mazatlán, Sin.",
+      "phone": "6693256748",
+      "website": "https://topllanteras.com/sinaloa/",
+      "coordinates": {
+        "lat": 24.804129,
+        "lng": -107.5582373
+      },
+      "plusCode": null,
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [],
+      "profileUrl": "https://www.google.com/maps/place/Llantera+m%C3%B3vil/@24.804129,-107.5582373,12z/data=!4m11!1m3!2m2!1sllantera+en+mazatlan,+M%C3%A9xico!6e6!3m6!1s0x8698addca2746073:0xa210d85437d94d0d!8m2!3d23.276775!4d-106.371444!15sCh1sbGFudGVyYSBlbiBtYXphdGxhbiwgTcOpeGljb1oeIhxsbGFudGVyYSBlbiBtYXphdGxhbiBtw6l4aWNvkgEQdGlyZV9yZXBhaXJfc2hvcJoBJENoZERTVWhOTUc5blMwVkpRMEZuU1VOWE1WOUxlblZuUlJBQuABAPoBBAgAEDk!16s%2Fg%2F11rmvc8jyg?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": "x.com/convertbox",
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "llantera",
+        "city": "mazatlan",
+        "country": "México",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T06:12:36.722Z"
+    },
+    {
+      "position": 9,
+      "placeId": "0x869f53fbe90bfbdb:0xa9f40739497dd3f4",
+      "name": "Llantera móvil mazatlan",
+      "rating": 4,
+      "reviewCount": null,
+      "category": "Taller de reparación de automóviles",
+      "categories": [
+        "Taller de reparación de automóviles"
+      ],
+      "address": "Av Gutiérrez Nájera 511-Local 8, Reforma, 82030 Mazatlán, Sin.",
+      "phone": "6691606252",
+      "website": "http://hospitaldelallanta.com/",
+      "coordinates": {
+        "lat": 23.276775,
+        "lng": -106.5238793
+      },
+      "plusCode": "6H6J+4W Mazatlán, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Tomas Barron3 reseñas",
+          "rating": 5,
+          "text": "Excelente servicio, llegaron a tiempo y resolvieron el problema rápido y en excelencia!",
+          "date": "Hace 2 meses"
+        },
+        {
+          "author": "Tomas Barron3 reseñas",
+          "rating": 5,
+          "text": "Excelente servicio, llegaron a tiempo y resolvieron el problema rápido y en excelencia!",
+          "date": "Hace 2 meses"
+        },
+        {
+          "author": "Karem Castañeda3 reseñas",
+          "rating": 5,
+          "text": "Excelente servicio el joven muy amable su esposa y su niña que lo acompañan Dios los bendiga siempre y su negocio crezca\nMe poncho la llanta un viene viene de los que se adueñan de los estacionamientos pero gracias a existir su servicio puede llegar a casa",
+          "date": "Hace un año"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Llantera+m%C3%B3vil+mazatlan/@23.276775,-106.5238793,12z/data=!3m1!5s0x869f536f2208ec1b:0x3ebc49bedbc3f1c8!4m11!1m3!2m2!1sllantera+en+mazatlan,+M%C3%A9xico!6e6!3m6!1s0x869f53fbe90bfbdb:0xa9f40739497dd3f4!8m2!3d23.2102912!4d-106.4176292!15sCh1sbGFudGVyYSBlbiBtYXphdGxhbiwgTcOpeGljb1oeIhxsbGFudGVyYSBlbiBtYXphdGxhbiBtw6l4aWNvkgEQYXV0b19yZXBhaXJfc2hvcJoBI0NoWkRTVWhOTUc5blMwVkpRMEZuU1VOMWJFeGxNRmQzRUFF4AEA-gEECAAQHw!16s%2Fg%2F11q43263ht?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "llantera",
+        "city": "mazatlan",
+        "country": "México",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T06:12:37.766Z"
+    },
+    {
+      "position": 10,
+      "placeId": "0x86bcd79c239c5997:0xf36e884d2dc30911",
+      "name": "Llantas Corgan Sa de Cv.",
+      "rating": 4.5,
+      "reviewCount": null,
+      "category": "Tienda de neumáticos",
+      "categories": [
+        "Tienda de neumáticos"
+      ],
+      "address": "A Sanalona 6066 Carrizalejo, 80080 Culiacán Rosales, Sin.",
+      "phone": "6673038753",
+      "website": "http://llantascorgan.com/",
+      "coordinates": {
+        "lat": 23.276775,
+        "lng": -106.5238793
+      },
+      "plusCode": null,
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [],
+      "profileUrl": "https://www.google.com/maps/place/Llantas+Corgan+Sa+de+Cv./@23.276775,-106.5238793,12z/data=!3m1!5s0x869f536f2208ec1b:0x3ebc49bedbc3f1c8!4m11!1m3!2m2!1sllantera+en+mazatlan,+M%C3%A9xico!6e6!3m6!1s0x86bcd79c239c5997:0xf36e884d2dc30911!8m2!3d24.7969017!4d-107.290657!15sCh1sbGFudGVyYSBlbiBtYXphdGxhbiwgTcOpeGljb1oeIhxsbGFudGVyYSBlbiBtYXphdGxhbiBtw6l4aWNvkgEJdGlyZV9zaG9wmgEkQ2hkRFNVaE5NRzluUzBWSlEwRm5TVVIxZVMxeVFXeDNSUkFC4AEA-gEECAAQJA!16s%2Fg%2F11c3_8bs0v?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "llantera",
+        "city": "mazatlan",
+        "country": "México",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T06:12:40.828Z"
+    },
+    {
+      "position": 11,
+      "placeId": "0x8698ad9266e44101:0xf5c7f015a3b41e6e",
+      "name": "Llantera Móvil P Mazatlán",
+      "rating": 4.4,
+      "reviewCount": null,
+      "category": null,
+      "categories": [],
+      "address": "C. 1 de Octubre 10a, Hogar del Pescador, 82134 Mazatlán, Sin.",
+      "phone": "6691061557",
+      "website": "https://llanteramovilp.com/",
+      "coordinates": {
+        "lat": 24.7969017,
+        "lng": -107.4430923
+      },
+      "plusCode": "7HFR+QV Mazatlán, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Maria Del Rosario rosarito4 reseñas · 1 foto",
+          "rating": 5,
+          "text": "Muy bueen servicio, llego muy rapido, super honesto y muy amable el señor. Recomendado!!",
+          "date": "3 semanas atrás Nueva"
+        },
+        {
+          "author": "Maria Del Rosario rosarito4 reseñas · 1 foto",
+          "rating": 5,
+          "text": "Muy bueen servicio, llego muy rapido, super honesto y muy amable el señor. Recomendado!!",
+          "date": "3 semanas atrás Nueva"
+        },
+        {
+          "author": "Angela TorriciLocal Guide · 63 reseñas",
+          "rating": 5,
+          "text": "Excelente servicio. Llegaron rápido, fueron muy amables y eficientes.",
+          "date": "Hace 6 meses"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Llantera+M%C3%B3vil+P+Mazatl%C3%A1n/@24.7969017,-107.4430923,12z/data=!4m11!1m3!2m2!1sllantera+en+mazatlan,+M%C3%A9xico!6e6!3m6!1s0x8698ad9266e44101:0xf5c7f015a3b41e6e!8m2!3d23.2744043!4d-106.4077583!15sCh1sbGFudGVyYSBlbiBtYXphdGxhbiwgTcOpeGljb1oeIhxsbGFudGVyYSBlbiBtYXphdGxhbiBtw6l4aWNvkgEQdGlyZV9yZXBhaXJfc2hvcJoBRENpOURRVWxSUVVOdlpFTm9kSGxqUmpsdlQyMTRWMlJWVmtkUFZFNVdUMFZrZGxJd2FIZFRNMEoxVm10S2FsUnRZeEFC4AEA-gEECAAQSg!16s%2Fg%2F11v0gymcm6?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": "milenabbrandao@gmail.com",
+      "allEmails": [
+        "milenabbrandao@gmail.com",
+        "info@indiantypefoundry.com",
+        "impallari@gmail.com",
+        "peperendon13@hotmail.com"
+      ],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": "facebook.com/108083122276003",
+        "twitter": null,
+        "whatsapp": "526691061557",
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "llantera",
+        "city": "mazatlan",
+        "country": "México",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T06:12:42.486Z"
+    },
+    {
+      "position": 12,
+      "placeId": "0x869f5300309eed7d:0xb3fa84c1f013b4d9",
+      "name": "Llantera (P) Móvil Mazatlán",
+      "rating": 4,
+      "reviewCount": null,
+      "category": null,
+      "categories": [],
+      "address": "Av Sinaloa 930C, Sanchez Celis, 82120 Mazatlán, Sin.",
+      "phone": "6691061557",
+      "website": "https://llanteramovilp.com/",
+      "coordinates": {
+        "lat": 23.2744043,
+        "lng": -106.5601936
+      },
+      "plusCode": "6HW8+JV Mazatlán, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Carlos rodriguez martinezLocal Guide · 123 reseñas",
+          "rating": null,
+          "text": "Para nada recomiendo este lugar!! Fui por un servicio lo hicieron rápido, pero en menos de una hora, se le salió el aire de nuevo, pedí garantía y me quería cobrar de nuevo y estaba a menos de un kilómetro del lugar, la verdad poco ético y creo que en otro lugar cobran menos.",
+          "date": "3 semanas atrás Nueva"
+        },
+        {
+          "author": "Carlos rodriguez martinezLocal Guide · 123 reseñas",
+          "rating": null,
+          "text": "Para nada recomiendo este lugar!! Fui por un servicio lo hicieron rápido, pero en menos de una hora, se le salió el aire de nuevo, pedí garantía y me quería cobrar de nuevo y estaba a menos de un kilómetro del lugar, la verdad poco ético y creo que en otro lugar cobran menos.",
+          "date": "3 semanas atrás Nueva"
+        },
+        {
+          "author": "Edgar Aguero AguiarLocal Guide · 22 reseñas · 25 fotos",
+          "rating": 5,
+          "text": "Gran servicio, precio razonable me desponcho la llanta",
+          "date": "Hace 4 meses"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Llantera+(P)+M%C3%B3vil+Mazatl%C3%A1n/@23.2744043,-106.5601936,12z/data=!4m11!1m3!2m2!1sllantera+en+mazatlan,+M%C3%A9xico!6e6!3m6!1s0x869f5300309eed7d:0xb3fa84c1f013b4d9!8m2!3d23.246531!4d-106.4328074!15sCh1sbGFudGVyYSBlbiBtYXphdGxhbiwgTcOpeGljb1oeIhxsbGFudGVyYSBlbiBtYXphdGxhbiBtw6l4aWNvkgEQdGlyZV9yZXBhaXJfc2hvcJoBRENpOURRVWxSUVVOdlpFTm9kSGxqUmpsdlQyNUdVRlpGYjNsVlZ6VllVMnhDU1UxR1NuSmFSVlpDVVZVeFVHTnNSUkFC4AEA-gEECAAQNg!16s%2Fg%2F11w59g2sm0?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": "milenabbrandao@gmail.com",
+      "allEmails": [
+        "milenabbrandao@gmail.com",
+        "info@indiantypefoundry.com",
+        "impallari@gmail.com",
+        "peperendon13@hotmail.com"
+      ],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": "facebook.com/108083122276003",
+        "twitter": null,
+        "whatsapp": "526691061557",
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "llantera",
+        "city": "mazatlan",
+        "country": "México",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T06:12:43.450Z"
+    },
+    {
+      "position": 13,
+      "placeId": "0x869f53e7951ed65b:0x108ab07c65700b2",
+      "name": "Llantera Mazatlán",
+      "rating": 4.7,
+      "reviewCount": null,
+      "category": "Tienda de neumáticos",
+      "categories": [
+        "Tienda de neumáticos"
+      ],
+      "address": "Av. Munich Local 1202-A, Jaripillo, 82136 Mazatlán, Sin.",
+      "phone": "6692517902",
+      "website": null,
+      "coordinates": {
+        "lat": 23.2744043,
+        "lng": -106.5601936
+      },
+      "plusCode": "7J52+9M Mazatlán, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Héctor Armando GomezLocal Guide · 434 reseñas · 1791 fotos",
+          "rating": 5,
+          "text": "Excelente servicio",
+          "date": "Hace 6 meses"
+        },
+        {
+          "author": "Héctor Armando GomezLocal Guide · 434 reseñas · 1791 fotos",
+          "rating": 5,
+          "text": "Excelente servicio",
+          "date": "Hace 6 meses"
+        },
+        {
+          "author": "José Valles TLocal Guide · 102 reseñas · 237 fotos",
+          "rating": null,
+          "text": "Dan un presupuesto por Whatsapp y al llegar al local lo aumentan, además de muy apáticos al atender.",
+          "date": "Hace 8 meses"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Llantera+Mazatl%C3%A1n/@23.2744043,-106.5601936,12z/data=!4m11!1m3!2m2!1sllantera+en+mazatlan,+M%C3%A9xico!6e6!3m6!1s0x869f53e7951ed65b:0x108ab07c65700b2!8m2!3d23.2584046!4d-106.3983475!15sCh1sbGFudGVyYSBlbiBtYXphdGxhbiwgTcOpeGljb1oeIhxsbGFudGVyYSBlbiBtYXphdGxhbiBtw6l4aWNvkgEJdGlyZV9zaG9wmgFEQ2k5RFFVbFJRVU52WkVOb2RIbGpSamx2VDJ4d2RsTXpiRzFoYWs1cldtdEdWMU13TlZWUFdFcDBVVmQzTUZWSVl4QULgAQD6AQQIABAS!16s%2Fg%2F11f856hqd0?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "llantera",
+        "city": "mazatlan",
+        "country": "México",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T06:12:43.986Z"
+    },
+    {
+      "position": 14,
+      "placeId": "0x869f525c0f99ab59:0x12ba6e09a16c622a",
+      "name": "Llantera Barron",
+      "rating": 4.4,
+      "reviewCount": null,
+      "category": "Taller de reparación de remolques",
+      "categories": [
+        "Taller de reparación de remolques"
+      ],
+      "address": "Lib. de Mazatlán 11, Urías, 82099 Mazatlán, Sin.",
+      "phone": "6692172430",
+      "website": null,
+      "coordinates": {
+        "lat": 23.2744043,
+        "lng": -106.5601936
+      },
+      "plusCode": "6J9F+2W Mazatlán, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Jorge Daniel Salgado LopezLocal Guide · 307 reseñas · 22 fotos",
+          "rating": 5,
+          "text": "Excelente servicio, muy eficientes y rápidos. Precios accesibles",
+          "date": "Hace 5 meses"
+        },
+        {
+          "author": "Jorge Daniel Salgado LopezLocal Guide · 307 reseñas · 22 fotos",
+          "rating": 5,
+          "text": "Excelente servicio, muy eficientes y rápidos. Precios accesibles",
+          "date": "Hace 5 meses"
+        },
+        {
+          "author": "Juan Hilario Uribe GarcíaLocal Guide · 25 reseñas · 1 foto",
+          "rating": 5,
+          "text": "Exelente servicio y encontré lo que buscaba",
+          "date": "Hace 10 meses"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Llantera+Barron/@23.2744043,-106.5601936,12z/data=!4m11!1m3!2m2!1sllantera+en+mazatlan,+M%C3%A9xico!6e6!3m6!1s0x869f525c0f99ab59:0x12ba6e09a16c622a!8m2!3d23.2175075!4d-106.3752065!15sCh1sbGFudGVyYSBlbiBtYXphdGxhbiwgTcOpeGljb1oeIhxsbGFudGVyYSBlbiBtYXphdGxhbiBtw6l4aWNvkgETdHJhaWxlcl9yZXBhaXJfc2hvcJoBRENpOURRVWxSUVVOdlpFTm9kSGxqUmpsdlQydE9TbUZyTldaaVJGSm1XakpvYWxZeVVubFRSMnQ2WXpCa1RGWklZeEFC4AEA-gEECAAQLQ!16s%2Fg%2F11f30wz0nz?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "llantera",
+        "city": "mazatlan",
+        "country": "México",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T06:12:44.542Z"
+    },
+    {
+      "position": 15,
+      "placeId": "0x869f5329b4a31a1d:0x40cb45e86f8cdf98",
+      "name": "Llantera móvil Los Cuates",
+      "rating": 4.1,
+      "reviewCount": null,
+      "category": "Tienda de neumáticos",
+      "categories": [
+        "Tienda de neumáticos"
+      ],
+      "address": "Av. Lib. Núm. 2, Av. Juan Pablo II, Jaripillo, 82136 Mazatlán, Sin.",
+      "phone": "6691743360",
+      "website": null,
+      "coordinates": {
+        "lat": 23.2744043,
+        "lng": -106.5601936
+      },
+      "plusCode": "7J53+WV Mazatlán, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Kathia Gonzalez2 reseñas",
+          "rating": null,
+          "text": "No  les llamen. Estuvimos más de 2:30 hrs esperando que llegaran.  Nos pasaron por enfrente, le gritamos , hicimos señales  y  no llegaron",
+          "date": "Hace 2 meses"
+        },
+        {
+          "author": "Kathia Gonzalez2 reseñas",
+          "rating": null,
+          "text": "No  les llamen. Estuvimos más de 2:30 hrs esperando que llegaran.  Nos pasaron por enfrente, le gritamos , hicimos señales  y  no llegaron",
+          "date": "Hace 2 meses"
+        },
+        {
+          "author": "Karla Gomez9 reseñas · 4 fotos",
+          "rating": null,
+          "text": "Tuvimos una emergencia y contestó una señora de muy mala gana y no me resolvió dijo que le mandara mi domicilio y ya no contestó en cambio otro servicio llamado Hidalgo don che respondieron rápido",
+          "date": "Editado Hace un año"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Llantera+m%C3%B3vil+Los+Cuates/@23.2744043,-106.5601936,12z/data=!4m11!1m3!2m2!1sllantera+en+mazatlan,+M%C3%A9xico!6e6!3m6!1s0x869f5329b4a31a1d:0x40cb45e86f8cdf98!8m2!3d23.2598629!4d-106.3952833!15sCh1sbGFudGVyYSBlbiBtYXphdGxhbiwgTcOpeGljb1oeIhxsbGFudGVyYSBlbiBtYXphdGxhbiBtw6l4aWNvkgEJdGlyZV9zaG9wmgEjQ2haRFNVaE5NRzluUzBWSlEwRm5TVU5QTUhFMlQxVkJFQUXgAQD6AQQIABA_!16s%2Fg%2F11cnc9yw5v?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "llantera",
+        "city": "mazatlan",
+        "country": "México",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T06:12:45.094Z"
+    },
+    {
+      "position": 16,
+      "placeId": "0x869f5391c67e7175:0xa93656fbd18a1886",
+      "name": "Llantera Rodríguez",
+      "rating": 4.4,
+      "reviewCount": null,
+      "category": null,
+      "categories": [],
+      "address": "Av.Santa rosa y calle pípila, Burócratas, 82120 Mazatlán, Sin.",
+      "phone": "6692762252",
+      "website": null,
+      "coordinates": {
+        "lat": 23.2744043,
+        "lng": -106.5601936
+      },
+      "plusCode": "7H2Q+J7 Mazatlán, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Carlos Caro3 reseñas",
+          "rating": 5,
+          "text": "Llantera de calidad siempre con buen servicio 24 horas",
+          "date": "Hace 2 meses"
+        },
+        {
+          "author": "Carlos Caro3 reseñas",
+          "rating": 5,
+          "text": "Llantera de calidad siempre con buen servicio 24 horas",
+          "date": "Hace 2 meses"
+        },
+        {
+          "author": "Gabriela MirandaLocal Guide · 15 reseñas",
+          "rating": 5,
+          "text": "Para empezar si es cierto que tienen servicio de 24 hrs. Tuve una emergencia a media noche y de los lugares que decían 24 hrs éste fué el único que si.\nFueron amables, me atendieron bien y las llanta quedó bien.",
+          "date": "Hace un año"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Llantera+Rodr%C3%ADguez/@23.2744043,-106.5601936,12z/data=!4m11!1m3!2m2!1sllantera+en+mazatlan,+M%C3%A9xico!6e6!3m6!1s0x869f5391c67e7175:0xa93656fbd18a1886!8m2!3d23.2515012!4d-106.411864!15sCh1sbGFudGVyYSBlbiBtYXphdGxhbiwgTcOpeGljb1oeIhxsbGFudGVyYSBlbiBtYXphdGxhbiBtw6l4aWNvkgEQdGlyZV9yZXBhaXJfc2hvcJoBJENoZERTVWhOTUc5blMwVkpRMEZuU1VSb2FVbExTRGgzUlJBQuABAPoBBAgAECc!16s%2Fg%2F11tfwlgn39?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "llantera",
+        "city": "mazatlan",
+        "country": "México",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T06:12:45.656Z"
+    },
+    {
+      "position": 17,
+      "placeId": "0x869f53251dbcdabf:0xc27d2aede11e600c",
+      "name": "Llantas y grúas Chavarín 24/7",
+      "rating": 4.4,
+      "reviewCount": null,
+      "category": "Tienda de neumáticos",
+      "categories": [
+        "Tienda de neumáticos"
+      ],
+      "address": "Chico Michel 18, Luís Echeverría, 82160 Mazatlán, Sin.",
+      "phone": "6692801016",
+      "website": "http://llanterasygruaschavarin.com/",
+      "coordinates": {
+        "lat": 23.2744043,
+        "lng": -106.5601936
+      },
+      "plusCode": "7H3W+7M Mazatlán, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "IDAAI PLATALocal Guide · 23 reseñas · 29 fotos",
+          "rating": 5,
+          "text": "Muy buen servicio y te solucionan al momento",
+          "date": "Hace 3 meses"
+        },
+        {
+          "author": "IDAAI PLATALocal Guide · 23 reseñas · 29 fotos",
+          "rating": 5,
+          "text": "Muy buen servicio y te solucionan al momento",
+          "date": "Hace 3 meses"
+        },
+        {
+          "author": "osbaldo palomoLocal Guide · 41 reseñas · 24 fotos",
+          "rating": null,
+          "text": "Mala experiencia en esa llantera, solo fui a calibrar una llanta y me rompieron la válvula de una de las llantas, la dueña argumentaba que mi válvula estaba vieja pero lo que no sabía es de que yo tengo vulcanizadora y se como tengo mis… Más",
+          "date": "Hace un año"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Llantas+y+gr%C3%BAas+Chavar%C3%ADn+24%2F7/@23.2744043,-106.5601936,12z/data=!3m1!5s0x869f53251d75ebb9:0xab8038295a1bd69!4m11!1m3!2m2!1sllantera+en+mazatlan,+M%C3%A9xico!6e6!3m6!1s0x869f53251dbcdabf:0xc27d2aede11e600c!8m2!3d23.2532431!4d-106.4032786!15sCh1sbGFudGVyYSBlbiBtYXphdGxhbiwgTcOpeGljb1oeIhxsbGFudGVyYSBlbiBtYXphdGxhbiBtw6l4aWNvkgEJdGlyZV9zaG9wmgEjQ2haRFNVaE5NRzluUzBWSlEwRm5TVU5xTTA5WFkxbEJFQUXgAQD6AQQIABAm!16s%2Fg%2F11hd1mztpw?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": "gruaselpelon_mzt@hotmail.com",
+      "allEmails": [
+        "gruaselpelon_mzt@hotmail.com"
+      ],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": "5216699412958",
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "llantera",
+        "city": "mazatlan",
+        "country": "México",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T06:12:48.367Z"
+    },
+    {
+      "position": 18,
+      "placeId": "0x869f52f7ae0ffc97:0x6f00efddfa1adba9",
+      "name": "Llantera Zamudio",
+      "rating": 4.7,
+      "reviewCount": null,
+      "category": "Tienda de neumáticos",
+      "categories": [
+        "Tienda de neumáticos"
+      ],
+      "address": "Av. Juan Pablo II 14, Villa Galaxia, 82150 Mazatlán, Sin.",
+      "phone": "6691760717",
+      "website": "http://llanterazamudio.com/",
+      "coordinates": {
+        "lat": 23.2744043,
+        "lng": -106.5601936
+      },
+      "plusCode": null,
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [],
+      "profileUrl": "https://www.google.com/maps/place/Llantera+Zamudio/@23.2744043,-106.5601936,12z/data=!4m11!1m3!2m2!1sllantera+en+mazatlan,+M%C3%A9xico!6e6!3m6!1s0x869f52f7ae0ffc97:0x6f00efddfa1adba9!8m2!3d23.2400226!4d-106.4120081!15sCh1sbGFudGVyYSBlbiBtYXphdGxhbiwgTcOpeGljb1oeIhxsbGFudGVyYSBlbiBtYXphdGxhbiBtw6l4aWNvkgEJdGlyZV9zaG9wmgEjQ2haRFNVaE5NRzluUzBWSlEwRm5TVU5zTTJKTFUwSlJFQUXgAQD6AQQIABAx!16s%2Fg%2F12hk91fln?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": "gerencia@llanterazamudio.com",
+      "allEmails": [
+        "gerencia@llanterazamudio.com"
+      ],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": "5216694312754",
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "llantera",
+        "city": "mazatlan",
+        "country": "México",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T06:12:51.125Z"
+    },
+    {
+      "position": 19,
+      "placeId": "0x869f53c9d254d757:0xf8906b84dcc0e849",
+      "name": "Llantera movil El Noa",
+      "rating": 4.7,
+      "reviewCount": null,
+      "category": null,
+      "categories": [],
+      "address": "Servicios a domicilio, Fraccionamiento rincon de urias #3821, 82195 Mazatlán, Sin.",
+      "phone": "6692287247",
+      "website": "http://www.llanteramovilelnoa.com.mx/",
+      "coordinates": {
+        "lat": 23.2744043,
+        "lng": -106.5601936
+      },
+      "plusCode": null,
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [],
+      "profileUrl": "https://www.google.com/maps/place/Llantera+movil+El+Noa/@23.2744043,-106.5601936,12z/data=!4m11!1m3!2m2!1sllantera+en+mazatlan,+M%C3%A9xico!6e6!3m6!1s0x869f53c9d254d757:0xf8906b84dcc0e849!8m2!3d23.2403157!4d-106.3678868!15sCh1sbGFudGVyYSBlbiBtYXphdGxhbiwgTcOpeGljb1oeIhxsbGFudGVyYSBlbiBtYXphdGxhbiBtw6l4aWNvkgEQdGlyZV9yZXBhaXJfc2hvcJoBI0NoWkRTVWhOTUc5blMwVkpRMEZuU1VObGFHWXpVRlZSRUFF4AEA-gEECAAQDw!16s%2Fg%2F11szxc2m90?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "llantera",
+        "city": "mazatlan",
+        "country": "México",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T06:12:52.358Z"
+    },
+    {
+      "position": 20,
+      "placeId": "0x869f531bb199f7ef:0x91f6129be093ce31",
+      "name": "Llantera Movil Shaddai Mazatlan",
+      "rating": 5,
+      "reviewCount": null,
+      "category": null,
+      "categories": [],
+      "address": "Tamarindo 65, Col. Ampliación, Bugambilias la Esperanza, 82139 Mazatlán, Sin.",
+      "phone": "6699251490",
+      "website": "https://www.facebook.com/profile.php?id=61558259833117&mibextid=qi2Omg&rdid=m8VvOj0Wcklp4LU5",
+      "coordinates": {
+        "lat": 23.2744043,
+        "lng": -106.5601936
+      },
+      "plusCode": null,
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [],
+      "profileUrl": "https://www.google.com/maps/place/Llantera+Movil+Shaddai+Mazatlan/@23.2744043,-106.5601936,12z/data=!4m11!1m3!2m2!1sllantera+en+mazatlan,+M%C3%A9xico!6e6!3m6!1s0x869f531bb199f7ef:0x91f6129be093ce31!8m2!3d23.2589899!4d-106.3857499!15sCh1sbGFudGVyYSBlbiBtYXphdGxhbiwgTcOpeGljb1oeIhxsbGFudGVyYSBlbiBtYXphdGxhbiBtw6l4aWNvkgEQdGlyZV9yZXBhaXJfc2hvcJoBI0NoWkRTVWhOTUc5blMwVkpRMEZuU1VOVUxYWllTbVpSRUFF4AEA-gEECAAQHw!16s%2Fg%2F11vz3ymhfp?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": "facebook.com/people",
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "llantera",
+        "city": "mazatlan",
+        "country": "México",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T06:12:56.567Z"
+    },
+    {
+      "position": 21,
+      "placeId": "0x1407af045ac6a3a3:0xd34c221854b5b388",
+      "name": "LLANTAS LLYASA Suc. Mazatlán",
+      "rating": 4.5,
+      "reviewCount": null,
+      "category": "Tienda de neumáticos",
+      "categories": [
+        "Tienda de neumáticos"
+      ],
+      "address": "Ave Ejercito Mexicano y Calle Rio Grijalva, C. Rio Grijalva y, Tierra y Libertad, 82019 Mazatlán, Sin.",
+      "phone": "6691470073",
+      "website": "http://llyasa.com/",
+      "coordinates": {
+        "lat": 23.2744043,
+        "lng": -106.5601936
+      },
+      "plusCode": "6HJH+G2 Mazatlán, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [
+        "Amigable con LGBTQ+"
+      ],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Salma TetlacuiloLocal Guide · 35 reseñas · 4 fotos",
+          "rating": 5,
+          "text": "El servicio y atención es muy bueno, y son muy rápidos.",
+          "date": "Hace 10 meses"
+        },
+        {
+          "author": "Salma TetlacuiloLocal Guide · 35 reseñas · 4 fotos",
+          "rating": 5,
+          "text": "El servicio y atención es muy bueno, y son muy rápidos.",
+          "date": "Hace 10 meses"
+        },
+        {
+          "author": "YosLocal Guide · 106 reseñas · 92 fotos",
+          "rating": 5,
+          "text": "Excelente atención y precios!! Recomendados",
+          "date": "Hace 2 meses"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/LLANTAS+LLYASA+Suc.+Mazatl%C3%A1n/@23.2744043,-106.5601936,12z/data=!4m11!1m3!2m2!1sllantera+en+mazatlan,+M%C3%A9xico!6e6!3m6!1s0x1407af045ac6a3a3:0xd34c221854b5b388!8m2!3d23.2313583!4d-106.4224312!15sCh1sbGFudGVyYSBlbiBtYXphdGxhbiwgTcOpeGljb1oeIhxsbGFudGVyYSBlbiBtYXphdGxhbiBtw6l4aWNvkgEJdGlyZV9zaG9wmgEkQ2hkRFNVaE5NRzluUzBWTlpWOTNObGhRTWxveWIzRm5SUkFC4AEA-gEECAAQMw!16s%2Fg%2F11b7c1sn78?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": "instagram.com/llyasallantas",
+        "facebook": "facebook.com/tr",
+        "twitter": null,
+        "whatsapp": "526442123315",
+        "linkedin": "linkedin.com/company/llyasa",
+        "youtube": "youtube.com/channel/UCmVulPVwIvHYGAUULBkDR9g",
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "llantera",
+        "city": "mazatlan",
+        "country": "México",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T06:12:58.559Z"
+    },
+    {
+      "position": 22,
+      "placeId": "0x869f5397946f9a8b:0x48f5da90ac5d717c",
+      "name": "llANTERA El NEGRO",
+      "rating": 4.7,
+      "reviewCount": null,
+      "category": "Tienda de neumáticos",
+      "categories": [
+        "Tienda de neumáticos"
+      ],
+      "address": "Antonio Rosales 2225, Centro, 82000 Mazatlán, Sin.",
+      "phone": "6691465199",
+      "website": null,
+      "coordinates": {
+        "lat": 23.2744043,
+        "lng": -106.5601936
+      },
+      "plusCode": "6H4J+RG Mazatlán, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Bulmaro González CantoLocal Guide · 351 reseñas · 150 fotos",
+          "rating": 5,
+          "text": "Excelente servicio no se raja sin importar que moto. La que sea el puede. Lo recomiendo ampliamente.",
+          "date": "Hace 2 meses"
+        },
+        {
+          "author": "Bulmaro González CantoLocal Guide · 351 reseñas · 150 fotos",
+          "rating": 5,
+          "text": "Excelente servicio no se raja sin importar que moto. La que sea el puede. Lo recomiendo ampliamente.",
+          "date": "Hace 2 meses"
+        },
+        {
+          "author": "Raga Jurídico3 reseñas · 2 fotos",
+          "rating": 5,
+          "text": "Cambia las llantas de BMW y Ducati, es muy seguro y muy profesional…!",
+          "date": "Hace 2 meses"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/llANTERA+El+NEGRO/@23.2744043,-106.5601936,12z/data=!3m1!5s0x869f539794038707:0x982fab18fbed1866!4m11!1m3!2m2!1sllantera+en+mazatlan,+M%C3%A9xico!6e6!3m6!1s0x869f5397946f9a8b:0x48f5da90ac5d717c!8m2!3d23.207003!4d-106.4187369!15sCh1sbGFudGVyYSBlbiBtYXphdGxhbiwgTcOpeGljb1oeIhxsbGFudGVyYSBlbiBtYXphdGxhbiBtw6l4aWNvkgEJdGlyZV9zaG9wmgEkQ2hkRFNVaE5NRzluUzBWSlEwRm5TVU5LZW5WRWR6aEJSUkFC4AEA-gEECAAQMg!16s%2Fg%2F11b76c240v?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "llantera",
+        "city": "mazatlan",
+        "country": "México",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T06:12:59.109Z"
+    },
+    {
+      "position": 23,
+      "placeId": "0x869f535055555555:0x68eff2476b716e28",
+      "name": "Llantera Movil Tirado",
+      "rating": 4.6,
+      "reviewCount": null,
+      "category": "Tienda de neumáticos",
+      "categories": [
+        "Tienda de neumáticos"
+      ],
+      "address": "Av. Bicentenario Juárez 119-B, Francisco Villa, 82127 Mazatlán, Sin.",
+      "phone": "6699409374",
+      "website": "https://www.facebook.com/llantera.tirado.3",
+      "coordinates": {
+        "lat": 23.2744043,
+        "lng": -106.5601936
+      },
+      "plusCode": "7H5C+5V Mazatlán, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Ivan Bernal5 reseñas · 1 foto",
+          "rating": null,
+          "text": "Mala experiencia una persona solicito el servicio por ponchadura sin saber que era el pivote pensé en cancelar pero opte porque ellos cambiarán el pivote el presupuesto de desponchadura era 250.00 el caso que por cambiar pivote cobran lo mismo los dije debe ser más barato y nomás dijeron eso cobramo",
+          "date": "Hace un año"
+        },
+        {
+          "author": "Ivan Bernal5 reseñas · 1 foto",
+          "rating": null,
+          "text": "Mala experiencia una persona solicito el servicio por ponchadura sin saber que era el pivote pensé en cancelar pero opte porque ellos cambiarán el pivote el presupuesto de desponchadura era 250.00 el caso que por cambiar pivote cobran lo mismo los dije debe ser más barato y nomás dijeron eso cobramo",
+          "date": "Hace un año"
+        },
+        {
+          "author": "Avenamar Murillo (Abe)78 reseñas",
+          "rating": null,
+          "text": "Leo los comentarios y dicen que son rapidos, eficientes y económico..\nY yo veo todo lo contrario, 40 minutos llevo esperando a que me desponchen,\nY veo que tardan muchisimo para quitar una llanta, se. Ve que buscan llaves y no… Más",
+          "date": "Hace 2 años"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Llantera+Movil+Tirado/@23.2744043,-106.5601936,12z/data=!3m1!5s0x869f534e16e39593:0x6700c22463bcbf8d!4m11!1m3!2m2!1sllantera+en+mazatlan,+M%C3%A9xico!6e6!3m6!1s0x869f535055555555:0x68eff2476b716e28!8m2!3d23.2579638!4d-106.4278654!15sCh1sbGFudGVyYSBlbiBtYXphdGxhbiwgTcOpeGljb1oeIhxsbGFudGVyYSBlbiBtYXphdGxhbiBtw6l4aWNvkgEJdGlyZV9zaG9wmgEjQ2haRFNVaE5NRzluUzBWSlEwRm5TVVI0TUZwRFYwdG5FQUXgAQD6AQQIABA3!16s%2Fg%2F1w112ml2?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": "facebook.com/llantera.tirado.3",
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "llantera",
+        "city": "mazatlan",
+        "country": "México",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T06:13:00.491Z"
+    },
+    {
+      "position": 24,
+      "placeId": "0x869f530029001595:0xe1b4a2a514898e9b",
+      "name": "Llantera Móvil 24hr “Online”",
+      "rating": 5,
+      "reviewCount": null,
+      "category": "Taller de reparación de automóviles",
+      "categories": [
+        "Taller de reparación de automóviles"
+      ],
+      "address": "Río Baluarte 411, Palos Prietos, 82010 Mazatlán, Sin.",
+      "phone": "6692230533",
+      "website": null,
+      "coordinates": {
+        "lat": 23.2744043,
+        "lng": -106.5601936
+      },
+      "plusCode": "6H8J+X3 Mazatlán, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Martina DiazLocal Guide · 20 reseñas · 9 fotos",
+          "rating": 5,
+          "text": "Muy buen servicio.",
+          "date": "Hace un mes"
+        },
+        {
+          "author": "Martina DiazLocal Guide · 20 reseñas · 9 fotos",
+          "rating": 5,
+          "text": "Muy buen servicio.",
+          "date": "Hace un mes"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Llantera+M%C3%B3vil+24hr+%E2%80%9COnline%E2%80%9D/@23.2744043,-106.5601936,12z/data=!4m11!1m3!2m2!1sllantera+en+mazatlan,+M%C3%A9xico!6e6!3m6!1s0x869f530029001595:0xe1b4a2a514898e9b!8m2!3d23.2174931!4d-106.4197652!15sCh1sbGFudGVyYSBlbiBtYXphdGxhbiwgTcOpeGljb1oeIhxsbGFudGVyYSBlbiBtYXphdGxhbiBtw6l4aWNvkgEQYXV0b19yZXBhaXJfc2hvcJoBRENpOURRVWxSUVVOdlpFTm9kSGxqUmpsdlQyeHJlRk5zU2s1UmVscHJaRmQwU2t4VVFqVmhhekZUVlc1YWExVlZSUkFC4AEA-gEECAAQEg!16s%2Fg%2F11yrv6lb12?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "llantera",
+        "city": "mazatlan",
+        "country": "México",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T06:13:01.055Z"
+    },
+    {
+      "position": 25,
+      "placeId": "0x869f53df86efe2dd:0x1a99defcac8c4f57",
+      "name": "Llantera P Móvil Mazatlán",
+      "rating": null,
+      "reviewCount": null,
+      "category": null,
+      "categories": [],
+      "address": "Av Río Piaxtla 702, San Ángel, 82014 Mazatlán, Sin.",
+      "phone": "6691061557",
+      "website": "https://llanteramovilp.com/",
+      "coordinates": {
+        "lat": 23.2744043,
+        "lng": -106.5601936
+      },
+      "plusCode": "6HCJ+WX Mazatlán, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [],
+      "profileUrl": "https://www.google.com/maps/place/Llantera+P+M%C3%B3vil+Mazatl%C3%A1n/@23.2744043,-106.5601936,12z/data=!4m11!1m3!2m2!1sllantera+en+mazatlan,+M%C3%A9xico!6e6!3m6!1s0x869f53df86efe2dd:0x1a99defcac8c4f57!8m2!3d23.2223275!4d-106.41754!15sCh1sbGFudGVyYSBlbiBtYXphdGxhbiwgTcOpeGljb5IBEHRpcmVfcmVwYWlyX3Nob3DgAQA!16s%2Fg%2F11ywxl2r4c?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": "milenabbrandao@gmail.com",
+      "allEmails": [
+        "milenabbrandao@gmail.com",
+        "info@indiantypefoundry.com",
+        "impallari@gmail.com",
+        "peperendon13@hotmail.com"
+      ],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": "facebook.com/108083122276003",
+        "twitter": null,
+        "whatsapp": "526691061557",
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "llantera",
+        "city": "mazatlan",
+        "country": "México",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T06:13:02.088Z"
+    },
+    {
+      "position": 26,
+      "placeId": "0x869f5300185d094d:0xb50aa3c79246b5af",
+      "name": "Llantera movil HERNANDEZ",
+      "rating": 5,
+      "reviewCount": null,
+      "category": null,
+      "categories": [],
+      "address": "C. Vicente Suárez 2207, Morelos, 82170 Mazatlán, Sin.",
+      "phone": "6691606252",
+      "website": null,
+      "coordinates": {
+        "lat": 23.2744043,
+        "lng": -106.5601936
+      },
+      "plusCode": "6HQV+X4 Mazatlán, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Ricardo Hernandez",
+          "rating": 5,
+          "text": null,
+          "date": "3 semanas atrás Nueva"
+        },
+        {
+          "author": "Ricardo Hernandez",
+          "rating": 5,
+          "text": null,
+          "date": "3 semanas atrás Nueva"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Llantera+movil+HERNANDEZ/@23.2744043,-106.5601936,12z/data=!4m11!1m3!2m2!1sllantera+en+mazatlan,+M%C3%A9xico!6e6!3m6!1s0x869f5300185d094d:0xb50aa3c79246b5af!8m2!3d23.2399985!4d-106.4071574!15sCh1sbGFudGVyYSBlbiBtYXphdGxhbiwgTcOpeGljb5IBEHRpcmVfcmVwYWlyX3Nob3DgAQA!16s%2Fg%2F11xkxm45y9?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "llantera",
+        "city": "mazatlan",
+        "country": "México",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T06:13:02.650Z"
+    },
+    {
+      "position": 27,
+      "placeId": "0x869f534fc8a9af19:0x1c7e99afb9fda037",
+      "name": "LLANTERA MOVIL LA MAS CERCANA",
+      "rating": 5,
+      "reviewCount": null,
+      "category": null,
+      "categories": [],
+      "address": "Av. Juan Pablo II, Manuel J. Clouthier, 82020 Mazatlán, Sin.",
+      "phone": "6692663224",
+      "website": null,
+      "coordinates": {
+        "lat": 23.2744043,
+        "lng": -106.5601936
+      },
+      "plusCode": "6HFR+FW Mazatlán, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Paul Sanchez1 reseña · 1 foto",
+          "rating": 5,
+          "text": "Un exelente servicio",
+          "date": "Hace 5 meses"
+        },
+        {
+          "author": "Paul Sanchez1 reseña · 1 foto",
+          "rating": 5,
+          "text": "Un exelente servicio",
+          "date": "Hace 5 meses"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/LLANTERA+MOVIL+LA+MAS+CERCANA/@23.2744043,-106.5601936,12z/data=!4m11!1m3!2m2!1sllantera+en+mazatlan,+M%C3%A9xico!6e6!3m6!1s0x869f534fc8a9af19:0x1c7e99afb9fda037!8m2!3d23.2237237!4d-106.4077224!15sCh1sbGFudGVyYSBlbiBtYXphdGxhbiwgTcOpeGljb1oeIhxsbGFudGVyYSBlbiBtYXphdGxhbiBtw6l4aWNvkgEMdGlyZV9zZXJ2aWNlmgFEQ2k5RFFVbFJRVU52WkVOb2RIbGpSamx2VDJ4YU1HTXlPVFZpVlZad1ZteGFjR1Z1YUdwa00xSmhXV3BrVTFSV1JSQULgAQD6AQQIABAU!16s%2Fg%2F11wvy8wz2j?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "llantera",
+        "city": "mazatlan",
+        "country": "México",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T06:13:03.217Z"
+    },
+    {
+      "position": 28,
+      "placeId": "0x8698ab12b624d2d3:0x8697e6dae0af8af5",
+      "name": "Llantas Soria Yokohama",
+      "rating": 4.6,
+      "reviewCount": null,
+      "category": "Servicio de alineación de ruedas",
+      "categories": [
+        "Servicio de alineación de ruedas"
+      ],
+      "address": "Av. Paseo del Atlántico, 82103 Mazatlán, Sin.",
+      "phone": "6691808035",
+      "website": null,
+      "coordinates": {
+        "lat": 23.2744043,
+        "lng": -106.5601936
+      },
+      "plusCode": "7HG3+58 Mazatlán, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Juan de Dios Durán Hernández5 reseñas · 2 fotos",
+          "rating": 5,
+          "text": "Excelente atención, tienen el mejor equipo de diagnostico y herramientas para cualquier tipo de reparación. Son muy honestos con el problema que tiene el vehículo, siempre explican detalladamente la reparación. Los precios son muy justos",
+          "date": "Editado Hace un año"
+        },
+        {
+          "author": "Juan de Dios Durán Hernández5 reseñas · 2 fotos",
+          "rating": 5,
+          "text": "Excelente atención, tienen el mejor equipo de diagnostico y herramientas para cualquier tipo de reparación. Son muy honestos con el problema que tiene el vehículo, siempre explican detalladamente la reparación. Los precios son muy justos",
+          "date": "Editado Hace un año"
+        },
+        {
+          "author": "Martin Alejandro Ramierez Villa5 reseñas",
+          "rating": null,
+          "text": "Pésimo servicio, me dejaron un seguro que no era y no pude quitar la llanta cuando lo ocupe, el encargado en lugar de dar una solución se puso a discutir y se deslindo. Las llantas no duran nada, espero y les sirva a la gente mi comentario para que no vayan a este local.",
+          "date": "Hace 7 meses"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Llantas+Soria+Yokohama/@23.2744043,-106.5601936,12z/data=!4m11!1m3!2m2!1sllantera+en+mazatlan,+M%C3%A9xico!6e6!3m6!1s0x8698ab12b624d2d3:0x8697e6dae0af8af5!8m2!3d23.2754738!4d-106.4466528!15sCh1sbGFudGVyYSBlbiBtYXphdGxhbiwgTcOpeGljb1oeIhxsbGFudGVyYSBlbiBtYXphdGxhbiBtw6l4aWNvkgEXd2hlZWxfYWxpZ25tZW50X3NlcnZpY2WaASRDaGREU1VoTk1HOW5TMFZKUTBGblNVUkZNbkJVTkMxUlJSQULgAQD6AQQIABAr!16s%2Fg%2F11g0mg6rnv?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "llantera",
+        "city": "mazatlan",
+        "country": "México",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T06:13:03.784Z"
+    },
+    {
+      "position": 29,
+      "placeId": "0x869f493c93c7cce9:0x7245d3686b207576",
+      "name": "ESTABLECIMIENTO Y LLANTERA MOVIL \"EL MARRO\" NEUMÁTICOS NUEVOS Y USADOS",
+      "rating": 4.5,
+      "reviewCount": null,
+      "category": "Taller de reparación de automóviles",
+      "categories": [
+        "Taller de reparación de automóviles"
+      ],
+      "address": "El Salto-Villa Unión, 82210 Villa Unión, Sin.",
+      "phone": "6692650888",
+      "website": null,
+      "coordinates": {
+        "lat": 23.2744043,
+        "lng": -106.5601936
+      },
+      "plusCode": "5QVR+HG Villa Unión, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [
+        "Amigable con LGBTQ+"
+      ],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Carlos López3 reseñas",
+          "rating": null,
+          "text": "Mentira que son 24/7, el horario correcto es de 9 am a 10 pm. Se les llamó 20 veces y ninguna respondieron. Tal vez estaban dormidos o no estaba dentro de las 24 hrs laborales que dicen ser",
+          "date": "Editado Hace 5 meses"
+        },
+        {
+          "author": "Carlos López3 reseñas",
+          "rating": null,
+          "text": "Mentira que son 24/7, el horario correcto es de 9 am a 10 pm. Se les llamó 20 veces y ninguna respondieron. Tal vez estaban dormidos o no estaba dentro de las 24 hrs laborales que dicen ser",
+          "date": "Editado Hace 5 meses"
+        },
+        {
+          "author": "Jorge Daniel Lagunas López1 reseña · 1 foto",
+          "rating": null,
+          "text": "Nombre que llantas se tan pésima calidad nadamas pasamos la primera garita ya e nos poncho solo venden llantas parchadas para que cobrarán 1700 por una llanta y por ponerla para que no dure ni la risa la verdad es de lo peor si pueden ir a otro lado mejor",
+          "date": "Hace 2 años"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/ESTABLECIMIENTO+Y+LLANTERA+MOVIL+%22EL+MARRO%22+NEUM%C3%81TICOS+NUEVOS+Y+USADOS/@23.2744043,-106.5601936,12z/data=!4m11!1m3!2m2!1sllantera+en+mazatlan,+M%C3%A9xico!6e6!3m6!1s0x869f493c93c7cce9:0x7245d3686b207576!8m2!3d23.1939741!4d-106.2086589!15sCh1sbGFudGVyYSBlbiBtYXphdGxhbiwgTcOpeGljb1oeIhxsbGFudGVyYSBlbiBtYXphdGxhbiBtw6l4aWNvkgEQdGlyZV9yZXBhaXJfc2hvcJoBRENpOURRVWxSUVVOdlpFTm9kSGxqUmpsdlQydDNORmRJYkVwUlZrcDNZV3RzU1UxSVpIZFNXR1JIV1cxYVRHRXdSUkFC4AEA-gEECAAQJg!16s%2Fg%2F11q1ry7hg6?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "llantera",
+        "city": "mazatlan",
+        "country": "México",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T06:13:04.337Z"
+    },
+    {
+      "position": 30,
+      "placeId": "0x869f5373cf268519:0xa7ae10c43d2219d2",
+      "name": "Llantas Royal de Sinaloa - Mazatlán",
+      "rating": 4.5,
+      "reviewCount": null,
+      "category": "Tienda de neumáticos",
+      "categories": [
+        "Tienda de neumáticos"
+      ],
+      "address": "Av. Ejército Mexicano, Tellería, 82017 Mazatlán, Sin.",
+      "phone": "6699816342",
+      "website": "https://www.llantasroyaldesinaloa.com.mx/",
+      "coordinates": {
+        "lat": 23.2744043,
+        "lng": -106.5601936
+      },
+      "plusCode": "6HHH+26 Mazatlán, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Malena G RLocal Guide · 175 reseñas · 711 fotos",
+          "rating": 5,
+          "text": "Excelente Servicio,  todo el personal que ahí laboran son muy atentos y amables.  Buena calidad en sus productos,  precios justos.\nLlantas, amortiguadores, etc.,\nventa e instalación.",
+          "date": "Hace un año"
+        },
+        {
+          "author": "Malena G RLocal Guide · 175 reseñas · 711 fotos",
+          "rating": 5,
+          "text": "Excelente Servicio,  todo el personal que ahí laboran son muy atentos y amables.  Buena calidad en sus productos,  precios justos.\nLlantas, amortiguadores, etc.,\nventa e instalación.",
+          "date": "Hace un año"
+        },
+        {
+          "author": "Samanta Anaid Lule PerezLocal Guide · 55 reseñas · 51 fotos",
+          "rating": 5,
+          "text": "Excelente servicio y precios. Y vaya que manejo por carretera y la calidad en sus neumáticos es buenísima.",
+          "date": "4 semanas atrás"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Llantas+Royal+de+Sinaloa+-+Mazatl%C3%A1n/@23.2744043,-106.5601936,12z/data=!4m11!1m3!2m2!1sllantera+en+mazatlan,+M%C3%A9xico!6e6!3m6!1s0x869f5373cf268519:0xa7ae10c43d2219d2!8m2!3d23.2275283!4d-106.4219052!15sCh1sbGFudGVyYSBlbiBtYXphdGxhbiwgTcOpeGljb1oeIhxsbGFudGVyYSBlbiBtYXphdGxhbiBtw6l4aWNvkgEJdGlyZV9zaG9wmgEjQ2haRFNVaE5NRzluUzBWSlEwRm5TVU5NYldKMk5VWm5FQUXgAQD6AQUIgwEQMw!16s%2Fg%2F11b6bcb4fr?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": "TECMAZATLAN@LLANTASROYAL.MX",
+      "allEmails": [
+        "TECMAZATLAN@LLANTASROYAL.MX",
+        "oduarte@gmail.com",
+        "TECBUELNA@LLANTASROYAL.MX",
+        "TECCOLOSIO@LLANTASROYAL.MX",
+        "TECSERDAN@LLANTASROYAL.MX",
+        "TECANGELFLORES@LLANTASROYAL.MX",
+        "TECELIASCALLES@LLANTASROYAL.MX",
+        "MAGNIGUAMUCHIL@LLANTASROYAL.MX",
+        "TECNAVOLATO@LLANTASROYAL.MX",
+        "TECQUILA@LLANTASROYAL.MX",
+        "TECPROGRESO@LLANTASROYAL.MX",
+        "TECAEROPUERTO@LLANTASROYAL.MX",
+        "techumaya@llantasroyal.mx",
+        "TECPEDROINFANTE@LLANTASROYAL.MX",
+        "MAGNICENTRO@LLANTASROYAL.MX",
+        "ODUARTE@GMAIL.COM",
+        "TECMATRIZ@LLANTASROYAL.MX",
+        "mi.nombre@ejemplo.com"
+      ],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": "5216671630897",
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "llantera",
+        "city": "mazatlan",
+        "country": "México",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T06:13:05.278Z"
+    },
+    {
+      "position": 31,
+      "placeId": "0x869f5320e2eac5ff:0x968aa10b178d779a",
+      "name": "Llantera móvil Beltrán",
+      "rating": 4.3,
+      "reviewCount": null,
+      "category": null,
+      "categories": [],
+      "address": "Carr Internacional Nte 3103, Paseo de los Olivos, 82124 Mazatlán, Sin.",
+      "phone": "6693256748",
+      "website": null,
+      "coordinates": {
+        "lat": 23.1939741,
+        "lng": -106.3610942
+      },
+      "plusCode": null,
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [],
+      "profileUrl": "https://www.google.com/maps/place/Llantera+m%C3%B3vil+Beltr%C3%A1n/@23.1939741,-106.3610942,12z/data=!4m11!1m3!2m2!1sllantera+en+mazatlan,+M%C3%A9xico!6e6!3m6!1s0x869f5320e2eac5ff:0x968aa10b178d779a!8m2!3d23.2613068!4d-106.4179157!15sCh1sbGFudGVyYSBlbiBtYXphdGxhbiwgTcOpeGljb1oeIhxsbGFudGVyYSBlbiBtYXphdGxhbiBtw6l4aWNvkgEQdGlyZV9yZXBhaXJfc2hvcJoBRENpOURRVWxSUVVOdlpFTm9kSGxqUmpsdlQyNWtTVnBGYUVKYVIyUkNWa1ZHVGxGWGVHMVdNbkF5Vkcxd1VWTXhSUkFC4AEA-gEECAAQGQ!16s%2Fg%2F11vzyd23kx?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "llantera",
+        "city": "mazatlan",
+        "country": "México",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T06:13:05.658Z"
+    },
+    {
+      "position": 32,
+      "placeId": "0x869f53f3e3401d47:0x5adcce94980090ca",
+      "name": "LLantera y grúas Los Primos 24/7",
+      "rating": 5,
+      "reviewCount": null,
+      "category": null,
+      "categories": [],
+      "address": "Av Óscar Pérez Escobosa 2224, Jaripillo, 82136 Mazatlán, Sin.",
+      "phone": "6699417112",
+      "website": "https://www.facebook.com/profile.php?id=61573596362013",
+      "coordinates": {
+        "lat": 23.2397124,
+        "lng": -106.5032283
+      },
+      "plusCode": "7J72+C7 Mazatlán, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Reyna Luz Salazar FonsecaLocal Guide · 11 reseñas",
+          "rating": 5,
+          "text": "Excelente lugar para comprar llantas nuevas/usadas o hacer reparaciones relacionadas, es amplio, tiene sala de espera muy espaciosa, TV, café y baños limpios.",
+          "date": "Hace 3 meses"
+        },
+        {
+          "author": "Reyna Luz Salazar FonsecaLocal Guide · 11 reseñas",
+          "rating": 5,
+          "text": "Excelente lugar para comprar llantas nuevas/usadas o hacer reparaciones relacionadas, es amplio, tiene sala de espera muy espaciosa, TV, café y baños limpios.",
+          "date": "Hace 3 meses"
+        },
+        {
+          "author": "Edwin Vázquez1 reseña",
+          "rating": 5,
+          "text": "Excelente servicio, estaba en la carretera en medio de la nada y fueron hasta haya a ayudarme.  Cuenta con excelentes precios y su servicio es muy rápido .",
+          "date": "Hace 10 meses"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/LLantera+y+gr%C3%BAas+Los+Primos+24%2F7/@23.2397124,-106.5032283,12z/data=!4m11!1m3!2m2!1sllantera+en+mazatlan,+M%C3%A9xico!6e6!3m6!1s0x869f53f3e3401d47:0x5adcce94980090ca!8m2!3d23.2635716!4d-106.3993094!15sCh1sbGFudGVyYSBlbiBtYXphdGxhbiwgTcOpeGljb1oeIhxsbGFudGVyYSBlbiBtYXphdGxhbiBtw6l4aWNvkgEQdGlyZV9yZXBhaXJfc2hvcJoBI0NoWkRTVWhOTUc5blMwVkpRMEZuVFVOUk1HUmlaRXRCRUFF4AEA-gEECAAQNg!16s%2Fg%2F11x0pxs7hf?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": "facebook.com/people",
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "llantera",
+        "city": "mazatlan",
+        "country": "México",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T06:13:09.021Z"
+    },
+    {
+      "position": 33,
+      "placeId": "0x1407af10e0eacb89:0x2ec091ed76eda864",
+      "name": "Econollantas Mazatlán",
+      "rating": 4.6,
+      "reviewCount": null,
+      "category": "Tienda de neumáticos",
+      "categories": [
+        "Tienda de neumáticos"
+      ],
+      "address": "Av. Ejército Mexicano 2275, Brisas del Mar, 82016 Mazatlán, Sin.",
+      "phone": "6699102122",
+      "website": "http://www.econollantas.com/",
+      "coordinates": {
+        "lat": 23.2635716,
+        "lng": -106.5517447
+      },
+      "plusCode": "6HFH+WX Mazatlán, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Juan Marchen Zamora11 reseñas · 16 fotos",
+          "rating": null,
+          "text": "Buen servicio  en mostrador. pero pésimo trabajo muy muy demasiado lentos para cambiar las llantas y ni se les ocurra llegar por una ponchada (mi caso)   ni me pelaban por no comprar llantas con ellos.",
+          "date": "Hace 6 meses"
+        },
+        {
+          "author": "Juan Marchen Zamora11 reseñas · 16 fotos",
+          "rating": null,
+          "text": "Buen servicio  en mostrador. pero pésimo trabajo muy muy demasiado lentos para cambiar las llantas y ni se les ocurra llegar por una ponchada (mi caso)   ni me pelaban por no comprar llantas con ellos.",
+          "date": "Hace 6 meses"
+        },
+        {
+          "author": "Alejandro V. Sánchez11 reseñas · 8 fotos",
+          "rating": 5,
+          "text": "Excelente servicio y atención por parte del mecánico, me cambiaron una terminal de dirección y alinearon la camioneta ya casi a hora de cerrar",
+          "date": "Hace 2 meses"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Econollantas+Mazatl%C3%A1n/@23.2635716,-106.5517447,12z/data=!4m11!1m3!2m2!1sllantera+en+mazatlan,+M%C3%A9xico!6e6!3m6!1s0x1407af10e0eacb89:0x2ec091ed76eda864!8m2!3d23.224824!4d-106.420092!15sCh1sbGFudGVyYSBlbiBtYXphdGxhbiwgTcOpeGljb1oeIhxsbGFudGVyYSBlbiBtYXphdGxhbiBtw6l4aWNvkgEJdGlyZV9zaG9wmgEkQ2hkRFNVaE5NRzluUzBWSlEwRm5UVVJuZUdGSFV5MUJSUkFC4AEA-gEECAAQNg!16s%2Fg%2F11b7c5wwvm?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": "ventas@econollantas.com",
+      "allEmails": [
+        "ventas@econollantas.com"
+      ],
+      "socialMedia": {
+        "instagram": "instagram.com/econollantas",
+        "facebook": "facebook.com/econollantas",
+        "twitter": "twitter.com/ECONOLLANTAS",
+        "whatsapp": "526623362258",
+        "linkedin": null,
+        "youtube": "youtube.com/channel/UCsO5R73fDSGm9gM6_SsBMFQ",
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "llantera",
+        "city": "mazatlan",
+        "country": "México",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T06:13:12.595Z"
+    },
+    {
+      "position": 34,
+      "placeId": "0x869f537573a907e3:0x6e0bf01820387df3",
+      "name": "Autocentro Guzmán Bridgestone Mazatlán",
+      "rating": 4.4,
+      "reviewCount": null,
+      "category": "Tienda de neumáticos",
+      "categories": [
+        "Tienda de neumáticos"
+      ],
+      "address": "Carretera Internacional al Norte, Km 1199, Palos Prietos, 82010 Mazatlán, Sin.",
+      "phone": "6699851454",
+      "website": "http://www.autocentroguzman.com/",
+      "coordinates": {
+        "lat": 23.2635716,
+        "lng": -106.5517447
+      },
+      "plusCode": "6HCJ+W5 Mazatlán, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Carmen Lozano3 reseñas · 1 foto",
+          "rating": null,
+          "text": "Pésimo servicio. Te dicen que el auto va a estar listo a una hora, te hacen gastar en Didi para llegar y luego salen con que siempre no, que no terminaron, para darte cuenta que, se la pasan comiendo, chismeando y haciendo de todo menos,… Más",
+          "date": "Hace 2 meses"
+        },
+        {
+          "author": "Carmen Lozano3 reseñas · 1 foto",
+          "rating": null,
+          "text": "Pésimo servicio. Te dicen que el auto va a estar listo a una hora, te hacen gastar en Didi para llegar y luego salen con que siempre no, que no terminaron, para darte cuenta que, se la pasan comiendo, chismeando y haciendo de todo menos,… Más",
+          "date": "Hace 2 meses"
+        },
+        {
+          "author": "Perla Gonzalez2 reseñas",
+          "rating": 5,
+          "text": "Excelente servicio y precio! Es mi lugar de confianza para mi vehículo 😉…",
+          "date": "Hace un mes"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Autocentro+Guzm%C3%A1n+Bridgestone+Mazatl%C3%A1n/@23.2635716,-106.5517447,12z/data=!4m11!1m3!2m2!1sllantera+en+mazatlan,+M%C3%A9xico!6e6!3m6!1s0x869f537573a907e3:0x6e0bf01820387df3!8m2!3d23.2222532!4d-106.4195233!15sCh1sbGFudGVyYSBlbiBtYXphdGxhbiwgTcOpeGljb1oeIhxsbGFudGVyYSBlbiBtYXphdGxhbiBtw6l4aWNvkgEJdGlyZV9zaG9wmgFEQ2k5RFFVbFJRVU52WkVOb2RIbGpSamx2VDI1Vk1WZHNTWGhQU0c5NVZrZDRZV0pXT0hoUmFsSjVZVEkwZUUxWFl4QULgAQD6AQQIABAc!16s%2Fg%2F1tmqrt7y?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": "Recurso-1@300x.webp",
+      "allEmails": [
+        "Recurso-1@300x.webp",
+        "autocentrosguzman@gmail.com",
+        "atencion@autocentroguzman.com"
+      ],
+      "socialMedia": {
+        "instagram": "instagram.com/autocentrosguzman",
+        "facebook": "facebook.com/AutocentrosGuzman",
+        "twitter": null,
+        "whatsapp": "526692705378",
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "llantera",
+        "city": "mazatlan",
+        "country": "México",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T06:13:15.372Z"
+    },
+    {
+      "position": 35,
+      "placeId": "0x869f53b53c06abdf:0xb27409d35b289a3f",
+      "name": "Llantera el homie",
+      "rating": 5,
+      "reviewCount": null,
+      "category": null,
+      "categories": [],
+      "address": "Fraccionamiento Pradera Dorada, Nuevo Cajeme, 82139 Mazatlán, Sin.",
+      "phone": "6692622081",
+      "website": null,
+      "coordinates": {
+        "lat": 23.2635716,
+        "lng": -106.5517447
+      },
+      "plusCode": "7J9C+67 Mazatlán, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Guadalupe Urias1 reseña · 1 foto",
+          "rating": 5,
+          "text": "Servicio calidad y rapidez",
+          "date": "Hace 2 años"
+        },
+        {
+          "author": "Guadalupe Urias1 reseña · 1 foto",
+          "rating": 5,
+          "text": "Servicio calidad y rapidez",
+          "date": "Hace 2 años"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Llantera+el+homie/@23.2635716,-106.5517447,12z/data=!4m11!1m3!2m2!1sllantera+en+mazatlan,+M%C3%A9xico!6e6!3m6!1s0x869f53b53c06abdf:0xb27409d35b289a3f!8m2!3d23.2680001!4d-106.3792771!15sCh1sbGFudGVyYSBlbiBtYXphdGxhbiwgTcOpeGljb1oeIhxsbGFudGVyYSBlbiBtYXphdGxhbiBtw6l4aWNvkgEQdGlyZV9yZXBhaXJfc2hvcJoBJENoZERTVWhOTUc5blMwVkpRMEZuU1VSQ04yOXRVbTUzUlJBQuABAPoBBAgAEBo!16s%2Fg%2F11k57t5_ql?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "llantera",
+        "city": "mazatlan",
+        "country": "México",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T06:13:15.925Z"
+    },
+    {
+      "position": 36,
+      "placeId": "0x869f5343907035f1:0x2f42b7bb0cad9ffd",
+      "name": "Llancosa",
+      "rating": 4.5,
+      "reviewCount": null,
+      "category": "Tienda de neumáticos",
+      "categories": [
+        "Tienda de neumáticos"
+      ],
+      "address": "Av Luis Donaldo Colosio M 18601, Salvador Allende, 82164 Mazatlán, Sin.",
+      "phone": "6699402222",
+      "website": "http://llancosa.com/",
+      "coordinates": {
+        "lat": 23.2635716,
+        "lng": -106.5517447
+      },
+      "plusCode": "7H3X+44 Mazatlán, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Pepe AramburoLocal Guide · 25 reseñas · 73 fotos",
+          "rating": 5,
+          "text": "Expertos en lo que hacen, garantía en el trabajo realizado, muy amables y buenas marcas de neumáticos al igual que buenos precios.",
+          "date": "Hace 3 años"
+        },
+        {
+          "author": "Pepe AramburoLocal Guide · 25 reseñas · 73 fotos",
+          "rating": 5,
+          "text": "Expertos en lo que hacen, garantía en el trabajo realizado, muy amables y buenas marcas de neumáticos al igual que buenos precios.",
+          "date": "Hace 3 años"
+        },
+        {
+          "author": "The Franko ShowLocal Guide · 180 reseñas · 43 fotos",
+          "rating": 5,
+          "text": "Es un lugar que te reciben con una atención de primera y sobre todo que te revisan el coche con lujo de detalle, aunque vayas a desponchar una llanta. Te dan promociones existentes y te abordan con sus productos que la verdad son muchísimos y de muy buena calidad, y su mano de obra no se diga más",
+          "date": "Hace 6 años"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Llancosa/@23.2635716,-106.5517447,12z/data=!4m11!1m3!2m2!1sllantera+en+mazatlan,+M%C3%A9xico!6e6!3m6!1s0x869f5343907035f1:0x2f42b7bb0cad9ffd!8m2!3d23.2528477!4d-106.402206!15sCh1sbGFudGVyYSBlbiBtYXphdGxhbiwgTcOpeGljb1oeIhxsbGFudGVyYSBlbiBtYXphdGxhbiBtw6l4aWNvkgEJdGlyZV9zaG9wmgEgQ2hSRFNVaE5NRzluUzBWSlEwRm5TVU5TYURVeGNSQULgAQD6AQQIABAS!16s%2Fg%2F1trpln1p?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": "llancosa@prodigy.net.mx",
+      "allEmails": [
+        "llancosa@prodigy.net.mx"
+      ],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "llantera",
+        "city": "mazatlan",
+        "country": "México",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T06:13:18.279Z"
+    },
+    {
+      "position": 37,
+      "placeId": "0x869f533a3a3accfb:0xb88d3ee20e607fdd",
+      "name": "Llantas Cabanillas",
+      "rating": 4.6,
+      "reviewCount": null,
+      "category": null,
+      "categories": [],
+      "address": "Av Sta Rosa 339, Burócratas, 82163 Mazatlán, Sin.",
+      "phone": "6691552853",
+      "website": null,
+      "coordinates": {
+        "lat": 23.2635716,
+        "lng": -106.5517447
+      },
+      "plusCode": "7H3R+QJ Mazatlán, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "HÉCTOR GALLARDOLocal Guide · 117 reseñas · 12 fotos",
+          "rating": 5,
+          "text": "Muy buen servicio los chavos muy atentos...",
+          "date": "Hace 4 años"
+        },
+        {
+          "author": "HÉCTOR GALLARDOLocal Guide · 117 reseñas · 12 fotos",
+          "rating": 5,
+          "text": "Muy buen servicio los chavos muy atentos...",
+          "date": "Hace 4 años"
+        },
+        {
+          "author": "Elizabeth Zatarain3 reseñas",
+          "rating": null,
+          "text": "Ayer le dije al muchacho que ocupaba a cambiar la llanta y me dice solo es el pivote y hoy otra vez ponchada. Me ve que no se nada y no me hizo nada por la llanta y aun así me cobro",
+          "date": "Hace 4 años"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Llantas+Cabanillas/@23.2635716,-106.5517447,12z/data=!3m1!5s0x869f533a624123df:0x6f1f0e3a0a85bc21!4m11!1m3!2m2!1sllantera+en+mazatlan,+M%C3%A9xico!6e6!3m6!1s0x869f533a3a3accfb:0xb88d3ee20e607fdd!8m2!3d23.2544209!4d-106.4084277!15sCh1sbGFudGVyYSBlbiBtYXphdGxhbiwgTcOpeGljb5IBEHRpcmVfcmVwYWlyX3Nob3DgAQA!16s%2Fg%2F1tdky356?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "llantera",
+        "city": "mazatlan",
+        "country": "México",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T06:13:18.858Z"
+    },
+    {
+      "position": 38,
+      "placeId": "0x1407af04ff6d66ff:0x97afb2580ee945b1",
+      "name": "Llantera Avenida",
+      "rating": 4.9,
+      "reviewCount": null,
+      "category": "Tienda de neumáticos usados",
+      "categories": [
+        "Tienda de neumáticos usados"
+      ],
+      "address": "Av Insurgentes 5407, Benito Juárez, 82180 Mazatlán, Sin.",
+      "phone": "6699860367",
+      "website": null,
+      "coordinates": {
+        "lat": 23.2635716,
+        "lng": -106.5517447
+      },
+      "plusCode": "6HJX+76 Mazatlán, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Fernando Valdez G4 reseñas",
+          "rating": 5,
+          "text": "Muy buen servicio y excelente precio",
+          "date": "Hace un año"
+        },
+        {
+          "author": "Fernando Valdez G4 reseñas",
+          "rating": 5,
+          "text": "Muy buen servicio y excelente precio",
+          "date": "Hace un año"
+        },
+        {
+          "author": "Jesus Ernesto Gallegos BenitezLocal Guide · 39 reseñas · 28 fotos",
+          "rating": 5,
+          "text": "Muy buen servicio.\n.",
+          "date": "Hace un año"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Llantera+Avenida/@23.2635716,-106.5517447,12z/data=!4m11!1m3!2m2!1sllantera+en+mazatlan,+M%C3%A9xico!6e6!3m6!1s0x1407af04ff6d66ff:0x97afb2580ee945b1!8m2!3d23.2306819!4d-106.4019583!15sCh1sbGFudGVyYSBlbiBtYXphdGxhbiwgTcOpeGljb1oeIhxsbGFudGVyYSBlbiBtYXphdGxhbiBtw6l4aWNvkgEOdXNlZF90aXJlX3Nob3CaASRDaGREU1VoTk1HOW5TMFZKUTBGblNVTjZjMWt6Ym5sUlJSQULgAQD6AQQIABAk!16s%2Fg%2F11b7ckwjl0?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "llantera",
+        "city": "mazatlan",
+        "country": "México",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T06:13:19.465Z"
+    },
+    {
+      "position": 39,
+      "placeId": "0x1407ae45e4779afb:0xa56dc1b1315c7cf7",
+      "name": "Llantas Soria Yokohama",
+      "rating": 4.6,
+      "reviewCount": null,
+      "category": "Tienda de neumáticos",
+      "categories": [
+        "Tienda de neumáticos"
+      ],
+      "address": "Av. Libramiento II 17804, Vista del Mar, 82139 Mazatlán, Sin.",
+      "phone": "6699805477",
+      "website": "https://www.facebook.com/llantera.soria/",
+      "coordinates": {
+        "lat": 23.2635716,
+        "lng": -106.5517447
+      },
+      "plusCode": "7J26+WM Mazatlán, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Tenox Ramirez Luna9 reseñas",
+          "rating": 5,
+          "text": "excelente servicio y muy buena atención  👍👍…",
+          "date": "Hace 5 años"
+        },
+        {
+          "author": "Tenox Ramirez Luna9 reseñas",
+          "rating": 5,
+          "text": "excelente servicio y muy buena atención  👍👍…",
+          "date": "Hace 5 años"
+        },
+        {
+          "author": "Marios Salcido1 reseña",
+          "rating": 5,
+          "text": "Muy buen servicio y exelente atencion",
+          "date": "Hace 7 años"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Llantas+Soria+Yokohama/@23.2635716,-106.5517447,12z/data=!4m11!1m3!2m2!1sllantera+en+mazatlan,+M%C3%A9xico!6e6!3m6!1s0x1407ae45e4779afb:0xa56dc1b1315c7cf7!8m2!3d23.2523374!4d-106.3883049!15sCh1sbGFudGVyYSBlbiBtYXphdGxhbiwgTcOpeGljb1oeIhxsbGFudGVyYSBlbiBtYXphdGxhbiBtw6l4aWNvkgEJdGlyZV9zaG9wmgEkQ2hkRFNVaE5NRzluUzBWSlEwRm5TVVJxY1dWMlVUQm5SUkFC4AEA-gEECAAQRQ!16s%2Fg%2F11b7d3g_js?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": "facebook.com/llantera.soria",
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "llantera",
+        "city": "mazatlan",
+        "country": "México",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T06:13:21.951Z"
+    },
+    {
+      "position": 40,
+      "placeId": "0x869f52cad42add6d:0x4d703d56831ee146",
+      "name": "Llantera Movil Pradera",
+      "rating": 4.6,
+      "reviewCount": null,
+      "category": "Tienda de neumáticos",
+      "categories": [
+        "Tienda de neumáticos"
+      ],
+      "address": "C. Grulla 10430, Fraccionamiento Pradera Dorada, 82139 Mazatlán, Sin.",
+      "phone": "6699528210",
+      "website": null,
+      "coordinates": {
+        "lat": 23.2635716,
+        "lng": -106.5517447
+      },
+      "plusCode": "7JCG+5W Mazatlán, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Saburo enebriel García LeyvaLocal Guide · 44 reseñas",
+          "rating": 5,
+          "text": "Excelente servicio",
+          "date": "Hace un mes"
+        },
+        {
+          "author": "Saburo enebriel García LeyvaLocal Guide · 44 reseñas",
+          "rating": 5,
+          "text": "Excelente servicio",
+          "date": "Hace un mes"
+        },
+        {
+          "author": "Ricardo DelapasLocal Guide · 81 reseñas · 99 fotos",
+          "rating": 5,
+          "text": "Muy buen servicio recomendada",
+          "date": "Hace 4 años"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Llantera+Movil+Pradera/@23.2635716,-106.5517447,12z/data=!4m11!1m3!2m2!1sllantera+en+mazatlan,+M%C3%A9xico!6e6!3m6!1s0x869f52cad42add6d:0x4d703d56831ee146!8m2!3d23.2704998!4d-106.3726809!15sCh1sbGFudGVyYSBlbiBtYXphdGxhbiwgTcOpeGljb1oeIhxsbGFudGVyYSBlbiBtYXphdGxhbiBtw6l4aWNvkgEJdGlyZV9zaG9wmgEkQ2hkRFNVaE5NRzluUzBWSlEwRm5TVU5TYkRSTGRteG5SUkFC4AEA-gEFCKsBEC8!16s%2Fg%2F11f1l7w5vf?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "llantera",
+        "city": "mazatlan",
+        "country": "México",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T06:13:22.522Z"
+    },
+    {
+      "position": 41,
+      "placeId": "0x869f53a3f43572b1:0xf54a3e098c88074",
+      "name": "Llantera Moreno",
+      "rating": 4.6,
+      "reviewCount": null,
+      "category": null,
+      "categories": [],
+      "address": "C. Segunda Río Chachalacas 5, Brisas del Mar, 82016 Mazatlán, Sin.",
+      "phone": "6691554444",
+      "website": null,
+      "coordinates": {
+        "lat": 23.2635716,
+        "lng": -106.5517447
+      },
+      "plusCode": "6HHH+7C Mazatlán, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Mike Sala4 reseñas",
+          "rating": 5,
+          "text": "Trabajan muy rápido y tienen bastante experiencia.",
+          "date": "Hace un mes"
+        },
+        {
+          "author": "Mike Sala4 reseñas",
+          "rating": 5,
+          "text": "Trabajan muy rápido y tienen bastante experiencia.",
+          "date": "Hace un mes"
+        },
+        {
+          "author": "Luis LópezLocal Guide · 14 reseñas · 5 fotos",
+          "rating": 5,
+          "text": "Hace su trabajo rápido y da muy buena atención",
+          "date": "Hace 2 años"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Llantera+Moreno/@23.2635716,-106.5517447,12z/data=!4m11!1m3!2m2!1sllantera+en+mazatlan,+M%C3%A9xico!6e6!3m6!1s0x869f53a3f43572b1:0xf54a3e098c88074!8m2!3d23.2281511!4d-106.4214268!15sCh1sbGFudGVyYSBlbiBtYXphdGxhbiwgTcOpeGljb1oeIhxsbGFudGVyYSBlbiBtYXphdGxhbiBtw6l4aWNvkgEQdGlyZV9yZXBhaXJfc2hvcJoBJENoZERTVWhOTUc5blMwVkpRMEZuU1VSb2MzQjZPSEpCUlJBQuABAPoBBAgAEC4!16s%2Fg%2F11q3y117ly?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "llantera",
+        "city": "mazatlan",
+        "country": "México",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T06:13:23.068Z"
+    },
+    {
+      "position": 42,
+      "placeId": "0x8698adcbaec557e9:0xc51666cd9a62d420",
+      "name": "Llantera shaddai",
+      "rating": 5,
+      "reviewCount": null,
+      "category": null,
+      "categories": [],
+      "address": "Real pacifico, Av. Real del Pacífico, Fraccionamiento Real Pacífico, 82124 Mazatlán, Sin.",
+      "phone": "6699251490",
+      "website": null,
+      "coordinates": {
+        "lat": 23.2635716,
+        "lng": -106.5517447
+      },
+      "plusCode": "7HG9+VC Mazatlán, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Daniel LambarriLocal Guide · 13 reseñas · 6 fotos",
+          "rating": 5,
+          "text": "Rápida la resolución del problema que tenía mi llanta, servicio a domicilio y buena conversación, recomendado 👍🏻…",
+          "date": "Hace un año"
+        },
+        {
+          "author": "Daniel LambarriLocal Guide · 13 reseñas · 6 fotos",
+          "rating": 5,
+          "text": "Rápida la resolución del problema que tenía mi llanta, servicio a domicilio y buena conversación, recomendado 👍🏻…",
+          "date": "Hace un año"
+        },
+        {
+          "author": "Yolanda Ferrer3 reseñas",
+          "rating": 5,
+          "text": "Agradecida con este chavalo sin quejas hasta ahora me ha tocado que me desponche hasta el tractor y la gondula sin quejas recomiendo ampliamente.",
+          "date": "Hace un año"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Llantera+shaddai/@23.2635716,-106.5517447,12z/data=!4m11!1m3!2m2!1sllantera+en+mazatlan,+M%C3%A9xico!6e6!3m6!1s0x8698adcbaec557e9:0xc51666cd9a62d420!8m2!3d23.2772056!4d-106.4314916!15sCh1sbGFudGVyYSBlbiBtYXphdGxhbiwgTcOpeGljb1oeIhxsbGFudGVyYSBlbiBtYXphdGxhbiBtw6l4aWNvkgEQdGlyZV9yZXBhaXJfc2hvcJoBJENoZERTVWhOTUc5blMwVkpRMEZuU1VNM2JFNUlRV2xSUlJBQuABAPoBBAgAEDk!16s%2Fg%2F11y75f4_vk?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "llantera",
+        "city": "mazatlan",
+        "country": "México",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T06:13:23.687Z"
+    },
+    {
+      "position": 43,
+      "placeId": "0x869f534489104e11:0x17d559ad5103e66d",
+      "name": "Llantas Royal de Sinaloa - Buelna",
+      "rating": 4.2,
+      "reviewCount": null,
+      "category": "Tienda de neumáticos",
+      "categories": [
+        "Tienda de neumáticos"
+      ],
+      "address": "Av. Rafael Buelna 12, Francisco Villa, 82127 Mazatlán, Sin.",
+      "phone": "6699409609",
+      "website": "https://www.llantasroyaldesinaloa.com.mx/",
+      "coordinates": {
+        "lat": 23.2635716,
+        "lng": -106.5517447
+      },
+      "plusCode": "6HXF+HG Mazatlán, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Andres RodriguezLocal Guide · 95 reseñas · 40 fotos",
+          "rating": 4,
+          "text": "Muy Buena atención y servicio rapido para instalacion de llantas.",
+          "date": "2 semanas atrás Nueva"
+        },
+        {
+          "author": "Andres RodriguezLocal Guide · 95 reseñas · 40 fotos",
+          "rating": 4,
+          "text": "Muy Buena atención y servicio rapido para instalacion de llantas.",
+          "date": "2 semanas atrás Nueva"
+        },
+        {
+          "author": "Belem Guadalupe Amavizca Mendoza9 reseñas",
+          "rating": 4,
+          "text": "Buen lugar para comparar",
+          "date": "Hace 6 días Nueva"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Llantas+Royal+de+Sinaloa+-+Buelna/@23.2635716,-106.5517447,12z/data=!4m11!1m3!2m2!1sllantera+en+mazatlan,+M%C3%A9xico!6e6!3m6!1s0x869f534489104e11:0x17d559ad5103e66d!8m2!3d23.2489143!4d-106.4261268!15sCh1sbGFudGVyYSBlbiBtYXphdGxhbiwgTcOpeGljb1oeIhxsbGFudGVyYSBlbiBtYXphdGxhbiBtw6l4aWNvkgEJdGlyZV9zaG9wmgFEQ2k5RFFVbFJRVU52WkVOb2RIbGpSamx2VDI1b1FsZFZUa1paVjJ4NVlsVjBNR0Z1U2toT1Zsa3lXVEpzU0ZZeVl4QULgAQD6AQQIABBB!16s%2Fg%2F11b6b4237z?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": "TECMAZATLAN@LLANTASROYAL.MX",
+      "allEmails": [
+        "TECMAZATLAN@LLANTASROYAL.MX",
+        "oduarte@gmail.com",
+        "TECBUELNA@LLANTASROYAL.MX",
+        "TECCOLOSIO@LLANTASROYAL.MX",
+        "TECSERDAN@LLANTASROYAL.MX",
+        "TECANGELFLORES@LLANTASROYAL.MX",
+        "TECELIASCALLES@LLANTASROYAL.MX",
+        "MAGNIGUAMUCHIL@LLANTASROYAL.MX",
+        "TECNAVOLATO@LLANTASROYAL.MX",
+        "TECQUILA@LLANTASROYAL.MX",
+        "TECPROGRESO@LLANTASROYAL.MX",
+        "TECAEROPUERTO@LLANTASROYAL.MX",
+        "techumaya@llantasroyal.mx",
+        "TECPEDROINFANTE@LLANTASROYAL.MX",
+        "MAGNICENTRO@LLANTASROYAL.MX",
+        "ODUARTE@GMAIL.COM",
+        "TECMATRIZ@LLANTASROYAL.MX",
+        "mi.nombre@ejemplo.com"
+      ],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": "5216671630897",
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "llantera",
+        "city": "mazatlan",
+        "country": "México",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T06:13:24.555Z"
+    },
+    {
+      "position": 44,
+      "placeId": "0x869f534ad5fc1e4b:0x339b380f5f0f9d88",
+      "name": "Llantas Sinaloa",
+      "rating": 4.5,
+      "reviewCount": null,
+      "category": "Taller de reparación de automóviles",
+      "categories": [
+        "Taller de reparación de automóviles"
+      ],
+      "address": "Av Sta Rosa 8111, Sinaloa, 82129 Mazatlán, Sin.",
+      "phone": "6691053270",
+      "website": "https://llantas-sinaloa.ueniweb.com/?utm_campaign=gmb",
+      "coordinates": {
+        "lat": 23.2635716,
+        "lng": -106.5517447
+      },
+      "plusCode": "7J92+6F Mazatlán, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Francia Maldonado4 reseñas",
+          "rating": null,
+          "text": "Pésimo compromiso. Dejé mi carro a las 8am y me dijeron que ese mismo día quedaba, fui como a la 1 pm y no le habían hecho nada ah Pero eso sí, tenían dos carros más que llegaron después que el mío. Llamé a más 5:30 y nada, opté por ir y… Más",
+          "date": "Hace un mes"
+        },
+        {
+          "author": "Francia Maldonado4 reseñas",
+          "rating": null,
+          "text": "Pésimo compromiso. Dejé mi carro a las 8am y me dijeron que ese mismo día quedaba, fui como a la 1 pm y no le habían hecho nada ah Pero eso sí, tenían dos carros más que llegaron después que el mío. Llamé a más 5:30 y nada, opté por ir y… Más",
+          "date": "Hace un mes"
+        },
+        {
+          "author": "El HubbsLocal Guide · 58 reseñas · 5 fotos",
+          "rating": null,
+          "text": "Le había dado 5 estrellas antes y fue nuestro taller de confianza por años.\nEstá última vez, pésima experiencia.\nMe quedaron mal con la fecha, el trabajo pésimo, me entregaron con piezas… Más",
+          "date": "Editado Hace un año"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Llantas+Sinaloa/@23.2635716,-106.5517447,12z/data=!4m11!1m3!2m2!1sllantera+en+mazatlan,+M%C3%A9xico!6e6!3m6!1s0x869f534ad5fc1e4b:0x339b380f5f0f9d88!8m2!3d23.2680496!4d-106.3988586!15sCh1sbGFudGVyYSBlbiBtYXphdGxhbiwgTcOpeGljb1oeIhxsbGFudGVyYSBlbiBtYXphdGxhbiBtw6l4aWNvkgEQYXV0b19yZXBhaXJfc2hvcJoBJENoZERTVWhOTUc5blMwVkpRMEZuU1VObExXOXRNblpSUlJBQuABAPoBBAgAEBw!16s%2Fg%2F11j0jg9tg1?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": "llanterasin@gmail.com",
+      "allEmails": [
+        "llanterasin@gmail.com"
+      ],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": "facebook.com/share.php",
+        "twitter": "twitter.com/intent",
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "llantera",
+        "city": "mazatlan",
+        "country": "México",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T06:13:26.797Z"
+    },
+    {
+      "position": 45,
+      "placeId": "0x869f53a6fd1600b5:0xe6a9e6006cb99aac",
+      "name": "Llantera tirado",
+      "rating": 4.8,
+      "reviewCount": null,
+      "category": null,
+      "categories": [],
+      "address": "Internacional 5400, Benito Juárez, 82180 Mazatlán, Sin.",
+      "phone": "6691204066",
+      "website": null,
+      "coordinates": {
+        "lat": 23.2635716,
+        "lng": -106.5517447
+      },
+      "plusCode": "6HHW+MR Mazatlán, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Angelica ArroyoLocal Guide · 29 reseñas · 6 fotos",
+          "rating": 5,
+          "text": "Excelente servicio",
+          "date": "Hace 5 meses"
+        },
+        {
+          "author": "Angelica ArroyoLocal Guide · 29 reseñas · 6 fotos",
+          "rating": 5,
+          "text": "Excelente servicio",
+          "date": "Hace 5 meses"
+        },
+        {
+          "author": "Emmanuel Oswaldo Guevara TisnadoLocal Guide · 36 reseñas · 21 fotos",
+          "rating": 4,
+          "text": "No lo he visitado pero lo encuentras por la insurgentes llegando casi a la Gabriel Leyva.",
+          "date": "Hace 2 años"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Llantera+tirado/@23.2635716,-106.5517447,12z/data=!4m11!1m3!2m2!1sllantera+en+mazatlan,+M%C3%A9xico!6e6!3m6!1s0x869f53a6fd1600b5:0xe6a9e6006cb99aac!8m2!3d23.2291439!4d-106.4029234!15sCh1sbGFudGVyYSBlbiBtYXphdGxhbiwgTcOpeGljb1oeIhxsbGFudGVyYSBlbiBtYXphdGxhbiBtw6l4aWNvkgEQdGlyZV9yZXBhaXJfc2hvcJoBRENpOURRVWxSUVVOdlpFTm9kSGxqUmpsdlQydFdkR0o2Um5wbGFrNXBWakZqZEdKdE5YWldNalYxV1dwU1YxTXhSUkFC4AEA-gEECAAQEg!16s%2Fg%2F11fjyx5nh2?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "llantera",
+        "city": "mazatlan",
+        "country": "México",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T06:13:27.376Z"
+    }
+  ]
+}

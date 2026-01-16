@@ -68,6 +68,12 @@
     .preview-actions { display: flex; justify-content: center; gap: 12px; margin-top: 20px; }
     .button-group { display: flex; gap: 12px; }
     
+    /* Estilos para autocomplete */
+    .autocomplete-wrapper { position: relative; }
+    .autocomplete-wrapper input { width: 100%; }
+    input::-webkit-calendar-picker-indicator { display: none !important; }
+    input[list]::-webkit-list-button { display: none !important; }
+    
   </style>
 </head>
 <body>
@@ -104,15 +110,175 @@
               <label for="businessType">Tipo de Negocio</label>
               <input type="text" id="businessType" name="businessType" placeholder="ej: plomeria, electricistas, restaurantes..." required minlength="2">
             </div>
+            
             <div class="form-row">
               <div class="form-group">
-                <label for="city">Ciudad</label>
-                <input type="text" id="city" name="city" placeholder="ej: Monterrey, CDMX..." required minlength="2">
+                <label for="state">Estado</label>
+                <div class="autocomplete-wrapper">
+                  <input type="text" id="state" name="state" list="statesList" placeholder="Escribe para buscar..." autocomplete="off">
+                  <datalist id="statesList">
+                    <option value="Aguascalientes">
+                    <option value="Baja California">
+                    <option value="Baja California Sur">
+                    <option value="Campeche">
+                    <option value="Chiapas">
+                    <option value="Chihuahua">
+                    <option value="Ciudad de Mexico">
+                    <option value="Coahuila">
+                    <option value="Colima">
+                    <option value="Durango">
+                    <option value="Estado de Mexico">
+                    <option value="Guanajuato">
+                    <option value="Guerrero">
+                    <option value="Hidalgo">
+                    <option value="Jalisco">
+                    <option value="Michoacan">
+                    <option value="Morelos">
+                    <option value="Nayarit">
+                    <option value="Nuevo Leon">
+                    <option value="Oaxaca">
+                    <option value="Puebla">
+                    <option value="Queretaro">
+                    <option value="Quintana Roo">
+                    <option value="San Luis Potosi">
+                    <option value="Sinaloa">
+                    <option value="Sonora">
+                    <option value="Tabasco">
+                    <option value="Tamaulipas">
+                    <option value="Tlaxcala">
+                    <option value="Veracruz">
+                    <option value="Yucatan">
+                    <option value="Zacatecas">
+                  </datalist>
+                </div>
               </div>
               <div class="form-group">
-                <label for="country">Pais</label>
-                <input type="text" id="country" name="country" placeholder="ej: Mexico" required minlength="2">
+                <label for="city">Ciudad</label>
+                <div class="autocomplete-wrapper">
+                  <input type="text" id="city" name="city" list="citiesList" placeholder="Escribe para buscar..." required minlength="2" autocomplete="off">
+                  <datalist id="citiesList">
+                    <!-- Ciudades principales de Mexico -->
+                    <option value="Ciudad de Mexico">
+                    <option value="Guadalajara">
+                    <option value="Monterrey">
+                    <option value="Puebla">
+                    <option value="Tijuana">
+                    <option value="Leon">
+                    <option value="Juarez">
+                    <option value="Zapopan">
+                    <option value="Nezahualcoyotl">
+                    <option value="Merida">
+                    <option value="San Luis Potosi">
+                    <option value="Aguascalientes">
+                    <option value="Hermosillo">
+                    <option value="Saltillo">
+                    <option value="Mexicali">
+                    <option value="Culiacan">
+                    <option value="Queretaro">
+                    <option value="Morelia">
+                    <option value="Chihuahua">
+                    <option value="Cancun">
+                    <option value="Acapulco">
+                    <option value="Tlalnepantla">
+                    <option value="Torreon">
+                    <option value="Toluca">
+                    <option value="Durango">
+                    <option value="Tuxtla Gutierrez">
+                    <option value="Mazatlan">
+                    <option value="Irapuato">
+                    <option value="Reynosa">
+                    <option value="Villahermosa">
+                    <option value="Matamoros">
+                    <option value="Veracruz">
+                    <option value="Xalapa">
+                    <option value="Oaxaca">
+                    <option value="Celaya">
+                    <option value="Tampico">
+                    <option value="Cuernavaca">
+                    <option value="Ensenada">
+                    <option value="Los Mochis">
+                    <option value="Tepic">
+                    <option value="Playa del Carmen">
+                    <option value="Pachuca">
+                    <option value="Campeche">
+                    <option value="La Paz">
+                    <option value="Cabo San Lucas">
+                    <option value="Puerto Vallarta">
+                    <option value="Colima">
+                    <option value="Zacatecas">
+                    <option value="Tlaxcala">
+                    <option value="Chetumal">
+                    <option value="Nogales">
+                    <option value="Nuevo Laredo">
+                    <option value="Ciudad Obregon">
+                    <option value="Ciudad Victoria">
+                    <option value="Guaymas">
+                    <option value="Navojoa">
+                    <option value="Guasave">
+                    <option value="Salamanca">
+                    <option value="Silao">
+                    <option value="Tehuacan">
+                    <option value="San Juan del Rio">
+                    <option value="Uruapan">
+                    <option value="Zamora">
+                    <option value="Lazaro Cardenas">
+                    <option value="Piedras Negras">
+                    <option value="Monclova">
+                    <option value="Delicias">
+                    <option value="Cuauhtemoc">
+                    <option value="Parral">
+                    <option value="Fresnillo">
+                    <option value="Rio Bravo">
+                    <option value="Altamira">
+                    <option value="Ciudad Madero">
+                    <option value="Poza Rica">
+                    <option value="Coatzacoalcos">
+                    <option value="Minatitlan">
+                    <option value="Cordoba">
+                    <option value="Orizaba">
+                    <option value="San Cristobal de las Casas">
+                    <option value="Tapachula">
+                    <option value="Comitan">
+                    <option value="Chetumal">
+                    <option value="Cozumel">
+                    <option value="Tulum">
+                    <option value="Valladolid">
+                    <option value="Progreso">
+                    <option value="Ecatepec">
+                    <option value="Naucalpan">
+                    <option value="Cuautitlan Izcalli">
+                    <option value="Atizapan">
+                    <option value="Coacalco">
+                    <option value="Tultitlan">
+                    <option value="Ixtapaluca">
+                    <option value="Chalco">
+                    <option value="Texcoco">
+                    <option value="Teotihuacan">
+                    <option value="San Pedro Garza Garcia">
+                    <option value="Santa Catarina">
+                    <option value="Apodaca">
+                    <option value="Escobedo">
+                    <option value="Guadalupe">
+                    <option value="San Nicolas de los Garza">
+                    <option value="Tonala">
+                    <option value="Tlaquepaque">
+                    <option value="Tlajomulco">
+                    <option value="El Salto">
+                    <option value="Lagos de Moreno">
+                    <option value="Tepatitlan">
+                    <option value="Ocotlan">
+                    <option value="Arandas">
+                    <option value="Autlan">
+                    <option value="Chapala">
+                    <option value="Tequila">
+                  </datalist>
+                </div>
               </div>
+            </div>
+            
+            <div class="form-group">
+              <label for="country">Pais</label>
+              <input type="text" id="country" name="country" value="Mexico" required minlength="2">
             </div>
           </div>
 
@@ -400,6 +566,81 @@
     </footer>
   </div>
 
+  <script>
+    // Actualizar ciudades segun el estado seleccionado
+    const citiesByState = {
+      'Aguascalientes': ['Aguascalientes', 'Calvillo', 'Jesus Maria', 'Rincon de Romos', 'Pabellon de Arteaga'],
+      'Baja California': ['Tijuana', 'Mexicali', 'Ensenada', 'Rosarito', 'Tecate', 'San Quintin'],
+      'Baja California Sur': ['La Paz', 'Cabo San Lucas', 'San Jose del Cabo', 'Loreto', 'Ciudad Constitucion'],
+      'Campeche': ['Campeche', 'Ciudad del Carmen', 'Champoton', 'Escarcega', 'Calkini'],
+      'Chiapas': ['Tuxtla Gutierrez', 'San Cristobal de las Casas', 'Tapachula', 'Comitan', 'Palenque', 'Chiapa de Corzo'],
+      'Chihuahua': ['Chihuahua', 'Juarez', 'Delicias', 'Cuauhtemoc', 'Parral', 'Nuevo Casas Grandes'],
+      'Ciudad de Mexico': ['Ciudad de Mexico', 'Coyoacan', 'Xochimilco', 'Tlalpan', 'Iztapalapa', 'Gustavo A. Madero'],
+      'Coahuila': ['Saltillo', 'Torreon', 'Monclova', 'Piedras Negras', 'Acuna', 'Sabinas'],
+      'Colima': ['Colima', 'Manzanillo', 'Tecoman', 'Villa de Alvarez', 'Armeria'],
+      'Durango': ['Durango', 'Gomez Palacio', 'Lerdo', 'Santiago Papasquiaro', 'Canatlán'],
+      'Estado de Mexico': ['Toluca', 'Ecatepec', 'Nezahualcoyotl', 'Naucalpan', 'Tlalnepantla', 'Cuautitlan Izcalli', 'Atizapan', 'Texcoco', 'Chalco'],
+      'Guanajuato': ['Leon', 'Irapuato', 'Celaya', 'Salamanca', 'Silao', 'Guanajuato', 'San Miguel de Allende', 'Dolores Hidalgo'],
+      'Guerrero': ['Acapulco', 'Chilpancingo', 'Iguala', 'Taxco', 'Zihuatanejo', 'Ixtapa'],
+      'Hidalgo': ['Pachuca', 'Tulancingo', 'Tula', 'Huejutla', 'Tizayuca', 'Actopan'],
+      'Jalisco': ['Guadalajara', 'Zapopan', 'Tlaquepaque', 'Tonala', 'Tlajomulco', 'Puerto Vallarta', 'Lagos de Moreno', 'Tepatitlan', 'Chapala', 'Tequila'],
+      'Michoacan': ['Morelia', 'Uruapan', 'Zamora', 'Lazaro Cardenas', 'Apatzingan', 'Patzcuaro', 'Zitacuaro'],
+      'Morelos': ['Cuernavaca', 'Jiutepec', 'Cuautla', 'Temixco', 'Yautepec', 'Tepoztlan'],
+      'Nayarit': ['Tepic', 'Bahia de Banderas', 'Compostela', 'Santiago Ixcuintla', 'San Blas', 'Sayulita'],
+      'Nuevo Leon': ['Monterrey', 'San Pedro Garza Garcia', 'San Nicolas de los Garza', 'Guadalupe', 'Apodaca', 'Santa Catarina', 'Escobedo'],
+      'Oaxaca': ['Oaxaca', 'Salina Cruz', 'Juchitan', 'Tuxtepec', 'Huatulco', 'Puerto Escondido'],
+      'Puebla': ['Puebla', 'Tehuacan', 'San Martin Texmelucan', 'Atlixco', 'Cholula', 'Izucar de Matamoros'],
+      'Queretaro': ['Queretaro', 'San Juan del Rio', 'Corregidora', 'El Marques', 'Tequisquiapan'],
+      'Quintana Roo': ['Cancun', 'Playa del Carmen', 'Chetumal', 'Cozumel', 'Tulum', 'Isla Mujeres', 'Puerto Morelos'],
+      'San Luis Potosi': ['San Luis Potosi', 'Soledad de Graciano Sanchez', 'Ciudad Valles', 'Matehuala', 'Rioverde'],
+      'Sinaloa': ['Culiacan', 'Mazatlan', 'Los Mochis', 'Guasave', 'Navolato', 'El Rosario'],
+      'Sonora': ['Hermosillo', 'Ciudad Obregon', 'Nogales', 'Guaymas', 'San Luis Rio Colorado', 'Navojoa', 'Puerto Penasco'],
+      'Tabasco': ['Villahermosa', 'Cardenas', 'Comalcalco', 'Paraiso', 'Macuspana'],
+      'Tamaulipas': ['Reynosa', 'Matamoros', 'Nuevo Laredo', 'Tampico', 'Ciudad Victoria', 'Ciudad Madero', 'Altamira'],
+      'Tlaxcala': ['Tlaxcala', 'Apizaco', 'Huamantla', 'Chiautempan', 'Calpulalpan'],
+      'Veracruz': ['Veracruz', 'Xalapa', 'Coatzacoalcos', 'Poza Rica', 'Cordoba', 'Orizaba', 'Minatitlan', 'Boca del Rio'],
+      'Yucatan': ['Merida', 'Valladolid', 'Progreso', 'Tizimin', 'Izamal', 'Uman'],
+      'Zacatecas': ['Zacatecas', 'Fresnillo', 'Guadalupe', 'Jerez', 'Rio Grande', 'Sombrerete']
+    };
+
+    const stateInput = document.getElementById('state');
+    const cityInput = document.getElementById('city');
+    const citiesList = document.getElementById('citiesList');
+
+    stateInput.addEventListener('change', function() {
+      const selectedState = this.value;
+      const cities = citiesByState[selectedState] || [];
+      
+      // Limpiar lista actual
+      citiesList.innerHTML = '';
+      
+      // Agregar ciudades del estado seleccionado
+      cities.forEach(city => {
+        const option = document.createElement('option');
+        option.value = city;
+        citiesList.appendChild(option);
+      });
+      
+      // Limpiar campo de ciudad y enfocarlo
+      cityInput.value = '';
+      cityInput.focus();
+    });
+
+    // Si escriben directamente en ciudad sin seleccionar estado, mostrar todas
+    cityInput.addEventListener('focus', function() {
+      if (!stateInput.value) {
+        // Restaurar todas las ciudades si no hay estado seleccionado
+        const allCities = Object.values(citiesByState).flat().sort();
+        const uniqueCities = [...new Set(allCities)];
+        citiesList.innerHTML = '';
+        uniqueCities.forEach(city => {
+          const option = document.createElement('option');
+          option.value = city;
+          citiesList.appendChild(option);
+        });
+      }
+    });
+  </script>
   <script src="app-advanced.js"></script>
 </body>
 </html>

@@ -1,0 +1,2948 @@
+{
+  "metadata": {
+    "query": {
+      "businessType": "escuelas",
+      "city": "CULIACAN ROSALES",
+      "country": "México"
+    },
+    "totalResults": 44,
+    "stats": {
+      "total": 44,
+      "withPhone": 36,
+      "withEmail": 11,
+      "withWebsite": 29,
+      "withInstagram": 13,
+      "withWhatsapp": 7
+    },
+    "exportedAt": "2026-01-16T18:46:51.779Z",
+    "version": "2.0"
+  },
+  "businesses": [
+    {
+      "position": 1,
+      "placeId": "0x86bcd9fa3715d507:0x1c8930e7920290ee",
+      "name": "CADI LAS AMÉRICAS",
+      "rating": null,
+      "reviewCount": 39,
+      "category": "Instituto de secundaria",
+      "categories": [
+        "Instituto de secundaria"
+      ],
+      "address": "C. Josefa Ortiz de Domínguez 2166, La Lima, 80040 Culiacán Rosales, Sin.",
+      "phone": null,
+      "website": "http://cadilasamericas.org/",
+      "coordinates": {
+        "lat": 24.8304602,
+        "lng": -107.3709056
+      },
+      "plusCode": null,
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": true,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [],
+      "profileUrl": "https://www.google.com/maps/place/CADI+LAS+AM%C3%89RICAS/@24.8304602,-107.3709056,15z/data=!4m10!1m2!2m1!1sescuelas+en+CULIACAN+ROSALES,+M%C3%A9xico!3m6!1s0x86bcd9fa3715d507:0x1c8930e7920290ee!8m2!3d24.8282819!4d-107.3761285!15sCiVlc2N1ZWxhcyBlbiBDVUxJQUNBTiBST1NBTEVTLCBNw6l4aWNvkgELaGlnaF9zY2hvb2zgAQA!16s%2Fg%2F11b6tcgf87?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoKLDEwMDc5MjA2OUgBUAM%3D",
+      "claimedBusiness": false,
+      "email": "colegio.cadilasamericas@gmail.com",
+      "allEmails": [
+        "colegio.cadilasamericas@gmail.com"
+      ],
+      "socialMedia": {
+        "instagram": "instagram.com/cadilasamericas",
+        "facebook": "facebook.com/cadilasamericas",
+        "twitter": null,
+        "whatsapp": "526672323738",
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "escuelas",
+        "city": "CULIACAN ROSALES",
+        "country": "México",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T18:43:56.849Z"
+    },
+    {
+      "position": 2,
+      "placeId": "0x86bcd9e32bc467b3:0x11bbbab772a84b42",
+      "name": "Instituto Senda",
+      "rating": null,
+      "reviewCount": 39,
+      "category": "Colegio bilingüe",
+      "categories": [
+        "Colegio bilingüe"
+      ],
+      "address": "Gran Avenida El Dorado 1405 Ote, Las Quintas, 80060 Culiacán Rosales, Sin.",
+      "phone": "6677154312",
+      "website": "https://www.senda.edu.mx/",
+      "coordinates": {
+        "lat": 24.8282819,
+        "lng": -107.3951829
+      },
+      "plusCode": "RJCG+4G Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": true,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [],
+      "profileUrl": "https://www.google.com/maps/place/Instituto+Senda/@24.8282819,-107.3951829,15z/data=!4m10!1m2!2m1!1sescuelas+en+CULIACAN+ROSALES,+M%C3%A9xico!3m6!1s0x86bcd9e32bc467b3:0x11bbbab772a84b42!8m2!3d24.8203254!4d-107.3737464!15sCiVlc2N1ZWxhcyBlbiBDVUxJQUNBTiBST1NBTEVTLCBNw6l4aWNvkgEYZ2VuZXJhbF9lZHVjYXRpb25fc2Nob29s4AEA!16s%2Fg%2F1tfr0wg6?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoKLDEwMDc5MjA2OUgBUAM%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": "instagram.com/sendadelrio",
+        "facebook": "facebook.com/tr",
+        "twitter": "x.com/sendadelrio",
+        "whatsapp": "5216673324754",
+        "linkedin": null,
+        "youtube": "youtube.com/user/sendadelrio",
+        "tiktok": "tiktok.com/@sendadelrio"
+      },
+      "searchQuery": {
+        "businessType": "escuelas",
+        "city": "CULIACAN ROSALES",
+        "country": "México",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T18:44:04.611Z"
+    },
+    {
+      "position": 3,
+      "placeId": "0x86bcda07af82eb05:0x1cb424d18791e8f7",
+      "name": "Colegio Chapultepec Norte",
+      "rating": null,
+      "reviewCount": 39,
+      "category": "Escuela primaria",
+      "categories": [
+        "Escuela primaria"
+      ],
+      "address": "Ramon Ponce De Leon 115 Ote., Chapultepec, 80040 Culiacán Rosales, Sin.",
+      "phone": "6677123599",
+      "website": "https://fomentochapultepec.org/",
+      "coordinates": {
+        "lat": 24.8422523,
+        "lng": -107.3760077
+      },
+      "plusCode": "RJ96+86 Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": true,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [],
+      "profileUrl": "https://www.google.com/maps/place/Colegio+Chapultepec+Norte/@24.8422523,-107.3760077,15z/data=!4m10!1m2!2m1!1sescuelas+en+CULIACAN+ROSALES,+M%C3%A9xico!3m6!1s0x86bcda07af82eb05:0x1cb424d18791e8f7!8m2!3d24.818275!4d-107.3894262!15sCiVlc2N1ZWxhcyBlbiBDVUxJQUNBTiBST1NBTEVTLCBNw6l4aWNvkgEYZ2VuZXJhbF9lZHVjYXRpb25fc2Nob29s4AEA!16s%2Fg%2F1td25wws?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoKLDEwMDc5MjA2OUgBUAM%3D",
+      "claimedBusiness": false,
+      "email": "alianzas@iechapultepec.org",
+      "allEmails": [
+        "alianzas@iechapultepec.org"
+      ],
+      "socialMedia": {
+        "instagram": "instagram.com/fomentochapultepec",
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "escuelas",
+        "city": "CULIACAN ROSALES",
+        "country": "México",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T18:44:11.503Z"
+    },
+    {
+      "position": 4,
+      "placeId": "0x86bcd9c068468103:0x25a26afe1f0081c8",
+      "name": "Unidad Académica Escuela de Diseño y Artes Visuales, UAS",
+      "rating": 4.6,
+      "reviewCount": 39,
+      "category": "Escuela universitaria",
+      "categories": [
+        "Escuela universitaria"
+      ],
+      "address": "Blvd. Francisco Labastida Ochoa 2027-A, Desarrollo Urbano Tres Ríos, 80020 Culiacán Rosales, Sin.",
+      "phone": "6677581400",
+      "website": "https://carreras.uas.edu.mx/Artes_Visuales.html",
+      "coordinates": {
+        "lat": 24.818275,
+        "lng": -107.4084806
+      },
+      "plusCode": "RJHM+GJ Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": true,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Gaby OchoaLocal Guide · 40 opiniones · 12 fotos",
+          "rating": 5,
+          "text": "Cursé la lic. en Artes Plásticas y mi experiencia fué muy satisfactoria, aproveche la oportunidad y tuve excelentes maestros, plenos de vocación y calidad humana.… Más",
+          "date": "Hace 2 años"
+        },
+        {
+          "author": "Gaby OchoaLocal Guide · 40 opiniones · 12 fotos",
+          "rating": 5,
+          "text": "Cursé la lic. en Artes Plásticas y mi experiencia fué muy satisfactoria, aproveche la oportunidad y tuve excelentes maestros, plenos de vocación y calidad humana.… Más",
+          "date": "Hace 2 años"
+        },
+        {
+          "author": "CésarLocal Guide · 13 opiniones · 5 fotos",
+          "rating": 5,
+          "text": "Buena ubicación, actualmente cuenta con tres licenciaturas, el personal es educado y atento y el transporte público te deja enfrente de la escuela con total facilidad.",
+          "date": "Hace 2 años"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Unidad+Acad%C3%A9mica+Escuela+de+Dise%C3%B1o+y+Artes+Visuales,+UAS/@24.818275,-107.4084806,15z/data=!4m10!1m2!2m1!1sescuelas+en+CULIACAN+ROSALES,+M%C3%A9xico!3m6!1s0x86bcd9c068468103:0x25a26afe1f0081c8!8m2!3d24.8288421!4d-107.365987!15sCiVlc2N1ZWxhcyBlbiBDVUxJQUNBTiBST1NBTEVTLCBNw6l4aWNvWiYiJGVzY3VlbGFzIGVuIGN1bGlhY2FuIHJvc2FsZXMgbcOpeGljb5IBB2NvbGxlZ2WaASRDaGREU1VoTk1HOW5TMFZKUTBGblNVTXlka3R4YUdwM1JSQULgAQD6AQQIABA5!16s%2Fg%2F11h_46bl20?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoKLDEwMDc5MjA2OUgBUAM%3D",
+      "claimedBusiness": false,
+      "email": "sau.uas@uas.edu.mx",
+      "allEmails": [
+        "sau.uas@uas.edu.mx"
+      ],
+      "socialMedia": {
+        "instagram": "instagram.com/sauasinaloa",
+        "facebook": "facebook.com/profile.php",
+        "twitter": "twitter.com/sau_uasinaloa",
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": "youtube.com/c/Secretar",
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "escuelas",
+        "city": "CULIACAN ROSALES",
+        "country": "México",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T18:44:15.741Z"
+    },
+    {
+      "position": 5,
+      "placeId": "0x86bcda004e286cb1:0xde543a9179d6c6fc",
+      "name": "Instituto Chapultepec Norte",
+      "rating": null,
+      "reviewCount": 39,
+      "category": "Colegio bilingüe",
+      "categories": [
+        "Colegio bilingüe"
+      ],
+      "address": "Blvd, La Mirada 3050, 80014 Culiacán Rosales, Sin.",
+      "phone": "6671170413",
+      "website": "https://sites.google.com/ich.edu.mx/ich-norte/home",
+      "coordinates": {
+        "lat": 24.8288421,
+        "lng": -107.3850414
+      },
+      "plusCode": "RJRP+CJ Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": true,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [],
+      "profileUrl": "https://www.google.com/maps/place/Instituto+Chapultepec+Norte/@24.8288421,-107.3850414,15z/data=!4m10!1m2!2m1!1sescuelas+en+CULIACAN+ROSALES,+M%C3%A9xico!3m6!1s0x86bcda004e286cb1:0xde543a9179d6c6fc!8m2!3d24.8410189!4d-107.3634678!15sCiVlc2N1ZWxhcyBlbiBDVUxJQUNBTiBST1NBTEVTLCBNw6l4aWNvkgElY29tYmluZWRfcHJpbWFyeV9hbmRfc2Vjb25kYXJ5X3NjaG9vbOABAA!16s%2Fg%2F1tj858m2?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoKLDEwMDc5MjA2OUgBUAM%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "escuelas",
+        "city": "CULIACAN ROSALES",
+        "country": "México",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T18:44:19.433Z"
+    },
+    {
+      "position": 6,
+      "placeId": "0x86bcd97968f90d95:0x24decdf8d1819832",
+      "name": "Centro Lúdico del Saber",
+      "rating": null,
+      "reviewCount": 39,
+      "category": "Educación mixta",
+      "categories": [
+        "Educación mixta"
+      ],
+      "address": "80400 Riveras del, Tamazula, 80400 Culiacán Rosales, Sin.",
+      "phone": "6672649489",
+      "website": null,
+      "coordinates": {
+        "lat": 24.8288421,
+        "lng": -107.3850414
+      },
+      "plusCode": null,
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": true,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [],
+      "profileUrl": "https://www.google.com/maps/place/Centro+L%C3%BAdico+del+Saber/@24.8288421,-107.3850414,15z/data=!4m10!1m2!2m1!1sescuelas+en+CULIACAN+ROSALES,+M%C3%A9xico!3m6!1s0x86bcd97968f90d95:0x24decdf8d1819832!8m2!3d24.8299019!4d-107.3744005!15sCiVlc2N1ZWxhcyBlbiBDVUxJQUNBTiBST1NBTEVTLCBNw6l4aWNvkgELY29lZF9zY2hvb2zgAQA!16s%2Fg%2F11rmv7fzvh?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoKLDEwMDc5MjA2OUgBUAM%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "escuelas",
+        "city": "CULIACAN ROSALES",
+        "country": "México",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T18:44:20.899Z"
+    },
+    {
+      "position": 7,
+      "placeId": "0x86bcd9fcfd206215:0xb338fcb5f643fa71",
+      "name": "Instituto Nueva Generación",
+      "rating": null,
+      "reviewCount": 39,
+      "category": "Colegio privado",
+      "categories": [
+        "Colegio privado"
+      ],
+      "address": "Gran Avenida El Dorado 1340, Las Quintas, 80060 Culiacán Rosales, Sin.",
+      "phone": "6677124640",
+      "website": "http://www.institutonuevageneracion.edu.mx/",
+      "coordinates": {
+        "lat": 24.8288421,
+        "lng": -107.3850414
+      },
+      "plusCode": "RJCF+4V Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": true,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [],
+      "profileUrl": "https://www.google.com/maps/place/Instituto+Nueva+Generaci%C3%B3n/@24.8288421,-107.3850414,15z/data=!4m10!1m2!2m1!1sescuelas+en+CULIACAN+ROSALES,+M%C3%A9xico!3m6!1s0x86bcd9fcfd206215:0xb338fcb5f643fa71!8m2!3d24.8202867!4d-107.3753575!15sCiVlc2N1ZWxhcyBlbiBDVUxJQUNBTiBST1NBTEVTLCBNw6l4aWNvkgEOcHJpdmF0ZV9zY2hvb2zgAQA!16s%2Fg%2F1tdzl_kc?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoKLDEwMDc5MjA2OUgBUAM%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "escuelas",
+        "city": "CULIACAN ROSALES",
+        "country": "México",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T18:44:24.128Z"
+    },
+    {
+      "position": 8,
+      "placeId": "0x86bcd9e2f4c7f077:0x9d074f87fcb56a76",
+      "name": "Instituto Jean Piaget del Rio Culiacan",
+      "rating": null,
+      "reviewCount": 39,
+      "category": "Colegio bilingüe",
+      "categories": [
+        "Colegio bilingüe"
+      ],
+      "address": "Gran Avenida El Dorado 1669, Las Quintas, 80060 Culiacán Rosales, Sin.",
+      "phone": "6677132324",
+      "website": "http://ibjp.mx/",
+      "coordinates": {
+        "lat": 24.8288421,
+        "lng": -107.3850414
+      },
+      "plusCode": "RJ9H+GX Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": true,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [],
+      "profileUrl": "https://www.google.com/maps/place/Instituto+Jean+Piaget+del+Rio+Culiacan/@24.8288421,-107.3850414,15z/data=!4m10!1m2!2m1!1sescuelas+en+CULIACAN+ROSALES,+M%C3%A9xico!3m6!1s0x86bcd9e2f4c7f077:0x9d074f87fcb56a76!8m2!3d24.8188298!4d-107.3700834!15sCiVlc2N1ZWxhcyBlbiBDVUxJQUNBTiBST1NBTEVTLCBNw6l4aWNvkgEQYmlsaW5ndWFsX3NjaG9vbOABAA!16s%2Fg%2F1tfnz0jh?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoKLDEwMDc5MjA2OUgBUAM%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": "instagram.com/JeanPiagetCuliacan",
+        "facebook": "facebook.com/photo",
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": "tiktok.com/@jeanpiagetcln"
+      },
+      "searchQuery": {
+        "businessType": "escuelas",
+        "city": "CULIACAN ROSALES",
+        "country": "México",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T18:44:31.862Z"
+    },
+    {
+      "position": 9,
+      "placeId": "0x86bcd9ceee172dbb:0x4aabea225348c8b9",
+      "name": "Primaria Gral. Gabriel Leyva",
+      "rating": null,
+      "reviewCount": 39,
+      "category": "Escuela de primaria",
+      "categories": [
+        "Escuela de primaria"
+      ],
+      "address": "Obrero Campesino, 80013 Culiacán Rosales, Sin.",
+      "phone": null,
+      "website": null,
+      "coordinates": {
+        "lat": 24.8288421,
+        "lng": -107.3850414
+      },
+      "plusCode": "RJJF+52 Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": true,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [],
+      "profileUrl": "https://www.google.com/maps/place/Primaria+Gral.+Gabriel+Leyva/@24.8288421,-107.3850414,15z/data=!4m10!1m2!2m1!1sescuelas+en+CULIACAN+ROSALES,+M%C3%A9xico!3m6!1s0x86bcd9ceee172dbb:0x4aabea225348c8b9!8m2!3d24.8304095!4d-107.3774877!15sCiVlc2N1ZWxhcyBlbiBDVUxJQUNBTiBST1NBTEVTLCBNw6l4aWNvkgEOcHJpbWFyeV9zY2hvb2zgAQA!16s%2Fg%2F11gxxfjvmh?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoKLDEwMDc5MjA2OUgBUAM%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "escuelas",
+        "city": "CULIACAN ROSALES",
+        "country": "México",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T18:44:34.847Z"
+    },
+    {
+      "position": 10,
+      "placeId": "0x86bcdb8f0d08953b:0x7ecc1e97582b8ece",
+      "name": "CEYDI PRIMARIA",
+      "rating": null,
+      "reviewCount": 39,
+      "category": "Escuela de primaria",
+      "categories": [
+        "Escuela de primaria"
+      ],
+      "address": "Blvrd Pedro Anaya 2050, Burócrata, 80030 Culiacán Rosales, Sin.",
+      "phone": "6677155199",
+      "website": "http://ceydiculiacan.com/",
+      "coordinates": {
+        "lat": 24.8304095,
+        "lng": -107.3965421
+      },
+      "plusCode": "RJH6+C8 Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": true,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [],
+      "profileUrl": "https://www.google.com/maps/place/CEYDI+PRIMARIA/@24.8304095,-107.3965421,15z/data=!4m10!1m2!2m1!1sescuelas+en+CULIACAN+ROSALES,+M%C3%A9xico!3m6!1s0x86bcdb8f0d08953b:0x7ecc1e97582b8ece!8m2!3d24.8286103!4d-107.3891405!15sCiVlc2N1ZWxhcyBlbiBDVUxJQUNBTiBST1NBTEVTLCBNw6l4aWNvkgEOcHJpbWFyeV9zY2hvb2zgAQA!16s%2Fg%2F11gnpzl3mg?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoKLDEwMDc5MjA2OUgBUAM%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "escuelas",
+        "city": "CULIACAN ROSALES",
+        "country": "México",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T18:44:41.561Z"
+    },
+    {
+      "position": 11,
+      "placeId": "0x86bcd7609afec4a9:0xf4f083a408b7d3fb",
+      "name": "Colegio SEBEC",
+      "rating": null,
+      "reviewCount": 39,
+      "category": "Colegio privado",
+      "categories": [
+        "Colegio privado"
+      ],
+      "address": "Blvrd Dr Mora 2010 -16, La Campiña, 80060 Culiacán Rosales, Sin.",
+      "phone": "6679600444",
+      "website": "http://www.sebec.edu.mx/",
+      "coordinates": {
+        "lat": 24.8286103,
+        "lng": -107.4081949
+      },
+      "plusCode": "RJ8Q+8R Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": true,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [],
+      "profileUrl": "https://www.google.com/maps/place/Colegio+SEBEC/@24.8286103,-107.4081949,15z/data=!4m10!1m2!2m1!1sescuelas+en+CULIACAN+ROSALES,+M%C3%A9xico!3m6!1s0x86bcd7609afec4a9:0xf4f083a408b7d3fb!8m2!3d24.8157587!4d-107.3604731!15sCiVlc2N1ZWxhcyBlbiBDVUxJQUNBTiBST1NBTEVTLCBNw6l4aWNvkgEOcHJpdmF0ZV9zY2hvb2zgAQA!16s%2Fg%2F1tg5vh8w?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoKLDEwMDc5MjA2OUgBUAM%3D",
+      "claimedBusiness": false,
+      "email": "medios@sebec.edu.mx",
+      "allEmails": [
+        "medios@sebec.edu.mx",
+        "ejemplo@misitio.com"
+      ],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": "x.com/bolt",
+        "whatsapp": "526671614925",
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "escuelas",
+        "city": "CULIACAN ROSALES",
+        "country": "México",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T18:44:44.883Z"
+    },
+    {
+      "position": 12,
+      "placeId": "0x86bcd75edc40e639:0x5964a69da4c3fc36",
+      "name": "Colegio Moskalia",
+      "rating": 4.4,
+      "reviewCount": 39,
+      "category": "Centro de educación preescolar",
+      "categories": [
+        "Centro de educación preescolar"
+      ],
+      "address": "Isla de Guadalupe 1461, Las Quintas, 80060 Culiacán Rosales, Sin.",
+      "phone": "6671720814",
+      "website": null,
+      "coordinates": {
+        "lat": 24.8157587,
+        "lng": -107.3795275
+      },
+      "plusCode": "RJ7G+6X Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": true,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Karla Janeth Benitez4 opiniones · 4 fotos",
+          "rating": 5,
+          "text": "Me encanta, no cualquier colegio lleva los valores al nivel que ellos lo manejan. Son súper empaticos y eso en los niños se nota, van felices a estudiar❤️",
+          "date": "Hace 2 meses"
+        },
+        {
+          "author": "Karla Janeth Benitez4 opiniones · 4 fotos",
+          "rating": 5,
+          "text": "Me encanta, no cualquier colegio lleva los valores al nivel que ellos lo manejan. Son súper empaticos y eso en los niños se nota, van felices a estudiar❤️",
+          "date": "Hace 2 meses"
+        },
+        {
+          "author": "Sofía González6 opiniones",
+          "rating": null,
+          "text": "Pésimo. Mi bebé estuvo menos de tres meses y al menos dos veces por semana me regresaban al niño con golpes raros argumentando que “se cayó”. Tuve que sacarlo el día que regresó con ambas orejas moradas con unas marcas rarísimas y cuando fui a reclamar ni siquiera me dieron razón. No lo recomiendo p",
+          "date": "Hace 7 años"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Colegio+Moskalia/@24.8157587,-107.3795275,15z/data=!4m10!1m2!2m1!1sescuelas+en+CULIACAN+ROSALES,+M%C3%A9xico!3m6!1s0x86bcd75edc40e639:0x5964a69da4c3fc36!8m2!3d24.8130038!4d-107.3725608!15sCiVlc2N1ZWxhcyBlbiBDVUxJQUNBTiBST1NBTEVTLCBNw6l4aWNvWiYiJGVzY3VlbGFzIGVuIGN1bGlhY2FuIHJvc2FsZXMgbcOpeGljb5IBCXByZXNjaG9vbJoBRENpOURRVWxSUVVOdlpFTm9kSGxqUmpsdlQyczVOR0pFWkdwYVZVcDFZV3BHZUdNeWVIQk9iRkpGWVVaa2ExZEhZeEFC4AEA-gEECFIQSA!16s%2Fg%2F11fz31kr_2?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoKLDEwMDc5MjA2OUgBUAM%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "escuelas",
+        "city": "CULIACAN ROSALES",
+        "country": "México",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T18:44:47.199Z"
+    },
+    {
+      "position": 13,
+      "placeId": "0x86bcda07ddf55b4d:0x5b290177908dd2d4",
+      "name": "Escuela Activa Integral, A.C.",
+      "rating": null,
+      "reviewCount": 39,
+      "category": "Colegio privado",
+      "categories": [
+        "Colegio privado"
+      ],
+      "address": "Blvrd Dr Manuel Romero 21 pte, Gabriel Leyva, 80030 Culiacán Rosales, Sin.",
+      "phone": "6677152400",
+      "website": "http://www.activa.edu.mx/",
+      "coordinates": {
+        "lat": 24.8130038,
+        "lng": -107.3916152
+      },
+      "plusCode": "RJ83+FF Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": true,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [],
+      "profileUrl": "https://www.google.com/maps/place/Escuela+Activa+Integral,+A.C./@24.8130038,-107.3916152,15z/data=!4m10!1m2!2m1!1sescuelas+en+CULIACAN+ROSALES,+M%C3%A9xico!3m6!1s0x86bcda07ddf55b4d:0x5b290177908dd2d4!8m2!3d24.8161963!4d-107.3963058!15sCiVlc2N1ZWxhcyBlbiBDVUxJQUNBTiBST1NBTEVTLCBNw6l4aWNvkgEOcHJpdmF0ZV9zY2hvb2zgAQA!16s%2Fg%2F1tdr3rnt?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoKLDEwMDc5MjA2OUgBUAM%3D",
+      "claimedBusiness": false,
+      "email": "elsembrador@activa.edu.mx",
+      "allEmails": [
+        "elsembrador@activa.edu.mx"
+      ],
+      "socialMedia": {
+        "instagram": "instagram.com/escuelaactivaintegral",
+        "facebook": "facebook.com/escuelaactivaintegral",
+        "twitter": null,
+        "whatsapp": "526677152400",
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "escuelas",
+        "city": "CULIACAN ROSALES",
+        "country": "México",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T18:44:52.151Z"
+    },
+    {
+      "position": 14,
+      "placeId": "0x86bcd9f981e868c3:0x93e09fd52f21beb0",
+      "name": "Dirección General de Escuelas Preparatorias",
+      "rating": 4.4,
+      "reviewCount": 39,
+      "category": "Departamento universitario",
+      "categories": [
+        "Departamento universitario"
+      ],
+      "address": "Circuito Intrerior Oriente SN, Cd Universitaria, Privada del Real, 80040 Culiacán Rosales, Sin.",
+      "phone": "6677121656",
+      "website": "http://dgep.uas.edu.mx/",
+      "coordinates": {
+        "lat": 24.8161963,
+        "lng": -107.4153602
+      },
+      "plusCode": "RJG9+58 Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": true,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Ernesto Alonso LopezLocal Guide · 473 opiniones · 1,353 fotos",
+          "rating": 5,
+          "text": "La famosa Universidad autónoma de Sinaloa es una de las instituciones más antiguas de este estado que fue fundada por don Eustaquio Buelna esta institución ha formado a cientos de miles de profesionistas en el amor a las ciencia pero… Más",
+          "date": "Hace 8 años"
+        },
+        {
+          "author": "Ernesto Alonso LopezLocal Guide · 473 opiniones · 1,353 fotos",
+          "rating": 5,
+          "text": "La famosa Universidad autónoma de Sinaloa es una de las instituciones más antiguas de este estado que fue fundada por don Eustaquio Buelna esta institución ha formado a cientos de miles de profesionistas en el amor a las ciencia pero… Más",
+          "date": "Hace 8 años"
+        },
+        {
+          "author": "Julio cesar EstradaLocal Guide · 54 opiniones · 5 fotos",
+          "rating": 5,
+          "text": "Muy bien",
+          "date": "Hace 2 meses"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Direcci%C3%B3n+General+de+Escuelas+Preparatorias/@24.8161963,-107.4153602,15z/data=!4m10!1m2!2m1!1sescuelas+en+CULIACAN+ROSALES,+M%C3%A9xico!3m6!1s0x86bcd9f981e868c3:0x93e09fd52f21beb0!8m2!3d24.8254045!4d-107.3817364!15sCiVlc2N1ZWxhcyBlbiBDVUxJQUNBTiBST1NBTEVTLCBNw6l4aWNvWiYiJGVzY3VlbGFzIGVuIGN1bGlhY2FuIHJvc2FsZXMgbcOpeGljb5IBFXVuaXZlcnNpdHlfZGVwYXJ0bWVudJoBJENoZERTVWhOTUc5blMwVkpRMEZuU1VOUE1XTnhkbDkzUlJBQuABAPoBBAgAEDk!16s%2Fm%2F04n4n2t?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoKLDEwMDc5MjA2OUgBUAM%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "escuelas",
+        "city": "CULIACAN ROSALES",
+        "country": "México",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T18:44:56.226Z"
+    },
+    {
+      "position": 15,
+      "placeId": "0x86bcda7487274efb:0x329cd2ab8f16923a",
+      "name": "Colegio Culiacán",
+      "rating": 4.4,
+      "reviewCount": 39,
+      "category": "Institución educativa",
+      "categories": [
+        "Institución educativa"
+      ],
+      "address": "Desarrollo Urbano Tres Ríos, 80020 Culiacán Rosales, Sin.",
+      "phone": "6677509287",
+      "website": "https://www.colegioculiacan.edu.mx/",
+      "coordinates": {
+        "lat": 24.8254045,
+        "lng": -107.4007908
+      },
+      "plusCode": "RH9Q+C7 Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": true,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Paola Fragozo9 opiniones",
+          "rating": null,
+          "text": "los maestros acosan a las niñas y aunque los reportes las niñas son las que salen mal, cuando les comentan el caso en facebook te bloquean ! además todo lo justifican con que son pastores y son intermediarios de Dios y ponen reportes por… Más",
+          "date": "Hace 5 meses"
+        },
+        {
+          "author": "Paola Fragozo9 opiniones",
+          "rating": null,
+          "text": "los maestros acosan a las niñas y aunque los reportes las niñas son las que salen mal, cuando les comentan el caso en facebook te bloquean ! además todo lo justifican con que son pastores y son intermediarios de Dios y ponen reportes por… Más",
+          "date": "Hace 5 meses"
+        },
+        {
+          "author": "Ja1 opinión",
+          "rating": null,
+          "text": "Escuela mediocre, el prefecto no soluciona nada y no sabe tratar a los alumnos, deberían demandarlo. Los profes tienen preferencias en situaciones tensas y al final el problema termina peor o igual. Disque buenos valores, pero no saben hacer nada bien.",
+          "date": "Hace 11 meses"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Colegio+Culiac%C3%A1n/@24.8254045,-107.4007908,15z/data=!4m10!1m2!2m1!1sescuelas+en+CULIACAN+ROSALES,+M%C3%A9xico!3m6!1s0x86bcda7487274efb:0x329cd2ab8f16923a!8m2!3d24.8186206!4d-107.4117751!15sCiVlc2N1ZWxhcyBlbiBDVUxJQUNBTiBST1NBTEVTLCBNw6l4aWNvWiYiJGVzY3VlbGFzIGVuIGN1bGlhY2FuIHJvc2FsZXMgbcOpeGljb5IBF2VkdWNhdGlvbmFsX2luc3RpdHV0aW9umgEkQ2hkRFNVaE5NRzluUzBWSlEwRm5TVU10YTB4eGVIQm5SUkFC4AEA-gEECAAQJg!16s%2Fg%2F1w04kk0r?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoKLDEwMDc5MjA2OUgBUAM%3D",
+      "claimedBusiness": false,
+      "email": "contacto@colegioculiacan.edu.mx",
+      "allEmails": [
+        "contacto@colegioculiacan.edu.mx"
+      ],
+      "socialMedia": {
+        "instagram": "instagram.com/col_cul",
+        "facebook": "facebook.com/plugins",
+        "twitter": "twitter.com/colegioculiacan",
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": "youtube.com/channel/UCAj77tG-r_oSjjr1n16RyLQ",
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "escuelas",
+        "city": "CULIACAN ROSALES",
+        "country": "México",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T18:45:00.225Z"
+    },
+    {
+      "position": 16,
+      "placeId": "0x86bcda04470849c5:0x6290783747102657",
+      "name": "Universidad Católica De Culiacán",
+      "rating": 4.1,
+      "reviewCount": 39,
+      "category": "Universidad",
+      "categories": [
+        "Universidad"
+      ],
+      "address": "C. Catedráticos 225, Tierra Blanca, 80030 Culiacán Rosales, Sin.",
+      "phone": "6677123017",
+      "website": "http://ucatolica.edu.mx/",
+      "coordinates": {
+        "lat": 24.8186206,
+        "lng": -107.4308295
+      },
+      "plusCode": "RJF5+42 Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": true,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "heleni glarosLocal Guide · 117 opiniones · 512 fotos",
+          "rating": 5,
+          "text": "Una excelente opción para estudiar el bachillerato, una licenciatura, una maestría y/o un doctorado, maestros con gran calidad de enseñanza y valores, siendo el humanismo, siendo este su principal valor o enfoque, lo que la destaca de las demás escuelas, colegios y/o universidades 👍👏👏👏…",
+          "date": "Hace 5 años"
+        },
+        {
+          "author": "heleni glarosLocal Guide · 117 opiniones · 512 fotos",
+          "rating": 5,
+          "text": "Una excelente opción para estudiar el bachillerato, una licenciatura, una maestría y/o un doctorado, maestros con gran calidad de enseñanza y valores, siendo el humanismo, siendo este su principal valor o enfoque, lo que la destaca de las demás escuelas, colegios y/o universidades 👍👏👏👏…",
+          "date": "Hace 5 años"
+        },
+        {
+          "author": "Ernesto Alonso LopezLocal Guide · 473 opiniones · 1,353 fotos",
+          "rating": 5,
+          "text": "Más allá de cuestiones religiosas esta universidad tiene muy buen nivel académico excelentes instalaciones y personal muy preparado Así que le recomendaría ampliamente especialmente a las personas que viven hacia el Oriente de la ciudad de Culiacán cargadas un poco hacia el norte",
+          "date": "Hace 8 años"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Universidad+Cat%C3%B3lica+De+Culiac%C3%A1n/@24.8186206,-107.4308295,15z/data=!4m10!1m2!2m1!1sescuelas+en+CULIACAN+ROSALES,+M%C3%A9xico!3m6!1s0x86bcda04470849c5:0x6290783747102657!8m2!3d24.8228658!4d-107.3924418!15sCiVlc2N1ZWxhcyBlbiBDVUxJQUNBTiBST1NBTEVTLCBNw6l4aWNvWiYiJGVzY3VlbGFzIGVuIGN1bGlhY2FuIHJvc2FsZXMgbcOpeGljb5IBCnVuaXZlcnNpdHmaASRDaGREU1VoTk1HOW5TMFZKUTBGblNVUm1jemhIZG5CQlJSQULgAQD6AQQIABAY!16s%2Fg%2F1v7tltpp?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoKLDEwMDc5MjA2OUgBUAM%3D",
+      "claimedBusiness": false,
+      "email": "contacto@ucatolica.edu.mx",
+      "allEmails": [
+        "contacto@ucatolica.edu.mx"
+      ],
+      "socialMedia": {
+        "instagram": "instagram.com/ucacln",
+        "facebook": "facebook.com/ucatolicacln",
+        "twitter": "twitter.com/laucatolica",
+        "whatsapp": null,
+        "linkedin": "linkedin.com/in/universidad-cat",
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "escuelas",
+        "city": "CULIACAN ROSALES",
+        "country": "México",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T18:45:03.337Z"
+    },
+    {
+      "position": 17,
+      "placeId": "0x86bcd75f74895365:0x7decbea18467219f",
+      "name": "Colegio CEDI",
+      "rating": null,
+      "reviewCount": 39,
+      "category": "Colegio privado",
+      "categories": [
+        "Colegio privado"
+      ],
+      "address": "Del Guamuchil 1849, La Campiña, 80060 Culiacán Rosales, Sin.",
+      "phone": "6677151603",
+      "website": null,
+      "coordinates": {
+        "lat": 24.8228658,
+        "lng": -107.4114962
+      },
+      "plusCode": "RJ8P+W6 Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [
+        "Se identifica como mujer empresaria"
+      ],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": true,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [],
+      "profileUrl": "https://www.google.com/maps/place/Colegio+CEDI/@24.8228658,-107.4114962,15z/data=!4m10!1m2!2m1!1sescuelas+en+CULIACAN+ROSALES,+M%C3%A9xico!3m6!1s0x86bcd75f74895365:0x7decbea18467219f!8m2!3d24.8173124!4d-107.3644637!15sCiVlc2N1ZWxhcyBlbiBDVUxJQUNBTiBST1NBTEVTLCBNw6l4aWNvkgEOcHJpdmF0ZV9zY2hvb2zgAQA!16s%2Fg%2F1hd_33nn9?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoKLDEwMDc5MjA2OUgBUAM%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "escuelas",
+        "city": "CULIACAN ROSALES",
+        "country": "México",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T18:45:05.187Z"
+    },
+    {
+      "position": 18,
+      "placeId": "0x86bcd75947813aa7:0xb3726a4076e4f8ba",
+      "name": "Instituto Bilingüe Jean Piaget",
+      "rating": null,
+      "reviewCount": 39,
+      "category": "Escuela de primaria",
+      "categories": [
+        "Escuela de primaria"
+      ],
+      "address": "Isla del Carmen 1678, Las Quintas, 80060 Culiacán Rosales, Sin.",
+      "phone": "6677132324",
+      "website": "http://ibjp.mx/",
+      "coordinates": {
+        "lat": 24.8173124,
+        "lng": -107.3835181
+      },
+      "plusCode": "RJ7J+HQ Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": true,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [],
+      "profileUrl": "https://www.google.com/maps/place/Instituto+Biling%C3%BCe+Jean+Piaget/@24.8173124,-107.3835181,15z/data=!4m10!1m2!2m1!1sescuelas+en+CULIACAN+ROSALES,+M%C3%A9xico!3m6!1s0x86bcd75947813aa7:0xb3726a4076e4f8ba!8m2!3d24.81391!4d-107.368047!15sCiVlc2N1ZWxhcyBlbiBDVUxJQUNBTiBST1NBTEVTLCBNw6l4aWNvkgEOcHJpbWFyeV9zY2hvb2zgAQA!16s%2Fg%2F1tczqt2j?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoKLDEwMDc5MjA2OUgBUAM%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "escuelas",
+        "city": "CULIACAN ROSALES",
+        "country": "México",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T18:45:15.078Z"
+    },
+    {
+      "position": 19,
+      "placeId": "0x86bcd9f0cc79a73d:0x6f6f1a9576ac75f1",
+      "name": "Escuela Secundaria Obrera Campesino",
+      "rating": null,
+      "reviewCount": 39,
+      "category": null,
+      "categories": [],
+      "address": "Universo 2981, Obrero Campesino, 80000 Culiacán Rosales, Sin.",
+      "phone": "6677530952",
+      "website": null,
+      "coordinates": {
+        "lat": 24.8173124,
+        "lng": -107.3835181
+      },
+      "plusCode": "RJHC+Q9 Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": true,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [],
+      "profileUrl": "https://www.google.com/maps/place/Escuela+Secundaria+Obrera+Campesino/@24.8173124,-107.3835181,15z/data=!4m10!1m2!2m1!1sescuelas+en+CULIACAN+ROSALES,+M%C3%A9xico!3m6!1s0x86bcd9f0cc79a73d:0x6f6f1a9576ac75f1!8m2!3d24.8294393!4d-107.3790763!15sCiVlc2N1ZWxhcyBlbiBDVUxJQUNBTiBST1NBTEVTLCBNw6l4aWNvkgEQc2Vjb25kYXJ5X3NjaG9vbOABAA!16s%2Fg%2F1tpf7knf?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoKLDEwMDc5MjA2OUgBUAM%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "escuelas",
+        "city": "CULIACAN ROSALES",
+        "country": "México",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T18:45:17.002Z"
+    },
+    {
+      "position": 20,
+      "placeId": "0x86bcd0af4e063ad7:0x673b891cd0251109",
+      "name": "Instituto Papalotl",
+      "rating": 3.9,
+      "reviewCount": 39,
+      "category": "Institución educativa",
+      "categories": [
+        "Institución educativa"
+      ],
+      "address": "Calle Gral. Angel Flores 607, Primer Cuadro, 80000 Culiacán Rosales, Sin.",
+      "phone": "6677520425",
+      "website": "http://www.papalotl.edu.mx/",
+      "coordinates": {
+        "lat": 24.8294393,
+        "lng": -107.3981307
+      },
+      "plusCode": "RJ67+36 Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": true,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "URU1 opinión",
+          "rating": null,
+          "text": "Una escuela es como un segundo hogar para los niños(al menos esto dicen), y es importante que se sientan bien en cada rincón. Si las instalaciones reflejan lo que se paga, la atención al cliente fuera más amable y los profesionales… Más",
+          "date": "Hace 10 meses"
+        },
+        {
+          "author": "URU1 opinión",
+          "rating": null,
+          "text": "Una escuela es como un segundo hogar para los niños(al menos esto dicen), y es importante que se sientan bien en cada rincón. Si las instalaciones reflejan lo que se paga, la atención al cliente fuera más amable y los profesionales… Más",
+          "date": "Hace 10 meses"
+        },
+        {
+          "author": "santiago vargas1 opinión",
+          "rating": null,
+          "text": "Al intentar resolver un problema no me hicieron caso",
+          "date": "Hace un año"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Instituto+Papalotl/@24.8294393,-107.3981307,15z/data=!4m10!1m2!2m1!1sescuelas+en+CULIACAN+ROSALES,+M%C3%A9xico!3m6!1s0x86bcd0af4e063ad7:0x673b891cd0251109!8m2!3d24.8101437!4d-107.3869096!15sCiVlc2N1ZWxhcyBlbiBDVUxJQUNBTiBST1NBTEVTLCBNw6l4aWNvWiYiJGVzY3VlbGFzIGVuIGN1bGlhY2FuIHJvc2FsZXMgbcOpeGljb5IBF2VkdWNhdGlvbmFsX2luc3RpdHV0aW9umgEkQ2hkRFNVaE5NRzluUzBWSlEwRm5TVU5YYUV3eVRqQlJSUkFC4AEA-gEECAAQKQ!16s%2Fg%2F1tpf7kn9?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoKLDEwMDc5MjA2OUgBUAM%3D",
+      "claimedBusiness": false,
+      "email": "hola@papalotl.edu.mx",
+      "allEmails": [
+        "hola@papalotl.edu.mx"
+      ],
+      "socialMedia": {
+        "instagram": "instagram.com/InstitutoPapalotl",
+        "facebook": "facebook.com/tr",
+        "twitter": null,
+        "whatsapp": "526674521219",
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "escuelas",
+        "city": "CULIACAN ROSALES",
+        "country": "México",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T18:45:21.448Z"
+    },
+    {
+      "position": 21,
+      "placeId": "0x86bcda07ce1baf7f:0x46c8b7a53d74b7d1",
+      "name": "Escuela Primaria Gral. Ángel Flores",
+      "rating": null,
+      "reviewCount": 39,
+      "category": "Escuela de primaria",
+      "categories": [
+        "Escuela de primaria"
+      ],
+      "address": "Prol. Álvaro Obregón 1329, Gabriel Leyva, 80030 Culiacán Rosales, Sin.",
+      "phone": null,
+      "website": null,
+      "coordinates": {
+        "lat": 24.8101437,
+        "lng": -107.405964
+      },
+      "plusCode": "RJ83+WJ Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": true,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [],
+      "profileUrl": "https://www.google.com/maps/place/Escuela+Primaria+Gral.+%C3%81ngel+Flores/@24.8101437,-107.405964,15z/data=!4m10!1m2!2m1!1sescuelas+en+CULIACAN+ROSALES,+M%C3%A9xico!3m6!1s0x86bcda07ce1baf7f:0x46c8b7a53d74b7d1!8m2!3d24.8173591!4d-107.3959395!15sCiVlc2N1ZWxhcyBlbiBDVUxJQUNBTiBST1NBTEVTLCBNw6l4aWNvkgEOcHJpbWFyeV9zY2hvb2zgAQA!16s%2Fg%2F11c6zy713y?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoKLDEwMDc5MjA2OUgBUAM%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "escuelas",
+        "city": "CULIACAN ROSALES",
+        "country": "México",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T18:45:23.973Z"
+    },
+    {
+      "position": 22,
+      "placeId": "0x86bcda1cacb340fd:0x9a19c32fb0e6765c",
+      "name": "Escuela Federal ( Primaria ) Venustiano Carranza",
+      "rating": null,
+      "reviewCount": 39,
+      "category": "Escuela de primaria",
+      "categories": [
+        "Escuela de primaria"
+      ],
+      "address": "80030, Abogados y o Cuarta 450, Burócrata, Culiacán Rosales, Sin.",
+      "phone": null,
+      "website": null,
+      "coordinates": {
+        "lat": 24.8101437,
+        "lng": -107.405964
+      },
+      "plusCode": "RJG5+QR Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": true,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [],
+      "profileUrl": "https://www.google.com/maps/place/Escuela+Federal+(+Primaria+)+Venustiano+Carranza/@24.8101437,-107.405964,15z/data=!4m10!1m2!2m1!1sescuelas+en+CULIACAN+ROSALES,+M%C3%A9xico!3m6!1s0x86bcda1cacb340fd:0x9a19c32fb0e6765c!8m2!3d24.8269979!4d-107.3904202!15sCiVlc2N1ZWxhcyBlbiBDVUxJQUNBTiBST1NBTEVTLCBNw6l4aWNvkgEOcHJpbWFyeV9zY2hvb2zgAQA!16s%2Fg%2F11cs2gp35_?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoKLDEwMDc5MjA2OUgBUAM%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "escuelas",
+        "city": "CULIACAN ROSALES",
+        "country": "México",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T18:45:26.265Z"
+    },
+    {
+      "position": 23,
+      "placeId": "0x86bcd9fcc66ef6d3:0xfbf9b33b6de6da38",
+      "name": "Senda Knowmads Junior",
+      "rating": null,
+      "reviewCount": 39,
+      "category": "Instituto de secundaria",
+      "categories": [
+        "Instituto de secundaria"
+      ],
+      "address": "Gran Avenida El Dorado 1405-Oriente, Las Quintas, 80060 Culiacán Rosales, Sin.",
+      "phone": null,
+      "website": "http://knowmadsjunior.mx/",
+      "coordinates": {
+        "lat": 24.8269979,
+        "lng": -107.4094746
+      },
+      "plusCode": "RJCG+JF Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": true,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [],
+      "profileUrl": "https://www.google.com/maps/place/Senda+Knowmads+Junior/@24.8269979,-107.4094746,15z/data=!4m10!1m2!2m1!1sescuelas+en+CULIACAN+ROSALES,+M%C3%A9xico!3m6!1s0x86bcd9fcc66ef6d3:0xfbf9b33b6de6da38!8m2!3d24.8215105!4d-107.3738333!15sCiVlc2N1ZWxhcyBlbiBDVUxJQUNBTiBST1NBTEVTLCBNw6l4aWNvkgELaGlnaF9zY2hvb2zgAQA!16s%2Fg%2F11h7fvkk6q?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoKLDEwMDc5MjA2OUgBUAM%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": "instagram.com/sendadelrio",
+        "facebook": "facebook.com/sendadelrio",
+        "twitter": "twitter.com/sendadelrio",
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "escuelas",
+        "city": "CULIACAN ROSALES",
+        "country": "México",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T18:45:30.845Z"
+    },
+    {
+      "position": 24,
+      "placeId": "0x86bcda05027c12a9:0xeaf39ca27fd1713b",
+      "name": "Escuela Primaria Coronel Rodolfo T. Loaiza",
+      "rating": null,
+      "reviewCount": 39,
+      "category": "Escuela primaria",
+      "categories": [
+        "Escuela primaria"
+      ],
+      "address": "Agricultores 181, Tierra Blanca, 80030 Culiacán Rosales, Sin.",
+      "phone": "6677071135",
+      "website": "http://www.tloaiza.edu.mx/",
+      "coordinates": {
+        "lat": 24.8409425,
+        "lng": -107.4108722
+      },
+      "plusCode": "RJG4+7M Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": true,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [],
+      "profileUrl": "https://www.google.com/maps/place/Escuela+Primaria+Coronel+Rodolfo+T.+Loaiza/@24.8409425,-107.4108722,15z/data=!4m10!1m2!2m1!1sescuelas+en+CULIACAN+ROSALES,+M%C3%A9xico!3m6!1s0x86bcda05027c12a9:0xeaf39ca27fd1713b!8m2!3d24.8256263!4d-107.3932586!15sCiVlc2N1ZWxhcyBlbiBDVUxJQUNBTiBST1NBTEVTLCBNw6l4aWNvkgERZWxlbWVudGFyeV9zY2hvb2zgAQA!16s%2Fg%2F1tkc2jzv?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoKLDEwMDc5MjA2OUgBUAM%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "escuelas",
+        "city": "CULIACAN ROSALES",
+        "country": "México",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T18:45:39.452Z"
+    },
+    {
+      "position": 25,
+      "placeId": "0x86bcd757348e9e03:0x4f6365200a5c1f3e",
+      "name": "SEBEC Kindergarten",
+      "rating": null,
+      "reviewCount": 39,
+      "category": "Colegio privado",
+      "categories": [
+        "Colegio privado"
+      ],
+      "address": "Laguna De, Lago de Papagayo 1346, Las Quintas, 80060 Culiacán Rosales, Sin.",
+      "phone": "6677169494",
+      "website": "http://www.sebec.edu.mx/",
+      "coordinates": {
+        "lat": 24.8256263,
+        "lng": -107.412313
+      },
+      "plusCode": "RJFP+H3 Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": true,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [],
+      "profileUrl": "https://www.google.com/maps/place/SEBEC+Kindergarten/@24.8256263,-107.412313,15z/data=!4m10!1m2!2m1!1sescuelas+en+CULIACAN+ROSALES,+M%C3%A9xico!3m6!1s0x86bcd757348e9e03:0x4f6365200a5c1f3e!8m2!3d24.8239816!4d-107.3648125!15sCiVlc2N1ZWxhcyBlbiBDVUxJQUNBTiBST1NBTEVTLCBNw6l4aWNvkgEOcHJpdmF0ZV9zY2hvb2zgAQA!16s%2Fg%2F1tfhgvql?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoKLDEwMDc5MjA2OUgBUAM%3D",
+      "claimedBusiness": false,
+      "email": "medios@sebec.edu.mx",
+      "allEmails": [
+        "medios@sebec.edu.mx",
+        "ejemplo@misitio.com"
+      ],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": "x.com/bolt",
+        "whatsapp": "526671614925",
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "escuelas",
+        "city": "CULIACAN ROSALES",
+        "country": "México",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T18:45:41.285Z"
+    },
+    {
+      "position": 26,
+      "placeId": "0x86bcd980a3fd10e3:0xb0c3c5e6b54a6aa9",
+      "name": "Escuela Primaria José María Morelos y Pavón",
+      "rating": null,
+      "reviewCount": 39,
+      "category": "Escuela primaria",
+      "categories": [
+        "Escuela primaria"
+      ],
+      "address": "Neptuno 1983-1903, Rubén Jaramillo, Ruben Jaramillo, 80015 Culiacán Rosales, Sin.",
+      "phone": null,
+      "website": null,
+      "coordinates": {
+        "lat": 24.8239816,
+        "lng": -107.3838669
+      },
+      "plusCode": "RJPC+9F Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": true,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [],
+      "profileUrl": "https://www.google.com/maps/place/Escuela+Primaria+Jos%C3%A9+Mar%C3%ADa+Morelos+y+Pav%C3%B3n/@24.8239816,-107.3838669,15z/data=!4m10!1m2!2m1!1sescuelas+en+CULIACAN+ROSALES,+M%C3%A9xico!3m6!1s0x86bcd980a3fd10e3:0xb0c3c5e6b54a6aa9!8m2!3d24.8358915!4d-107.3788678!15sCiVlc2N1ZWxhcyBlbiBDVUxJQUNBTiBST1NBTEVTLCBNw6l4aWNvkgERZWxlbWVudGFyeV9zY2hvb2zgAQA!16s%2Fg%2F11h7s4r1xp?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoKLDEwMDc5MjA2OUgBUAM%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "escuelas",
+        "city": "CULIACAN ROSALES",
+        "country": "México",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T18:45:43.226Z"
+    },
+    {
+      "position": 27,
+      "placeId": "0x86bcda0095555555:0x5ad6f90594d939b5",
+      "name": "Jardín de Niños Colegio Culiacán",
+      "rating": 5,
+      "reviewCount": 39,
+      "category": "Centro de educación preescolar",
+      "categories": [
+        "Centro de educación preescolar"
+      ],
+      "address": "Av Dr Emigdio Flores San 1070, Chapultepec, 80040 Culiacán Rosales, Sin.",
+      "phone": "6677164582",
+      "website": "http://www.colegioculiacan.edu.mx/",
+      "coordinates": {
+        "lat": 24.8195543,
+        "lng": -107.4052419
+      },
+      "plusCode": "RJ87+F3 Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": true,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Moran AndresLocal Guide · 332 opiniones · 1,020 fotos",
+          "rating": 5,
+          "text": "Jardín de niños del sistema educativo adventista. Excelente formación con valores cristianos, alimentación saludable vegetariana. Muy buena ubicación en el proyecto urbano tres Ríos, fácil acceso, área si problemas de tráfico. Es el primer… Más",
+          "date": "Hace 7 años"
+        },
+        {
+          "author": "Moran AndresLocal Guide · 332 opiniones · 1,020 fotos",
+          "rating": 5,
+          "text": "Jardín de niños del sistema educativo adventista. Excelente formación con valores cristianos, alimentación saludable vegetariana. Muy buena ubicación en el proyecto urbano tres Ríos, fácil acceso, área si problemas de tráfico. Es el primer… Más",
+          "date": "Hace 7 años"
+        },
+        {
+          "author": "Claudia Uriarte",
+          "rating": 5,
+          "text": null,
+          "date": "Hace 6 años"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Jard%C3%ADn+de+Ni%C3%B1os+Colegio+Culiac%C3%A1n/@24.8195543,-107.4052419,15z/data=!4m10!1m2!2m1!1sescuelas+en+CULIACAN+ROSALES,+M%C3%A9xico!3m6!1s0x86bcda0095555555:0x5ad6f90594d939b5!8m2!3d24.8162361!4d-107.3873011!15sCiVlc2N1ZWxhcyBlbiBDVUxJQUNBTiBST1NBTEVTLCBNw6l4aWNvkgEJcHJlc2Nob29s4AEA!16s%2Fg%2F1tfccm8n?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoKLDEwMDc5MjA2OUgBUAM%3D",
+      "claimedBusiness": false,
+      "email": "contacto@colegioculiacan.edu.mx",
+      "allEmails": [
+        "contacto@colegioculiacan.edu.mx"
+      ],
+      "socialMedia": {
+        "instagram": "instagram.com/col_cul",
+        "facebook": "facebook.com/plugins",
+        "twitter": "twitter.com/colegioculiacan",
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": "youtube.com/channel/UCAj77tG-r_oSjjr1n16RyLQ",
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "escuelas",
+        "city": "CULIACAN ROSALES",
+        "country": "México",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T18:45:48.150Z"
+    },
+    {
+      "position": 28,
+      "placeId": "0x86bcd9e2881bab7b:0x2cd993ce79bd71bd",
+      "name": "Preescolar Jean Piaget",
+      "rating": 5,
+      "reviewCount": 39,
+      "category": "Centro de educación preescolar",
+      "categories": [
+        "Centro de educación preescolar"
+      ],
+      "address": "Gran Avenida El Dorado 1635, Las Quintas, 80060 Culiacán Rosales, Sin.",
+      "phone": null,
+      "website": "http://ibjp.mx/",
+      "coordinates": {
+        "lat": 24.8195543,
+        "lng": -107.4052419
+      },
+      "plusCode": "RJ9H+FR Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": true,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Ana PerazaLocal Guide · 189 opiniones · 659 fotos",
+          "rating": 5,
+          "text": "Excelente kinder, tiene instalaciones bien planeadas especialmente para el aprovechamiento y seguridad de los niños, todo el personal está muy bien calificado y el trato qie reciben tanto los niños como los padres es excelente de parte de toda la institución. Lo recomiendo muchisimo.",
+          "date": "Hace 6 años"
+        },
+        {
+          "author": "Ana PerazaLocal Guide · 189 opiniones · 659 fotos",
+          "rating": 5,
+          "text": "Excelente kinder, tiene instalaciones bien planeadas especialmente para el aprovechamiento y seguridad de los niños, todo el personal está muy bien calificado y el trato qie reciben tanto los niños como los padres es excelente de parte de toda la institución. Lo recomiendo muchisimo.",
+          "date": "Hace 6 años"
+        },
+        {
+          "author": "Isa ALocal Guide · 15 opiniones · 14 fotos",
+          "rating": 5,
+          "text": "Exelente colegio",
+          "date": "Hace 9 años"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Preescolar+Jean+Piaget/@24.8195543,-107.4052419,15z/data=!4m10!1m2!2m1!1sescuelas+en+CULIACAN+ROSALES,+M%C3%A9xico!3m6!1s0x86bcd9e2881bab7b:0x2cd993ce79bd71bd!8m2!3d24.818724!4d-107.3703977!15sCiVlc2N1ZWxhcyBlbiBDVUxJQUNBTiBST1NBTEVTLCBNw6l4aWNvkgEJcHJlc2Nob29s4AEA!16s%2Fg%2F11cjk8g2zl?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoKLDEwMDc5MjA2OUgBUAM%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": "instagram.com/JeanPiagetCuliacan",
+        "facebook": "facebook.com/photo",
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": "tiktok.com/@jeanpiagetcln"
+      },
+      "searchQuery": {
+        "businessType": "escuelas",
+        "city": "CULIACAN ROSALES",
+        "country": "México",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T18:45:52.877Z"
+    },
+    {
+      "position": 29,
+      "placeId": "0x86bcd9f5e5a1824d:0xffe32b8e321b2fec",
+      "name": "UASVirtual, Universidad Autónoma de Sinaloa",
+      "rating": 4.3,
+      "reviewCount": 39,
+      "category": "Universidad a distancia",
+      "categories": [
+        "Universidad a distancia"
+      ],
+      "address": "Platón 856, Villa Universidad, Universidad, 80010 Culiacán Rosales, Sin.",
+      "phone": "6677290215",
+      "website": "http://cuv.uas.edu.mx/sitio/",
+      "coordinates": {
+        "lat": 24.8342032,
+        "lng": -107.4030829
+      },
+      "plusCode": "RJM8+M9 Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": true,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Sabino JacintoLocal Guide · 35 opiniones · 8 fotos",
+          "rating": 5,
+          "text": "Un lugar muy tranquilo para pasar en familia",
+          "date": "Hace 3 años"
+        },
+        {
+          "author": "Sabino JacintoLocal Guide · 35 opiniones · 8 fotos",
+          "rating": 5,
+          "text": "Un lugar muy tranquilo para pasar en familia",
+          "date": "Hace 3 años"
+        },
+        {
+          "author": "Karina Cruz5 opiniones",
+          "rating": 5,
+          "text": "Muy buenas instalaciones, accesos para discapacitados y salidas de emergencia.",
+          "date": "Hace 4 años"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/UASVirtual,+Universidad+Aut%C3%B3noma+de+Sinaloa/@24.8342032,-107.4030829,15z/data=!4m10!1m2!2m1!1sescuelas+en+CULIACAN+ROSALES,+M%C3%A9xico!3m6!1s0x86bcd9f5e5a1824d:0xffe32b8e321b2fec!8m2!3d24.8342032!4d-107.3840285!15sCiVlc2N1ZWxhcyBlbiBDVUxJQUNBTiBST1NBTEVTLCBNw6l4aWNvWiYiJGVzY3VlbGFzIGVuIGN1bGlhY2FuIHJvc2FsZXMgbcOpeGljb5IBD29wZW5fdW5pdmVyc2l0eZoBJENoZERTVWhOTUc5blMwVkpRMEZuU1VSUE9VcG1aalJSUlJBQuABAPoBBAgAECw!16s%2Fg%2F12cp0xz4s?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoKLDEwMDc5MjA2OUgBUAM%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "escuelas",
+        "city": "CULIACAN ROSALES",
+        "country": "México",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T18:45:59.846Z"
+    },
+    {
+      "position": 30,
+      "placeId": "0x86bcd75631287695:0x22cba8113bf38d84",
+      "name": "Colegio Renovacion",
+      "rating": null,
+      "reviewCount": 39,
+      "category": null,
+      "categories": [],
+      "address": "Cdad. Monterrey 1270, Las Quintas, 80060 Culiacán Rosales, Sin.",
+      "phone": "6673681646",
+      "website": null,
+      "coordinates": {
+        "lat": 24.8342032,
+        "lng": -107.4030829
+      },
+      "plusCode": "RJ8F+C8 Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": true,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [],
+      "profileUrl": "https://www.google.com/maps/place/Colegio+Renovacion/@24.8342032,-107.4030829,15z/data=!4m10!1m2!2m1!1sescuelas+en+CULIACAN+ROSALES,+M%C3%A9xico!3m6!1s0x86bcd75631287695:0x22cba8113bf38d84!8m2!3d24.816116!4d-107.3767346!15sCiVlc2N1ZWxhcyBlbiBDVUxJQUNBTiBST1NBTEVTLCBNw6l4aWNvkgEYZ2VuZXJhbF9lZHVjYXRpb25fc2Nob29s4AEA!16s%2Fg%2F11hb5pyh1x?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoKLDEwMDc5MjA2OUgBUAM%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "escuelas",
+        "city": "CULIACAN ROSALES",
+        "country": "México",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T18:46:02.856Z"
+    },
+    {
+      "position": 31,
+      "placeId": "0x86bcd0a32ffd59ab:0x99927f5b72562c91",
+      "name": "Escuela de Artes José Limón",
+      "rating": 4.9,
+      "reviewCount": 39,
+      "category": "Escuela de arte",
+      "categories": [
+        "Escuela de arte"
+      ],
+      "address": "Calle Gral Rafael Buelna Tenorio SN, Primer Cuadro, Centro, 80000 Culiacán Rosales, Sin.",
+      "phone": "6677122021",
+      "website": "http://www.culturasinaloa.gob.mx/",
+      "coordinates": {
+        "lat": 24.816116,
+        "lng": -107.395789
+      },
+      "plusCode": "RJ64+GM Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": true,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Andrea GómezLocal Guide · 17 opiniones · 39 fotos",
+          "rating": 4,
+          "text": "Es el edificio que alberga a talleres infantiles y adultos de diversas expresiones artísticas, a demás aquí funcionan las escuelas permanentes de ballet “José Limon” para niños y la Escuela Superior de Danza de Sinaloa para profesionales en… Más",
+          "date": "Editado Hace un año"
+        },
+        {
+          "author": "Andrea GómezLocal Guide · 17 opiniones · 39 fotos",
+          "rating": 4,
+          "text": "Es el edificio que alberga a talleres infantiles y adultos de diversas expresiones artísticas, a demás aquí funcionan las escuelas permanentes de ballet “José Limon” para niños y la Escuela Superior de Danza de Sinaloa para profesionales en… Más",
+          "date": "Editado Hace un año"
+        },
+        {
+          "author": "jorge rodriguezLocal Guide · 63 opiniones · 30 fotos",
+          "rating": 5,
+          "text": "Es un espacio muy comodo, da mucha confianza y genera un ambiente de tranquilidad, la escuela está muy completa y tiene unas instalaciones con decoraciones muy lindas hechas por los mismos estudiantes, las compañías son muy buenas, y tengo entendido que los precios no son muy elevados para los estud",
+          "date": "Hace 2 años"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Escuela+de+Artes+Jos%C3%A9+Lim%C3%B3n/@24.816116,-107.395789,15z/data=!3m1!5s0x86bcd0a919513e73:0x975294032361e316!4m10!1m2!2m1!1sescuelas+en+CULIACAN+ROSALES,+M%C3%A9xico!3m6!1s0x86bcd0a32ffd59ab:0x99927f5b72562c91!8m2!3d24.811332!4d-107.393357!15sCiVlc2N1ZWxhcyBlbiBDVUxJQUNBTiBST1NBTEVTLCBNw6l4aWNvWiYiJGVzY3VlbGFzIGVuIGN1bGlhY2FuIHJvc2FsZXMgbcOpeGljb5IBCmFydF9zY2hvb2yaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVUlBNWFJ0TFVSUkVBReABAPoBBAhDEDc!16s%2Fg%2F1tm8l0bf?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoKLDEwMDc5MjA2OUgBUAM%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "escuelas",
+        "city": "CULIACAN ROSALES",
+        "country": "México",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T18:46:05.342Z"
+    },
+    {
+      "position": 32,
+      "placeId": "0x86bcd7ae854cb1f9:0x56008066509d15cc",
+      "name": "AutoEscuela CLN",
+      "rating": 4.7,
+      "reviewCount": 39,
+      "category": "Centros de formación para obtener el carné de conducir",
+      "categories": [
+        "Centros de formación para obtener el carné de conducir"
+      ],
+      "address": "Blvrd Dr Mora 1409, Las Quintas, 80060 Culiacán Rosales, Sin.",
+      "phone": "6671689453",
+      "website": null,
+      "coordinates": {
+        "lat": 24.811332,
+        "lng": -107.4124114
+      },
+      "plusCode": "RJ7G+RC Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": true,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Emilio Acosta De Gyves1 opinión",
+          "rating": 5,
+          "text": "Me pareció excelente el curso, el instructor fue extremadamente paciente, aclaró toda clase de dudas, enseño paso por paso todo correcto, quede bastante complacido.",
+          "date": "Hace un año"
+        },
+        {
+          "author": "Emilio Acosta De Gyves1 opinión",
+          "rating": 5,
+          "text": "Me pareció excelente el curso, el instructor fue extremadamente paciente, aclaró toda clase de dudas, enseño paso por paso todo correcto, quede bastante complacido.",
+          "date": "Hace un año"
+        },
+        {
+          "author": "Sofía Medina Morales4 opiniones",
+          "rating": 5,
+          "text": "Me gusto muchísimo haber tenido la oportunidad de tomar el curso en la escuela de manejo, ya que mi instructor Alberto desde el primer día se mostró muy respetuoso, paciente, atento. Me compartió todo su conocimiento y respondió cada… Más",
+          "date": "Hace 2 años"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/AutoEscuela+CLN/@24.811332,-107.4124114,15z/data=!4m10!1m2!2m1!1sescuelas+en+CULIACAN+ROSALES,+M%C3%A9xico!3m6!1s0x86bcd7ae854cb1f9:0x56008066509d15cc!8m2!3d24.8145118!4d-107.3738783!15sCiVlc2N1ZWxhcyBlbiBDVUxJQUNBTiBST1NBTEVTLCBNw6l4aWNvWiYiJGVzY3VlbGFzIGVuIGN1bGlhY2FuIHJvc2FsZXMgbcOpeGljb5IBH2RyaXZlcnNfbGljZW5zZV90cmFpbmluZ19zY2hvb2yaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVUktOV0ZZTjFKQkVBReABAPoBBAgAEEo!16s%2Fg%2F11h5_t81r7?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoKLDEwMDc5MjA2OUgBUAM%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "escuelas",
+        "city": "CULIACAN ROSALES",
+        "country": "México",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T18:46:07.343Z"
+    },
+    {
+      "position": 33,
+      "placeId": "0x86bcdb86b49a1b55:0x9bfd66f3674268c9",
+      "name": "Escuela Primaria Federal Benemérito De Las Americas",
+      "rating": null,
+      "reviewCount": 39,
+      "category": "Escuela primaria",
+      "categories": [
+        "Escuela primaria"
+      ],
+      "address": "Villa Universidad, Universidad, 80010 Culiacán Rosales, Sin.",
+      "phone": "6671966728",
+      "website": null,
+      "coordinates": {
+        "lat": 24.8145118,
+        "lng": -107.3929327
+      },
+      "plusCode": "RJM7+9G Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": true,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [],
+      "profileUrl": "https://www.google.com/maps/place/Escuela+Primaria+Federal+Benem%C3%A9rito+De+Las+Americas/@24.8145118,-107.3929327,15z/data=!4m10!1m2!2m1!1sescuelas+en+CULIACAN+ROSALES,+M%C3%A9xico!3m6!1s0x86bcdb86b49a1b55:0x9bfd66f3674268c9!8m2!3d24.8333793!4d-107.3862387!15sCiVlc2N1ZWxhcyBlbiBDVUxJQUNBTiBST1NBTEVTLCBNw6l4aWNvkgERZWxlbWVudGFyeV9zY2hvb2zgAQA!16s%2Fg%2F11ghzl828f?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoKLDEwMDc5MjA2OUgBUAM%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "escuelas",
+        "city": "CULIACAN ROSALES",
+        "country": "México",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T18:46:09.438Z"
+    },
+    {
+      "position": 34,
+      "placeId": "0x86bcd0a690e1db6b:0x69204b2b79a6ceb4",
+      "name": "El Colegio de Sinaloa",
+      "rating": 5,
+      "reviewCount": 39,
+      "category": "Institución educativa",
+      "categories": [
+        "Institución educativa"
+      ],
+      "address": "Av. Antonio Rosales 435, Primer Cuadro, 80000 Culiacán Rosales, Sin.",
+      "phone": "6677161046",
+      "website": "https://www.elcolegiodesinaloa.gob.mx/",
+      "coordinates": {
+        "lat": 24.8333793,
+        "lng": -107.4052931
+      },
+      "plusCode": "RH5X+QP Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": true,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "miguel angel VictoriaLocal Guide · 895 opiniones · 5,342 fotos",
+          "rating": 5,
+          "text": "En este edificio se encuentra El Colegio de Sinaloa. La construyó un ingeniero de apellido Rico con el mismo estilo arquitectónico del Colegio Civil Rosales",
+          "date": "Hace 9 años"
+        },
+        {
+          "author": "miguel angel VictoriaLocal Guide · 895 opiniones · 5,342 fotos",
+          "rating": 5,
+          "text": "En este edificio se encuentra El Colegio de Sinaloa. La construyó un ingeniero de apellido Rico con el mismo estilo arquitectónico del Colegio Civil Rosales",
+          "date": "Hace 9 años"
+        },
+        {
+          "author": "Alan SobrinoLocal Guide · 69 opiniones · 11 fotos",
+          "rating": 5,
+          "text": "La labor del Colegio de Sinaloa es de alto impacto en la ciudad de Culiacán.",
+          "date": "Hace 8 años"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/El+Colegio+de+Sinaloa/@24.8333793,-107.4052931,15z/data=!4m10!1m2!2m1!1sescuelas+en+CULIACAN+ROSALES,+M%C3%A9xico!3m6!1s0x86bcd0a690e1db6b:0x69204b2b79a6ceb4!8m2!3d24.8094459!4d-107.4006597!15sCiVlc2N1ZWxhcyBlbiBDVUxJQUNBTiBST1NBTEVTLCBNw6l4aWNvWiYiJGVzY3VlbGFzIGVuIGN1bGlhY2FuIHJvc2FsZXMgbcOpeGljb5IBF2VkdWNhdGlvbmFsX2luc3RpdHV0aW9umgEjQ2haRFNVaE5NRzluUzBWSlEwRm5TVU01TlY5dFVFbFJFQUXgAQD6AQQIABAp!16s%2Fg%2F11cnlv2r79?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoKLDEwMDc5MjA2OUgBUAM%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": "facebook.com/ElColegioDeSinaloa",
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": "youtube.com/channel/UCB8HiWk1qBqUC1RzJpZh0mw",
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "escuelas",
+        "city": "CULIACAN ROSALES",
+        "country": "México",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T18:46:15.002Z"
+    },
+    {
+      "position": 35,
+      "placeId": "0x86bcd0abe29a291d:0x6e305c01b60bb835",
+      "name": "Instituto Comercial Nueva Galicia",
+      "rating": 4.2,
+      "reviewCount": 39,
+      "category": "Institución educativa",
+      "categories": [
+        "Institución educativa"
+      ],
+      "address": "Av. Antonio Rosales 405, Primer Cuadro, 80000 Culiacán Rosales, Sin.",
+      "phone": "6677134529",
+      "website": "https://www.facebook.com/Instituto%20ComercialNuevaGalicia/?locales=es_LA",
+      "coordinates": {
+        "lat": 24.8094459,
+        "lng": -107.4197141
+      },
+      "plusCode": "RJ65+7P Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": true,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Andrea1 opinión",
+          "rating": null,
+          "text": "Es una secundaria bonita, pero tras de eso hay mucha injusticia. a los hombres los defienden mucho solo por ser hombres y a las mujeres la minimizan las prefectas son injustas y nunca devuelven lo que quitan en la salida es un terror salir… Más",
+          "date": "Hace 3 días Nueva"
+        },
+        {
+          "author": "Andrea1 opinión",
+          "rating": null,
+          "text": "Es una secundaria bonita, pero tras de eso hay mucha injusticia. a los hombres los defienden mucho solo por ser hombres y a las mujeres la minimizan las prefectas son injustas y nunca devuelven lo que quitan en la salida es un terror salir… Más",
+          "date": "Hace 3 días Nueva"
+        },
+        {
+          "author": "Gerardo ElizarrarasLocal Guide · 1,570 opiniones · 2,667 fotos",
+          "rating": 3,
+          "text": "Colegio de tradición y buen nivel académico. Instalaciones modestas",
+          "date": "Hace 7 años"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Instituto+Comercial+Nueva+Galicia/@24.8094459,-107.4197141,15z/data=!4m10!1m2!2m1!1sescuelas+en+CULIACAN+ROSALES,+M%C3%A9xico!3m6!1s0x86bcd0abe29a291d:0x6e305c01b60bb835!8m2!3d24.8106458!4d-107.3907138!15sCiVlc2N1ZWxhcyBlbiBDVUxJQUNBTiBST1NBTEVTLCBNw6l4aWNvkgEXZWR1Y2F0aW9uYWxfaW5zdGl0dXRpb27gAQA!16s%2Fg%2F11dxl4lxbp?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoKLDEwMDc5MjA2OUgBUAM%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "escuelas",
+        "city": "CULIACAN ROSALES",
+        "country": "México",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T18:46:18.397Z"
+    },
+    {
+      "position": 36,
+      "placeId": "0x86bcd75a2160986f:0x8eaf7b8423bab045",
+      "name": "Colegio Panamericano A C culiacan",
+      "rating": null,
+      "reviewCount": 39,
+      "category": null,
+      "categories": [],
+      "address": "Isla Del Socorro 1524, Las Quintas, 80060 Culiacán Rosales, Sin.",
+      "phone": "6677138656",
+      "website": "https://miescuelaculiacan.com/escuelas/preescolar/colegio-panamericano/",
+      "coordinates": {
+        "lat": 24.8094459,
+        "lng": -107.4197141
+      },
+      "plusCode": null,
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": true,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [],
+      "profileUrl": "https://www.google.com/maps/place/Colegio+Panamericano+A+C+culiacan/@24.8094459,-107.4197141,15z/data=!4m10!1m2!2m1!1sescuelas+en+CULIACAN+ROSALES,+M%C3%A9xico!3m6!1s0x86bcd75a2160986f:0x8eaf7b8423bab045!8m2!3d24.8117305!4d-107.3695678!15sCiVlc2N1ZWxhcyBlbiBDVUxJQUNBTiBST1NBTEVTLCBNw6l4aWNvkgEYZ2VuZXJhbF9lZHVjYXRpb25fc2Nob29s4AEA!16s%2Fg%2F1v1slnwh?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoKLDEwMDc5MjA2OUgBUAM%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": "facebook.com/CuliacanBlogs",
+        "twitter": "twitter.com/culiacanblogs",
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "escuelas",
+        "city": "CULIACAN ROSALES",
+        "country": "México",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T18:46:23.543Z"
+    },
+    {
+      "position": 37,
+      "placeId": "0x86bcda05b2f26f27:0x7c3987c6fb3a7b11",
+      "name": "Instituto María Montessori - Campus Tierra Blanca",
+      "rating": null,
+      "reviewCount": 39,
+      "category": "Colegio privado",
+      "categories": [
+        "Colegio privado"
+      ],
+      "address": "Francisco Márquez 1658 Col, Tierra Blanca, 80030 Culiacán Rosales, Sin.",
+      "phone": "6677161055",
+      "website": "https://montessoriculiacan.com/",
+      "coordinates": {
+        "lat": 24.8117305,
+        "lng": -107.3886222
+      },
+      "plusCode": null,
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": true,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [],
+      "profileUrl": "https://www.google.com/maps/place/Instituto+Mar%C3%ADa+Montessori+-+Campus+Tierra+Blanca/@24.8117305,-107.3886222,15z/data=!4m10!1m2!2m1!1sescuelas+en+CULIACAN+ROSALES,+M%C3%A9xico!3m6!1s0x86bcda05b2f26f27:0x7c3987c6fb3a7b11!8m2!3d24.8222932!4d-107.3937998!15sCiVlc2N1ZWxhcyBlbiBDVUxJQUNBTiBST1NBTEVTLCBNw6l4aWNvkgEOcHJpdmF0ZV9zY2hvb2zgAQA!16s%2Fg%2F1tfkr68z?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoKLDEwMDc5MjA2OUgBUAM%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": "instagram.com/montessoriculiacan",
+        "facebook": "facebook.com/montessoriculiacan",
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": "tiktok.com/@montessoriculiacan"
+      },
+      "searchQuery": {
+        "businessType": "escuelas",
+        "city": "CULIACAN ROSALES",
+        "country": "México",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T18:46:26.739Z"
+    },
+    {
+      "position": 38,
+      "placeId": "0x86bcd98b8fa9c561:0x1977c8f9bfd90099",
+      "name": "Escuela Primaria Gustavo Díaz Ordaz",
+      "rating": null,
+      "reviewCount": 39,
+      "category": "Escuela de primaria",
+      "categories": [
+        "Escuela de primaria"
+      ],
+      "address": "Unidad &, Superación 1639, Solidaridad, 80015 Culiacán Rosales, Sin.",
+      "phone": "6677537004",
+      "website": null,
+      "coordinates": {
+        "lat": 24.8222932,
+        "lng": -107.4128542
+      },
+      "plusCode": "RJVC+88 Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": true,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [],
+      "profileUrl": "https://www.google.com/maps/place/Escuela+Primaria+Gustavo+D%C3%ADaz+Ordaz/@24.8222932,-107.4128542,15z/data=!4m10!1m2!2m1!1sescuelas+en+CULIACAN+ROSALES,+M%C3%A9xico!3m6!1s0x86bcd98b8fa9c561:0x1977c8f9bfd90099!8m2!3d24.8433215!4d-107.3791432!15sCiVlc2N1ZWxhcyBlbiBDVUxJQUNBTiBST1NBTEVTLCBNw6l4aWNvkgEOcHJpbWFyeV9zY2hvb2zgAQA!16s%2Fg%2F1tjdxbh2?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoKLDEwMDc5MjA2OUgBUAM%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "escuelas",
+        "city": "CULIACAN ROSALES",
+        "country": "México",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T18:46:28.785Z"
+    },
+    {
+      "position": 39,
+      "placeId": "0x86bcda1f7d0ea969:0xb145a087e31c4624",
+      "name": "Escuela Primaria Ignacio Allende",
+      "rating": null,
+      "reviewCount": 39,
+      "category": "Escuela primaria",
+      "categories": [
+        "Escuela primaria"
+      ],
+      "address": "Guadalupe Rojo Viuda de Alvarado 2923, Lomas del Pedregal, 80010 Culiacán Rosales, Sin.",
+      "phone": null,
+      "website": null,
+      "coordinates": {
+        "lat": 24.8433215,
+        "lng": -107.3981976
+      },
+      "plusCode": null,
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": true,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [],
+      "profileUrl": "https://www.google.com/maps/place/Escuela+Primaria+Ignacio+Allende/@24.8433215,-107.3981976,15z/data=!4m10!1m2!2m1!1sescuelas+en+CULIACAN+ROSALES,+M%C3%A9xico!3m6!1s0x86bcda1f7d0ea969:0xb145a087e31c4624!8m2!3d24.8399224!4d-107.3885545!15sCiVlc2N1ZWxhcyBlbiBDVUxJQUNBTiBST1NBTEVTLCBNw6l4aWNvkgERZWxlbWVudGFyeV9zY2hvb2zgAQA!16s%2Fg%2F11cs4yl2r8?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoKLDEwMDc5MjA2OUgBUAM%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "escuelas",
+        "city": "CULIACAN ROSALES",
+        "country": "México",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T18:46:31.028Z"
+    },
+    {
+      "position": 40,
+      "placeId": "0x86bcd74c854be359:0xf31f98f1500e84a3",
+      "name": "Esc. Primaria Eustaquio Buelna Pérez",
+      "rating": null,
+      "reviewCount": 39,
+      "category": "Escuela primaria",
+      "categories": [
+        "Escuela primaria"
+      ],
+      "address": "Av. Antonio Rosales 664, Primer Cuadro, 80000 Culiacán Rosales, Sin.",
+      "phone": "6677134157",
+      "website": null,
+      "coordinates": {
+        "lat": 24.8433215,
+        "lng": -107.3981976
+      },
+      "plusCode": null,
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": true,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [],
+      "profileUrl": "https://www.google.com/maps/place/Escuela+PriMar%C3%ADa+Ignacio+Zaragoza+Matutina/@24.8433215,-107.3981976,15z/data=!4m10!1m2!2m1!1sescuelas+en+CULIACAN+ROSALES,+M%C3%A9xico!3m6!1s0x86bcd74c854be359:0xf31f98f1500e84a3!8m2!3d24.8145194!4d-107.3743238!15sCiVlc2N1ZWxhcyBlbiBDVUxJQUNBTiBST1NBTEVTLCBNw6l4aWNvkgEOcHJpbWFyeV9zY2hvb2zgAQA!16s%2Fg%2F1tfxh3q1?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoKLDEwMDc5MjA2OUgBUAM%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "escuelas",
+        "city": "CULIACAN ROSALES",
+        "country": "México",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T18:46:34.853Z"
+    },
+    {
+      "position": 41,
+      "placeId": "0x86bcd75bbe9ae02b:0xe5ad138622f284a5",
+      "name": "Ovidio Decroly",
+      "rating": null,
+      "reviewCount": 39,
+      "category": "Escuela primaria",
+      "categories": [
+        "Escuela primaria"
+      ],
+      "address": "80070, Gran Avenida El Dorado 1636, Aurora, 80070 Culiacán Rosales, Sin.",
+      "phone": "6672186170",
+      "website": null,
+      "coordinates": {
+        "lat": 24.8113191,
+        "lng": -107.4055959
+      },
+      "plusCode": "RJ6J+4F Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": true,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [],
+      "profileUrl": "https://www.google.com/maps/place/Ovidio+Decroly/@24.8113191,-107.4055959,15z/data=!4m10!1m2!2m1!1sescuelas+en+CULIACAN+ROSALES,+M%C3%A9xico!3m6!1s0x86bcd75bbe9ae02b:0xe5ad138622f284a5!8m2!3d24.8103504!4d-107.3688544!15sCiVlc2N1ZWxhcyBlbiBDVUxJQUNBTiBST1NBTEVTLCBNw6l4aWNvkgERZWxlbWVudGFyeV9zY2hvb2zgAQA!16s%2Fg%2F11cs4ydcfw?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoKLDEwMDc5MjA2OUgBUAM%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "escuelas",
+        "city": "CULIACAN ROSALES",
+        "country": "México",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T18:46:36.982Z"
+    },
+    {
+      "position": 42,
+      "placeId": "0x86bcd1fea41e1687:0x561e3880673c41ae",
+      "name": "Vocablo Idiomas Premium Culiacán",
+      "rating": 5,
+      "reviewCount": 39,
+      "category": "Academia de idiomas",
+      "categories": [
+        "Academia de idiomas"
+      ],
+      "address": "P.º Niños Heroes 520, Primer Cuadro, Centro, 80000 Culiacán Rosales, Sin.",
+      "phone": "6673054343",
+      "website": "https://vocablo.edu.mx/",
+      "coordinates": {
+        "lat": 24.8103504,
+        "lng": -107.3879088
+      },
+      "plusCode": "RJ66+W6 Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": true,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Vega Plata Kenia Lizbeth2 opiniones · 3 fotos",
+          "rating": 5,
+          "text": "Me gusta mucho por la facilidad de horarios, los maestros son muy buenos y las instalaciones estan demasiado comodas✨ Super recomendado👍🏻…",
+          "date": "Hace 4 meses"
+        },
+        {
+          "author": "Vega Plata Kenia Lizbeth2 opiniones · 3 fotos",
+          "rating": 5,
+          "text": "Me gusta mucho por la facilidad de horarios, los maestros son muy buenos y las instalaciones estan demasiado comodas✨ Super recomendado👍🏻…",
+          "date": "Hace 4 meses"
+        },
+        {
+          "author": "Yisus Rodriguez1 opinión · 1 foto",
+          "rating": 5,
+          "text": "10/10 e tenido unas de mis mejores experiencias en este lugar desde que llegué aquí siento que aprendí mucho y rápido ingles me encanta que los baños sean limpios las clases no son aburridas siempre está fresco el lugar y salones solamente me encanta",
+          "date": "Hace 2 meses"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Vocablo+Idiomas+Premium+Culiac%C3%A1n/@24.8103504,-107.3879088,15z/data=!4m10!1m2!2m1!1sescuelas+en+CULIACAN+ROSALES,+M%C3%A9xico!3m6!1s0x86bcd1fea41e1687:0x561e3880673c41ae!8m2!3d24.8122995!4d-107.3893863!15sCiVlc2N1ZWxhcyBlbiBDVUxJQUNBTiBST1NBTEVTLCBNw6l4aWNvWiYiJGVzY3VlbGFzIGVuIGN1bGlhY2FuIHJvc2FsZXMgbcOpeGljb5IBD2xhbmd1YWdlX3NjaG9vbJoBJENoZERTVWhOTUc5blMwVkpRMEZuU1VSRWJ6VjVNMjkzUlJBQuABAPoBBAgAEEI!16s%2Fg%2F11v0wy_5gr?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoKLDEwMDc5MjA2OUgBUAM%3D",
+      "claimedBusiness": false,
+      "email": "servicioalcliente@vocablo.edu.mx",
+      "allEmails": [
+        "servicioalcliente@vocablo.edu.mx"
+      ],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": "facebook.com/tr",
+        "twitter": "twitter.com/vocablo_idiomas",
+        "whatsapp": "3311224761",
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "escuelas",
+        "city": "CULIACAN ROSALES",
+        "country": "México",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T18:46:40.781Z"
+    },
+    {
+      "position": 43,
+      "placeId": "0x86bcd0a92fa0cc2d:0x769b7aa6f943ef4f",
+      "name": "Preparatoría Cervantes",
+      "rating": null,
+      "reviewCount": 39,
+      "category": "Escuela preparatoria",
+      "categories": [
+        "Escuela preparatoria"
+      ],
+      "address": "Av. Antonio Rosales 158, Centro Sinaloa, Primer Cuadro, 80000 Culiacán Rosales, Sin.",
+      "phone": "6677151853",
+      "website": "http://www.prepacervantes.mx/",
+      "coordinates": {
+        "lat": 24.8122995,
+        "lng": -107.4084407
+      },
+      "plusCode": "RJ54+XP Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": true,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [],
+      "profileUrl": "https://www.google.com/maps/place/Preparator%C3%ADa+Cervantes/@24.8122995,-107.4084407,15z/data=!4m10!1m2!2m1!1sescuelas+en+CULIACAN+ROSALES,+M%C3%A9xico!3m6!1s0x86bcd0a92fa0cc2d:0x769b7aa6f943ef4f!8m2!3d24.8099344!4d-107.3931463!15sCiVlc2N1ZWxhcyBlbiBDVUxJQUNBTiBST1NBTEVTLCBNw6l4aWNvkgEScHJlcGFyYXRvcnlfc2Nob29s4AEA!16s%2Fg%2F1tdvvrh0?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoKLDEwMDc5MjA2OUgBUAM%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "escuelas",
+        "city": "CULIACAN ROSALES",
+        "country": "México",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T18:46:48.116Z"
+    },
+    {
+      "position": 44,
+      "placeId": "0x86bcda08cbb5152b:0x59df579d5c529e93",
+      "name": "Escuela Secundaria General No. 1 \"Moisés Sáenz\"",
+      "rating": null,
+      "reviewCount": 39,
+      "category": "Colegio público",
+      "categories": [
+        "Colegio público"
+      ],
+      "address": "Mariano Abasolo S/N, Gabriel Leyva, 80030 Culiacán Rosales, Sin.",
+      "phone": "6677169212",
+      "website": "https://www.facebook.com/lagral1/",
+      "coordinates": {
+        "lat": 24.8122995,
+        "lng": -107.4084407
+      },
+      "plusCode": "RJ92+XH Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": true,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [],
+      "profileUrl": "https://www.google.com/maps/place/Escuela+Secundaria+General+No.+1+%22Mois%C3%A9s+S%C3%A1enz%22/@24.8122995,-107.4084407,15z/data=!4m10!1m2!2m1!1sescuelas+en+CULIACAN+ROSALES,+M%C3%A9xico!3m6!1s0x86bcda08cbb5152b:0x59df579d5c529e93!8m2!3d24.8199056!4d-107.3985817!15sCiVlc2N1ZWxhcyBlbiBDVUxJQUNBTiBST1NBTEVTLCBNw6l4aWNvkgENcHVibGljX3NjaG9vbOABAA!16s%2Fg%2F1tcz8rpk?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoKLDEwMDc5MjA2OUgBUAM%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": "facebook.com/lagral1",
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "escuelas",
+        "city": "CULIACAN ROSALES",
+        "country": "México",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T18:46:51.700Z"
+    }
+  ]
+}

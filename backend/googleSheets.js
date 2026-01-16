@@ -35,9 +35,15 @@ const COLUMN_WIDTHS = {
   11: 120, // WhatsApp
   12: 150, // Horarios
   13: 200, // URL Perfil
-  14: 150, // Ciudad
-  15: 100  // Fecha
+  14: 100  // Fecha
 };
+
+const HEADERS = [
+  '#', 'Nombre', 'Categoria', 'Rating', 'Resenas',
+  'Telefono', 'Email', 'Sitio Web', 'Direccion',
+  'Instagram', 'Facebook', 'WhatsApp',
+  'Horarios', 'URL Perfil', 'Fecha'
+];
 
 export class GoogleSheetsExporter {
   constructor() {
@@ -47,15 +53,15 @@ export class GoogleSheetsExporter {
     this.spreadsheetId = null;
   }
 
-  isConfigured() { 
-    return !!(GOOGLE_CLIENT_ID && GOOGLE_CLIENT_SECRET); 
+  isConfigured() {
+    return !!(GOOGLE_CLIENT_ID && GOOGLE_CLIENT_SECRET);
   }
-  
+
   isAuthenticated() { return fs.existsSync(TOKEN_PATH); }
 
   async initialize() {
     if (!this.isConfigured()) throw new Error('Credenciales no configuradas');
-    
+
     this.oauth2Client = new google.auth.OAuth2(GOOGLE_CLIENT_ID, GOOGLE_CLIENT_SECRET, REDIRECT_URI);
 
     if (this.isAuthenticated()) {
@@ -103,9 +109,23 @@ export class GoogleSheetsExporter {
   stopAuthServer() { if (this.authServer) { this.authServer.close(); this.authServer = null; } }
   saveSpreadsheetConfig() { fs.writeFileSync(SPREADSHEET_CONFIG_PATH, JSON.stringify({ spreadsheetId: this.spreadsheetId, updatedAt: new Date().toISOString() })); }
 
+  // Sanitizar nombre de ciudad para usarlo como nombre de pestana
+  sanitizeSheetName(city) {
+    // Google Sheets no permite: : \ / ? * [ ]
+    // Maximo 100 caracteres
+    return city
+      .replace(/[:\\/?*\[\]]/g, '')
+      .replace(/\s+/g, ' ')
+      .trim()
+      .substring(0, 100);
+  }
+
   async getOrCreateSpreadsheet() {
     if (this.spreadsheetId) {
-      try { await this.sheets.spreadsheets.get({ spreadsheetId: this.spreadsheetId }); return this.spreadsheetId; }
+      try {
+        await this.sheets.spreadsheets.get({ spreadsheetId: this.spreadsheetId });
+        return this.spreadsheetId;
+      }
       catch (err) { this.spreadsheetId = null; }
     }
 
@@ -113,39 +133,83 @@ export class GoogleSheetsExporter {
     const response = await this.sheets.spreadsheets.create({
       requestBody: {
         properties: { title: MASTER_SHEET_NAME },
-        sheets: [{ properties: { title: 'Negocios', gridProperties: { frozenRowCount: 1 } } }]
+        sheets: [{ properties: { title: 'Inicio', gridProperties: { frozenRowCount: 1 } } }]
       }
     });
 
     this.spreadsheetId = response.data.spreadsheetId;
     this.saveSpreadsheetConfig();
 
-    const headers = [
-      '#', 'Nombre', 'Categoria', 'Rating', 'Resenas',
-      'Telefono', 'Email', 'Sitio Web', 'Direccion',
-      'Instagram', 'Facebook', 'WhatsApp',
-      'Horarios', 'URL Perfil', 'Ciudad', 'Fecha'
-    ];
-
+    // Agregar instrucciones en la hoja de inicio
     await this.sheets.spreadsheets.values.update({
-      spreadsheetId: this.spreadsheetId, range: 'Negocios!A1',
-      valueInputOption: 'USER_ENTERED', requestBody: { values: [headers] }
+      spreadsheetId: this.spreadsheetId,
+      range: 'Inicio!A1',
+      valueInputOption: 'USER_ENTERED',
+      requestBody: { values: [
+        ['GMB Scraper - Base de Datos'],
+        [''],
+        ['Cada ciudad tiene su propia pestana.'],
+        ['Los resultados mas recientes aparecen arriba.'],
+        [''],
+        ['Creado: ' + new Date().toLocaleString('es-MX')]
+      ]}
     });
 
-    const sheetId = response.data.sheets[0].properties.sheetId;
-    
-    // Formato de headers + anchos de columna
-    const requests = [
-      // Header con fondo azul y texto blanco
+    return this.spreadsheetId;
+  }
+
+  // Obtener o crear pestana para una ciudad especifica
+  async getOrCreateCitySheet(spreadsheetId, city) {
+    const sheetName = this.sanitizeSheetName(city);
+
+    // Obtener todas las pestanas del spreadsheet
+    const spreadsheet = await this.sheets.spreadsheets.get({ spreadsheetId });
+    const existingSheet = spreadsheet.data.sheets.find(
+      s => s.properties.title.toLowerCase() === sheetName.toLowerCase()
+    );
+
+    if (existingSheet) {
+      console.log('Usando pestana existente: ' + sheetName);
+      return { sheetId: existingSheet.properties.sheetId, sheetName, isNew: false };
+    }
+
+    // Crear nueva pestana para la ciudad
+    console.log('Creando nueva pestana: ' + sheetName);
+    const addSheetResponse = await this.sheets.spreadsheets.batchUpdate({
+      spreadsheetId,
+      requestBody: {
+        requests: [{
+          addSheet: {
+            properties: {
+              title: sheetName,
+              gridProperties: { frozenRowCount: 1 }
+            }
+          }
+        }]
+      }
+    });
+
+    const newSheetId = addSheetResponse.data.replies[0].addSheet.properties.sheetId;
+
+    // Agregar headers a la nueva pestana
+    await this.sheets.spreadsheets.values.update({
+      spreadsheetId,
+      range: sheetName + '!A1',
+      valueInputOption: 'USER_ENTERED',
+      requestBody: { values: [HEADERS] }
+    });
+
+    // Aplicar formato a headers y anchos de columna
+    const formatRequests = [
       {
         repeatCell: {
-          range: { sheetId, startRowIndex: 0, endRowIndex: 1 },
-          cell: { 
-            userEnteredFormat: { 
-              backgroundColor: { red: 1, green: 1, blue: 1 }, 
-              textFormat: { bold: true, foregroundColor: { red: 0, green: 0, blue: 0 } },
+          range: { sheetId: newSheetId, startRowIndex: 0, endRowIndex: 1 },
+          cell: {
+            userEnteredFormat: {
+              backgroundColor: { red: 0.2, green: 0.4, blue: 0.8 },
+              textFormat: { bold: true, foregroundColor: { red: 1, green: 1, blue: 1 } },
               horizontalAlignment: 'CENTER'
-            } 
+            }
           },
           fields: 'userEnteredFormat(backgroundColor,textFormat,horizontalAlignment)'
         }
@@ -154,9 +218,9 @@ export class GoogleSheetsExporter {
 
     // Agregar anchos de columna
     for (const [colIndex, width] of Object.entries(COLUMN_WIDTHS)) {
-      requests.push({
+      formatRequests.push({
         updateDimensionProperties: {
-          range: { sheetId, dimension: 'COLUMNS', startIndex: parseInt(colIndex), endIndex: parseInt(colIndex) + 1 },
+          range: { sheetId: newSheetId, dimension: 'COLUMNS', startIndex: parseInt(colIndex), endIndex: parseInt(colIndex) + 1 },
           properties: { pixelSize: width },
           fields: 'pixelSize'
         }
@@ -164,11 +228,11 @@ export class GoogleSheetsExporter {
     }
 
     await this.sheets.spreadsheets.batchUpdate({
-      spreadsheetId: this.spreadsheetId,
-      requestBody: { requests }
+      spreadsheetId,
+      requestBody: { requests: formatRequests }
     });
 
-    return this.spreadsheetId;
+    return { sheetId: newSheetId, sheetName, isNew: true };
   }
 
   generateBatchId() {
@@ -193,6 +257,10 @@ export class GoogleSheetsExporter {
       year: 'numeric', month: '2-digit', day: '2-digit', hour: '2-digit', minute: '2-digit', second: '2-digit'
     });
 
+    // Obtener o crear pestana para esta ciudad
+    const citySheetName = city + ', ' + country;
+    const { sheetId, sheetName } = await this.getOrCreateCitySheet(spreadsheetId, citySheetName);
+
     const rows = businesses.map((b, index) => [
       index + 1,
       this.val(b.name),
@@ -208,16 +276,10 @@ export class GoogleSheetsExporter {
       this.val(b.socialMedia?.whatsapp),
       this.val(b.hours),
       this.val(b.profileUrl),
-      city + ', ' + country,
       scrapedAt.split(',')[0]
     ]);
 
-    // Obtener info del sheet para saber cuantas filas hay
-    const sheetInfo = await this.sheets.spreadsheets.get({ spreadsheetId });
-    const sheetId = sheetInfo.data.sheets[0].properties.sheetId;
-
-    // Agregar filas
-    // Insertar al inicio (fila 2, después del header) para que lo más reciente esté arriba
+    // Insertar filas al inicio (fila 2, despues del header)
     await this.sheets.spreadsheets.batchUpdate({
       spreadsheetId,
       requestBody: {
@@ -229,29 +291,28 @@ export class GoogleSheetsExporter {
         }]
       }
     });
-    
+
     const appendResult = await this.sheets.spreadsheets.values.update({
-      spreadsheetId, range: 'Negocios!A2',
+      spreadsheetId,
+      range: "'" + sheetName + "'!A2",
       valueInputOption: 'USER_ENTERED',
       requestBody: { values: rows }
     });
 
-    // Obtener rango de filas agregadas para aplicar formato
+    // Aplicar bordes y alineacion a las nuevas filas
     const updatedRange = appendResult.data.updates.updatedRange;
     const rangeMatch = updatedRange.match(/!A(\d+):/);
     if (rangeMatch) {
-      const startRow = parseInt(rangeMatch[1]) - 1; // 0-indexed
+      const startRow = parseInt(rangeMatch[1]) - 1;
       const endRow = startRow + rows.length;
 
-      // Aplicar bordes y alineacion a las nuevas filas
       await this.sheets.spreadsheets.batchUpdate({
         spreadsheetId,
         requestBody: {
           requests: [
-            // Bordes para todas las celdas nuevas
             {
               updateBorders: {
-                range: { sheetId, startRowIndex: startRow, endRowIndex: endRow, startColumnIndex: 0, endColumnIndex: 21 },
+                range: { sheetId, startRowIndex: startRow, endRowIndex: endRow, startColumnIndex: 0, endColumnIndex: 15 },
                 top: { style: 'SOLID', color: { red: 0.8, green: 0.8, blue: 0.8 } },
                 bottom: { style: 'SOLID', color: { red: 0.8, green: 0.8, blue: 0.8 } },
                 left: { style: 'SOLID', color: { red: 0.8, green: 0.8, blue: 0.8 } },
@@ -260,17 +321,16 @@ export class GoogleSheetsExporter {
                 innerVertical: { style: 'SOLID', color: { red: 0.9, green: 0.9, blue: 0.9 } }
               }
             },
-            // Centrar columnas numericas (#, Rating, Resenas, Lat, Lng)
             {
               repeatCell: {
-                range: { sheetId, startRowIndex: startRow, endRowIndex: endRow, startColumnIndex: 5, endColumnIndex: 6 },
+                range: { sheetId, startRowIndex: startRow, endRowIndex: endRow, startColumnIndex: 0, endColumnIndex: 1 },
                 cell: { userEnteredFormat: { horizontalAlignment: 'CENTER' } },
                 fields: 'userEnteredFormat.horizontalAlignment'
               }
             },
             {
               repeatCell: {
-                range: { sheetId, startRowIndex: startRow, endRowIndex: endRow, startColumnIndex: 7, endColumnIndex: 9 },
+                range: { sheetId, startRowIndex: startRow, endRowIndex: endRow, startColumnIndex: 3, endColumnIndex: 5 },
                 cell: { userEnteredFormat: { horizontalAlignment: 'CENTER' } },
                 fields: 'userEnteredFormat.horizontalAlignment'
               }
@@ -280,10 +340,10 @@ export class GoogleSheetsExporter {
       });
     }
 
-    const spreadsheetUrl = 'https://docs.google.com/spreadsheets/d/' + spreadsheetId + '/edit';
-    console.log('Agregadas', businesses.length, 'filas (Batch:', batchId + ')');
+    const spreadsheetUrl = 'https://docs.google.com/spreadsheets/d/' + spreadsheetId + '/edit#gid=' + sheetId;
+    console.log('Agregadas ' + businesses.length + ' filas a pestana "' + sheetName + '" (Batch: ' + batchId + ')');
 
-    return { spreadsheetId, spreadsheetUrl, title: MASTER_SHEET_NAME, rowCount: businesses.length, batchId };
+    return { spreadsheetId, spreadsheetUrl, title: MASTER_SHEET_NAME, sheetName, rowCount: businesses.length, batchId };
   }
 }
 
