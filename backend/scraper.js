@@ -25,6 +25,53 @@ const SCROLL_CONFIG = {
   stabilizeTimeout: 2000
 };
 
+const RETRY_CONFIG = {
+  maxRetries: 2,
+  baseDelay: 1000
+};
+
+// Detectar bloqueos/captcha
+async function checkForBlock(page) {
+  const url = page.url();
+  if (url.includes('/sorry/') || url.includes('google.com/sorry')) {
+    return { blocked: true, reason: 'CAPTCHA detectado (URL /sorry/)' };
+  }
+
+  const blockIndicators = await page.evaluate(() => {
+    const text = document.body?.innerText?.toLowerCase() || '';
+    return {
+      captcha: text.includes('unusual traffic') || text.includes('trafico inusual') ||
+               text.includes('not a robot') || text.includes('no eres un robot'),
+      blocked: text.includes('blocked') || text.includes('bloqueado') ||
+               text.includes('access denied') || text.includes('acceso denegado'),
+      rateLimit: text.includes('rate limit') || text.includes('too many requests')
+    };
+  });
+
+  if (blockIndicators.captcha) return { blocked: true, reason: 'CAPTCHA detectado' };
+  if (blockIndicators.blocked) return { blocked: true, reason: 'Acceso bloqueado' };
+  if (blockIndicators.rateLimit) return { blocked: true, reason: 'Rate limit' };
+  return { blocked: false };
+}
+
+// Reintento con backoff
+async function withRetry(fn, maxRetries = RETRY_CONFIG.maxRetries) {
+  let lastError;
+  for (let attempt = 1; attempt <= maxRetries + 1; attempt++) {
+    try {
+      return await fn();
+    } catch (err) {
+      lastError = err;
+      if (attempt <= maxRetries) {
+        const delay = RETRY_CONFIG.baseDelay * attempt;
+        console.log('    -> Reintento ' + attempt + '/' + maxRetries + ' en ' + delay + 'ms');
+        await new Promise(r => setTimeout(r, delay));
+      }
+    }
+  }
+  throw lastError;
+}
+
 function getRandomUserAgent() {
   return USER_AGENTS[Math.floor(Math.random() * USER_AGENTS.length)];
 }
@@ -189,6 +236,12 @@ export class GoogleMapsScraper {
 
       await page.waitForSelector('div[role="feed"]', { timeout: 10000 });
 
+      // Verificar bloqueo/captcha
+      const blockCheck = await checkForBlock(page);
+      if (blockCheck.blocked) {
+        throw new Error('BLOQUEADO: ' + blockCheck.reason + '. Intenta mas tarde o usa otra IP.');
+      }
+
       const acceptBtn = await page.$('button[aria-label*="Aceptar"], button[aria-label*="Accept"]');
       if (acceptBtn) await acceptBtn.click().catch(() => {});
 
@@ -253,12 +306,17 @@ export class GoogleMapsScraper {
         console.log('[' + (i + 1) + '/' + businessLinks.length + '] ' + biz.name);
 
         try {
-          await page.evaluate((href) => {
-            const link = document.querySelector('a[href="' + href + '"]');
-            if (link) link.click();
-          }, biz.href);
+          const details = await withRetry(async () => {
+            await page.evaluate((href) => {
+              const link = document.querySelector('a[href="' + href + '"]');
+              if (link) link.click();
+            }, biz.href);
 
-          await page.waitForSelector('h1', { timeout: 3000 }).catch(() => {});
+            // Check block on each business
+            const midCheck = await checkForBlock(page);
+            if (midCheck.blocked) throw new Error(midCheck.reason);
+
+            await page.waitForSelector('h1', { timeout: 3000 }).catch(() => {});
           await waitForStableCount(page, 'button[data-item-id]', 1500);
 
           const currentUrl = page.url();
@@ -362,6 +420,12 @@ export class GoogleMapsScraper {
             details.name = biz.name !== 'Sin nombre' ? biz.name : extractNameFromUrl(biz.href);
           }
 
+            return extractedDetails;
+          }); // end withRetry
+
+          const currentUrl = page.url();
+          const placeId = extractPlaceId(currentUrl);
+
           if (details.name) console.log('    -> Nombre:', details.name);
           if (details.phone) console.log('    -> Tel:', details.phone);
 
@@ -373,6 +437,11 @@ export class GoogleMapsScraper {
           });
 
         } catch (err) {
+          // Si es bloqueo, abortar todo
+          if (err.message && err.message.includes('BLOQUEADO')) {
+            console.error('\n*** ' + err.message + ' ***\n');
+            break;
+          }
           const fallbackName = biz.name !== 'Sin nombre' ? biz.name : extractNameFromUrl(biz.href);
           results.push({
             position: i + 1,

@@ -8,7 +8,6 @@ import { GoogleMapsScraperAdvanced, previewSearch, initFreeProxies, getProxyStat
 import { DataExporterAdvanced } from './exporterAdvanced.js';
 import { GoogleSheetsExporter } from './googleSheets.js';
 import { ProxyManager } from './services/proxyManager.js';
-import * as database from './services/database.js';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -25,6 +24,10 @@ let activeJobs = new Map();
 // Instancias
 const googleSheets = new GoogleSheetsExporter();
 const proxyManager = new ProxyManager();
+
+// Database (cargado dinámicamente)
+let database = null;
+let dbEnabled = false;
 
 app.use(cors());
 app.use(express.json());
@@ -464,7 +467,19 @@ app.get('/', (req, res) => {
 
 // ============ INICIO DEL SERVIDOR ============
 
-app.listen(PORT, () => {
+// Inicializar servidor con database opcional
+async function startServer() {
+  // Intentar cargar database
+  try {
+    database = await import("./services/database.js");
+    dbEnabled = database.isEnabled ? database.isEnabled() : true;
+    console.log("Base de datos:", dbEnabled ? "Activa" : "No disponible");
+  } catch (err) {
+    console.log("Base de datos no disponible:", err.message);
+    database = { obtenerEstadisticas: () => ({ enabled: false, totalNegocios: 0 }), guardarNegocios: () => ({}), registrarBusqueda: () => null, buscarNegocios: () => [], limpiarDuplicados: () => 0, exportarDatos: () => [] };
+  }
+
+  app.listen(PORT, () => {
   console.log('');
   console.log('========================================');
   console.log('  GMB Scraper Pro v2.0');
@@ -489,7 +504,11 @@ app.listen(PORT, () => {
   
   console.log('');
   console.log('========================================');
-});
+  });
+}
+
+startServer();
+
 
 export default app;
 
