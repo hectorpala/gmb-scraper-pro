@@ -67,6 +67,7 @@
     .preview-samples li { font-size: 13px; color: #333; margin: 4px 0; }
     .preview-actions { display: flex; justify-content: center; gap: 12px; margin-top: 20px; }
     .button-group { display: flex; gap: 12px; }
+    
   </style>
 </head>
 <body>
@@ -327,6 +328,69 @@
             </thead>
             <tbody id="resultsBody"></tbody>
           </table>
+        </div>
+      </section>
+
+      <!-- Database Section -->
+      <section id="databaseSection" class="database-section">
+        <div class="db-header" id="dbToggle">
+          <h3>Base de Datos Local</h3>
+          <span class="db-toggle-icon">+</span>
+        </div>
+        <div id="dbContent" class="db-content" style="display: none;">
+          <div class="db-stats-grid">
+            <div class="db-stat-card">
+              <span class="db-stat-number" id="dbTotalNegocios">0</span>
+              <span class="db-stat-label">Total Negocios</span>
+            </div>
+            <div class="db-stat-card">
+              <span class="db-stat-number" id="dbTotalCiudades">0</span>
+              <span class="db-stat-label">Ciudades</span>
+            </div>
+            <div class="db-stat-card">
+              <span class="db-stat-number" id="dbTotalCategorias">0</span>
+              <span class="db-stat-label">Categorias</span>
+            </div>
+            <div class="db-stat-card">
+              <span class="db-stat-number" id="dbTotalBusquedas">0</span>
+              <span class="db-stat-label">Busquedas</span>
+            </div>
+          </div>
+          
+          <div class="db-details">
+            <div class="db-detail-row">
+              <span>Con telefono:</span>
+              <strong id="dbConTelefono">0</strong>
+            </div>
+            <div class="db-detail-row">
+              <span>Con email:</span>
+              <strong id="dbConEmail">0</strong>
+            </div>
+            <div class="db-detail-row">
+              <span>Con website:</span>
+              <strong id="dbConWebsite">0</strong>
+            </div>
+            <div class="db-detail-row">
+              <span>Rating promedio:</span>
+              <strong id="dbRatingPromedio">0</strong>
+            </div>
+          </div>
+
+          <div class="db-actions">
+            <button id="dbRefresh" class="btn btn-secondary btn-sm">Actualizar</button>
+            <button id="dbExport" class="btn btn-secondary btn-sm">Exportar Todo</button>
+            <button id="dbLimpiar" class="btn btn-danger btn-sm">Limpiar Duplicados</button>
+          </div>
+
+          <div class="db-search">
+            <input type="text" id="dbSearchInput" placeholder="Buscar en mis datos..." class="input-field">
+            <button id="dbSearchBtn" class="btn btn-primary btn-sm">Buscar</button>
+          </div>
+
+          <div id="dbSearchResults" class="db-search-results" style="display: none;">
+            <h4>Resultados de busqueda: <span id="dbSearchCount">0</span></h4>
+            <div id="dbSearchList" class="db-search-list"></div>
+          </div>
         </div>
       </section>
     </main>

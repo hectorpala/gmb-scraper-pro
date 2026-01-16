@@ -3,7 +3,31 @@
  * Extrae 40+ campos de informacion de negocios de Google Maps
  */
 
-import puppeteer from 'puppeteer';
+import puppeteer from 'puppeteer-extra';
+import StealthPlugin from 'puppeteer-extra-plugin-stealth';
+import { ProxyManager } from './services/proxyManager.js';
+
+// Activar plugin stealth para evitar deteccion
+puppeteer.use(StealthPlugin());
+
+// Instancia global del proxy manager
+const proxyManager = new ProxyManager({ useProxies: false });
+
+// Funcion para inicializar proxies gratuitos
+export async function initFreeProxies() {
+  try {
+    const proxies = await proxyManager.fetchFreeProxies(15);
+    return proxies.length > 0;
+  } catch (error) {
+    console.log('No se pudieron obtener proxies gratuitos:', error.message);
+    return false;
+  }
+}
+
+// Obtener estado de proxies
+export function getProxyStatus() {
+  return proxyManager.getStats();
+}
 import os from 'os';
 import fs from 'fs';
 import {
@@ -56,6 +80,74 @@ function getChromePath() {
 
 function delay(ms) {
   return new Promise(resolve => setTimeout(resolve, ms));
+}
+
+// Delay aleatorio para simular comportamiento humano
+function randomDelay(minMs = 1000, maxMs = 3000) {
+  const ms = Math.floor(Math.random() * (maxMs - minMs + 1)) + minMs;
+  return new Promise(resolve => setTimeout(resolve, ms));
+}
+
+// Detectar CAPTCHA de Google - ADVERTENCIA DE BLOQUEO
+async function detectCaptcha(page) {
+  try {
+    const captchaDetected = await page.evaluate(() => {
+      const url = window.location.href.toLowerCase();
+
+      // Verificar URL de bloqueo
+      if (url.includes('sorry/index') ||
+          url.includes('/sorry/') ||
+          url.includes('recaptcha') ||
+          url.includes('captcha')) {
+        return { detected: true, type: 'url_redirect' };
+      }
+
+      // Verificar elementos de CAPTCHA
+      const captchaSelectors = [
+        '#captcha',
+        '.g-recaptcha',
+        'iframe[src*="recaptcha"]',
+        'iframe[title*="reCAPTCHA"]',
+        '[data-sitekey]',
+        '#recaptcha',
+        '.captcha-container'
+      ];
+
+      for (const selector of captchaSelectors) {
+        if (document.querySelector(selector)) {
+          return { detected: true, type: 'captcha_element' };
+        }
+      }
+
+      // Verificar texto de bloqueo
+      const bodyText = document.body?.innerText?.toLowerCase() || '';
+      const blockPhrases = [
+        'unusual traffic',
+        'trafico inusual',
+        'tráfico inusual',
+        'automated queries',
+        'consultas automatizadas',
+        'suspicious activity',
+        'actividad sospechosa',
+        'verify you are human',
+        'verifica que eres humano',
+        'too many requests',
+        'demasiadas solicitudes'
+      ];
+
+      for (const phrase of blockPhrases) {
+        if (bodyText.includes(phrase)) {
+          return { detected: true, type: 'block_text', phrase };
+        }
+      }
+
+      return { detected: false };
+    });
+
+    return captchaDetected;
+  } catch (error) {
+    return { detected: false, error: error.message };
+  }
 }
 
 function deduplicateResults(results) {
@@ -593,7 +685,22 @@ export class GoogleMapsScraperAdvanced {
     console.log('User-Agent:', userAgent.substring(0, 50) + '...');
 
     try {
-      await page.setViewport({ width: 1400, height: 900 });
+      // Configuracion para parecer navegador real
+      await page.setViewport({ 
+        width: 1366 + Math.floor(Math.random() * 100), 
+        height: 768 + Math.floor(Math.random() * 100),
+        deviceScaleFactor: 1,
+        hasTouch: false,
+        isLandscape: true,
+        isMobile: false
+      });
+      
+      // Ocultar webdriver
+      await page.evaluateOnNewDocument(() => {
+        Object.defineProperty(navigator, 'webdriver', { get: () => undefined });
+        Object.defineProperty(navigator, 'plugins', { get: () => [1, 2, 3, 4, 5] });
+        Object.defineProperty(navigator, 'languages', { get: () => ['es-MX', 'es', 'en-US', 'en'] });
+      });
 
       let searchUrl;
       if (coordinates && radius) {
@@ -613,7 +720,43 @@ export class GoogleMapsScraperAdvanced {
         timeout: SCRAPER_CONFIG.timeouts.navigation
       });
 
-      await page.waitForSelector(SELECTORS.feed, { timeout: SCRAPER_CONFIG.timeouts.selector });
+      // VERIFICAR CAPTCHA - Advertencia de bloqueo
+      const captchaCheck = await detectCaptcha(page);
+      if (captchaCheck.detected) {
+        console.log('\n⚠️  ¡ADVERTENCIA DE SEGURIDAD! ⚠️');
+        console.log('Google ha detectado actividad automatizada.');
+        console.log('Tipo de bloqueo:', captchaCheck.type);
+        if (captchaCheck.phrase) console.log('Mensaje:', captchaCheck.phrase);
+        
+        await context.close();
+        throw new Error('CAPTCHA_DETECTED: Google ha mostrado un CAPTCHA. Tu IP puede estar siendo limitada. Espera 15-30 minutos antes de intentar de nuevo, o cambia de red/IP.');
+      }
+
+      // Esperar el feed con reintentos
+    let feedFound = false;
+    for (let attempt = 1; attempt <= 3; attempt++) {
+      try {
+        await page.waitForSelector(SELECTORS.feed, { timeout: 15000 });
+        feedFound = true;
+        break;
+      } catch (e) {
+        console.log('Intento ' + attempt + '/3: Esperando que cargue Google Maps...');
+        // Intentar aceptar cookies si hay dialogo
+        const cookieBtn = await page.$('button[aria-label*="Aceptar"], button[aria-label*="Accept"], form[action*="consent"] button');
+        if (cookieBtn) {
+          await cookieBtn.click().catch(() => {});
+          await new Promise(r => setTimeout(r, 2000));
+        }
+        // Recargar si es el ultimo intento
+        if (attempt < 3) {
+          await page.reload({ waitUntil: 'domcontentloaded' });
+          await new Promise(r => setTimeout(r, 3000));
+        }
+      }
+    }
+    if (!feedFound) {
+      throw new Error('Google Maps no cargo correctamente. Intenta de nuevo en unos minutos.');
+    }
 
       const acceptBtn = await page.$('button[aria-label*="Aceptar"], button[aria-label*="Accept"]');
       if (acceptBtn) await acceptBtn.click().catch(() => {});
@@ -734,6 +877,11 @@ export class GoogleMapsScraperAdvanced {
             error: err.message
           });
         }
+        
+        // Delay aleatorio entre negocios para evitar deteccion (1-2.5 segundos)
+        if (i < businessLinks.length - 1) {
+          await randomDelay(1000, 2500);
+        }
       }
 
       const uniqueResults = deduplicateResults(results);
@@ -806,7 +954,22 @@ export async function previewSearch(params) {
   await page.setUserAgent(getRandomUserAgent());
 
   try {
-    await page.setViewport({ width: 1400, height: 900 });
+    // Configuracion para parecer navegador real
+      await page.setViewport({ 
+        width: 1366 + Math.floor(Math.random() * 100), 
+        height: 768 + Math.floor(Math.random() * 100),
+        deviceScaleFactor: 1,
+        hasTouch: false,
+        isLandscape: true,
+        isMobile: false
+      });
+      
+      // Ocultar webdriver
+      await page.evaluateOnNewDocument(() => {
+        Object.defineProperty(navigator, 'webdriver', { get: () => undefined });
+        Object.defineProperty(navigator, 'plugins', { get: () => [1, 2, 3, 4, 5] });
+        Object.defineProperty(navigator, 'languages', { get: () => ['es-MX', 'es', 'en-US', 'en'] });
+      });
 
     let searchUrl;
     if (coordinates && radius) {
@@ -826,7 +989,43 @@ export async function previewSearch(params) {
       timeout: SCRAPER_CONFIG.timeouts.navigation
     });
 
-    await page.waitForSelector(SELECTORS.feed, { timeout: SCRAPER_CONFIG.timeouts.selector });
+      // VERIFICAR CAPTCHA - Advertencia de bloqueo
+      const captchaCheck = await detectCaptcha(page);
+      if (captchaCheck.detected) {
+        console.log('\n⚠️  ¡ADVERTENCIA DE SEGURIDAD! ⚠️');
+        console.log('Google ha detectado actividad automatizada.');
+        console.log('Tipo de bloqueo:', captchaCheck.type);
+        if (captchaCheck.phrase) console.log('Mensaje:', captchaCheck.phrase);
+        
+        await context.close();
+        throw new Error('CAPTCHA_DETECTED: Google ha mostrado un CAPTCHA. Tu IP puede estar siendo limitada. Espera 15-30 minutos antes de intentar de nuevo, o cambia de red/IP.');
+      }
+
+    // Esperar el feed con reintentos
+    let feedFound = false;
+    for (let attempt = 1; attempt <= 3; attempt++) {
+      try {
+        await page.waitForSelector(SELECTORS.feed, { timeout: 15000 });
+        feedFound = true;
+        break;
+      } catch (e) {
+        console.log('Intento ' + attempt + '/3: Esperando que cargue Google Maps...');
+        // Intentar aceptar cookies si hay dialogo
+        const cookieBtn = await page.$('button[aria-label*="Aceptar"], button[aria-label*="Accept"], form[action*="consent"] button');
+        if (cookieBtn) {
+          await cookieBtn.click().catch(() => {});
+          await new Promise(r => setTimeout(r, 2000));
+        }
+        // Recargar si es el ultimo intento
+        if (attempt < 3) {
+          await page.reload({ waitUntil: 'domcontentloaded' });
+          await new Promise(r => setTimeout(r, 3000));
+        }
+      }
+    }
+    if (!feedFound) {
+      throw new Error('Google Maps no cargo correctamente. Intenta de nuevo en unos minutos.');
+    }
 
     // Aceptar cookies
     const acceptBtn = await page.$('button[aria-label*="Aceptar"], button[aria-label*="Accept"]');

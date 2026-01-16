@@ -4,10 +4,11 @@ import cors from 'cors';
 import path from 'path';
 import fs from 'fs';
 import { fileURLToPath } from 'url';
-import { GoogleMapsScraperAdvanced, previewSearch } from './scraperAdvanced.js';
+import { GoogleMapsScraperAdvanced, previewSearch, initFreeProxies, getProxyStatus } from './scraperAdvanced.js';
 import { DataExporterAdvanced } from './exporterAdvanced.js';
 import { GoogleSheetsExporter } from './googleSheets.js';
 import { ProxyManager } from './services/proxyManager.js';
+import * as database from './services/database.js';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -184,6 +185,31 @@ async function handleAdvancedScrape(req, res) {
           csv: '/output/' + exportResults.csv.filename
         }
       }
+    };
+
+
+    // Guardar en base de datos
+    const startDbSave = Date.now();
+    const busquedaId = database.registrarBusqueda({
+      businessType,
+      city: city || '',
+      country: country || '',
+      coordinates,
+      radius,
+      totalEncontrados: result.businesses.length,
+      duracion: parseFloat(duration)
+    });
+
+    const dbResult = database.guardarNegocios(result.businesses, busquedaId);
+    console.log('Base de datos: ' + dbResult.nuevos + ' nuevos, ' + dbResult.actualizados + ' actualizados, ' + dbResult.errores + ' errores');
+
+    // Actualizar búsqueda con estadísticas
+    response.data.database = {
+      busquedaId,
+      nuevos: dbResult.nuevos,
+      actualizados: dbResult.actualizados,
+      duplicados: dbResult.duplicados,
+      tiempoGuardado: ((Date.now() - startDbSave) / 1000).toFixed(2) + 's'
     };
 
     // Google Sheets
@@ -400,6 +426,34 @@ app.get('/api/exports', (req, res) => {
   res.json({ success: true, data: files.map(f => ({ ...f, downloadUrl: '/output/' + f.filename })) });
 });
 
+/**
+ * POST /api/v2/proxies/init - Inicializar proxies gratuitos
+ */
+app.post('/api/v2/proxies/init', async (req, res) => {
+  console.log('Inicializando proxies gratuitos...');
+  try {
+    const success = await initFreeProxies();
+    const status = getProxyStatus();
+    res.json({
+      success,
+      data: {
+        message: success ? 'Proxies activados' : 'No se encontraron proxies funcionales',
+        ...status
+      }
+    });
+  } catch (error) {
+    res.status(500).json({ success: false, error: error.message });
+  }
+});
+
+/**
+ * GET /api/v2/proxies/status - Estado de los proxies
+ */
+app.get('/api/v2/proxies/status', (req, res) => {
+  const status = getProxyStatus();
+  res.json({ success: true, data: status });
+});
+
 app.get('/api/health', (req, res) => {
   res.json({ success: true, status: 'ok', version: '2.0', timestamp: new Date().toISOString() });
 });
@@ -438,3 +492,158 @@ app.listen(PORT, () => {
 });
 
 export default app;
+
+// ============ ENDPOINTS DE BASE DE DATOS ============
+
+/**
+ * GET /api/db/stats - Estadísticas generales de la base de datos
+ */
+app.get('/api/db/stats', (req, res) => {
+  try {
+    const stats = database.obtenerEstadisticas();
+    res.json({ success: true, data: stats });
+  } catch (error) {
+    res.status(500).json({ success: false, error: error.message });
+  }
+});
+
+/**
+ * GET /api/db/negocios - Buscar negocios en la base de datos
+ */
+app.get('/api/db/negocios', (req, res) => {
+  try {
+    const filtros = {
+      ciudad: req.query.ciudad,
+      categoria: req.query.categoria,
+      minRating: req.query.minRating ? parseFloat(req.query.minRating) : null,
+      minResenas: req.query.minResenas ? parseInt(req.query.minResenas) : null,
+      conTelefono: req.query.conTelefono === 'true',
+      conEmail: req.query.conEmail === 'true',
+      conWebsite: req.query.conWebsite === 'true',
+      busqueda: req.query.q,
+      orderBy: req.query.orderBy || 'fecha_creacion',
+      orderDir: req.query.orderDir || 'DESC',
+      limit: req.query.limit ? parseInt(req.query.limit) : 100,
+      offset: req.query.offset ? parseInt(req.query.offset) : 0
+    };
+
+    const negocios = database.buscarNegocios(filtros);
+    res.json({ 
+      success: true, 
+      data: { 
+        total: negocios.length,
+        negocios 
+      } 
+    });
+  } catch (error) {
+    res.status(500).json({ success: false, error: error.message });
+  }
+});
+
+/**
+ * GET /api/db/negocios/:id - Obtener un negocio por ID
+ */
+app.get('/api/db/negocios/:id', (req, res) => {
+  try {
+    const negocio = database.obtenerNegocio(parseInt(req.params.id));
+    if (!negocio) {
+      return res.status(404).json({ success: false, error: 'Negocio no encontrado' });
+    }
+    res.json({ success: true, data: negocio });
+  } catch (error) {
+    res.status(500).json({ success: false, error: error.message });
+  }
+});
+
+/**
+ * DELETE /api/db/negocios/:id - Eliminar un negocio
+ */
+app.delete('/api/db/negocios/:id', (req, res) => {
+  try {
+    const result = database.eliminarNegocio(parseInt(req.params.id));
+    res.json({ success: true, data: { deleted: result.changes > 0 } });
+  } catch (error) {
+    res.status(500).json({ success: false, error: error.message });
+  }
+});
+
+/**
+ * GET /api/db/historial - Historial de búsquedas
+ */
+app.get('/api/db/historial', (req, res) => {
+  try {
+    const limit = req.query.limit ? parseInt(req.query.limit) : 50;
+    const historial = database.obtenerHistorialBusquedas(limit);
+    res.json({ success: true, data: historial });
+  } catch (error) {
+    res.status(500).json({ success: false, error: error.message });
+  }
+});
+
+/**
+ * GET /api/db/ciudades/:ciudad - Negocios por ciudad
+ */
+app.get('/api/db/ciudades/:ciudad', (req, res) => {
+  try {
+    const negocios = database.obtenerPorCiudad(req.params.ciudad);
+    res.json({ success: true, data: { total: negocios.length, negocios } });
+  } catch (error) {
+    res.status(500).json({ success: false, error: error.message });
+  }
+});
+
+/**
+ * GET /api/db/categorias/:categoria - Negocios por categoría
+ */
+app.get('/api/db/categorias/:categoria', (req, res) => {
+  try {
+    const negocios = database.obtenerPorCategoria(req.params.categoria);
+    res.json({ success: true, data: { total: negocios.length, negocios } });
+  } catch (error) {
+    res.status(500).json({ success: false, error: error.message });
+  }
+});
+
+/**
+ * POST /api/db/limpiar-duplicados - Eliminar duplicados
+ */
+app.post('/api/db/limpiar-duplicados', (req, res) => {
+  try {
+    const eliminados = database.limpiarDuplicados();
+    res.json({ success: true, data: { eliminados } });
+  } catch (error) {
+    res.status(500).json({ success: false, error: error.message });
+  }
+});
+
+/**
+ * GET /api/db/exportar - Exportar datos de la base de datos
+ */
+app.get('/api/db/exportar', (req, res) => {
+  try {
+    const filtros = {
+      ciudad: req.query.ciudad,
+      categoria: req.query.categoria,
+      minRating: req.query.minRating ? parseFloat(req.query.minRating) : null,
+      conTelefono: req.query.conTelefono === 'true',
+      conEmail: req.query.conEmail === 'true'
+    };
+
+    const datos = database.exportarDatos(filtros);
+    
+    // Crear archivo de exportación
+    const exporter = new DataExporterAdvanced();
+    const result = exporter.toCSV(datos, 'database_export', filtros.ciudad || 'todas', 'mx');
+    
+    res.json({ 
+      success: true, 
+      data: { 
+        total: datos.length,
+        downloadUrl: '/output/' + result.filename,
+        filename: result.filename 
+      } 
+    });
+  } catch (error) {
+    res.status(500).json({ success: false, error: error.message });
+  }
+});

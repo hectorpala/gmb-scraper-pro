@@ -1,6 +1,16 @@
 /**
- * Proxy Manager - Sistema de rotacion de proxies
+ * Proxy Manager - Sistema de rotacion de proxies con soporte para proxies gratuitos
  */
+
+import https from 'https';
+import http from 'http';
+
+// Lista de APIs de proxies gratuitos
+const FREE_PROXY_APIS = [
+  'https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=5000&country=all&ssl=all&anonymity=all',
+  'https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt',
+  'https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt'
+];
 
 export class ProxyManager {
   constructor(options = {}) {
@@ -9,7 +19,87 @@ export class ProxyManager {
     this.failedProxies = new Set();
     this.proxyStats = new Map();
     this.rotateOnFail = options.rotateOnFail !== false;
-    this.maxFailures = options.maxFailures || 3;
+    this.maxFailures = options.maxFailures || 2;
+    this.useProxies = options.useProxies || false;
+    this.lastFetch = null;
+  }
+
+  // Obtener proxies gratuitos de APIs publicas
+  async fetchFreeProxies(maxProxies = 20) {
+    console.log('Obteniendo proxies gratuitos...');
+    const allProxies = [];
+
+    for (const apiUrl of FREE_PROXY_APIS) {
+      try {
+        const proxies = await this._fetchFromUrl(apiUrl);
+        allProxies.push(...proxies);
+        if (allProxies.length >= maxProxies * 2) break;
+      } catch (error) {
+        console.log('Error obteniendo de', apiUrl.substring(0, 50) + '...:', error.message);
+      }
+    }
+
+    // Limpiar y formatear proxies
+    const cleanProxies = [...new Set(allProxies)]
+      .filter(p => p && p.match(/^\d+\.\d+\.\d+\.\d+:\d+$/))
+      .slice(0, maxProxies);
+
+    console.log('Proxies obtenidos:', cleanProxies.length);
+    
+    // Probar algunos proxies y agregar los que funcionen
+    const workingProxies = [];
+    for (const proxy of cleanProxies.slice(0, Math.min(10, cleanProxies.length))) {
+      const isWorking = await this._quickTest(proxy);
+      if (isWorking) {
+        workingProxies.push('http://' + proxy);
+        console.log('  ✓ Proxy funcional:', proxy);
+        if (workingProxies.length >= 5) break;
+      }
+    }
+
+    if (workingProxies.length > 0) {
+      this.addProxies(workingProxies);
+      this.useProxies = true;
+      this.lastFetch = new Date();
+    }
+
+    console.log('Proxies funcionales agregados:', workingProxies.length);
+    return workingProxies;
+  }
+
+  _fetchFromUrl(url) {
+    return new Promise((resolve, reject) => {
+      const protocol = url.startsWith('https') ? https : http;
+      const request = protocol.get(url, { timeout: 10000 }, (response) => {
+        let data = '';
+        response.on('data', chunk => data += chunk);
+        response.on('end', () => {
+          const proxies = data.split('\n')
+            .map(line => line.trim())
+            .filter(line => line && !line.startsWith('#'));
+          resolve(proxies);
+        });
+      });
+      request.on('error', reject);
+      request.on('timeout', () => { request.destroy(); reject(new Error('Timeout')); });
+    });
+  }
+
+  async _quickTest(proxy, timeout = 5000) {
+    return new Promise((resolve) => {
+      const [host, port] = proxy.split(':');
+      const req = http.request({
+        host, port: parseInt(port),
+        method: 'CONNECT',
+        path: 'www.google.com:443',
+        timeout
+      }, (res) => {
+        resolve(res.statusCode === 200);
+      });
+      req.on('error', () => resolve(false));
+      req.on('timeout', () => { req.destroy(); resolve(false); });
+      req.end();
+    });
   }
 
   addProxies(proxyList) {
@@ -22,7 +112,7 @@ export class ProxyManager {
   }
 
   getNext() {
-    if (this.proxies.length === 0) return null;
+    if (this.proxies.length === 0 || !this.useProxies) return null;
     const availableProxies = this.proxies.filter(p => !this.failedProxies.has(p));
     if (availableProxies.length === 0) {
       this.failedProxies.clear();
@@ -36,7 +126,7 @@ export class ProxyManager {
   }
 
   getCurrent() {
-    if (this.proxies.length === 0) return null;
+    if (this.proxies.length === 0 || !this.useProxies) return null;
     const availableProxies = this.proxies.filter(p => !this.failedProxies.has(p));
     if (availableProxies.length === 0) return this.proxies[0];
     return availableProxies[this.currentIndex % availableProxies.length];
@@ -84,17 +174,13 @@ export class ProxyManager {
   }
 
   getStats() {
-    const stats = [];
-    for (const [proxy, data] of this.proxyStats.entries()) {
-      stats.push({
-        proxy: proxy.replace(/:[^:@]+@/, ':***@'),
-        ...data,
-        isFailed: this.failedProxies.has(proxy),
-        successRate: data.success + data.failures > 0 
-          ? ((data.success / (data.success + data.failures)) * 100).toFixed(1) + '%' : 'N/A'
-      });
-    }
-    return stats;
+    return {
+      total: this.proxies.length,
+      active: this.proxies.length - this.failedProxies.size,
+      failed: this.failedProxies.size,
+      useProxies: this.useProxies,
+      lastFetch: this.lastFetch
+    };
   }
 
   resetFailedProxies() {
@@ -102,30 +188,12 @@ export class ProxyManager {
     for (const [, stats] of this.proxyStats.entries()) { stats.failures = 0; }
   }
 
-  async testProxy(proxyUrl, testUrl = 'https://www.google.com') {
-    const puppeteer = (await import('puppeteer')).default;
-    const formatted = this.formatForPuppeteer(proxyUrl);
-    if (!formatted) return { success: false, error: 'Invalid proxy format' };
-
-    let browser = null;
-    try {
-      browser = await puppeteer.launch({
-        headless: 'new',
-        args: ['--no-sandbox', '--proxy-server=' + formatted.server]
-      });
-      const page = await browser.newPage();
-      if (formatted.username && formatted.password) {
-        await page.authenticate({ username: formatted.username, password: formatted.password });
-      }
-      const startTime = Date.now();
-      await page.goto(testUrl, { waitUntil: 'domcontentloaded', timeout: 15000 });
-      return { success: true, responseTime: Date.now() - startTime, proxy: proxyUrl.replace(/:[^:@]+@/, ':***@') };
-    } catch (error) {
-      return { success: false, error: error.message, proxy: proxyUrl.replace(/:[^:@]+@/, ':***@') };
-    } finally {
-      if (browser) await browser.close();
-    }
+  isEnabled() {
+    return this.useProxies && this.proxies.length > 0;
   }
+
+  enable() { this.useProxies = true; }
+  disable() { this.useProxies = false; }
 }
 
 export default ProxyManager;
