@@ -328,6 +328,66 @@ app.get('/api/exports', (req, res) => {
   });
 });
 
+
+/**
+ * POST /api/check-duplicates - Verificar duplicados antes de scrapear
+ */
+app.post('/api/check-duplicates', async (req, res) => {
+  const { businessType, city, country } = req.body;
+  
+  if (!businessType || !city) {
+    return res.json({ success: true, data: { count: 0, duplicates: [] } });
+  }
+  
+  if (!dbEnabled || !database) {
+    return res.json({ success: true, data: { count: 0, duplicates: [], dbDisabled: true } });
+  }
+  
+  try {
+    // Buscar negocios existentes con criterios similares
+    const searchCity = city.replace(/\d+.*/, '').trim(); // Quitar CP si existe
+    const results = database.buscarNegocios ? 
+      database.buscarNegocios({ 
+        ciudad: searchCity,
+        categoria: businessType,
+        limit: 100 
+      }) : [];
+    
+    // También buscar por nombre de categoría similar
+    const byCategory = database.buscarPorCategoria ? 
+      database.buscarPorCategoria(businessType, searchCity) : [];
+    
+    const allResults = [...results, ...byCategory];
+    
+    // Eliminar duplicados por place_id o nombre
+    const seen = new Set();
+    const unique = allResults.filter(r => {
+      const key = r.place_id || r.nombre;
+      if (seen.has(key)) return false;
+      seen.add(key);
+      return true;
+    });
+    
+    res.json({
+      success: true,
+      data: {
+        count: unique.length,
+        duplicates: unique.slice(0, 10).map(n => ({
+          nombre: n.nombre,
+          telefono: n.telefono,
+          direccion: n.direccion
+        })),
+        message: unique.length > 0 
+          ? `Ya tienes ${unique.length} ${businessType} de ${searchCity} en tu base de datos`
+          : null
+      }
+    });
+  } catch (error) {
+    console.error('Error verificando duplicados:', error);
+    res.json({ success: true, data: { count: 0, duplicates: [] } });
+  }
+});
+
 app.get('/api/health', (req, res) => {
   res.json({ success: true, status: 'ok', timestamp: new Date().toISOString() });
 });

@@ -428,6 +428,34 @@
       margin: 8px 0;
     }
     
+    
+    .cp-toggle-btn {
+      display: block;
+      width: 100%;
+      padding: 10px;
+      margin-top: 8px;
+      background: linear-gradient(135deg, #fef3c7 0%, #fde68a 100%);
+      border: 1px dashed #f59e0b;
+      border-radius: 8px;
+      color: #92400e;
+      font-size: 13px;
+      cursor: pointer;
+      transition: all 0.2s;
+    }
+    
+    .cp-toggle-btn:hover {
+      background: linear-gradient(135deg, #fde68a 0%, #fcd34d 100%);
+      transform: scale(1.01);
+    }
+    
+    .cp-item {
+      background: linear-gradient(90deg, #fef9c3 0%, transparent 100%);
+    }
+    
+    .cp-item:hover {
+      background: linear-gradient(90deg, #fef08a 0%, #fef9c3 100%);
+    }
+
     .recent-item {
       background: linear-gradient(90deg, #fef3c7 0%, transparent 100%);
     }
@@ -480,6 +508,103 @@
       outline: none;
     }
     
+  
+    /* Modal de duplicados */
+    .duplicate-modal {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: rgba(0,0,0,0.5);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      z-index: 9999;
+      animation: fadeIn 0.2s ease-out;
+    }
+    
+    .duplicate-modal-content {
+      background: white;
+      border-radius: 16px;
+      padding: 32px;
+      max-width: 500px;
+      width: 90%;
+      text-align: center;
+      box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+      animation: slideUp 0.3s ease-out;
+    }
+    
+    @keyframes slideUp {
+      from { transform: translateY(20px); opacity: 0; }
+      to { transform: translateY(0); opacity: 1; }
+    }
+    
+    .duplicate-icon {
+      font-size: 48px;
+      margin-bottom: 16px;
+    }
+    
+    .duplicate-modal-content h3 {
+      margin: 0 0 12px;
+      color: #b45309;
+      font-size: 20px;
+    }
+    
+    .duplicate-count {
+      background: #fef3c7;
+      color: #92400e;
+      padding: 12px;
+      border-radius: 8px;
+      font-weight: 600;
+      margin: 16px 0;
+    }
+    
+    .duplicate-list {
+      text-align: left;
+      background: #f8fafc;
+      border-radius: 8px;
+      padding: 16px;
+      margin: 16px 0;
+      max-height: 200px;
+      overflow-y: auto;
+    }
+    
+    .duplicate-list ul {
+      margin: 8px 0 0 0;
+      padding-left: 20px;
+    }
+    
+    .duplicate-list li {
+      font-size: 13px;
+      color: #666;
+      margin: 4px 0;
+    }
+    
+    .duplicate-list .more {
+      font-size: 12px;
+      color: #999;
+      font-style: italic;
+      margin-top: 8px;
+    }
+    
+    .duplicate-question {
+      font-weight: 600;
+      margin: 16px 0 8px;
+    }
+    
+    .duplicate-note {
+      font-size: 12px;
+      color: #666;
+      margin-bottom: 20px;
+    }
+    
+    .duplicate-actions {
+      display: flex;
+      gap: 12px;
+      justify-content: center;
+    }
+
   </style>
 </head>
 <body>
@@ -925,6 +1050,59 @@
       'Yucatan': { abbr: 'YUC', cities: ['Merida', 'Valladolid', 'Progreso', 'Tizimin', 'Izamal', 'Uman'] },
       'Zacatecas': { abbr: 'ZAC', cities: ['Zacatecas', 'Fresnillo', 'Guadalupe', 'Jerez', 'Rio Grande', 'Sombrerete'] }
     };
+
+    
+    // CÓDIGOS POSTALES DE CULIACÁN
+    const codigosPostalesCuliacan = {
+      "80000": ["Centro", "Centro Sinaloa"],
+      "80010": ["Arboledas", "Ignacio Allende", "6 de Enero", "Villa Universidad"],
+      "80013": ["Ciudad Universitaria", "Obrero Campesino", "Universitaria"],
+      "80014": ["Zona Dorada", "Portabelo", "Las Glorias", "Maralago", "Buena Vista"],
+      "80016": ["La Lima", "Los Mezcales", "El Ranchito"],
+      "80017": ["El Barrio", "Palmares", "Álamos"],
+      "80019": ["Las Quintas", "La Campiña", "Las Palmas"],
+      "80020": ["Guadalupe Victoria", "Miguel Alemán", "Independencia"],
+      "80024": ["Las Vegas", "Terranova", "La Primavera"],
+      "80028": ["Lomas de Guadalupe", "Chapultepec", "Los Pinos"],
+      "80030": ["Recursos Hidráulicos", "Industrial"],
+      "80040": ["Miguel Hidalgo", "Los Laureles"],
+      "80050": ["Desarrollo Urbano 3 Ríos", "Tres Ríos"],
+      "80058": ["El Vallado", "La Conquista"],
+      "80060": ["Las Flores", "Juntas de Humaya"],
+      "80063": ["Cañadas", "Montecarlo", "La Cima"],
+      "80064": ["La Rioja", "Los Sauces", "Fontanares"],
+      "80065": ["Villas del Río", "Rincón del Humaya"],
+      "80080": ["Colinas de San Miguel", "Colinas del Real"],
+      "80090": ["Valle Alto", "Hacienda San Rafael"],
+      "80100": ["Humaya", "Villa del Rey"],
+      "80104": ["Stanza", "Prados del Sur"],
+      "80105": ["Antonio Rosales", "5 de Febrero"],
+      "80110": ["Emiliano Zapata", "Tierra Blanca"],
+      "80120": ["Gabriel Leyva", "Fovissste"],
+      "80128": ["Infonavit Humaya", "Infonavit Barrancos"],
+      "80130": ["Bachigualato", "Campo El Diez"],
+      "80150": ["Juan de Dios Bátiz", "Adolfo López Mateos"],
+      "80155": ["Lázaro Cárdenas", "Solidaridad"],
+      "80158": ["Villa Bonita", "Villa del Cedro"],
+      "80170": ["Los Ángeles", "Santa Fe"],
+      "80180": ["Isla Musala", "21 de Marzo"],
+      "80190": ["Nuevo Culiacán", "Estero", "Loma Linda"],
+      "80194": ["CTM", "Sinaloa"],
+      "80196": ["Progreso", "Pradera Dorada"],
+      "80200": ["El Diez", "La Costera"],
+      "80210": ["El Mirador", "Centro Norte"],
+      "80220": ["Los Ángeles Norte", "Los Naranjos"],
+      "80230": ["Génova", "Mediterráneo"],
+      "80260": ["El Portón", "El Canadá"],
+      "80280": ["Aguaruto Centro", "Aguaruto Norte"],
+      "80300": ["Navolato Centro"],
+      "80430": ["Eldorado"],
+      "80450": ["Quilá"],
+      "80470": ["Sanalona"]
+    };
+    
+    let showingPostalCodes = false;
+    let selectedPostalCode = null;
 
     const stateInput = document.getElementById('state');
     const cityInput = document.getElementById('city');
@@ -1770,6 +1948,113 @@
         cityOptions.appendChild(moreDiv);
       }
     };
+
+
+    
+    // Mostrar códigos postales cuando se selecciona Culiacán
+    const originalSelectCityForCP = selectCity;
+    selectCity = function(city) {
+      originalSelectCityForCP(city);
+      
+      // Si es Culiacán, mostrar opción de código postal
+      if (city.toLowerCase() === 'culiacan' || city.toLowerCase() === 'culiacán') {
+        setTimeout(() => {
+          showPostalCodeOption();
+        }, 300);
+      }
+    };
+    
+    function showPostalCodeOption() {
+      // Crear botón para mostrar CPs si no existe
+      let cpBtn = document.getElementById('showCPBtn');
+      if (!cpBtn) {
+        const cityWrapper = cityInput.closest('.custom-select');
+        cpBtn = document.createElement('button');
+        cpBtn.type = 'button';
+        cpBtn.id = 'showCPBtn';
+        cpBtn.className = 'cp-toggle-btn';
+        cpBtn.innerHTML = '📮 Buscar por código postal (opcional)';
+        cpBtn.addEventListener('click', togglePostalCodes);
+        cityWrapper.appendChild(cpBtn);
+      }
+      cpBtn.style.display = 'block';
+    }
+    
+    function togglePostalCodes() {
+      showingPostalCodes = !showingPostalCodes;
+      const cpBtn = document.getElementById('showCPBtn');
+      
+      if (showingPostalCodes) {
+        cpBtn.innerHTML = '📮 Ocultar códigos postales';
+        renderPostalCodes();
+        cityDropdown.classList.add('show');
+      } else {
+        cpBtn.innerHTML = '📮 Buscar por código postal (opcional)';
+        selectedPostalCode = null;
+        // Restaurar valor original
+        cityInput.value = 'Culiacan';
+      }
+    }
+    
+    function renderPostalCodes(filter = '') {
+      cityOptions.innerHTML = '';
+      cityDropdownHeader.textContent = 'Códigos Postales de Culiacán';
+      
+      const cps = Object.entries(codigosPostalesCuliacan);
+      const filtered = filter 
+        ? cps.filter(([cp, cols]) => 
+            cp.includes(filter) || 
+            cols.some(c => c.toLowerCase().includes(filter.toLowerCase()))
+          )
+        : cps;
+      
+      if (filtered.length === 0) {
+        cityOptions.innerHTML = '<div class="dropdown-empty">No se encontró ese código postal</div>';
+        return;
+      }
+      
+      filtered.forEach(([cp, colonias]) => {
+        const item = document.createElement('div');
+        item.className = 'dropdown-item cp-item';
+        item.innerHTML = 
+          '<div class="item-icon">📮</div>' +
+          '<div class="item-text">' +
+            '<div class="main">' + cp + '</div>' +
+            '<div class="sub">' + colonias.slice(0, 3).join(', ') + (colonias.length > 3 ? '...' : '') + '</div>' +
+          '</div>';
+        item.addEventListener('click', () => selectPostalCode(cp, colonias));
+        cityOptions.appendChild(item);
+      });
+      
+      // Botón para volver a ciudad completa
+      const backBtn = document.createElement('div');
+      backBtn.className = 'dropdown-item';
+      backBtn.style.borderTop = '1px solid #e2e8f0';
+      backBtn.style.marginTop = '8px';
+      backBtn.innerHTML = '<div class="item-icon">🏙️</div><div class="item-text"><div class="main">Usar toda la ciudad</div><div class="sub">Buscar en todo Culiacán</div></div>';
+      backBtn.addEventListener('click', () => {
+        selectedPostalCode = null;
+        cityInput.value = 'Culiacan';
+        cityDropdown.classList.remove('show');
+        showingPostalCodes = false;
+        document.getElementById('showCPBtn').innerHTML = '📮 Buscar por código postal (opcional)';
+      });
+      cityOptions.appendChild(backBtn);
+    }
+    
+    function selectPostalCode(cp, colonias) {
+      selectedPostalCode = cp;
+      cityInput.value = cp + ' (Culiacán - ' + colonias[0] + ')';
+      cityDropdown.classList.remove('show');
+    }
+    
+    // Modificar búsqueda de ciudades para incluir CPs cuando está en modo CP
+    cityInput.addEventListener('input', () => {
+      if (showingPostalCodes) {
+        renderPostalCodes(cityInput.value);
+        cityDropdown.classList.add('show');
+      }
+    });
 
     // Reset index cuando se abre dropdown
     stateInput.addEventListener('focus', () => { activeIndex = -1; });

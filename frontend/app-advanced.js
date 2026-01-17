@@ -14,6 +14,67 @@ const state = {
 
 const elements = {};
 
+// Verificar duplicados antes de scrapear
+async function checkDuplicates(data) {
+  try {
+    const response = await fetch('/api/check-duplicates', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify(data)
+    });
+    const result = await response.json();
+    return result.data;
+  } catch (error) {
+    console.error('Error verificando duplicados:', error);
+    return { count: 0 };
+  }
+}
+
+// Mostrar modal de duplicados
+function showDuplicateWarning(dupData, onContinue, onCancel) {
+  // Remover modal anterior si existe
+  const oldModal = document.getElementById('duplicateModal');
+  if (oldModal) oldModal.remove();
+  
+  const modal = document.createElement('div');
+  modal.id = 'duplicateModal';
+  modal.className = 'duplicate-modal';
+  modal.innerHTML = `
+    <div class="duplicate-modal-content">
+      <div class="duplicate-icon">⚠️</div>
+      <h3>Posibles duplicados detectados</h3>
+      <p class="duplicate-count">${dupData.message}</p>
+      <div class="duplicate-list">
+        <p><strong>Algunos negocios existentes:</strong></p>
+        <ul>
+          ${dupData.duplicates.map(d => `<li>${d.nombre}${d.telefono ? ' - ' + d.telefono : ''}</li>`).join('')}
+        </ul>
+        ${dupData.count > 10 ? `<p class="more">...y ${dupData.count - 10} más</p>` : ''}
+      </div>
+      <p class="duplicate-question">¿Deseas continuar con el scraping?</p>
+      <p class="duplicate-note">Los duplicados se filtrarán automáticamente al guardar.</p>
+      <div class="duplicate-actions">
+        <button class="btn btn-secondary" id="dupCancel">Cancelar</button>
+        <button class="btn btn-primary" id="dupContinue">Continuar de todos modos</button>
+      </div>
+    </div>
+  `;
+  
+  document.body.appendChild(modal);
+  
+  document.getElementById('dupCancel').addEventListener('click', () => {
+    modal.remove();
+    if (onCancel) onCancel();
+  });
+  
+  document.getElementById('dupContinue').addEventListener('click', () => {
+    modal.remove();
+    if (onContinue) onContinue();
+  });
+}
+
+
+
 async function init() {
   // Cache elements
   elements.form = document.getElementById('searchForm');
@@ -223,6 +284,20 @@ async function handlePreview() {
     return;
   }
 
+  // Verificar duplicados primero
+  const dupData = await checkDuplicates(data);
+  if (dupData.count > 0) {
+    showDuplicateWarning(dupData, 
+      () => { continuePreview(data); },
+      () => { showMessage('Scraping cancelado', 'info'); }
+    );
+    return;
+  }
+
+  continuePreview(data);
+}
+
+async function continuePreview(data) {
   setPreviewLoading(true);
   hideMessage();
   hideResults();

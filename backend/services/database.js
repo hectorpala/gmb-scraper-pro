@@ -265,6 +265,33 @@ export {
   exportarDatos
 };
 
+
+export function buscarPorCategoria(categoria, ciudad = null) {
+  if (!dbEnabled || !db) return [];
+  
+  try {
+    let query = `
+      SELECT * FROM negocios 
+      WHERE (categoria LIKE ? OR nombre LIKE ?)
+    `;
+    const params = [`%${categoria}%`, `%${categoria}%`];
+    
+    if (ciudad) {
+      query += ` AND ciudad LIKE ?`;
+      params.push(`%${ciudad}%`);
+    }
+    
+    query += ` ORDER BY fecha_creacion DESC LIMIT 100`;
+    
+    const stmt = db.prepare(query);
+    return stmt.all(...params);
+  } catch (error) {
+    console.error('Error buscando por categoría:', error);
+    return [];
+  }
+}
+
+
 export default {
   isEnabled,
   guardarNegocio,
