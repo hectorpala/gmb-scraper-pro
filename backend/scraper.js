@@ -420,7 +420,7 @@ export class GoogleMapsScraper {
             details.name = biz.name !== 'Sin nombre' ? biz.name : extractNameFromUrl(biz.href);
           }
 
-            return extractedDetails;
+            return details;
           }); // end withRetry
 
           const currentUrl = page.url();
