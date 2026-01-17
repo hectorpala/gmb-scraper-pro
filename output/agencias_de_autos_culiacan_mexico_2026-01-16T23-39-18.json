@@ -1,0 +1,3366 @@
+{
+  "metadata": {
+    "query": {
+      "businessType": "Agencias de autos",
+      "city": "Culiacan",
+      "country": "Mexico"
+    },
+    "totalResults": 43,
+    "stats": {
+      "total": 43,
+      "withPhone": 43,
+      "withEmail": 14,
+      "withWebsite": 34,
+      "withInstagram": 21,
+      "withWhatsapp": 18
+    },
+    "exportedAt": "2026-01-16T23:39:18.656Z",
+    "version": "2.0"
+  },
+  "businesses": [
+    {
+      "position": 1,
+      "placeId": "0x86bcd9fbfb6a2909:0xc6730a0ba7dc9882",
+      "name": "Polaris Culiacán",
+      "rating": 4.4,
+      "reviewCount": 44,
+      "category": "Concesionario de motos",
+      "categories": [
+        "Concesionario de motos"
+      ],
+      "address": "BLVD. DIEGO VALADEZ POSTE 26, La Lima, 80040 Culiacán Rosales, Sin.",
+      "phone": "6677160597",
+      "website": "http://www.polarisculiacan.com/",
+      "coordinates": {
+        "lat": 24.8192736,
+        "lng": -107.4181191
+      },
+      "plusCode": null,
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": true,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [],
+      "profileUrl": "https://www.google.com/maps/place/Polaris+Culiac%C3%A1n/@24.8192736,-107.4181191,14z/data=!4m11!1m3!2m2!1sAgencias+de+autos+en+Culiacan,+Mexico!6e6!3m6!1s0x86bcd9fbfb6a2909:0xc6730a0ba7dc9882!8m2!3d24.823503!4d-107.378581!15sCiVBZ2VuY2lhcyBkZSBhdXRvcyBlbiBDdWxpYWNhbiwgTWV4aWNvkgERbW90b3JjeWNsZV9kZWFsZXLgAQA!16s%2Fg%2F11crzfxwqs?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": "instagram.com/polaris_culiacan",
+        "facebook": "facebook.com/PolarisMexico",
+        "twitter": null,
+        "whatsapp": "526671269087",
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Agencias de autos",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T23:36:50.571Z"
+    },
+    {
+      "position": 2,
+      "placeId": "0x86bcd18fca2cab7f:0x334df48c189c2cd7",
+      "name": "Renault Culiacán Grupo del Rincón",
+      "rating": 4.7,
+      "reviewCount": 44,
+      "category": "Concesionario de automóviles",
+      "categories": [
+        "Concesionario de automóviles"
+      ],
+      "address": "De Los Insurgentes 1228-Sur, Centro Sinaloa, Colonia Centro, 80000 Culiacán Rosales, Sin.",
+      "phone": "6677156677",
+      "website": "https://www.renaultculiacan.mx/?utm_source=google&utm_medium=organic&utm_campaign=gbp_listing",
+      "coordinates": {
+        "lat": 24.8156525,
+        "lng": -107.4485871
+      },
+      "plusCode": "QHVQ+J5 Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [
+        "Amigable con LGBTQ+"
+      ],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": true,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Angelina Morga1 opinión",
+          "rating": 5,
+          "text": "Mi experiencia ha sido de 10 estrellas gracias a la asesoría de Rodrigo Vázquez. Desde el primer contacto, Rodrigo se mostró sumamente atento y comprometido con mi caso. Lo que más valoro fue el seguimiento puntual que le dio a cada una de… Más",
+          "date": "2 semanas atrás Nueva"
+        },
+        {
+          "author": "Angelina Morga1 opinión",
+          "rating": 5,
+          "text": "Mi experiencia ha sido de 10 estrellas gracias a la asesoría de Rodrigo Vázquez. Desde el primer contacto, Rodrigo se mostró sumamente atento y comprometido con mi caso. Lo que más valoro fue el seguimiento puntual que le dio a cada una de… Más",
+          "date": "2 semanas atrás Nueva"
+        },
+        {
+          "author": "Jose Avilez1 opinión",
+          "rating": 5,
+          "text": "Quiero expresar mi más sincero agradecimiento por el servicio excepcional que recibí, especialmente por parte de mi asesor Rodrigo Vázquez. No solo demostró un dominio total de su área, sino que tuvo la paciencia y la disposición de… Más",
+          "date": "2 semanas atrás Nueva"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Renault+Culiac%C3%A1n+Grupo+del+Rinc%C3%B3n/@24.8156525,-107.4485871,14z/data=!4m11!1m3!2m2!1sAgencias+de+autos+en+Culiacan,+Mexico!6e6!3m6!1s0x86bcd18fca2cab7f:0x334df48c189c2cd7!8m2!3d24.7940989!4d-107.412062!15sCiVBZ2VuY2lhcyBkZSBhdXRvcyBlbiBDdWxpYWNhbiwgTWV4aWNvWiYiJGFnZW5jaWFzIGRlIGF1dG9zIGVuIGN1bGlhY2FuIG1leGljb5IBCmNhcl9kZWFsZXKaAURDaTlEUVVsUlFVTnZaRU5vZEhsalJqbHZUMmt4V1ZwSGJFbE1XR1JPVmtoV2FGTnNhRE5QUlVaSFYwWkJkMVpyUlJBQuABAPoBBAgAEC4!16s%2Fg%2F11gxh48qs0?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": "instagram.com/renault_cln",
+        "facebook": "facebook.com/renaultculiacan",
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": "linkedin.com/company/93627447",
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Agencias de autos",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T23:36:56.492Z"
+    },
+    {
+      "position": 3,
+      "placeId": "0x86bcd0b7376bfc43:0xf0ec243f0f9d5775",
+      "name": "FORD AUTOS Y TRACTORES DE CULIACAN",
+      "rating": 4.4,
+      "reviewCount": 44,
+      "category": "Concesionario Ford",
+      "categories": [
+        "Concesionario Ford"
+      ],
+      "address": "Blvd. Pedro Infante 2598 - A, Desarrollo Urbano Tres Ríos, 80020 Culiacán Rosales, Sin.",
+      "phone": "6677588899",
+      "website": "http://www.fordatcsa.mx/",
+      "coordinates": {
+        "lat": 24.8156525,
+        "lng": -107.4485871
+      },
+      "plusCode": "QHXJ+QF Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": true,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Emmanuel perezLocal Guide · 40 opiniones · 104 fotos",
+          "rating": 5,
+          "text": "Excelente servicio, muy amables y cordiales al atenderme, claros y  prácticos al explicarme que servicios necesitaba m unidad.  La recepción y entrega muy rápidos y prácticos sin ningún contratiempo excelente servicio muchas gracias.",
+          "date": "una semana atrás Nueva"
+        },
+        {
+          "author": "Emmanuel perezLocal Guide · 40 opiniones · 104 fotos",
+          "rating": 5,
+          "text": "Excelente servicio, muy amables y cordiales al atenderme, claros y  prácticos al explicarme que servicios necesitaba m unidad.  La recepción y entrega muy rápidos y prácticos sin ningún contratiempo excelente servicio muchas gracias.",
+          "date": "una semana atrás Nueva"
+        },
+        {
+          "author": "barraza sapién1 opinión · 1 foto",
+          "rating": 5,
+          "text": "Muy atentos todos, desde que entré me atendieron muy rápido, le pedí una coca y si me trajeron y en lo que espere llegó el asesor. Muy atento el asesor Clemente, se notaba el entusiasmo aunque parecía que andaba algo enfermo pero siempre mantuvo el cuidado. Muy agradable 10/10",
+          "date": "Hace un año"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/FORD+AUTOS+Y+TRACTORES+DE+CULIACAN/@24.8156525,-107.4485871,14z/data=!4m11!1m3!2m2!1sAgencias+de+autos+en+Culiacan,+Mexico!6e6!3m6!1s0x86bcd0b7376bfc43:0xf0ec243f0f9d5775!8m2!3d24.7993962!4d-107.4188097!15sCiVBZ2VuY2lhcyBkZSBhdXRvcyBlbiBDdWxpYWNhbiwgTWV4aWNvWiYiJGFnZW5jaWFzIGRlIGF1dG9zIGVuIGN1bGlhY2FuIG1leGljb5IBC2ZvcmRfZGVhbGVymgEkQ2hkRFNVaE5NRzluUzBWSlEwRm5TVVJsZEY5cGNIcFJSUkFC4AEA-gEECAAQSA!16s%2Fg%2F1tctm6wd?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": "sistemas@fordculiacan.com",
+      "allEmails": [
+        "sistemas@fordculiacan.com"
+      ],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": "facebook.com/FORDCULIACAN",
+        "twitter": null,
+        "whatsapp": "526671077258",
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Agencias de autos",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T23:37:00.602Z"
+    },
+    {
+      "position": 4,
+      "placeId": "0x86bcd78fd103dfd5:0xb7aa3817b5a95434",
+      "name": "Auto premium seminuevos",
+      "rating": 5,
+      "reviewCount": 44,
+      "category": "Concesionario de automóviles",
+      "categories": [
+        "Concesionario de automóviles"
+      ],
+      "address": "C. Miguel Hidalgo 1397, Miguel Hidalgo, Aurora, 80060 Culiacán Rosales, Sin.",
+      "phone": "6674212126",
+      "website": null,
+      "coordinates": {
+        "lat": 24.8156525,
+        "lng": -107.4485871
+      },
+      "plusCode": "RJ5G+8Q Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": true,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Jesus San MiguelLocal Guide · 1,080 opiniones · 12,203 fotos",
+          "rating": 5,
+          "text": "Bonitos autos, lujosos a buen precio",
+          "date": "Hace 2 años"
+        },
+        {
+          "author": "Jesus San MiguelLocal Guide · 1,080 opiniones · 12,203 fotos",
+          "rating": 5,
+          "text": "Bonitos autos, lujosos a buen precio",
+          "date": "Hace 2 años"
+        },
+        {
+          "author": "jose carlo monarrez barraza1 opinión · 4 fotos",
+          "rating": 5,
+          "text": "Muy buenos autos, a buen precio y excelente servicio",
+          "date": "Hace 3 años"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Auto+premium+seminuevos/@24.8156525,-107.4485871,14z/data=!4m11!1m3!2m2!1sAgencias+de+autos+en+Culiacan,+Mexico!6e6!3m6!1s0x86bcd78fd103dfd5:0xb7aa3817b5a95434!8m2!3d24.8083123!4d-107.3731167!15sCiVBZ2VuY2lhcyBkZSBhdXRvcyBlbiBDdWxpYWNhbiwgTWV4aWNvWiYiJGFnZW5jaWFzIGRlIGF1dG9zIGVuIGN1bGlhY2FuIG1leGljb5IBCmNhcl9kZWFsZXKaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVTmxka3h0UzA1bkVBReABAPoBBAgAEDQ!16s%2Fg%2F11s7rhj0pq?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Agencias de autos",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T23:37:02.472Z"
+    },
+    {
+      "position": 5,
+      "placeId": "0x86bcd1551e310499:0xd20da6ef2a9a68f8",
+      "name": "Mitsubishi Culiacán",
+      "rating": 4.7,
+      "reviewCount": 44,
+      "category": "Concesionario de automóviles",
+      "categories": [
+        "Concesionario de automóviles"
+      ],
+      "address": "Blvd. Pedro Infante 2301-L-2, Col. Jardines, Desarrollo Urbano Tres Ríos, 80100 Culiacán Rosales, Sin.",
+      "phone": "6675495050",
+      "website": "https://www.mitsubishi-culiacan.mx/?utm_source=google&utm_medium=organic&utm_campaign=gbp_listing",
+      "coordinates": {
+        "lat": 24.8083123,
+        "lng": -107.4112255
+      },
+      "plusCode": "RH3Q+72 Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": true,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "BonusTVLocal Guide · 70 opiniones · 26 fotos",
+          "rating": 5,
+          "text": "Excelente atención, muy bonitas instalaciones y la calidad de su vehículos. Espectacular, espero en 4 años volver por una l200. Esta vez fue la outlander sport",
+          "date": "Hace 9 meses"
+        },
+        {
+          "author": "BonusTVLocal Guide · 70 opiniones · 26 fotos",
+          "rating": 5,
+          "text": "Excelente atención, muy bonitas instalaciones y la calidad de su vehículos. Espectacular, espero en 4 años volver por una l200. Esta vez fue la outlander sport",
+          "date": "Hace 9 meses"
+        },
+        {
+          "author": "Jorge Luis Lucero Leyva1 opinión",
+          "rating": 5,
+          "text": "Muy buen servicio, la atencion brindada fue de las mejores en comñaracion a las otras marcas!",
+          "date": "Hace 9 meses"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Mitsubishi+Culiac%C3%A1n/@24.8083123,-107.4112255,14z/data=!4m11!1m3!2m2!1sAgencias+de+autos+en+Culiacan,+Mexico!6e6!3m6!1s0x86bcd1551e310499:0xd20da6ef2a9a68f8!8m2!3d24.8031889!4d-107.4124831!15sCiVBZ2VuY2lhcyBkZSBhdXRvcyBlbiBDdWxpYWNhbiwgTWV4aWNvWiYiJGFnZW5jaWFzIGRlIGF1dG9zIGVuIGN1bGlhY2FuIG1leGljb5IBCmNhcl9kZWFsZXKaASRDaGREU1VoTk1HOW5TMFZKUTBGblNVUmxlVTlYTVhOUlJSQULgAQD6AQQIABA3!16s%2Fg%2F11hstg2305?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": "instagram.com/mitsubishi.culiacan",
+        "facebook": "facebook.com/mitsubishigdr.culiacan",
+        "twitter": "twitter.com/MitsubishiMex",
+        "whatsapp": "526672971482",
+        "linkedin": null,
+        "youtube": "youtube.com/user/MitsubishiMex",
+        "tiktok": "tiktok.com/@mitsubishi.culiac"
+      },
+      "searchQuery": {
+        "businessType": "Agencias de autos",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T23:37:05.480Z"
+    },
+    {
+      "position": 6,
+      "placeId": "0x86bcda2e787d1bef:0x3f74459b734e1083",
+      "name": "Toyota Culiacán",
+      "rating": 4.5,
+      "reviewCount": 44,
+      "category": "Concesionario Toyota",
+      "categories": [
+        "Concesionario Toyota"
+      ],
+      "address": "Blvd. Pedro Infante 2531-Pte, Desarrollo Urbano Tres Ríos, 80020 Culiacán Rosales, Sin.",
+      "phone": "6677616161",
+      "website": "http://www.toyotaculiacan.com.mx/",
+      "coordinates": {
+        "lat": 24.8031889,
+        "lng": -107.4505919
+      },
+      "plusCode": "RH2M+6X Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": true,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Rogelio Galindo ArmentaLocal Guide · 719 opiniones · 2,858 fotos",
+          "rating": 3,
+          "text": "Buena atención, los productos son de lo mejor y hay gran variedad. Los precios son un poco elevados y la garantía falta (debería ser más prolongada).",
+          "date": "Hace 3 meses"
+        },
+        {
+          "author": "Rogelio Galindo ArmentaLocal Guide · 719 opiniones · 2,858 fotos",
+          "rating": 3,
+          "text": "Buena atención, los productos son de lo mejor y hay gran variedad. Los precios son un poco elevados y la garantía falta (debería ser más prolongada).",
+          "date": "Hace 3 meses"
+        },
+        {
+          "author": "Jesus Rogelio RodriguezLocal Guide · 13 opiniones · 1 foto",
+          "rating": 5,
+          "text": "Excelente lugar muy cómoda sus instalaciones con cafetería y personal  con buen trato a los clientes",
+          "date": "3 semanas atrás Nueva"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Toyota+Culiac%C3%A1n/@24.8031889,-107.4505919,14z/data=!3m1!5s0x86bcd090a8f34da9:0x3ffc0aa3cddbe23b!4m11!1m3!2m2!1sAgencias+de+autos+en+Culiacan,+Mexico!6e6!3m6!1s0x86bcda2e787d1bef:0x3f74459b734e1083!8m2!3d24.8005532!4d-107.415081!15sCiVBZ2VuY2lhcyBkZSBhdXRvcyBlbiBDdWxpYWNhbiwgTWV4aWNvWiYiJGFnZW5jaWFzIGRlIGF1dG9zIGVuIGN1bGlhY2FuIG1leGljb5IBDXRveW90YV9kZWFsZXKaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVTTFNR0ZEVG1WM0VBReABAPoBBAgAEDs!16s%2Fg%2F1tj1sjj8?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": "hmartinez@toyotaculiacan.com.mx",
+      "allEmails": [
+        "hmartinez@toyotaculiacan.com.mx"
+      ],
+      "socialMedia": {
+        "instagram": "instagram.com/toyotaculiacan",
+        "facebook": "facebook.com/tr",
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": "tiktok.com/@toyota_culiacan"
+      },
+      "searchQuery": {
+        "businessType": "Agencias de autos",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T23:37:09.267Z"
+    },
+    {
+      "position": 7,
+      "placeId": "0x86bcd743eafcca4d:0xb24a93c76d751db7",
+      "name": "MC MOTORS, seminuevos, autos usados, autos en culiacan",
+      "rating": 4.2,
+      "reviewCount": 44,
+      "category": "Tienda de vehículos de segunda mano y de ocasión",
+      "categories": [
+        "Tienda de vehículos de segunda mano y de ocasión"
+      ],
+      "address": "Teresa Villegas, Esquina con Francisco la Bastida Ochoa (Malecón Nuevo) #85 pte, Desarrollo Urbano Tres Ríos, 80020 Culiacán Rosales, Sin.",
+      "phone": "6671055456",
+      "website": "https://www.seminuevosymas.com/sinaloa/culiacan/mcmotor/",
+      "coordinates": {
+        "lat": 24.8031889,
+        "lng": -107.4505919
+      },
+      "plusCode": "RJ73+P6 Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": true,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Nereiidha RochaLocal Guide · 11 opiniones · 2 fotos",
+          "rating": null,
+          "text": "Compre un carro y pedí pagarlo a un año, y me lo pusieron a 4 años, según se equivocaron y regresarían los papeles y tardarían 10 días creo y yo ya necesitaba el carro y asi lo dejé.. el carro valía 120 mil.. dejé 60 de enganche por lo… Más",
+          "date": "Editado Hace 9 meses"
+        },
+        {
+          "author": "Nereiidha RochaLocal Guide · 11 opiniones · 2 fotos",
+          "rating": null,
+          "text": "Compre un carro y pedí pagarlo a un año, y me lo pusieron a 4 años, según se equivocaron y regresarían los papeles y tardarían 10 días creo y yo ya necesitaba el carro y asi lo dejé.. el carro valía 120 mil.. dejé 60 de enganche por lo… Más",
+          "date": "Editado Hace 9 meses"
+        },
+        {
+          "author": "JANET MEDA GÁMIZLocal Guide · 119 opiniones · 20 fotos",
+          "rating": 5,
+          "text": "Autos y camionetas en excelentes condiciones, precios del mercado y te financian el crédito.",
+          "date": "Hace 7 años"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/MC+MOTORS,+seminuevos,+autos+usados,+autos+en+culiacan/@24.8031889,-107.4505919,14z/data=!4m11!1m3!2m2!1sAgencias+de+autos+en+Culiacan,+Mexico!6e6!3m6!1s0x86bcd743eafcca4d:0xb24a93c76d751db7!8m2!3d24.8142873!4d-107.3969842!15sCiVBZ2VuY2lhcyBkZSBhdXRvcyBlbiBDdWxpYWNhbiwgTWV4aWNvWiYiJGFnZW5jaWFzIGRlIGF1dG9zIGVuIGN1bGlhY2FuIG1leGljb5IBD3VzZWRfY2FyX2RlYWxlcpoBJENoZERTVWhOTUc5blMwVkpRMEZuU1VSS05YSjFaSGxCUlJBQuABAPoBBAgAEA0!16s%2Fg%2F11c55v9gcp?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": "facebook.com/seminuevosymas",
+        "twitter": "twitter.com/seminuevosymas",
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Agencias de autos",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T23:37:11.879Z"
+    },
+    {
+      "position": 8,
+      "placeId": "0x86bcdb3e9fea34c3:0x5d5ad169225cec17",
+      "name": "Skywell Culiacan",
+      "rating": 5,
+      "reviewCount": 44,
+      "category": null,
+      "categories": [],
+      "address": "Blvd. Francisco Labastida Ochoa 1109, La Lima, 80040 Culiacán Rosales, Sin.",
+      "phone": "6677121201",
+      "website": null,
+      "coordinates": {
+        "lat": 24.8031889,
+        "lng": -107.4505919
+      },
+      "plusCode": "RJFC+JW Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": true,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "MIBMF Carlos Alberto Rodríguez HernándezLocal Guide · 788 opiniones · 1,738 fotos",
+          "rating": 5,
+          "text": "Los mejores vehículos",
+          "date": "Hace 5 meses"
+        },
+        {
+          "author": "MIBMF Carlos Alberto Rodríguez HernándezLocal Guide · 788 opiniones · 1,738 fotos",
+          "rating": 5,
+          "text": "Los mejores vehículos",
+          "date": "Hace 5 meses"
+        },
+        {
+          "author": "Luis Castelo",
+          "rating": 5,
+          "text": "Gracias por su confianza y preferencia!!!",
+          "date": "Hace un año"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Skywell+Culiacan/@24.8031889,-107.4505919,14z/data=!4m11!1m3!2m2!1sAgencias+de+autos+en+Culiacan,+Mexico!6e6!3m6!1s0x86bcdb3e9fea34c3:0x5d5ad169225cec17!8m2!3d24.8241241!4d-107.3777057!15sCiVBZ2VuY2lhcyBkZSBhdXRvcyBlbiBDdWxpYWNhbiwgTWV4aWNvkgEQc21hcnRfY2FyX2RlYWxlcuABAA!16s%2Fg%2F11sv_70k7h?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Agencias de autos",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T23:37:16.388Z"
+    },
+    {
+      "position": 9,
+      "placeId": "0x86bcd0b98501be4f:0x12c629f9589900a3",
+      "name": "EuroCity S.A. de C.V.",
+      "rating": 4.3,
+      "reviewCount": 44,
+      "category": "Concesionario Volkswagen",
+      "categories": [
+        "Concesionario Volkswagen"
+      ],
+      "address": "Blvd. Emiliano Zapata 455 Pte, Guadalupe, 80220 Culiacán Rosales, Sin.",
+      "phone": "6677595555",
+      "website": "http://vw-eurocity.com.mx/",
+      "coordinates": {
+        "lat": 24.8241241,
+        "lng": -107.4158145
+      },
+      "plusCode": null,
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": true,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [],
+      "profileUrl": "https://www.google.com/maps/place/EuroCity+S.A.+de+C.V./@24.8241241,-107.4158145,14z/data=!4m11!1m3!2m2!1sAgencias+de+autos+en+Culiacan,+Mexico!6e6!3m6!1s0x86bcd0b98501be4f:0x12c629f9589900a3!8m2!3d24.7967359!4d-107.3989187!15sCiVBZ2VuY2lhcyBkZSBhdXRvcyBlbiBDdWxpYWNhbiwgTWV4aWNvWiYiJGFnZW5jaWFzIGRlIGF1dG9zIGVuIGN1bGlhY2FuIG1leGljb5IBEXZvbGtzd2FnZW5fZGVhbGVymgEkQ2hkRFNVaE5NRzluUzBWSlEwRm5TVVF0YzFwdVpXcDNSUkFC4AEA-gEECAAQSA!16s%2Fg%2F11rb0_zy1?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": "mi.nombre@ejemplo.com",
+      "allEmails": [
+        "mi.nombre@ejemplo.com",
+        "atencionaclientes@vw-eurocity.com.mx"
+      ],
+      "socialMedia": {
+        "instagram": "instagram.com/eurocityvw",
+        "facebook": "facebook.com/EuroCityZapata",
+        "twitter": null,
+        "whatsapp": "526671393504",
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": "tiktok.com/@eurocityvwzapata"
+      },
+      "searchQuery": {
+        "businessType": "Agencias de autos",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T23:37:19.294Z"
+    },
+    {
+      "position": 10,
+      "placeId": "0x86bcdb60b07f1da3:0xfb925f0ef8bd9596",
+      "name": "BYD Culiacán",
+      "rating": 4.9,
+      "reviewCount": 44,
+      "category": null,
+      "categories": [],
+      "address": "Blvrd Enrique Sánchez Alonso 1849, Desarrollo Urbano Tres Ríos, 80027 Culiacán Rosales, Sin.",
+      "phone": "6675020021",
+      "website": "https://bydsinaloa.com.mx/",
+      "coordinates": {
+        "lat": 24.7967359,
+        "lng": -107.4370275
+      },
+      "plusCode": "RHCX+7G Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": true,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Ana Cristina Hernández Castañeda3 opiniones",
+          "rating": 5,
+          "text": "Es una marca que en lo personal me encantan sus modelos.\nLa atención que recibí fue increíble por parte de los asesores !!\nGracias.",
+          "date": "2 semanas atrás Nueva"
+        },
+        {
+          "author": "Ana Cristina Hernández Castañeda3 opiniones",
+          "rating": 5,
+          "text": "Es una marca que en lo personal me encantan sus modelos.\nLa atención que recibí fue increíble por parte de los asesores !!\nGracias.",
+          "date": "2 semanas atrás Nueva"
+        },
+        {
+          "author": "Adrianelly Acosta Burgueño2 opiniones",
+          "rating": 5,
+          "text": "Desde el primer contacto el trato fue profesional y amable. El personal se tomó el tiempo de resolver todas mis dudas y asesorarme",
+          "date": "2 semanas atrás Nueva"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/BYD+Culiac%C3%A1n/@24.7967359,-107.4370275,14z/data=!4m11!1m3!2m2!1sAgencias+de+autos+en+Culiacan,+Mexico!6e6!3m6!1s0x86bcdb60b07f1da3:0xfb925f0ef8bd9596!8m2!3d24.8206929!4d-107.4011921!15sCiVBZ2VuY2lhcyBkZSBhdXRvcyBlbiBDdWxpYWNhbiwgTWV4aWNvWiYiJGFnZW5jaWFzIGRlIGF1dG9zIGVuIGN1bGlhY2FuIG1leGljb5IBEHNtYXJ0X2Nhcl9kZWFsZXKaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVTmZOWEV6VEZWQkVBReABAPoBBAgAEB0!16s%2Fg%2F11wvbt7hrn?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": "instagram.com/byd.delrincon",
+        "facebook": "facebook.com/BYDSinaloa",
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": "tiktok.com/@byd.delrincon"
+      },
+      "searchQuery": {
+        "businessType": "Agencias de autos",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T23:37:22.537Z"
+    },
+    {
+      "position": 11,
+      "placeId": "0x86bcd05dd83500b5:0x9dbfc1a4c5f426cd",
+      "name": "Premier Chevrolet Culiacán",
+      "rating": 4.5,
+      "reviewCount": 44,
+      "category": "Concesionario Chevrolet",
+      "categories": [
+        "Concesionario Chevrolet"
+      ],
+      "address": "Blvd. Pedro Infante 471, Desarrollo Urbano Tres Ríos, 80020 Culiacán Rosales, Sin.",
+      "phone": "6677585858",
+      "website": "https://www.chevroletpremierculiacan.com.mx/",
+      "coordinates": {
+        "lat": 24.7967359,
+        "lng": -107.4370275
+      },
+      "plusCode": "RH2P+Q6 Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": true,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Saul Agustin JimenezLocal Guide · 25 opiniones · 10 fotos",
+          "rating": 5,
+          "text": "Excelente atención, servicio rápido",
+          "date": "Hace 2 meses"
+        },
+        {
+          "author": "Saul Agustin JimenezLocal Guide · 25 opiniones · 10 fotos",
+          "rating": 5,
+          "text": "Excelente atención, servicio rápido",
+          "date": "Hace 2 meses"
+        },
+        {
+          "author": "Rafael Rangel ColinaLocal Guide · 264 opiniones · 512 fotos",
+          "rating": 4,
+          "text": "Aquí te dan buena atención al momento de querer comprar tu moto. Los asesores están al pendiente y te ofrecen las mejores ofertas posible. Se recomienda de manera general como un lugar para adquirir tu medio de transporte de dos ruedas. Tambien, tienen buenos precios y modelos muy a la moda e utilit",
+          "date": "Hace 6 años"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Premier+Chevrolet+Culiac%C3%A1n/@24.7967359,-107.4370275,14z/data=!4m11!1m3!2m2!1sAgencias+de+autos+en+Culiacan,+Mexico!6e6!3m6!1s0x86bcd05dd83500b5:0x9dbfc1a4c5f426cd!8m2!3d24.801928!4d-107.4144907!15sCiVBZ2VuY2lhcyBkZSBhdXRvcyBlbiBDdWxpYWNhbiwgTWV4aWNvWiYiJGFnZW5jaWFzIGRlIGF1dG9zIGVuIGN1bGlhY2FuIG1leGljb5IBEGNoZXZyb2xldF9kZWFsZXKaASRDaGREU1VoTk1HOW5TMFZKUTBGblNVTkNiVFZUTjNGUlJSQULgAQD6AQQIABA_!16s%2Fg%2F1td2my4p?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": "instagram.com/accounts",
+        "facebook": "facebook.com/Chevrolet.GrupoPremier",
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Agencias de autos",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T23:37:26.624Z"
+    },
+    {
+      "position": 12,
+      "placeId": "0x86bcd9006d529781:0x4fcd99f3b29ab0f9",
+      "name": "Culiacán Motors, S.A. de C.V. (CHEVROLET)",
+      "rating": 4.3,
+      "reviewCount": 44,
+      "category": "Concesionario de automóviles",
+      "categories": [
+        "Concesionario de automóviles"
+      ],
+      "address": "Blvd. Emiliano Zapata No. 1999-Pte, El Vallado, 80110 Culiacán Rosales, Sin.",
+      "phone": "6677580000",
+      "website": "http://www.chevroletculiacanmotors.com.mx/",
+      "coordinates": {
+        "lat": 24.8260362,
+        "lng": -107.4139136
+      },
+      "plusCode": null,
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": true,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [],
+      "profileUrl": "https://www.google.com/maps/place/agencia+china+de+autos/@24.8260362,-107.4139136,14z/data=!4m11!1m3!2m2!1sAgencias+de+autos+en+Culiacan,+Mexico!6e6!3m6!1s0x86bcd9006d529781:0x4fcd99f3b29ab0f9!8m2!3d24.8260362!4d-107.3758048!15sCiVBZ2VuY2lhcyBkZSBhdXRvcyBlbiBDdWxpYWNhbiwgTWV4aWNvkgERY2FyX3JlbnRhbF9hZ2VuY3ngAQA!16s%2Fg%2F11ycgvn2yd?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": "526677580001",
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Agencias de autos",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T23:37:32.288Z"
+    },
+    {
+      "position": 13,
+      "placeId": "0x86bcd063c37b090b:0x84ce2f3595082a27",
+      "name": "Hyundai Premier Culiacán",
+      "rating": 4.5,
+      "reviewCount": 44,
+      "category": "Concesionario Hyundai",
+      "categories": [
+        "Concesionario Hyundai"
+      ],
+      "address": "Blvd. Pedro Infante 2589, Col. Country Tres Ríos, 80107 Culiacán Rosales, Sin.",
+      "phone": "6678463000",
+      "website": "https://hyundaidistribuidor.com.mx/premier",
+      "coordinates": {
+        "lat": 24.7927776,
+        "lng": -107.4544898
+      },
+      "plusCode": "QHV7+FF Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": true,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Jose guadalupe Reyes liñan6 opiniones",
+          "rating": null,
+          "text": "Una basura de carros, el gerente nunca soluciona nada, se esperaron que pasará el tiempo de garantía para no responderme 5 años casi 200 mil pesos en piezas y nunca sabían que tenía el carro, y nunca quedó bien, pésima agencia, se gastaban toda la.gasolina en revisiones, me dejaban dias sin el carro",
+          "date": "Hace un mes"
+        },
+        {
+          "author": "Jose guadalupe Reyes liñan6 opiniones",
+          "rating": null,
+          "text": "Una basura de carros, el gerente nunca soluciona nada, se esperaron que pasará el tiempo de garantía para no responderme 5 años casi 200 mil pesos en piezas y nunca sabían que tenía el carro, y nunca quedó bien, pésima agencia, se gastaban toda la.gasolina en revisiones, me dejaban dias sin el carro",
+          "date": "Hace un mes"
+        },
+        {
+          "author": "Alejandro Alarcon6 opiniones · 10 fotos",
+          "rating": 3,
+          "text": "No siempre hay alguien para atenderte a cualquier hora en especial si hay alguna junta de personal.",
+          "date": "2 semanas atrás Nueva"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Hyundai+Premier+Culiac%C3%A1n/@24.7927776,-107.4544898,14z/data=!3m1!5s0x86bcd063c3e55613:0xc6f04dbae7718a7!4m11!1m3!2m2!1sAgencias+de+autos+en+Culiacan,+Mexico!6e6!3m6!1s0x86bcd063c37b090b:0x84ce2f3595082a27!8m2!3d24.793722!4d-107.436293!15sCiVBZ2VuY2lhcyBkZSBhdXRvcyBlbiBDdWxpYWNhbiwgTWV4aWNvWiYiJGFnZW5jaWFzIGRlIGF1dG9zIGVuIGN1bGlhY2FuIG1leGljb5IBDmh5dW5kYWlfZGVhbGVymgEkQ2hkRFNVaE5NRzluUzBWSlEwRm5TVU5YYjNGNmFqRm5SUkFC4AEA-gEECAAQSg!16s%2Fg%2F11b7v_rkzk?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": "instagram.com/hyundaipremieroficial",
+        "facebook": "facebook.com/tr",
+        "twitter": null,
+        "whatsapp": "5216676173608",
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Agencias de autos",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T23:37:35.405Z"
+    },
+    {
+      "position": 14,
+      "placeId": "0x86bcd09095c4356d:0x5835b88ce8361c33",
+      "name": "Mazda Culiacán",
+      "rating": 4.3,
+      "reviewCount": 44,
+      "category": "Concesionario Mazda",
+      "categories": [
+        "Concesionario Mazda"
+      ],
+      "address": "Blvd. Pedro Infante Poniente 2619, Desarrollo Urbano Tres Ríos, 80020 Culiacán Rosales, Sin.",
+      "phone": "6677588855",
+      "website": "https://www.mazda.mx/distribuidores/mazda-culiacan/visitanos",
+      "coordinates": {
+        "lat": 24.7927776,
+        "lng": -107.4544898
+      },
+      "plusCode": "QHXJ+J3 Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": true,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Jorge GastelumLocal Guide · 86 opiniones · 107 fotos",
+          "rating": 3,
+          "text": "Todo bien. Solo los. Guardias de la entrada de servicio son medio ojetes. No tienen el febido respeto , ni el mas mínimo tacto de servicio a cliente",
+          "date": "una semana atrás Nueva"
+        },
+        {
+          "author": "Jorge GastelumLocal Guide · 86 opiniones · 107 fotos",
+          "rating": 3,
+          "text": "Todo bien. Solo los. Guardias de la entrada de servicio son medio ojetes. No tienen el febido respeto , ni el mas mínimo tacto de servicio a cliente",
+          "date": "una semana atrás Nueva"
+        },
+        {
+          "author": "Carlos RodriguezLocal Guide · 58 opiniones · 1,573 fotos",
+          "rating": 5,
+          "text": "Buen servicio, excelente atención...\n\nPS: perfecto que en esta sucursal si sea gratis el café para los visitantes ⭐⭐⭐⭐⭐",
+          "date": "Hace 8 meses"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Mazda+Culiac%C3%A1n/@24.7927776,-107.4544898,14z/data=!3m1!5s0x86bcd0902263b4af:0xa286f50942bc871c!4m11!1m3!2m2!1sAgencias+de+autos+en+Culiacan,+Mexico!6e6!3m6!1s0x86bcd09095c4356d:0x5835b88ce8361c33!8m2!3d24.7990662!4d-107.4197992!15sCiVBZ2VuY2lhcyBkZSBhdXRvcyBlbiBDdWxpYWNhbiwgTWV4aWNvWiYiJGFnZW5jaWFzIGRlIGF1dG9zIGVuIGN1bGlhY2FuIG1leGljb5IBDG1hemRhX2RlYWxlcpoBJENoZERTVWhOTUc5blMwVkpRMEZuU1VObGRrOVBOM1JSUlJBQuABAPoBBAgAECo!16s%2Fg%2F1tgxt_4j?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": "ssoto@mazdaculiacan.com",
+      "allEmails": [
+        "ssoto@mazdaculiacan.com",
+        "mktdigital@mazdaculiacan.com"
+      ],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": "facebook.com/mazda.culiacan",
+        "twitter": null,
+        "whatsapp": "526674672828",
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Agencias de autos",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T23:37:39.210Z"
+    },
+    {
+      "position": 15,
+      "placeId": "0x86bcda10db795a41:0xd42c382bb8419de9",
+      "name": "Honda Tres Ríos",
+      "rating": 4.3,
+      "reviewCount": 44,
+      "category": "Concesionario Honda",
+      "categories": [
+        "Concesionario Honda"
+      ],
+      "address": "Blvrd Enrique Sánchez Alonso 1863, Desarrollo Urbano Tres Ríos, 80020 Culiacán Rosales, Sin.",
+      "phone": "6677131555",
+      "website": "https://hondavision.com.mx/",
+      "coordinates": {
+        "lat": 24.7927776,
+        "lng": -107.4544898
+      },
+      "plusCode": "RHCX+5H Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": true,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Goran RothLocal Guide · 197 opiniones · 1,031 fotos",
+          "rating": 4,
+          "text": "Recientemente visité la agencia de vehículos HONDA, sucursal VISION en Tres Ríos, Culiacán, y tuve una experiencia excelente. Desde el momento en que llegué, el personal fue muy amable y atento. Me ofrecieron información detallada sobre los… Más",
+          "date": "Hace un año"
+        },
+        {
+          "author": "Goran RothLocal Guide · 197 opiniones · 1,031 fotos",
+          "rating": 4,
+          "text": "Recientemente visité la agencia de vehículos HONDA, sucursal VISION en Tres Ríos, Culiacán, y tuve una experiencia excelente. Desde el momento en que llegué, el personal fue muy amable y atento. Me ofrecieron información detallada sobre los… Más",
+          "date": "Hace un año"
+        },
+        {
+          "author": "Kosmhe HernandezLocal Guide · 71 opiniones · 39 fotos",
+          "rating": 5,
+          "text": "Excelente servicio. Programación de cita sin problemas, atención rápida y atenta. Muy recomendado.",
+          "date": "Hace 5 años"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Honda+Tres+R%C3%ADos/@24.7927776,-107.4544898,14z/data=!3m1!5s0x86bcda0eb5b3c375:0x8b1288818d7e4823!4m11!1m3!2m2!1sAgencias+de+autos+en+Culiacan,+Mexico!6e6!3m6!1s0x86bcda10db795a41:0xd42c382bb8419de9!8m2!3d24.8204213!4d-107.4010915!15sCiVBZ2VuY2lhcyBkZSBhdXRvcyBlbiBDdWxpYWNhbiwgTWV4aWNvWiYiJGFnZW5jaWFzIGRlIGF1dG9zIGVuIGN1bGlhY2FuIG1leGljb5IBDGhvbmRhX2RlYWxlcpoBJENoZERTVWhOTUc5blMwVkpRMEZuU1VOUGRFeDZTbXgzUlJBQuABAPoBBAgAEBE!16s%2Fg%2F1tl1nwx7?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": "leads@tresrios.hondavision.com.mx",
+      "allEmails": [
+        "leads@tresrios.hondavision.com.mx",
+        "mercadotecnia@hondavision.com.mx",
+        "admon.servicios@tresrios.hondavision.com.mx",
+        "kozuna@exagono.net",
+        "respinoza@seminuevos.hondavision.com.mx",
+        "avalenzuela@tresrios.hondavision.com.mx",
+        "operegrina@tresrios.hondavision.com.mx",
+        "eojeda@tresrios.hondavision.com.mx",
+        "leads@aurea.hondavision.com.mX",
+        "leads@aurea.hondavision.com.mx",
+        "cph@aurea.hondavision.com.mx",
+        "dmartinez@seminuevos.hondavision.com.mx",
+        "miguel.zepeda.hsr@hondavision.com.mx",
+        "amoran@aurea.hondavision.com.mx",
+        "julian.crespo.10113@amecah.com.mx",
+        "leads@mochis.hondavision.com.mx",
+        "admon.servicios@mochis.hondavision.com.mx",
+        "sodelva.acosta.10071@amecah.com.mx",
+        "gilberto.flores.10071@amecah.com.mx",
+        "mauricio.felix.10071@amecah.com.mx",
+        "mercadotecnia@pacifico.hondavision.com.mx",
+        "leads@pacifico.hondavision.com.mx",
+        "cph@pacifico.hondavision.com.mx",
+        "rguinto@pacifico.hondavision.com.mx",
+        "lcamacho@pacifico.hondavision.com.mx",
+        "refacciones@pacifico.hondavision.com.mx",
+        "mi.nombre@ejemplo.com"
+      ],
+      "socialMedia": {
+        "instagram": "instagram.com/hondavisionoficial",
+        "facebook": "facebook.com/hondavisionsinaloa",
+        "twitter": null,
+        "whatsapp": "5216675708177",
+        "linkedin": null,
+        "youtube": "youtube.com/user/hondademexico",
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Agencias de autos",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T23:37:42.026Z"
+    },
+    {
+      "position": 16,
+      "placeId": "0x86bcd159857c3845:0x62ce8537c8dcb806",
+      "name": "INFINITI Culiacán",
+      "rating": 5,
+      "reviewCount": 44,
+      "category": "Concesionario Infiniti",
+      "categories": [
+        "Concesionario Infiniti"
+      ],
+      "address": "Blvd. Pedro Infante 2301, JARDINES, Desarrollo Urbano Tres Ríos, 80100 Culiacán Rosales, Sin.",
+      "phone": "6677960040",
+      "website": "https://infiniticuliacan.mx/",
+      "coordinates": {
+        "lat": 24.7927776,
+        "lng": -107.4544898
+      },
+      "plusCode": "RH3P+9P Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": true,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "JUAN MANUEL LOPEZ MARTINEZ1 opinión · 7 fotos",
+          "rating": 5,
+          "text": "La calidad y elegancia de sus vehículos superan las expectativas. El diseño innovador, la tecnología avanzada y el rendimiento impresionante hacen que cada viaje sea un placer.",
+          "date": "Hace un año"
+        },
+        {
+          "author": "JUAN MANUEL LOPEZ MARTINEZ1 opinión · 7 fotos",
+          "rating": 5,
+          "text": "La calidad y elegancia de sus vehículos superan las expectativas. El diseño innovador, la tecnología avanzada y el rendimiento impresionante hacen que cada viaje sea un placer.",
+          "date": "Hace un año"
+        },
+        {
+          "author": "Briana Arlin Lopez Gonzalez2 opiniones",
+          "rating": 5,
+          "text": "Excelente lugar, me encanta la marca y ame mi camioneta!!",
+          "date": "Hace un año"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/INFINITI+Culiac%C3%A1n/@24.7927776,-107.4544898,14z/data=!4m11!1m3!2m2!1sAgencias+de+autos+en+Culiacan,+Mexico!6e6!3m6!1s0x86bcd159857c3845:0x62ce8537c8dcb806!8m2!3d24.8034729!4d-107.4131439!15sCiVBZ2VuY2lhcyBkZSBhdXRvcyBlbiBDdWxpYWNhbiwgTWV4aWNvWiYiJGFnZW5jaWFzIGRlIGF1dG9zIGVuIGN1bGlhY2FuIG1leGljb5IBD2luZmluaXRpX2RlYWxlcpoBJENoZERTVWhOTUc5blMwVkpRMEZuU1VSWU5rMWlVbmxCUlJBQuABAPoBBAgAEDk!16s%2Fg%2F11w3m19spj?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": "instagram.com/infiniti.sinaloa",
+        "facebook": "facebook.com/profile.php",
+        "twitter": null,
+        "whatsapp": "526677960040",
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": "tiktok.com/@infiniti.sinaloa"
+      },
+      "searchQuery": {
+        "businessType": "Agencias de autos",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T23:37:46.227Z"
+    },
+    {
+      "position": 17,
+      "placeId": "0x86bcd090abb6f615:0xfd385e1f30358b7b",
+      "name": "Volkswagen Tres Rios Motors S.A. de C.v.",
+      "rating": 4.4,
+      "reviewCount": 44,
+      "category": "Concesionario Volkswagen",
+      "categories": [
+        "Concesionario Volkswagen"
+      ],
+      "address": "Blvd. Pedro Infante 2575, Desarrollo Urbano Tres Ríos, 80020 Culiacán Rosales, Sin.",
+      "phone": "6678465353",
+      "website": "http://www.vw-tresriosmotors.com.mx/",
+      "coordinates": {
+        "lat": 24.7927776,
+        "lng": -107.4544898
+      },
+      "plusCode": "QHXJ+QP Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": true,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "julio cesar garciaLocal Guide · 40 opiniones · 85 fotos",
+          "rating": 4,
+          "text": "-El nombre de mi vendedor fue Julian sujeto agradable siempre me hablo con la verdad (respecto a tiempos de entrega y disponibilidad) super atento, las oficinas si bien en la atención a cliente es algo pequeño practicamente es como un… Más",
+          "date": "Hace 2 años"
+        },
+        {
+          "author": "julio cesar garciaLocal Guide · 40 opiniones · 85 fotos",
+          "rating": 4,
+          "text": "-El nombre de mi vendedor fue Julian sujeto agradable siempre me hablo con la verdad (respecto a tiempos de entrega y disponibilidad) super atento, las oficinas si bien en la atención a cliente es algo pequeño practicamente es como un… Más",
+          "date": "Hace 2 años"
+        },
+        {
+          "author": "Eduardo Gutierrez CastroLocal Guide · 366 opiniones · 2,736 fotos",
+          "rating": 5,
+          "text": "Excelente atención área de ventas,muy amables,muy buena información.",
+          "date": "Hace 3 años"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Volkswagen+Tres+Rios+Motors+S.A.+de+C.v./@24.7927776,-107.4544898,14z/data=!3m1!5s0x86bcd09067dede79:0x746871d9a74080db!4m11!1m3!2m2!1sAgencias+de+autos+en+Culiacan,+Mexico!6e6!3m6!1s0x86bcd090abb6f615:0xfd385e1f30358b7b!8m2!3d24.7994169!4d-107.4181581!15sCiVBZ2VuY2lhcyBkZSBhdXRvcyBlbiBDdWxpYWNhbiwgTWV4aWNvWiYiJGFnZW5jaWFzIGRlIGF1dG9zIGVuIGN1bGlhY2FuIG1leGljb5IBEXZvbGtzd2FnZW5fZGVhbGVymgEjQ2haRFNVaE5NRzluUzBWSlEwRm5TVVJvZURSaVZVWm5FQUXgAQD6AQQIABAo!16s%2Fg%2F1tp8_gy4?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": "mi.nombre@ejemplo.com",
+      "allEmails": [
+        "mi.nombre@ejemplo.com",
+        "protecciondedatos@vw-tresriosmotors.com.mx"
+      ],
+      "socialMedia": {
+        "instagram": "instagram.com/volkswagentrm",
+        "facebook": "facebook.com/TresRiosMotorsVW",
+        "twitter": "twitter.com/VWTresRios",
+        "whatsapp": "526675831516",
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": "tiktok.com/@tresriosmotorsclnvw"
+      },
+      "searchQuery": {
+        "businessType": "Agencias de autos",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T23:37:50.072Z"
+    },
+    {
+      "position": 18,
+      "placeId": "0x86bcd0b102a818e3:0xaa31d5e7a1069458",
+      "name": "Nova Renta De Autos",
+      "rating": 4.7,
+      "reviewCount": 44,
+      "category": "Agencia de alquiler de coches",
+      "categories": [
+        "Agencia de alquiler de coches"
+      ],
+      "address": "Blvd. Francisco I. Madero 54, Primer Cuadro, 80000 Culiacán Rosales, Sin.",
+      "phone": "6677132262",
+      "website": "http://novarentacar.com.mx/",
+      "coordinates": {
+        "lat": 24.7927776,
+        "lng": -107.4544898
+      },
+      "plusCode": "RJ34+PG Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": true,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Jacquelin Carr6 opiniones · 1 foto",
+          "rating": 5,
+          "text": "Excelente! Honestamente esta compañía es mucho mejor que el resto de las compañías de renta de autos. Fueron bastante rápidos , amables y muy atentos. Se comunicaron para saber si necesitamos que alguien nos recogiera en el aeropuerto… Más",
+          "date": "Hace 3 años"
+        },
+        {
+          "author": "Jacquelin Carr6 opiniones · 1 foto",
+          "rating": 5,
+          "text": "Excelente! Honestamente esta compañía es mucho mejor que el resto de las compañías de renta de autos. Fueron bastante rápidos , amables y muy atentos. Se comunicaron para saber si necesitamos que alguien nos recogiera en el aeropuerto… Más",
+          "date": "Hace 3 años"
+        },
+        {
+          "author": "Hector Najar11 opiniones",
+          "rating": 5,
+          "text": "Precio justo, sin cargo ocultos. Iba entregarlo en Domingo a mediodia. Hablè para ver si podia entregarlo en la noche para ir a la playa. Que no habîa problema. Que nomàs les diera una hora exacta de entrega. Esperaba un cargo muy grande… Más",
+          "date": "Editado Hace 2 años"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Nova+Renta+De+Autos/@24.7927776,-107.4544898,14z/data=!4m11!1m3!2m2!1sAgencias+de+autos+en+Culiacan,+Mexico!6e6!3m6!1s0x86bcd0b102a818e3:0xaa31d5e7a1069458!8m2!3d24.8043459!4d-107.3936381!15sCiVBZ2VuY2lhcyBkZSBhdXRvcyBlbiBDdWxpYWNhbiwgTWV4aWNvWiYiJGFnZW5jaWFzIGRlIGF1dG9zIGVuIGN1bGlhY2FuIG1leGljb5IBEWNhcl9yZW50YWxfYWdlbmN5mgEkQ2hkRFNVaE5NRzluUzBWSlEwRm5TVU40Tm1GdVdIUlJSUkFC4AEA-gEECAAQMQ!16s%2Fg%2F1tf_1j1p?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": "ventas@novarentacar.com.mx",
+      "allEmails": [
+        "ventas@novarentacar.com.mx"
+      ],
+      "socialMedia": {
+        "instagram": "instagram.com/novarentacar",
+        "facebook": "facebook.com/novarentacar",
+        "twitter": "x.com/NovaRentCarMX",
+        "whatsapp": "526681037090",
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Agencias de autos",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T23:37:54.804Z"
+    },
+    {
+      "position": 19,
+      "placeId": "0x86bcd7357f7b877b:0x9cc1829ad7373f5",
+      "name": "Seminuevos Delgado",
+      "rating": 4.7,
+      "reviewCount": 44,
+      "category": "Concesionario de automóviles",
+      "categories": [
+        "Concesionario de automóviles"
+      ],
+      "address": "Av Revolución No.1082, Guadalupe Victoria, 80240 Culiacán Rosales, Sin.",
+      "phone": "6671539223",
+      "website": null,
+      "coordinates": {
+        "lat": 24.8043459,
+        "lng": -107.4317469
+      },
+      "plusCode": "QJWM+5P Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": true,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "jaime rafael rodriguez guevaraLocal Guide · 70 opiniones",
+          "rating": 3,
+          "text": "Podemos decir que cuenta con un surtido de vehículos amplió, solo hay que darnos, la oportunidad, para conocerlos y decidir, si vale la pena, de acuerdo ha nuestras necesidades.",
+          "date": "Hace 4 años"
+        },
+        {
+          "author": "jaime rafael rodriguez guevaraLocal Guide · 70 opiniones",
+          "rating": 3,
+          "text": "Podemos decir que cuenta con un surtido de vehículos amplió, solo hay que darnos, la oportunidad, para conocerlos y decidir, si vale la pena, de acuerdo ha nuestras necesidades.",
+          "date": "Hace 4 años"
+        },
+        {
+          "author": "Blas ValenzuelaLocal Guide · 222 opiniones · 48 fotos",
+          "rating": 5,
+          "text": "Enorme cantidad y variedad de modelos recientes, en excelentes condiciones. Además, una atención de primera. Recomendables.",
+          "date": "Hace 3 años"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Seminuevos+Delgado/@24.8043459,-107.4317469,14z/data=!4m11!1m3!2m2!1sAgencias+de+autos+en+Culiacan,+Mexico!6e6!3m6!1s0x86bcd7357f7b877b:0x9cc1829ad7373f5!8m2!3d24.7954483!4d-107.3656923!15sCiVBZ2VuY2lhcyBkZSBhdXRvcyBlbiBDdWxpYWNhbiwgTWV4aWNvWiYiJGFnZW5jaWFzIGRlIGF1dG9zIGVuIGN1bGlhY2FuIG1leGljb5IBFG1vdG9yX3ZlaGljbGVfZGVhbGVymgEgQ2hSRFNVaE5NRzluUzBWSlEwRm5TVVF0ZHpVMGVSQULgAQD6AQQIABA5!16s%2Fg%2F11f6ks09x3?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Agencias de autos",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T23:37:57.612Z"
+    },
+    {
+      "position": 20,
+      "placeId": "0x86bcd09040f821f7:0x275035462c0029b9",
+      "name": "RAM Peugeot Professional BOURS",
+      "rating": 4,
+      "reviewCount": 44,
+      "category": "Concesionario Peugeot",
+      "categories": [
+        "Concesionario Peugeot"
+      ],
+      "address": "Blvd. Pedro Infante No. 2598, Fracc, Blvd. Pedro Infante 2598 - A, Desarrollo Urbano Tres Ríos, 80020 Culiacán Rosales, Sin.",
+      "phone": "6677588844",
+      "website": null,
+      "coordinates": {
+        "lat": 24.7954483,
+        "lng": -107.4038011
+      },
+      "plusCode": "QHXJ+M7 Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": true,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "aida lillian valenzuela lizarraga1 opinión",
+          "rating": null,
+          "text": "No me vine satisfecha,  ya que me informaron que mi auto perdió la garantía,  lo adquirí  el 30 de septiembre  del 2017  es modelo 2018,  según la fecha que tiene  el manual Es el 30  de septiembre del 2020.  Desde  el sábado 29 informe por… Más",
+          "date": "Hace 6 años"
+        },
+        {
+          "author": "aida lillian valenzuela lizarraga1 opinión",
+          "rating": null,
+          "text": "No me vine satisfecha,  ya que me informaron que mi auto perdió la garantía,  lo adquirí  el 30 de septiembre  del 2017  es modelo 2018,  según la fecha que tiene  el manual Es el 30  de septiembre del 2020.  Desde  el sábado 29 informe por… Más",
+          "date": "Hace 6 años"
+        },
+        {
+          "author": "Ramón OjedaLocal Guide · 589 opiniones · 1,198 fotos",
+          "rating": 4,
+          "text": "Realice la visita para hacer una cotización de un vehículo, la marca no es muy popular en México así que dentro del concesionario no había ningún cliente. La atención fue muy buena y rápida, apenas iba cruzando la puerta y ya hasta agua me… Más",
+          "date": "Hace 5 años"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/RAM+Peugeot+Professional+BOURS/@24.7954483,-107.4038011,14z/data=!3m1!5s0x86bcd09017d1fab1:0x9239ad68c89273ce!4m11!1m3!2m2!1sAgencias+de+autos+en+Culiacan,+Mexico!6e6!3m6!1s0x86bcd09040f821f7:0x275035462c0029b9!8m2!3d24.7992425!4d-107.4193592!15sCiVBZ2VuY2lhcyBkZSBhdXRvcyBlbiBDdWxpYWNhbiwgTWV4aWNvWiYiJGFnZW5jaWFzIGRlIGF1dG9zIGVuIGN1bGlhY2FuIG1leGljb5IBDnBldWdlb3RfZGVhbGVymgEkQ2hkRFNVaE5NRzluUzBWSlEwRm5TVU4xTUZwNVVpMVJSUkFC4AEA-gEECAAQOg!16s%2Fg%2F11d_bkrbbb?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Agencias de autos",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T23:37:59.620Z"
+    },
+    {
+      "position": 21,
+      "placeId": "0x86bcd128d3da82c3:0x24dcd0d944c48ef4",
+      "name": "MG Culiacán",
+      "rating": 4.1,
+      "reviewCount": 44,
+      "category": "Concesionario de automóviles",
+      "categories": [
+        "Concesionario de automóviles"
+      ],
+      "address": "Blvd. Pedro Infante 2551, Desarrollo Urbano Tres Ríos, 80020 Culiacán Rosales, Sin.",
+      "phone": "6675995000",
+      "website": "https://www.mgmotor.com.mx/mg-culiacan",
+      "coordinates": {
+        "lat": 24.7992425,
+        "lng": -107.457468
+      },
+      "plusCode": "RH2M+4R Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": true,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Montserrat ZertucheLocal Guide · 21 opiniones · 33 fotos",
+          "rating": null,
+          "text": "Si pudiera le daría cero estrellas a la MG.\nSe desprograman, fallan las pantallas, se desgastan por baja calidad amortiguadores, bujías y demás; usan agua en vez del liquido correspondiente para rellenar… Más",
+          "date": "Hace 3 meses"
+        },
+        {
+          "author": "Montserrat ZertucheLocal Guide · 21 opiniones · 33 fotos",
+          "rating": null,
+          "text": "Si pudiera le daría cero estrellas a la MG.\nSe desprograman, fallan las pantallas, se desgastan por baja calidad amortiguadores, bujías y demás; usan agua en vez del liquido correspondiente para rellenar… Más",
+          "date": "Hace 3 meses"
+        },
+        {
+          "author": "Rafael GalindoLocal Guide · 26 opiniones · 1 foto",
+          "rating": null,
+          "text": "Me autorizaron supuestamente, firme contratos y llegó la unidad, la atención del vendedor pésima, no me contestaba Wp y para rematar tuve que ir dos veces a la agencia y al final me dijeron que había error y resultó que la financiera no pudo proceder con el crédito por que? Quien sabe no 👎 me dijer",
+          "date": "Hace 2 años"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/MG+Culiac%C3%A1n/@24.7992425,-107.457468,14z/data=!4m11!1m3!2m2!1sAgencias+de+autos+en+Culiacan,+Mexico!6e6!3m6!1s0x86bcd128d3da82c3:0x24dcd0d944c48ef4!8m2!3d24.8003049!4d-107.4154732!15sCiVBZ2VuY2lhcyBkZSBhdXRvcyBlbiBDdWxpYWNhbiwgTWV4aWNvWiYiJGFnZW5jaWFzIGRlIGF1dG9zIGVuIGN1bGlhY2FuIG1leGljb5IBCmNhcl9kZWFsZXKaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVTXhjMUIyUWtsQkVBReABAPoBBAgAECU!16s%2Fg%2F11s7mdztkd?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": "contacto@mg-culiacan.com.mx",
+      "allEmails": [
+        "contacto@mg-culiacan.com.mx"
+      ],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Agencias de autos",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T23:38:03.736Z"
+    },
+    {
+      "position": 22,
+      "placeId": "0x86bcd0b6c6219031:0x5917ec807123975c",
+      "name": "Comercial Automotriz Del Noroeste",
+      "rating": 4.4,
+      "reviewCount": 44,
+      "category": "Concesionario Nissan",
+      "categories": [
+        "Concesionario Nissan"
+      ],
+      "address": "Blvd. Emiliano Zapata #156 Ote. Esq. Con R. Paliza, Guadalupe, 80220 Culiacán Rosales, Sin.",
+      "phone": "6677164626",
+      "website": "https://www.nissan.com.mx/",
+      "coordinates": {
+        "lat": 24.7992425,
+        "lng": -107.457468
+      },
+      "plusCode": "QJW4+WX Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": true,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "revb revb3 opiniones",
+          "rating": null,
+          "text": "Sufrí acoso por parte de 2 trabajadores ,al parecer lavadores de vehículos de esta empresa al transitar por el lugar (2 jóvenes de un aproximado de 20/25 años de edad)",
+          "date": "Hace un año"
+        },
+        {
+          "author": "revb revb3 opiniones",
+          "rating": null,
+          "text": "Sufrí acoso por parte de 2 trabajadores ,al parecer lavadores de vehículos de esta empresa al transitar por el lugar (2 jóvenes de un aproximado de 20/25 años de edad)",
+          "date": "Hace un año"
+        },
+        {
+          "author": "Remberto Castro PerezLocal Guide · 28 opiniones · 2 fotos",
+          "rating": 5,
+          "text": "Ya lo dije una vez y lo vuelvo a repetir tienen un servicio excelente de 100 muy atentos los que reciben los vehículos y Los mecánicos lo entregaron impecable a la hora que le dicen que está listo le llaman por teléfono para que uno lo recoja qué más puedo decir plassa Nissan es de mucha confianza",
+          "date": "Hace 5 años"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Comercial+Automotriz+Del+Noroeste/@24.7992425,-107.457468,14z/data=!4m11!1m3!2m2!1sAgencias+de+autos+en+Culiacan,+Mexico!6e6!3m6!1s0x86bcd0b6c6219031:0x5917ec807123975c!8m2!3d24.7973463!4d-107.3925443!15sCiVBZ2VuY2lhcyBkZSBhdXRvcyBlbiBDdWxpYWNhbiwgTWV4aWNvWiYiJGFnZW5jaWFzIGRlIGF1dG9zIGVuIGN1bGlhY2FuIG1leGljb5IBDW5pc3Nhbl9kZWFsZXKaASRDaGREU1VoTk1HOW5TMFZKUTBGblNVTjFjQzFUYkhSM1JSQULgAQD6AQQIExAS!16s%2Fg%2F11h0b5wvf9?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": "instagram.com/nissan_mx",
+        "facebook": "facebook.com/nissanmx",
+        "twitter": "twitter.com/nissan_mx",
+        "whatsapp": "5215544948671",
+        "linkedin": null,
+        "youtube": "youtube.com/channel/UCewQIJJnaKcu1CcOHwluXdQ",
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Agencias de autos",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T23:38:06.372Z"
+    },
+    {
+      "position": 23,
+      "placeId": "0x86bcd11346b6408b:0x81baec1cb798d9cb",
+      "name": "BYD Congreso Culiacán",
+      "rating": 4.8,
+      "reviewCount": 44,
+      "category": "Concesionario de automóviles",
+      "categories": [
+        "Concesionario de automóviles"
+      ],
+      "address": "Blvd. Pedro Infante 2301, Congreso del Estado, 80100 Culiacán Rosales, Sin.",
+      "phone": "6677398640",
+      "website": "https://bydpremier.com.mx/",
+      "coordinates": {
+        "lat": 24.7973463,
+        "lng": -107.4306531
+      },
+      "plusCode": "RH3P+4V Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [
+        "Amigable con LGBTQ+"
+      ],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": true,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Francisco Quiroa1 opinión",
+          "rating": null,
+          "text": "Pésimo atención al cliente, al momento de entregarme el vehículo (BYD KING) quedaron de entregarme el día jueves, me lo entregaron el día viernes me citan para entregarme y al momento de llegar me dicen que no, que porque estaba llena la… Más",
+          "date": "Hace 6 meses"
+        },
+        {
+          "author": "Francisco Quiroa1 opinión",
+          "rating": null,
+          "text": "Pésimo atención al cliente, al momento de entregarme el vehículo (BYD KING) quedaron de entregarme el día jueves, me lo entregaron el día viernes me citan para entregarme y al momento de llegar me dicen que no, que porque estaba llena la… Más",
+          "date": "Hace 6 meses"
+        },
+        {
+          "author": "luis alberto ibarra peñuelas2 opiniones · 3 fotos",
+          "rating": null,
+          "text": "La peor compra que he hecho y pésimo servicio. Al mes de uso se me descompuso mi song pro y es hora que no me resuelven tiene un mes dos semanas la camioneta ingresada y no son ni para regalarme una llamada para comunicarme cómo va… Más",
+          "date": "Hace 7 meses"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/BYD+Congreso+Culiac%C3%A1n/@24.7973463,-107.4306531,14z/data=!4m11!1m3!2m2!1sAgencias+de+autos+en+Culiacan,+Mexico!6e6!3m6!1s0x86bcd11346b6408b:0x81baec1cb798d9cb!8m2!3d24.802819!4d-107.4128551!15sCiVBZ2VuY2lhcyBkZSBhdXRvcyBlbiBDdWxpYWNhbiwgTWV4aWNvWiYiJGFnZW5jaWFzIGRlIGF1dG9zIGVuIGN1bGlhY2FuIG1leGljb5IBCmNhcl9kZWFsZXKaASRDaGREU1VoTk1HOW5TMFZKUTBGblNVTnVjWE5QYzIxM1JSQULgAQD6AQQIABBC!16s%2Fg%2F11whxy2sc1?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": "instagram.com/byd.congreso",
+        "facebook": "facebook.com/bydcongresoculiacan",
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Agencias de autos",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T23:38:08.880Z"
+    },
+    {
+      "position": 24,
+      "placeId": "0x86bcd0938328bc2f:0x93ee9884ad11e5ed",
+      "name": "Honda Seminuevos Certificados Vision",
+      "rating": 4.2,
+      "reviewCount": 44,
+      "category": "Concesionario de automóviles",
+      "categories": [
+        "Concesionario de automóviles"
+      ],
+      "address": "Blvd. Emiliano Zapata, Los Pinos, 80110 Culiacán Rosales, Sin.",
+      "phone": "6677140240",
+      "website": "https://hondavision.com.mx/",
+      "coordinates": {
+        "lat": 24.7973463,
+        "lng": -107.4306531
+      },
+      "plusCode": "QHVM+3W Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": true,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Jorge Loaiza1 opinión",
+          "rating": null,
+          "text": "Pesima atención. Después de una semana de haber solicitado el cristal del lado del piloto, llamé para confirmar si les había llegado (pues no se toman la molestia en hablarle al cliente) para avisarme que se les había traspapelado la orden… Más",
+          "date": "Hace 8 años"
+        },
+        {
+          "author": "Jorge Loaiza1 opinión",
+          "rating": null,
+          "text": "Pesima atención. Después de una semana de haber solicitado el cristal del lado del piloto, llamé para confirmar si les había llegado (pues no se toman la molestia en hablarle al cliente) para avisarme que se les había traspapelado la orden… Más",
+          "date": "Hace 8 años"
+        },
+        {
+          "author": "Edgar Hirata11 opiniones · 3 fotos",
+          "rating": 5,
+          "text": "Me dieron muy buena atención, amable y clara, el encargado de refacciones.....lo felicito, así si dan ganas de volver",
+          "date": "Hace 3 años"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Honda+Seminuevos+Certificados+Vision/@24.7973463,-107.4306531,14z/data=!3m1!5s0x86bcd0937806c3bd:0x333385e043ed01fc!4m11!1m3!2m2!1sAgencias+de+autos+en+Culiacan,+Mexico!6e6!3m6!1s0x86bcd0938328bc2f:0x93ee9884ad11e5ed!8m2!3d24.7927118!4d-107.4151499!15sCiVBZ2VuY2lhcyBkZSBhdXRvcyBlbiBDdWxpYWNhbiwgTWV4aWNvWiYiJGFnZW5jaWFzIGRlIGF1dG9zIGVuIGN1bGlhY2FuIG1leGljb5IBCmNhcl9kZWFsZXKaASRDaGREU1VoTk1HOW5TMFZKUTBGblNVTTVkRkI2ZUhWblJSQULgAQD6AQQIABAS!16s%2Fg%2F11c45jxr_4?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": "leads@tresrios.hondavision.com.mx",
+      "allEmails": [
+        "leads@tresrios.hondavision.com.mx",
+        "mercadotecnia@hondavision.com.mx",
+        "admon.servicios@tresrios.hondavision.com.mx",
+        "kozuna@exagono.net",
+        "respinoza@seminuevos.hondavision.com.mx",
+        "avalenzuela@tresrios.hondavision.com.mx",
+        "operegrina@tresrios.hondavision.com.mx",
+        "eojeda@tresrios.hondavision.com.mx",
+        "leads@aurea.hondavision.com.mX",
+        "leads@aurea.hondavision.com.mx",
+        "cph@aurea.hondavision.com.mx",
+        "dmartinez@seminuevos.hondavision.com.mx",
+        "miguel.zepeda.hsr@hondavision.com.mx",
+        "amoran@aurea.hondavision.com.mx",
+        "julian.crespo.10113@amecah.com.mx",
+        "leads@mochis.hondavision.com.mx",
+        "admon.servicios@mochis.hondavision.com.mx",
+        "sodelva.acosta.10071@amecah.com.mx",
+        "gilberto.flores.10071@amecah.com.mx",
+        "mauricio.felix.10071@amecah.com.mx",
+        "mercadotecnia@pacifico.hondavision.com.mx",
+        "leads@pacifico.hondavision.com.mx",
+        "cph@pacifico.hondavision.com.mx",
+        "rguinto@pacifico.hondavision.com.mx",
+        "lcamacho@pacifico.hondavision.com.mx",
+        "refacciones@pacifico.hondavision.com.mx",
+        "mi.nombre@ejemplo.com"
+      ],
+      "socialMedia": {
+        "instagram": "instagram.com/hondavisionoficial",
+        "facebook": "facebook.com/hondavisionsinaloa",
+        "twitter": null,
+        "whatsapp": "5216675708177",
+        "linkedin": null,
+        "youtube": "youtube.com/user/hondademexico",
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Agencias de autos",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T23:38:11.221Z"
+    },
+    {
+      "position": 25,
+      "placeId": "0x86bcd7908fa9cdab:0xf979718a10acceae",
+      "name": "PROAUTO CULIACAN",
+      "rating": 5,
+      "reviewCount": 44,
+      "category": "Oficinas de empresa",
+      "categories": [
+        "Oficinas de empresa"
+      ],
+      "address": "Diego Valadés Ríos, Francisco Márquez &, Desarrollo Urbano Tres Ríos, 80020 Culiacán Rosales, Sin.",
+      "phone": "6677678111",
+      "website": "https://www.instagram.com/proautoculiacanoficial/",
+      "coordinates": {
+        "lat": 24.7927118,
+        "lng": -107.4532587
+      },
+      "plusCode": "RJ74+PP Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": true,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Yazmin Gallegos Canizales1 opinión",
+          "rating": 5,
+          "text": "Excelente servicio. Manejan muy buenos planes.",
+          "date": "Hace 6 años"
+        },
+        {
+          "author": "Yazmin Gallegos Canizales1 opinión",
+          "rating": 5,
+          "text": "Excelente servicio. Manejan muy buenos planes.",
+          "date": "Hace 6 años"
+        },
+        {
+          "author": "Jorge EscobarLocal Guide · 28 opiniones · 37 fotos",
+          "rating": 5,
+          "text": "Buen asesoramiento, carros muy diversos y accesibles",
+          "date": "Hace 6 años"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/PROAUTO+CULIACAN/@24.7927118,-107.4532587,14z/data=!4m11!1m3!2m2!1sAgencias+de+autos+en+Culiacan,+Mexico!6e6!3m6!1s0x86bcd7908fa9cdab:0xf979718a10acceae!8m2!3d24.8143!4d-107.3931532!15sCiVBZ2VuY2lhcyBkZSBhdXRvcyBlbiBDdWxpYWNhbiwgTWV4aWNvkgEQY29ycG9yYXRlX29mZmljZeABAA!16s%2Fg%2F11hyfp0psp?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": "instagram.com/rsrc.php",
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Agencias de autos",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T23:38:14.399Z"
+    },
+    {
+      "position": 26,
+      "placeId": "0x86bcda8729ad92bf:0x2a6847faed3b3760",
+      "name": "VEGA AUTOS - Compra Venta De Autos Seminuevos",
+      "rating": 5,
+      "reviewCount": 44,
+      "category": "Tienda de vehículos de segunda mano y de ocasión",
+      "categories": [
+        "Tienda de vehículos de segunda mano y de ocasión"
+      ],
+      "address": "Blvd. Rolando Arjona Amabilis 14123, San Antonio, 80058 Culiacán Rosales, Sin.",
+      "phone": "6671820489",
+      "website": "http://vega-autos.com/",
+      "coordinates": {
+        "lat": 24.7927118,
+        "lng": -107.4532587
+      },
+      "plusCode": "RH87+HX Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": true,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Roberto Medina2 opiniones",
+          "rating": 5,
+          "text": "No ha habido una sola vez en la que vaya que me han dado buen servicio, un sabor deplorable, si pudiera le diera 0 estrellas… Más",
+          "date": "Hace un año"
+        },
+        {
+          "author": "Roberto Medina2 opiniones",
+          "rating": 5,
+          "text": "No ha habido una sola vez en la que vaya que me han dado buen servicio, un sabor deplorable, si pudiera le diera 0 estrellas… Más",
+          "date": "Hace un año"
+        },
+        {
+          "author": "LAE. Guillermo Lopéz2 opiniones",
+          "rating": 5,
+          "text": "buen servicio",
+          "date": "Hace 6 días Nueva"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/VEGA+AUTOS+-+Compra+Venta+De+Autos+Seminuevos/@24.7927118,-107.4532587,14z/data=!4m11!1m3!2m2!1sAgencias+de+autos+en+Culiacan,+Mexico!6e6!3m6!1s0x86bcda8729ad92bf:0x2a6847faed3b3760!8m2!3d24.8164174!4d-107.4350508!15sCiVBZ2VuY2lhcyBkZSBhdXRvcyBlbiBDdWxpYWNhbiwgTWV4aWNvWiYiJGFnZW5jaWFzIGRlIGF1dG9zIGVuIGN1bGlhY2FuIG1leGljb5IBD3VzZWRfY2FyX2RlYWxlcpoBI0NoWkRTVWhOTUc5blMwVkpRMEZuU1VORWREbEhWVXRuRUFF4AEA-gEECAAQJA!16s%2Fg%2F11g81vtsbv?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": "facebook.com/vegaautosseminuevos",
+        "twitter": null,
+        "whatsapp": "526671820489",
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Agencias de autos",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T23:38:19.258Z"
+    },
+    {
+      "position": 27,
+      "placeId": "0x86bcd08ee01b2ae5:0x83a4d1ac8ee59815",
+      "name": "Kia Country",
+      "rating": 4.5,
+      "reviewCount": 44,
+      "category": "Concesionario Kia",
+      "categories": [
+        "Concesionario Kia"
+      ],
+      "address": "Blvd. Pedro Infante 3073, 80107 Culiacán Rosales, Sin.",
+      "phone": "6677586565",
+      "website": "https://dealers.kia.com/mx/country",
+      "coordinates": {
+        "lat": 24.7927118,
+        "lng": -107.4532587
+      },
+      "plusCode": "QHR6+93 Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": true,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Efren Zapata3 opiniones · 7 fotos",
+          "rating": null,
+          "text": "La atención por parte del Asesor de Servicio pésima, como de mala gana. Y el auto prácticamente me lo regresaron más sucio de cómo Yo lo entregué. Dejo fotos de prueba. Cuando le hice la observación al asesor solo me dijo que lo mencionaría… Más",
+          "date": "Hace 2 años"
+        },
+        {
+          "author": "Efren Zapata3 opiniones · 7 fotos",
+          "rating": null,
+          "text": "La atención por parte del Asesor de Servicio pésima, como de mala gana. Y el auto prácticamente me lo regresaron más sucio de cómo Yo lo entregué. Dejo fotos de prueba. Cuando le hice la observación al asesor solo me dijo que lo mencionaría… Más",
+          "date": "Hace 2 años"
+        },
+        {
+          "author": "AERCLocal Guide · 165 opiniones · 461 fotos",
+          "rating": null,
+          "text": "Tengan cuidado al recoger su auto chequen bien cuando les entreguen su auto así como ellos checan todo hasta con fotos yo No volví a este concesionario desde el día que en su cara les dije que no le hicieron los servicios a mi auto me… Más",
+          "date": "Hace 2 meses"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Kia+Country/@24.7927118,-107.4532587,14z/data=!4m11!1m3!2m2!1sAgencias+de+autos+en+Culiacan,+Mexico!6e6!3m6!1s0x86bcd08ee01b2ae5:0x83a4d1ac8ee59815!8m2!3d24.790913!4d-107.439791!15sCiVBZ2VuY2lhcyBkZSBhdXRvcyBlbiBDdWxpYWNhbiwgTWV4aWNvWiYiJGFnZW5jaWFzIGRlIGF1dG9zIGVuIGN1bGlhY2FuIG1leGljb5IBCmtpYV9kZWFsZXKaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVTnlkMHh0UVVwbkVBReABAPoBBAgAEDo!16s%2Fg%2F11ckvlphwg?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": "instagram.com/kiamexico",
+        "facebook": "facebook.com/tr",
+        "twitter": "x.com/KiaMexico",
+        "whatsapp": "525568268818",
+        "linkedin": "linkedin.com/company/kia-mexico",
+        "youtube": null,
+        "tiktok": "tiktok.com/@kiamexico"
+      },
+      "searchQuery": {
+        "businessType": "Agencias de autos",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T23:38:23.563Z"
+    },
+    {
+      "position": 28,
+      "placeId": "0x86bcd090ac4068e3:0x8f41470ff10a00fa",
+      "name": "BMW Autowelt",
+      "rating": 4.4,
+      "reviewCount": 44,
+      "category": "Concesionario BMW",
+      "categories": [
+        "Concesionario BMW"
+      ],
+      "address": "Boulevard Pedro Infante Poniente 2381 Pte, Desarrollo Urbano Tres Ríos, 80020 Culiacán Rosales, Sin.",
+      "phone": "6678465151",
+      "website": "https://www.bmw.com.mx/es/distribuidores/autowelt.html",
+      "coordinates": {
+        "lat": 24.790913,
+        "lng": -107.4778998
+      },
+      "plusCode": "QHV7+JV Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": true,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Herbert MaldonadoLocal Guide · 307 opiniones · 19,111 fotos",
+          "rating": 5,
+          "text": "Disfruta del apasionante mundo de BMW y que mejor lugar que esta agencia, excelente trato y servicio de profesionales que en verdad son apasionados de la marca, te ayudaran a tomar la mejor decisión.… Más",
+          "date": "Editado Hace 5 años"
+        },
+        {
+          "author": "Herbert MaldonadoLocal Guide · 307 opiniones · 19,111 fotos",
+          "rating": 5,
+          "text": "Disfruta del apasionante mundo de BMW y que mejor lugar que esta agencia, excelente trato y servicio de profesionales que en verdad son apasionados de la marca, te ayudaran a tomar la mejor decisión.… Más",
+          "date": "Editado Hace 5 años"
+        },
+        {
+          "author": "phalevi peñuelasLocal Guide · 42 opiniones · 9 fotos",
+          "rating": 5,
+          "text": "Muy buena atención",
+          "date": "una semana atrás Nueva"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/BMW+Autowelt/@24.790913,-107.4778998,14z/data=!4m11!1m3!2m2!1sAgencias+de+autos+en+Culiacan,+Mexico!6e6!3m6!1s0x86bcd090ac4068e3:0x8f41470ff10a00fa!8m2!3d24.7940549!4d-107.4352952!15sCiVBZ2VuY2lhcyBkZSBhdXRvcyBlbiBDdWxpYWNhbiwgTWV4aWNvWiYiJGFnZW5jaWFzIGRlIGF1dG9zIGVuIGN1bGlhY2FuIG1leGljb5IBCmJtd19kZWFsZXKaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVTlhPSFpVYzFsbkVBReABAPoBBAghEDA!16s%2Fg%2F1ptx2jn8q?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": "Leads@bmwculiacan.com.mx",
+      "allEmails": [
+        "Leads@bmwculiacan.com.mx",
+        "Atencionclientes@bmwculiacan.com.mx"
+      ],
+      "socialMedia": {
+        "instagram": "instagram.com/bmwautoweltculiacan",
+        "facebook": "facebook.com/BMW.GrupoPremier",
+        "twitter": "twitter.com/bmwmex",
+        "whatsapp": "526676178044",
+        "linkedin": null,
+        "youtube": "youtube.com/user/bmwtvmexico",
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Agencias de autos",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T23:38:26.691Z"
+    },
+    {
+      "position": 29,
+      "placeId": "0x86bcd0b72dda6589:0x9e3875ec3b41adf3",
+      "name": "Payless Car Rental Culiacán - Oficina Centro",
+      "rating": 4.6,
+      "reviewCount": 44,
+      "category": "Agencia de alquiler de coches",
+      "categories": [
+        "Agencia de alquiler de coches"
+      ],
+      "address": "Plaza Victoria, Prol. Álvaro Obregón 425 Sur-Local 103 B, entre Aguilar Barraza y Juan José Ríos, Miguel Alemán, 80200 Culiacán Rosales, Sin.",
+      "phone": "6677138844",
+      "website": "https://paylesscar.com.mx/oficinas/culiacan/culiacan-centro/",
+      "coordinates": {
+        "lat": 24.8010533,
+        "lng": -107.4529112
+      },
+      "plusCode": "RJ24+7F Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": true,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "ARMANDOLocal Guide · 127 opiniones · 202 fotos",
+          "rating": 5,
+          "text": "Rente una Urban de muy buen estado para mis vacaciones y me fue útil por su versatilidad y buen manejo, además de ahorro aún en su calidad de carro grande, muy contento.",
+          "date": "Hace un año"
+        },
+        {
+          "author": "ARMANDOLocal Guide · 127 opiniones · 202 fotos",
+          "rating": 5,
+          "text": "Rente una Urban de muy buen estado para mis vacaciones y me fue útil por su versatilidad y buen manejo, además de ahorro aún en su calidad de carro grande, muy contento.",
+          "date": "Hace un año"
+        },
+        {
+          "author": "Oscar Fernando Gastelum Rocha1 opinión",
+          "rating": 5,
+          "text": "Un excelente servicio, de inicio a fin, durante la renta del vehículo.\nMe explicaron todo a detalle, desde el precio, uso, entrega, horarios y demás.\nMuy recomendado.",
+          "date": "Hace 9 meses"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Payless+Car+Rental+Culiac%C3%A1n+-+Oficina+Centro/@24.8010533,-107.4529112,14z/data=!4m11!1m3!2m2!1sAgencias+de+autos+en+Culiacan,+Mexico!6e6!3m6!1s0x86bcd0b72dda6589:0x9e3875ec3b41adf3!8m2!3d24.8006522!4d-107.3938411!15sCiVBZ2VuY2lhcyBkZSBhdXRvcyBlbiBDdWxpYWNhbiwgTWV4aWNvWiYiJGFnZW5jaWFzIGRlIGF1dG9zIGVuIGN1bGlhY2FuIG1leGljb5IBEWNhcl9yZW50YWxfYWdlbmN5mgEjQ2haRFNVaE5NRzluUzBWSlEwRm5UVU4zTjNSMWMxcFJFQUXgAQD6AQQIABBG!16s%2Fg%2F11fy4cg7y9?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Agencias de autos",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T23:38:32.816Z"
+    },
+    {
+      "position": 30,
+      "placeId": "0x86bcd099ffad37fd:0x50915242e29217ba",
+      "name": "MINI Autowelt Culiacán",
+      "rating": 4.4,
+      "reviewCount": 44,
+      "category": "Concesionario MINI",
+      "categories": [
+        "Concesionario MINI"
+      ],
+      "address": "Boulevard Pedro Infante Poniente 2381 Pte, Desarrollo Urbano Tres Ríos, 80020 Culiacán Rosales, Sin.",
+      "phone": "6678465151",
+      "website": "https://www.mini.com.mx/es_MX/home/dealers/sinaloa.html",
+      "coordinates": {
+        "lat": 24.8010533,
+        "lng": -107.4529112
+      },
+      "plusCode": "RH2P+M6 Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": true,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Juan Rocha4 opiniones",
+          "rating": 5,
+          "text": "Les pedi una cotisacion otro estado me atendieron vien me dieron presio razonable toda la informacion que ocupava numeros cuenta para pagar y toda informacion como seria proseso despues del pago muy vuen servicio por telefono",
+          "date": "Hace 4 años"
+        },
+        {
+          "author": "Juan Rocha4 opiniones",
+          "rating": 5,
+          "text": "Les pedi una cotisacion otro estado me atendieron vien me dieron presio razonable toda la informacion que ocupava numeros cuenta para pagar y toda informacion como seria proseso despues del pago muy vuen servicio por telefono",
+          "date": "Hace 4 años"
+        },
+        {
+          "author": "Miguel Ángel OrtizLocal Guide · 23 opiniones · 27 fotos",
+          "rating": 5,
+          "text": "La atención del personal es excepcional, tuve la oportunidad de manejar un Mini Y la experiencia es única. Ya estrene el mío (:",
+          "date": "Hace 5 años"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/MINI+Autowelt+Culiac%C3%A1n/@24.8010533,-107.4529112,14z/data=!4m11!1m3!2m2!1sAgencias+de+autos+en+Culiacan,+Mexico!6e6!3m6!1s0x86bcd099ffad37fd:0x50915242e29217ba!8m2!3d24.8017211!4d-107.4144236!15sCiVBZ2VuY2lhcyBkZSBhdXRvcyBlbiBDdWxpYWNhbiwgTWV4aWNvWiYiJGFnZW5jaWFzIGRlIGF1dG9zIGVuIGN1bGlhY2FuIG1leGljb5IBC21pbmlfZGVhbGVy4AEA!16s%2Fg%2F11trp4x84p?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": "gerencia.ventas@minimonterrey.com.mx",
+      "allEmails": [
+        "gerencia.ventas@minimonterrey.com.mx"
+      ],
+      "socialMedia": {
+        "instagram": "instagram.com/minimexico",
+        "facebook": "facebook.com/MINI.Mexico",
+        "twitter": "twitter.com/minimexico",
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": "youtube.com/user/MINIMXMEDIA",
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Agencias de autos",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T23:38:36.732Z"
+    },
+    {
+      "position": 31,
+      "placeId": "0x86bcda10db795a41:0x25a293ae138595ff",
+      "name": "Visión Automotriz de Sinaloa",
+      "rating": null,
+      "reviewCount": 44,
+      "category": "Concesionario de automóviles",
+      "categories": [
+        "Concesionario de automóviles"
+      ],
+      "address": "Blvrd Enrique Sánchez Alonso 1663, Desarrollo Urbano Tres Ríos, 80034 Culiacán Rosales, Sin.",
+      "phone": "6677131890",
+      "website": null,
+      "coordinates": {
+        "lat": 24.8010533,
+        "lng": -107.4529112
+      },
+      "plusCode": "RJJ2+79 Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": true,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [],
+      "profileUrl": "https://www.google.com/maps/place/Visi%C3%B3n+Automotriz+de+Sinaloa/@24.8010533,-107.4529112,14z/data=!4m11!1m3!2m2!1sAgencias+de+autos+en+Culiacan,+Mexico!6e6!3m6!1s0x86bcda10db795a41:0x25a293ae138595ff!8m2!3d24.8307034!4d-107.3990911!15sCiVBZ2VuY2lhcyBkZSBhdXRvcyBlbiBDdWxpYWNhbiwgTWV4aWNvkgEKY2FyX2RlYWxlcuABAA!16s%2Fg%2F1trpr73w?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Agencias de autos",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T23:38:38.441Z"
+    },
+    {
+      "position": 32,
+      "placeId": "0x86bcdbf349c7dab7:0x8362e17975b30b86",
+      "name": "Seminuevos Lemans",
+      "rating": 5,
+      "reviewCount": 44,
+      "category": "Concesionario de automóviles",
+      "categories": [
+        "Concesionario de automóviles"
+      ],
+      "address": "Enrique Félix Castro, Desarrollo Urbano Tres Ríos, 80020 Culiacán Rosales, Sin.",
+      "phone": "6673448414",
+      "website": null,
+      "coordinates": {
+        "lat": 24.8307034,
+        "lng": -107.4371999
+      },
+      "plusCode": "RHCV+HV Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": true,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "MISUKY KATOLocal Guide · 159 opiniones · 1 foto",
+          "rating": 5,
+          "text": "Excelente servicio",
+          "date": "Hace 2 años"
+        },
+        {
+          "author": "MISUKY KATOLocal Guide · 159 opiniones · 1 foto",
+          "rating": 5,
+          "text": "Excelente servicio",
+          "date": "Hace 2 años"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Seminuevos+Lemans/@24.8307034,-107.4371999,14z/data=!4m11!1m3!2m2!1sAgencias+de+autos+en+Culiacan,+Mexico!6e6!3m6!1s0x86bcdbf349c7dab7:0x8362e17975b30b86!8m2!3d24.8214745!4d-107.405271!15sCiVBZ2VuY2lhcyBkZSBhdXRvcyBlbiBDdWxpYWNhbiwgTWV4aWNvWiYiJGFnZW5jaWFzIGRlIGF1dG9zIGVuIGN1bGlhY2FuIG1leGljb5IBCmNhcl9kZWFsZXKaASRDaGREU1VoTk1HOW5TMFZKUTBGblNVTktNblZQU1dwQlJSQULgAQD6AQQIABAS!16s%2Fg%2F11p_7zqdqp?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Agencias de autos",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T23:38:41.184Z"
+    },
+    {
+      "position": 33,
+      "placeId": "0x86bcd093bcea5689:0xca2d0d7819fc8391",
+      "name": "Cadillac Culiacán",
+      "rating": 4.3,
+      "reviewCount": 44,
+      "category": "Concesionario Cadillac",
+      "categories": [
+        "Concesionario Cadillac"
+      ],
+      "address": "Blvd. Emiliano Zapata 1999-int A, El Vallado, Los Pinos, 80110 Culiacán Rosales, Sin.",
+      "phone": "6677146080",
+      "website": "http://www.cadillacculiacan.com.mx/",
+      "coordinates": {
+        "lat": 24.8307034,
+        "lng": -107.4371999
+      },
+      "plusCode": "QHVM+3C Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": true,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Jorge MezaLocal Guide · 82 opiniones · 195 fotos",
+          "rating": 3,
+          "text": "Una muy buena atención y gran calidad de vehículos",
+          "date": "Hace 9 años"
+        },
+        {
+          "author": "Jorge MezaLocal Guide · 82 opiniones · 195 fotos",
+          "rating": 3,
+          "text": "Una muy buena atención y gran calidad de vehículos",
+          "date": "Hace 9 años"
+        },
+        {
+          "author": "Gustavo GaxiolaLocal Guide · 9 opiniones · 26 fotos",
+          "rating": 5,
+          "text": "Bueno está línea de carros a quien no le gustaría comprar un Cadillac pero por lo pronto por ver no se paga",
+          "date": "Hace 9 años"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Cadillac+Culiac%C3%A1n/@24.8307034,-107.4371999,14z/data=!4m11!1m3!2m2!1sAgencias+de+autos+en+Culiacan,+Mexico!6e6!3m6!1s0x86bcd093bcea5689:0xca2d0d7819fc8391!8m2!3d24.7927123!4d-107.4164037!15sCiVBZ2VuY2lhcyBkZSBhdXRvcyBlbiBDdWxpYWNhbiwgTWV4aWNvWiYiJGFnZW5jaWFzIGRlIGF1dG9zIGVuIGN1bGlhY2FuIG1leGljb5IBD2NhZGlsbGFjX2RlYWxlcpoBJENoZERTVWhOTUc5blMwVkpRMEZuU1VNMWVpMUhUakJSUlJBQuABAPoBBAgAEBA!16s%2Fg%2F11rst883z?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": "526677580006",
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Agencias de autos",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T23:38:45.118Z"
+    },
+    {
+      "position": 34,
+      "placeId": "0x86bcd099baee1b59:0xcfe8cd4e75152b75",
+      "name": "Nissan Congreso",
+      "rating": 4.6,
+      "reviewCount": 44,
+      "category": "Concesionario Nissan",
+      "categories": [
+        "Concesionario Nissan"
+      ],
+      "address": "Blvd. Pedro Infante 2301-1, Congreso del Estado, 80020 Culiacán Rosales, Sin.",
+      "phone": "6672869000",
+      "website": "https://www.nissancongreso.com.mx/",
+      "coordinates": {
+        "lat": 24.7927123,
+        "lng": -107.4545125
+      },
+      "plusCode": null,
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [
+        "Amigable con LGBTQ+"
+      ],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": true,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [],
+      "profileUrl": "https://www.google.com/maps/place/Nissan+Congreso/@24.7927123,-107.4545125,14z/data=!4m11!1m3!2m2!1sAgencias+de+autos+en+Culiacan,+Mexico!6e6!3m6!1s0x86bcd099baee1b59:0xcfe8cd4e75152b75!8m2!3d24.8034513!4d-107.4123137!15sCiVBZ2VuY2lhcyBkZSBhdXRvcyBlbiBDdWxpYWNhbiwgTWV4aWNvWiYiJGFnZW5jaWFzIGRlIGF1dG9zIGVuIGN1bGlhY2FuIG1leGljb5IBDW5pc3Nhbl9kZWFsZXKaASRDaGREU1VoTk1HOW5TMFZKUTBGblNVTmxNazFMZERaM1JSQULgAQD6AQQIABA_!16s%2Fg%2F11k545b2fh?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Agencias de autos",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T23:38:47.693Z"
+    },
+    {
+      "position": 35,
+      "placeId": "0x86bcd0909575b02f:0x1ca7c96849dd9bae",
+      "name": "Audi Center Culiacán",
+      "rating": 4.5,
+      "reviewCount": 44,
+      "category": "Concesionario Audi",
+      "categories": [
+        "Concesionario Audi"
+      ],
+      "address": "Blvd. Pedro Infante 2575, Congreso del Estado, 80020 Culiacán Rosales, Sin.",
+      "phone": "6679920300",
+      "website": "http://www.audicenterculiacan.com.mx/",
+      "coordinates": {
+        "lat": 24.7927123,
+        "lng": -107.4545125
+      },
+      "plusCode": "QHXJ+RW Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": true,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Lucysabel González (Luciyita)Local Guide · 65 opiniones · 66 fotos",
+          "rating": 5,
+          "text": "El lugar ideal para adquirir un auto de lujo y darle los mantenimientos necesarios con un excelente servicio para dejar a sus clientes totalmente satisfechos",
+          "date": "Hace 7 años"
+        },
+        {
+          "author": "Lucysabel González (Luciyita)Local Guide · 65 opiniones · 66 fotos",
+          "rating": 5,
+          "text": "El lugar ideal para adquirir un auto de lujo y darle los mantenimientos necesarios con un excelente servicio para dejar a sus clientes totalmente satisfechos",
+          "date": "Hace 7 años"
+        },
+        {
+          "author": "Cristy RodriguezLocal Guide · 132 opiniones · 54 fotos",
+          "rating": 5,
+          "text": "Excelente agencia y autos muy elegantes a excelente costo.",
+          "date": "Hace 7 años"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Audi+Center+Culiac%C3%A1n/@24.7927123,-107.4545125,14z/data=!3m1!5s0x86bcd09060d831d7:0x5d82c400ca09dad0!4m11!1m3!2m2!1sAgencias+de+autos+en+Culiacan,+Mexico!6e6!3m6!1s0x86bcd0909575b02f:0x1ca7c96849dd9bae!8m2!3d24.799575!4d-107.417739!15sCiVBZ2VuY2lhcyBkZSBhdXRvcyBlbiBDdWxpYWNhbiwgTWV4aWNvWiYiJGFnZW5jaWFzIGRlIGF1dG9zIGVuIGN1bGlhY2FuIG1leGljb5IBC2F1ZGlfZGVhbGVymgEkQ2hkRFNVaE5NRzluUzBWSlEwRm5TVU0xY0V4MldXaFJSUkFC4AEA-gEECAAQKg!16s%2Fg%2F1tqnm1tk?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": "contacto@audiculiacan.com.mx",
+      "allEmails": [
+        "contacto@audiculiacan.com.mx"
+      ],
+      "socialMedia": {
+        "instagram": "instagram.com/audicenterculiacan",
+        "facebook": "facebook.com/AudiCenterCuliacan",
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Agencias de autos",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T23:38:53.036Z"
+    },
+    {
+      "position": 36,
+      "placeId": "0x86bcd741207d9697:0xac566fee3645260b",
+      "name": "Autos Don Lupe",
+      "rating": 4.6,
+      "reviewCount": 44,
+      "category": "Tienda de vehículos de segunda mano y de ocasión",
+      "categories": [
+        "Tienda de vehículos de segunda mano y de ocasión"
+      ],
+      "address": "Av Revolución 3122, Emiliano Zapata, 80260 Culiacán Rosales, Sin.",
+      "phone": "6673294299",
+      "website": null,
+      "coordinates": {
+        "lat": 24.7927123,
+        "lng": -107.4545125
+      },
+      "plusCode": "QJMM+G9 Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": true,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Usbaldo Baldenegro Soto6 opiniones",
+          "rating": null,
+          "text": "toman un terreno a cuenta por un carro?",
+          "date": "Hace 2 meses"
+        },
+        {
+          "author": "Usbaldo Baldenegro Soto6 opiniones",
+          "rating": null,
+          "text": "toman un terreno a cuenta por un carro?",
+          "date": "Hace 2 meses"
+        },
+        {
+          "author": "Anna MontoyaLocal Guide · 171 opiniones · 347 fotos",
+          "rating": 5,
+          "text": "Excelente atención y servicio, las personas que atienden tienen las respuestas a todas tus preguntas. Los precios son buenos. La disponibilidad de los autos es inmediata. Podría decir que es hasta mejor que una agencia de autos nuevos.",
+          "date": "Hace 4 años"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Autos+Don+Lupe/@24.7927123,-107.4545125,14z/data=!4m11!1m3!2m2!1sAgencias+de+autos+en+Culiacan,+Mexico!6e6!3m6!1s0x86bcd741207d9697:0xac566fee3645260b!8m2!3d24.7837528!4d-107.366582!15sCiVBZ2VuY2lhcyBkZSBhdXRvcyBlbiBDdWxpYWNhbiwgTWV4aWNvWiYiJGFnZW5jaWFzIGRlIGF1dG9zIGVuIGN1bGlhY2FuIG1leGljb5IBD3VzZWRfY2FyX2RlYWxlcpoBI0NoWkRTVWhOTUc5blMwVkpRMEZuU1VOMU1XVTNVMWQzRUFF4AEA-gEECAAQIw!16s%2Fg%2F1tgnmh_x?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Agencias de autos",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T23:38:55.909Z"
+    },
+    {
+      "position": 37,
+      "placeId": "0x86bcd063cc77e481:0x415461da16f147f",
+      "name": "Kia Konfidence Country Culiacán",
+      "rating": 4.3,
+      "reviewCount": 44,
+      "category": "Concesionario Kia",
+      "categories": [
+        "Concesionario Kia"
+      ],
+      "address": "Blvd. Pedro Infante 2431, Desarrollo Urbano Tres Ríos, 80020 Culiacán Rosales, Sin.",
+      "phone": "6677642215",
+      "website": null,
+      "coordinates": {
+        "lat": 24.7837528,
+        "lng": -107.4046908
+      },
+      "plusCode": "RH2P+H7 Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": true,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Jennifer Cárdenas3 opiniones · 1 foto",
+          "rating": null,
+          "text": "Son unos ESTAFADORES!, NO me regresan mi dinero, NO liquidan mi seguro, y me dejaron con una mensualidad más alta por SU ERROR!… Más",
+          "date": "Hace 11 meses"
+        },
+        {
+          "author": "Jennifer Cárdenas3 opiniones · 1 foto",
+          "rating": null,
+          "text": "Son unos ESTAFADORES!, NO me regresan mi dinero, NO liquidan mi seguro, y me dejaron con una mensualidad más alta por SU ERROR!… Más",
+          "date": "Hace 11 meses"
+        },
+        {
+          "author": "Alejandra Martinez1 opinión",
+          "rating": null,
+          "text": "La verdad mal todo ,no me dieron el carro la fecha acordada ,me dieron el carro sin birlos no me pudieron poner los birlos que les costaba , no me dieron el descuento que tengo por una empresa me comentaron me iban a dar el rembolso de que… Más",
+          "date": "Hace 3 años"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Kia+Konfidence+Country+Culiac%C3%A1n/@24.7837528,-107.4046908,14z/data=!4m11!1m3!2m2!1sAgencias+de+autos+en+Culiacan,+Mexico!6e6!3m6!1s0x86bcd063cc77e481:0x415461da16f147f!8m2!3d24.801463!4d-107.4143155!15sCiVBZ2VuY2lhcyBkZSBhdXRvcyBlbiBDdWxpYWNhbiwgTWV4aWNvWiYiJGFnZW5jaWFzIGRlIGF1dG9zIGVuIGN1bGlhY2FuIG1leGljb5IBCmtpYV9kZWFsZXKaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVUXlOa3gyU21GM0VBReABAPoBBAgAEBI!16s%2Fg%2F11f54t40d6?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Agencias de autos",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T23:38:58.678Z"
+    },
+    {
+      "position": 38,
+      "placeId": "0x86bcda07c33580d3:0xb523086ef08d3d4e",
+      "name": "AutoAgente",
+      "rating": 4.5,
+      "reviewCount": 44,
+      "category": "Tienda de vehículos de segunda mano y de ocasión",
+      "categories": [
+        "Tienda de vehículos de segunda mano y de ocasión"
+      ],
+      "address": "Prol. Álvaro Obregón 1220, Guadalupe, 80220 Culiacán Rosales, Sin.",
+      "phone": "6677124540",
+      "website": "http://www.autoagente.com/",
+      "coordinates": {
+        "lat": 24.801463,
+        "lng": -107.4524243
+      },
+      "plusCode": null,
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": true,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [],
+      "profileUrl": "https://www.google.com/maps/place/AutoAgente/@24.801463,-107.4524243,14z/data=!4m11!1m3!2m2!1sAgencias+de+autos+en+Culiacan,+Mexico!6e6!3m6!1s0x86bcda07c33580d3:0xb523086ef08d3d4e!8m2!3d24.792407!4d-107.3938077!15sCiVBZ2VuY2lhcyBkZSBhdXRvcyBlbiBDdWxpYWNhbiwgTWV4aWNvkgEPdXNlZF9jYXJfZGVhbGVy4AEA!16s%2Fg%2F1td3rydq?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": "facebook.com/autoagentemxcln",
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Agencias de autos",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T23:39:02.313Z"
+    },
+    {
+      "position": 39,
+      "placeId": "0x86bcd090aa4a3bb1:0x31168888b54049c",
+      "name": "Jaguar Culiacán",
+      "rating": 4.8,
+      "reviewCount": 44,
+      "category": "Concesionario Jaguar",
+      "categories": [
+        "Concesionario Jaguar"
+      ],
+      "address": "Blvd. Pedro Infante 2525, Desarrollo Urbano Tres Ríos, 80020 Culiacán Rosales, Sin.",
+      "phone": "6677610055",
+      "website": "https://retailers.jaguarmexico.com.mx/culiacan",
+      "coordinates": {
+        "lat": 24.801463,
+        "lng": -107.4524243
+      },
+      "plusCode": "RH2P+C3 Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": true,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Juan Antonio EspinozaLocal Guide · 278 opiniones · 871 fotos",
+          "rating": 5,
+          "text": "Buena atención",
+          "date": "Hace 8 años"
+        },
+        {
+          "author": "Juan Antonio EspinozaLocal Guide · 278 opiniones · 871 fotos",
+          "rating": 5,
+          "text": "Buena atención",
+          "date": "Hace 8 años"
+        },
+        {
+          "author": "pablo floresLocal Guide · 74 opiniones · 26 fotos",
+          "rating": 4,
+          "text": "El servicio y la calidad de los Autos.",
+          "date": "Hace 8 años"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Jaguar+Culiac%C3%A1n/@24.801463,-107.4524243,14z/data=!4m11!1m3!2m2!1sAgencias+de+autos+en+Culiacan,+Mexico!6e6!3m6!1s0x86bcd090aa4a3bb1:0x31168888b54049c!8m2!3d24.801051!4d-107.4148087!15sCiVBZ2VuY2lhcyBkZSBhdXRvcyBlbiBDdWxpYWNhbiwgTWV4aWNvWiYiJGFnZW5jaWFzIGRlIGF1dG9zIGVuIGN1bGlhY2FuIG1leGljb5IBDWphZ3Vhcl9kZWFsZXLgAQA!16s%2Fg%2F11c5wxjqf4?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": "v.salazar@culiacan.jlr.com.mx",
+      "allEmails": [
+        "v.salazar@culiacan.jlr.com.mx"
+      ],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Agencias de autos",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T23:39:06.504Z"
+    },
+    {
+      "position": 40,
+      "placeId": "0x86bcd70b2052ff79:0x12f7ab67ae3f7904",
+      "name": "Seminuevos Sanalona",
+      "rating": 4.8,
+      "reviewCount": 44,
+      "category": "Tienda de vehículos de segunda mano y de ocasión",
+      "categories": [
+        "Tienda de vehículos de segunda mano y de ocasión"
+      ],
+      "address": "Av Revolución 1878, Emiliano Zapata, 80260 Culiacán Rosales, Sin.",
+      "phone": "6677743951",
+      "website": null,
+      "coordinates": {
+        "lat": 24.801463,
+        "lng": -107.4524243
+      },
+      "plusCode": "QJQM+2M Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": true,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "González Zamudio Carlos Eduardo1 opinión",
+          "rating": 5,
+          "text": "Excelente servicio y autos seminuevos.",
+          "date": "Hace 4 años"
+        },
+        {
+          "author": "González Zamudio Carlos Eduardo1 opinión",
+          "rating": 5,
+          "text": "Excelente servicio y autos seminuevos.",
+          "date": "Hace 4 años"
+        },
+        {
+          "author": "Jesús Roberto Garay García",
+          "rating": 5,
+          "text": null,
+          "date": "Hace 5 años"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Seminuevos+Sanalona/@24.801463,-107.4524243,14z/data=!4m11!1m3!2m2!1sAgencias+de+autos+en+Culiacan,+Mexico!6e6!3m6!1s0x86bcd70b2052ff79:0x12f7ab67ae3f7904!8m2!3d24.7875065!4d-107.3658451!15sCiVBZ2VuY2lhcyBkZSBhdXRvcyBlbiBDdWxpYWNhbiwgTWV4aWNvkgEPdXNlZF9jYXJfZGVhbGVy4AEA!16s%2Fg%2F11f9xb4hmf?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Agencias de autos",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T23:39:09.575Z"
+    },
+    {
+      "position": 41,
+      "placeId": "0x86bcd0945a59d507:0xbebcded047f27f04",
+      "name": "Culiacán Blvd. Emiliano Zapata",
+      "rating": 4.9,
+      "reviewCount": 44,
+      "category": "Concesionario de automóviles",
+      "categories": [
+        "Concesionario de automóviles"
+      ],
+      "address": "Av. Insurgentes Esq, Blvd. Emiliano Zapata 1100, Centro, 80200 Culiacán Rosales, Sin.",
+      "phone": "6675100141",
+      "website": "http://www.rivas-automotriz.com.mx/",
+      "coordinates": {
+        "lat": 24.7875065,
+        "lng": -107.4039539
+      },
+      "plusCode": null,
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": true,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [],
+      "profileUrl": "https://www.google.com/maps/place/Culiac%C3%A1n+Blvd.+Emiliano+Zapata/@24.7875065,-107.4039539,14z/data=!4m11!1m3!2m2!1sAgencias+de+autos+en+Culiacan,+Mexico!6e6!3m6!1s0x86bcd0945a59d507:0xbebcded047f27f04!8m2!3d24.7933566!4d-107.4125416!15sCiVBZ2VuY2lhcyBkZSBhdXRvcyBlbiBDdWxpYWNhbiwgTWV4aWNvkgEKY2FyX2RlYWxlcuABAA!16s%2Fg%2F11r0yl8y7w?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Agencias de autos",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T23:39:12.700Z"
+    },
+    {
+      "position": 42,
+      "placeId": "0x86bcd0b0d84ae7d5:0x1b748da75206dbd5",
+      "name": "Budget",
+      "rating": 3,
+      "reviewCount": 44,
+      "category": "Agencia de alquiler de coches",
+      "categories": [
+        "Agencia de alquiler de coches"
+      ],
+      "address": "Plaza Victoria, Prol. Álvaro Obregón 425-Sur, local 103, entre Aguilar Barraza y Juan José Ríos, Miguel Alemán, 80200 Culiacán Rosales, Sin.",
+      "phone": "6677138844",
+      "website": "https://budget.com.mx/oficinas/culiacan/culiacan-centro/",
+      "coordinates": {
+        "lat": 24.7933566,
+        "lng": -107.4506504
+      },
+      "plusCode": "RJ24+5G Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": true,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Jorge Adrián Lázaro HernándezLocal Guide · 208 opiniones · 702 fotos",
+          "rating": null,
+          "text": "¡Huyan de este servicio! Es lo que sigue de pésimo. Fui a la oficina de la Obregón y no había nadie, llamé y me dijeron que fuera al aeropuerto. Llegué al aeropuerto y no estaba quien hace los contratos y me dijeron que regresaba después… Más",
+          "date": "Hace 2 años"
+        },
+        {
+          "author": "Jorge Adrián Lázaro HernándezLocal Guide · 208 opiniones · 702 fotos",
+          "rating": null,
+          "text": "¡Huyan de este servicio! Es lo que sigue de pésimo. Fui a la oficina de la Obregón y no había nadie, llamé y me dijeron que fuera al aeropuerto. Llegué al aeropuerto y no estaba quien hace los contratos y me dijeron que regresaba después… Más",
+          "date": "Hace 2 años"
+        },
+        {
+          "author": "Daniel Espindola5 opiniones",
+          "rating": null,
+          "text": "No reserven con Budget, tengo reserva con 4 semanas de anticipación, confirmada y prepagada, llego a la oficina a la hora acordada y no hay autos disponibles, el personal actúa como si no pasara nada y no ofrece otras opciones, simplemente… Más",
+          "date": "Hace 6 años"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Budget/@24.7933566,-107.4506504,14z/data=!4m11!1m3!2m2!1sAgencias+de+autos+en+Culiacan,+Mexico!6e6!3m6!1s0x86bcd0b0d84ae7d5:0x1b748da75206dbd5!8m2!3d24.8004122!4d-107.3937074!15sCiVBZ2VuY2lhcyBkZSBhdXRvcyBlbiBDdWxpYWNhbiwgTWV4aWNvkgERY2FyX3JlbnRhbF9hZ2VuY3ngAQA!16s%2Fg%2F1thzv74s?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Agencias de autos",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T23:39:15.470Z"
+    },
+    {
+      "position": 43,
+      "placeId": "0x86bcd063e5a5a2af:0x38ca3110a33603a9",
+      "name": "Acura Sinaloa",
+      "rating": 4.7,
+      "reviewCount": 44,
+      "category": "Concesionario Acura",
+      "categories": [
+        "Concesionario Acura"
+      ],
+      "address": "Blvd. Pedro Infante, Poniente # 2611, Desarrollo Urbano Tres Ríos, 80107 Culiacán Rosales, Sin.",
+      "phone": "6677505700",
+      "website": "https://acurasinaloa.com.mx/",
+      "coordinates": {
+        "lat": 24.7933566,
+        "lng": -107.4506504
+      },
+      "plusCode": "QHV7+C7 Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": true,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "José Ángel Estrada Vargas 20Local Guide · 12 opiniones · 11 fotos",
+          "rating": 5,
+          "text": "Muy buen servicio",
+          "date": "Editado Hace 6 años"
+        },
+        {
+          "author": "José Ángel Estrada Vargas 20Local Guide · 12 opiniones · 11 fotos",
+          "rating": 5,
+          "text": "Muy buen servicio",
+          "date": "Editado Hace 6 años"
+        },
+        {
+          "author": "José Ceballos1 opinión",
+          "rating": 2,
+          "text": "No responden en el teléfono mostrado.",
+          "date": "Hace 6 meses"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Acura+Sinaloa/@24.7933566,-107.4506504,14z/data=!4m11!1m3!2m2!1sAgencias+de+autos+en+Culiacan,+Mexico!6e6!3m6!1s0x86bcd063e5a5a2af:0x38ca3110a33603a9!8m2!3d24.7935676!4d-107.4367904!15sCiVBZ2VuY2lhcyBkZSBhdXRvcyBlbiBDdWxpYWNhbiwgTWV4aWNvWiYiJGFnZW5jaWFzIGRlIGF1dG9zIGVuIGN1bGlhY2FuIG1leGljb5IBDGFjdXJhX2RlYWxlcpoBJENoZERTVWhOTUc5blMwVkpRMEZuU1VOc05EaHhhWFZSUlJBQuABAPoBBAgAECg!16s%2Fg%2F11g9szqzh7?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": "mi.nombre@ejemplo.com",
+      "allEmails": [
+        "mi.nombre@ejemplo.com"
+      ],
+      "socialMedia": {
+        "instagram": "instagram.com/acurasinaloa",
+        "facebook": "facebook.com/acuravisionsinaloa",
+        "twitter": null,
+        "whatsapp": "5216675028442",
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Agencias de autos",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T23:39:18.570Z"
+    }
+  ]
+}

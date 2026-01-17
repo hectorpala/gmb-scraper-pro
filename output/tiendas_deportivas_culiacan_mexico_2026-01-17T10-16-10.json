@@ -1,0 +1,3534 @@
+{
+  "metadata": {
+    "query": {
+      "businessType": "Tiendas deportivas",
+      "city": "Culiacan",
+      "country": "Mexico"
+    },
+    "totalResults": 46,
+    "stats": {
+      "total": 46,
+      "withPhone": 46,
+      "withEmail": 11,
+      "withWebsite": 18,
+      "withInstagram": 7,
+      "withWhatsapp": 6
+    },
+    "exportedAt": "2026-01-17T10:16:10.055Z",
+    "version": "2.0"
+  },
+  "businesses": [
+    {
+      "position": 1,
+      "placeId": "0x86bcd0a60cfaabfd:0xd94909b28209e125",
+      "name": "DEPORTES COSMOS S.A. DE C.V",
+      "rating": 4.3,
+      "reviewCount": 43,
+      "category": "Tienda de deportes",
+      "categories": [
+        "Tienda de deportes"
+      ],
+      "address": "Av. Antonio Rosales 290, Primer Cuadro, 80000 Culiacán Rosales, Sin.",
+      "phone": "6677124616",
+      "website": "https://business.google.com/b/102670949647434662268/edit/l/02552126192725513378?pageId=102670949647434662268&hl=es",
+      "coordinates": {
+        "lat": 24.8239388,
+        "lng": -107.4185657
+      },
+      "plusCode": null,
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [],
+      "profileUrl": "https://www.google.com/maps/place/DEPORTES+COSMOS+S.A.+DE+C.V/@24.8239388,-107.4185657,14z/data=!4m11!1m3!2m2!1sTiendas+deportivas+en+Culiacan,+Mexico!6e6!3m6!1s0x86bcd0a60cfaabfd:0xd94909b28209e125!8m2!3d24.8093301!4d-107.3980585!15sCiZUaWVuZGFzIGRlcG9ydGl2YXMgZW4gQ3VsaWFjYW4sIE1leGljb5IBFHNwb3J0aW5nX2dvb2RzX3N0b3Jl4AEA!16s%2Fg%2F1td7j56y?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Tiendas deportivas",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-17T10:13:50.515Z"
+    },
+    {
+      "position": 2,
+      "placeId": "0x86bcd0adfd465ba9:0x7125a2d9eff65954",
+      "name": "Alcampo Outdoor Sports Madero Matriz",
+      "rating": 4.7,
+      "reviewCount": 43,
+      "category": "Tienda de deportes al aire libre",
+      "categories": [
+        "Tienda de deportes al aire libre"
+      ],
+      "address": "Blvd. Francisco I. Madero #302 Pte, Centro, 80000 Culiacán Rosales, Sin.",
+      "phone": "6677128555",
+      "website": null,
+      "coordinates": {
+        "lat": 24.8239388,
+        "lng": -107.4185657
+      },
+      "plusCode": "RJ32+MV Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Geraldine hernandezLocal Guide · 91 opiniones · 325 fotos",
+          "rating": 5,
+          "text": "Excelente atención. Variedad de productos para la vida outdoor como bastones, brújulas, termos, binoculares etc.",
+          "date": "Hace 3 años"
+        },
+        {
+          "author": "Geraldine hernandezLocal Guide · 91 opiniones · 325 fotos",
+          "rating": 5,
+          "text": "Excelente atención. Variedad de productos para la vida outdoor como bastones, brújulas, termos, binoculares etc.",
+          "date": "Hace 3 años"
+        },
+        {
+          "author": "Francisco LivasLocal Guide · 263 opiniones",
+          "rating": 5,
+          "text": "Una exelente y magnífica tienda,visitarla y entenderás porque. Es única y muy completa en productos para campismo,alpinismo y equipo para senderismo además  otro tipo",
+          "date": "Hace 11 meses"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Alcampo+Outdoor+Sports+Madero+Matriz/@24.8239388,-107.4185657,14z/data=!4m11!1m3!2m2!1sTiendas+deportivas+en+Culiacan,+Mexico!6e6!3m6!1s0x86bcd0adfd465ba9:0x7125a2d9eff65954!8m2!3d24.8042435!4d-107.3978504!15sCiZUaWVuZGFzIGRlcG9ydGl2YXMgZW4gQ3VsaWFjYW4sIE1leGljb1onIiV0aWVuZGFzIGRlcG9ydGl2YXMgZW4gY3VsaWFjYW4gbWV4aWNvkgEUb3V0ZG9vcl9zcG9ydHNfc3RvcmWaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVUjFORTlYUVVsM0VBReABAPoBBAhNEDc!16s%2Fg%2F1tfqrctk?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Tiendas deportivas",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-17T10:13:53.594Z"
+    },
+    {
+      "position": 3,
+      "placeId": "0x86bcd0a23c03bd2f:0xb3bbe2ba29f58d4b",
+      "name": "Deportes Cano",
+      "rating": 4.7,
+      "reviewCount": 43,
+      "category": "Tienda de deportes",
+      "categories": [
+        "Tienda de deportes"
+      ],
+      "address": "C. Miguel Hidalgo 713-A, Primer Cuadro, 80000 Culiacán Rosales, Sin.",
+      "phone": "6677157660",
+      "website": null,
+      "coordinates": {
+        "lat": 24.8239388,
+        "lng": -107.4185657
+      },
+      "plusCode": "RJ57+R7 Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Felipe MartínezLocal Guide · 56 opiniones",
+          "rating": 5,
+          "text": "Un modesto lugar, pero con un excelente surtido de material deportivo, además de una atención magnífica de su propietario, quien siempre te recibe con una afable sonrisa.",
+          "date": "Hace 5 años"
+        },
+        {
+          "author": "Felipe MartínezLocal Guide · 56 opiniones",
+          "rating": 5,
+          "text": "Un modesto lugar, pero con un excelente surtido de material deportivo, además de una atención magnífica de su propietario, quien siempre te recibe con una afable sonrisa.",
+          "date": "Hace 5 años"
+        },
+        {
+          "author": "Daniel EspinozaLocal Guide · 17 opiniones · 59 fotos",
+          "rating": 5,
+          "text": "Basto surtido de artículos deportivos, muy buena atención y excelentes precios.",
+          "date": "Hace 4 años"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Deportes+Cano/@24.8239388,-107.4185657,14z/data=!4m11!1m3!2m2!1sTiendas+deportivas+en+Culiacan,+Mexico!6e6!3m6!1s0x86bcd0a23c03bd2f:0xb3bbe2ba29f58d4b!8m2!3d24.8095886!4d-107.3868569!15sCiZUaWVuZGFzIGRlcG9ydGl2YXMgZW4gQ3VsaWFjYW4sIE1leGljb1onIiV0aWVuZGFzIGRlcG9ydGl2YXMgZW4gY3VsaWFjYW4gbWV4aWNvkgEUc3BvcnRpbmdfZ29vZHNfc3RvcmWaASRDaGREU1VoTk1HOW5TMFZKUTBGblNVUmxOM1F6U3paUlJSQULgAQD6AQQIABA-!16s%2Fg%2F1tfcz7p6?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Tiendas deportivas",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-17T10:13:56.061Z"
+    },
+    {
+      "position": 4,
+      "placeId": "0x86bcd0a59e250d23:0x8c9810b37245729c",
+      "name": "Deportiva Indio",
+      "rating": 4.2,
+      "reviewCount": 43,
+      "category": "Tienda de deportes",
+      "categories": [
+        "Tienda de deportes"
+      ],
+      "address": "Av. Jose María Morelos Nte. 187, Primer Cuadro, Centrro, 80000 Culiacán Rosales, Sin.",
+      "phone": "6677150481",
+      "website": null,
+      "coordinates": {
+        "lat": 24.8239388,
+        "lng": -107.4185657
+      },
+      "plusCode": "RJ42+CR Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "bernardino lopezLocal Guide · 19 opiniones · 6 fotos",
+          "rating": 4,
+          "text": "Los tiempos de maquila de uniformes son muy extensos y nunca entregan en tiempo los pedidos . Arrancamos hace 1 mes torneo y aun no está listo el uniforme.\nNo tienen estacionamiento y está complicado el llegar\nNecesitan poner estacionamiento gratis para los clientes que compren",
+          "date": "Hace 6 años"
+        },
+        {
+          "author": "bernardino lopezLocal Guide · 19 opiniones · 6 fotos",
+          "rating": 4,
+          "text": "Los tiempos de maquila de uniformes son muy extensos y nunca entregan en tiempo los pedidos . Arrancamos hace 1 mes torneo y aun no está listo el uniforme.\nNo tienen estacionamiento y está complicado el llegar\nNecesitan poner estacionamiento gratis para los clientes que compren",
+          "date": "Hace 6 años"
+        },
+        {
+          "author": "Crisanto Sánchez Ochoa TLocal Guide · 73 opiniones · 3 fotos",
+          "rating": 5,
+          "text": "Zapatos de fútbol para niños excelente relación calidad precio",
+          "date": "Hace un año"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Deportiva+Indio/@24.8239388,-107.4185657,14z/data=!4m11!1m3!2m2!1sTiendas+deportivas+en+Culiacan,+Mexico!6e6!3m6!1s0x86bcd0a59e250d23:0x8c9810b37245729c!8m2!3d24.8060968!4d-107.3979667!15sCiZUaWVuZGFzIGRlcG9ydGl2YXMgZW4gQ3VsaWFjYW4sIE1leGljb1onIiV0aWVuZGFzIGRlcG9ydGl2YXMgZW4gY3VsaWFjYW4gbWV4aWNvkgEUc3BvcnRpbmdfZ29vZHNfc3RvcmWaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVUTNhVTlxTUdWUkVBReABAPoBBAgAED4!16s%2Fg%2F1w0sd99q?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Tiendas deportivas",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-17T10:13:58.594Z"
+    },
+    {
+      "position": 5,
+      "placeId": "0x86bcda1909abaa65:0xdaa5207bc5dc25f7",
+      "name": "Jasa Sport",
+      "rating": 4.6,
+      "reviewCount": 43,
+      "category": "Tienda de deportes",
+      "categories": [
+        "Tienda de deportes"
+      ],
+      "address": "Calle Constitución 80, Miguel Alemán, 80200 Culiacán Rosales, Sin.",
+      "phone": "6677123093",
+      "website": null,
+      "coordinates": {
+        "lat": 24.8239388,
+        "lng": -107.4185657
+      },
+      "plusCode": "QJX4+MP Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Jesus daniel Madrid ramosLocal Guide · 139 opiniones",
+          "rating": 5,
+          "text": "Excelente atención muyy profesional muyy amables y Gran Calidad de uniformes gracias jasa",
+          "date": "Hace 3 años"
+        },
+        {
+          "author": "Jesus daniel Madrid ramosLocal Guide · 139 opiniones",
+          "rating": 5,
+          "text": "Excelente atención muyy profesional muyy amables y Gran Calidad de uniformes gracias jasa",
+          "date": "Hace 3 años"
+        },
+        {
+          "author": "Momentos DivertidosLocal Guide · 21 opiniones",
+          "rating": 5,
+          "text": "En lugar con buena atención y la ropa de muy buena calidad.",
+          "date": "Hace 3 años"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Jasa+Sport/@24.8239388,-107.4185657,14z/data=!4m11!1m3!2m2!1sTiendas+deportivas+en+Culiacan,+Mexico!6e6!3m6!1s0x86bcda1909abaa65:0xdaa5207bc5dc25f7!8m2!3d24.7991483!4d-107.393129!15sCiZUaWVuZGFzIGRlcG9ydGl2YXMgZW4gQ3VsaWFjYW4sIE1leGljb1onIiV0aWVuZGFzIGRlcG9ydGl2YXMgZW4gY3VsaWFjYW4gbWV4aWNvkgEUc3BvcnRpbmdfZ29vZHNfc3RvcmWaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVUlBhR0kzZG1GM0VBReABAPoBBAgAEDs!16s%2Fg%2F1tsykmlc?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Tiendas deportivas",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-17T10:14:00.896Z"
+    },
+    {
+      "position": 6,
+      "placeId": "0x86bc78b75a5389e7:0xc45abf8f3322f7c7",
+      "name": "Deportes Joyce",
+      "rating": 4.3,
+      "reviewCount": 43,
+      "category": "Tienda de deportes",
+      "categories": [
+        "Tienda de deportes"
+      ],
+      "address": "INSURGENTES SUR 970, CULIACAN, SINALOA INSURGENTES SUR 970 LOCAL 2D DEP JOYCE, CENTRO, 80129 Culiacán Rosales, Sin.",
+      "phone": "6677141761",
+      "website": null,
+      "coordinates": {
+        "lat": 24.8239388,
+        "lng": -107.4185657
+      },
+      "plusCode": "QHVQ+RG Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Leticia Telles5 opiniones · 1 foto",
+          "rating": 5,
+          "text": "Me encanta ir y tener la certeza de que siempre encuentro lo que busco. Y del personal ni se diga  muy amables y siempre hacen sugerencias.  Gracias",
+          "date": "Hace 2 meses"
+        },
+        {
+          "author": "Leticia Telles5 opiniones · 1 foto",
+          "rating": 5,
+          "text": "Me encanta ir y tener la certeza de que siempre encuentro lo que busco. Y del personal ni se diga  muy amables y siempre hacen sugerencias.  Gracias",
+          "date": "Hace 2 meses"
+        },
+        {
+          "author": "Paul Robles4 opiniones",
+          "rating": 5,
+          "text": "Esta todo super bien, recomendable y los uniformes de buena calidad",
+          "date": "3 semanas atrás Nueva"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Deportes+Joyce/@24.8239388,-107.4185657,14z/data=!4m11!1m3!2m2!1sTiendas+deportivas+en+Culiacan,+Mexico!6e6!3m6!1s0x86bc78b75a5389e7:0xc45abf8f3322f7c7!8m2!3d24.7946035!4d-107.4112195!15sCiZUaWVuZGFzIGRlcG9ydGl2YXMgZW4gQ3VsaWFjYW4sIE1leGljb1onIiV0aWVuZGFzIGRlcG9ydGl2YXMgZW4gY3VsaWFjYW4gbWV4aWNvkgEUc3BvcnRpbmdfZ29vZHNfc3RvcmWaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVTmxORjlMYWsxQkVBReABAPoBBAgAEDI!16s%2Fg%2F1tg5vh81?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Tiendas deportivas",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-17T10:14:02.756Z"
+    },
+    {
+      "position": 7,
+      "placeId": "0x86bcd79a6810160f:0x6525331d96eb5544",
+      "name": "Rochin Sport",
+      "rating": null,
+      "reviewCount": 43,
+      "category": "Tienda de deportes",
+      "categories": [
+        "Tienda de deportes"
+      ],
+      "address": "Centro Cívico, Constitución, 80000 Culiacán Rosales, Sin.",
+      "phone": "6671252837",
+      "website": "https://rohin-sport.ueniweb.com/?utm_campaign=gmb",
+      "coordinates": {
+        "lat": 24.7946035,
+        "lng": -107.4493283
+      },
+      "plusCode": "RJ78+5J Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [],
+      "profileUrl": "https://www.google.com/maps/place/Rochin+Sport/@24.7946035,-107.4493283,14z/data=!4m11!1m3!2m2!1sTiendas+deportivas+en+Culiacan,+Mexico!6e6!3m6!1s0x86bcd79a6810160f:0x6525331d96eb5544!8m2!3d24.8129451!4d-107.3833859!15sCiZUaWVuZGFzIGRlcG9ydGl2YXMgZW4gQ3VsaWFjYW4sIE1leGljb5IBFHNwb3J0aW5nX2dvb2RzX3N0b3Jl4AEA!16s%2Fg%2F11fp5n650n?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": "soyrsport@gmail.com",
+      "allEmails": [
+        "soyrsport@gmail.com"
+      ],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": "facebook.com/share.php",
+        "twitter": "twitter.com/intent",
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Tiendas deportivas",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-17T10:14:06.057Z"
+    },
+    {
+      "position": 8,
+      "placeId": "0x86bcda19a671864d:0xca80b1139cb9066",
+      "name": "Alcampo Outdoors Sports Mercadito Juarez",
+      "rating": 4.8,
+      "reviewCount": 43,
+      "category": "Tienda de deportes al aire libre",
+      "categories": [
+        "Tienda de deportes al aire libre"
+      ],
+      "address": "Calle Benito Juarez 478 Oriente, Primer Cuadro, 80000 Culiacán Rosales, Sin.",
+      "phone": "6677120319",
+      "website": null,
+      "coordinates": {
+        "lat": 24.8129451,
+        "lng": -107.4214947
+      },
+      "plusCode": "RJ56+34 Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Inés Fernando Vega LópezLocal Guide · 117 opiniones · 44 fotos",
+          "rating": 5,
+          "text": "Muy buen surtido de artículos de pesca. Muy buena atención.",
+          "date": "Editado Hace 3 años"
+        },
+        {
+          "author": "Inés Fernando Vega LópezLocal Guide · 117 opiniones · 44 fotos",
+          "rating": 5,
+          "text": "Muy buen surtido de artículos de pesca. Muy buena atención.",
+          "date": "Editado Hace 3 años"
+        },
+        {
+          "author": "Gabino Franco2 opiniones",
+          "rating": 5,
+          "text": "Lo mejor en cada uno de los artículos que manejan , excelente calidad y sobre todo la atención que nos brindan",
+          "date": "Hace 7 años"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Alcampo+Outdoors+Sports+Mercadito+Juarez/@24.8129451,-107.4214947,14z/data=!3m1!5s0x86bcd0ac30ce0d63:0xe716503b1796b0a5!4m11!1m3!2m2!1sTiendas+deportivas+en+Culiacan,+Mexico!6e6!3m6!1s0x86bcda19a671864d:0xca80b1139cb9066!8m2!3d24.8076846!4d-107.3897163!15sCiZUaWVuZGFzIGRlcG9ydGl2YXMgZW4gQ3VsaWFjYW4sIE1leGljb1onIiV0aWVuZGFzIGRlcG9ydGl2YXMgZW4gY3VsaWFjYW4gbWV4aWNvkgEUb3V0ZG9vcl9zcG9ydHNfc3RvcmWaASNDaFpEU1VoTk1HOW5TMFZKUTBGblRVTlJaMDlMWDFabkVBReABAPoBBAgAECc!16s%2Fg%2F1tgj97zj?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Tiendas deportivas",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-17T10:14:08.333Z"
+    },
+    {
+      "position": 9,
+      "placeId": "0x86bcd7410a5111c7:0x26ddffd0830cbebc",
+      "name": "Almonte Cacerias Y Deportes Sa De Cv",
+      "rating": 4.7,
+      "reviewCount": 43,
+      "category": "Tienda de deportes",
+      "categories": [
+        "Tienda de deportes"
+      ],
+      "address": "Juan B. Sepúlveda 244, Primer Cuadro, 80000 Culiacán Rosales, Sin.",
+      "phone": "6677152700",
+      "website": null,
+      "coordinates": {
+        "lat": 24.8129451,
+        "lng": -107.4214947
+      },
+      "plusCode": "RJ57+37 Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Angel AguilarLocal Guide · 104 opiniones · 83 fotos",
+          "rating": 5,
+          "text": "Bien surtida",
+          "date": "Hace 5 años"
+        },
+        {
+          "author": "Angel AguilarLocal Guide · 104 opiniones · 83 fotos",
+          "rating": 5,
+          "text": "Bien surtida",
+          "date": "Hace 5 años"
+        },
+        {
+          "author": "J.G. P.MLocal Guide · 60 opiniones · 28 fotos",
+          "rating": 5,
+          "text": "Excelente lugar donde encontré todo lo relacionado a pesca y cacería deportiva variedad de productos. Execelente atención pregunta por Alonso",
+          "date": "Hace 8 años"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Almonte+Cacerias+Y+Deportes+Sa+De+Cv/@24.8129451,-107.4214947,14z/data=!4m11!1m3!2m2!1sTiendas+deportivas+en+Culiacan,+Mexico!6e6!3m6!1s0x86bcd7410a5111c7:0x26ddffd0830cbebc!8m2!3d24.8077444!4d-107.3868017!15sCiZUaWVuZGFzIGRlcG9ydGl2YXMgZW4gQ3VsaWFjYW4sIE1leGljb5IBFHNwb3J0aW5nX2dvb2RzX3N0b3Jl4AEA!16s%2Fg%2F1tfv0_50?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Tiendas deportivas",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-17T10:14:11.364Z"
+    },
+    {
+      "position": 10,
+      "placeId": "0x86bcd0af8d16037d:0xccf2c6a6f817631e",
+      "name": "Deportiva Del Pacifico Sa De Cv",
+      "rating": 4.4,
+      "reviewCount": 43,
+      "category": "Tienda de uniformes",
+      "categories": [
+        "Tienda de uniformes"
+      ],
+      "address": "Av. Gral. Domingo Rubí Sur 60, Primer Cuadro, Centro, 80000 Culiacán Rosales, Sin.",
+      "phone": "6677162590",
+      "website": null,
+      "coordinates": {
+        "lat": 24.8129451,
+        "lng": -107.4214947
+      },
+      "plusCode": "RJ43+3J Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Xochitl Sánchez LugoLocal Guide · 27 opiniones · 24 fotos",
+          "rating": 5,
+          "text": "⭐️⭐️⭐️⭐️⭐️\nQuiero agradecer públicamente a Deportiva del Pacífico por la gran calidad humana que mostraron hoy con mi hija. Durante la fuerte lluvia en el centro, ella… Más",
+          "date": "Hace 3 meses"
+        },
+        {
+          "author": "Xochitl Sánchez LugoLocal Guide · 27 opiniones · 24 fotos",
+          "rating": 5,
+          "text": "⭐️⭐️⭐️⭐️⭐️\nQuiero agradecer públicamente a Deportiva del Pacífico por la gran calidad humana que mostraron hoy con mi hija. Durante la fuerte lluvia en el centro, ella… Más",
+          "date": "Hace 3 meses"
+        },
+        {
+          "author": "jesus antonio sandoval espinoza5 opiniones",
+          "rating": 5,
+          "text": "Excelente atención desde hace 23 años, saludos al amigo martin",
+          "date": "Hace 3 meses"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Deportiva+Del+Pacifico+Sa+De+Cv/@24.8129451,-107.4214947,14z/data=!4m11!1m3!2m2!1sTiendas+deportivas+en+Culiacan,+Mexico!6e6!3m6!1s0x86bcd0af8d16037d:0xccf2c6a6f817631e!8m2!3d24.8051809!4d-107.3959111!15sCiZUaWVuZGFzIGRlcG9ydGl2YXMgZW4gQ3VsaWFjYW4sIE1leGljb1onIiV0aWVuZGFzIGRlcG9ydGl2YXMgZW4gY3VsaWFjYW4gbWV4aWNvkgENdW5pZm9ybV9zdG9yZZoBJENoZERTVWhOTUc5blMwVkpRMEZuU1VOWE1EUmZVSGRCUlJBQuABAPoBBAgAEBY!16s%2Fg%2F1tffvclq?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Tiendas deportivas",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-17T10:14:14.212Z"
+    },
+    {
+      "position": 11,
+      "placeId": "0x86bcd0a763ddb18f:0x174ef55a84302f47",
+      "name": "Innovasport Forum Culiacán",
+      "rating": 4.4,
+      "reviewCount": 43,
+      "category": "Tienda de deportes",
+      "categories": [
+        "Tienda de deportes"
+      ],
+      "address": "Diego Valadés Ríos 1676, Desarrollo Urbano Tres Ríos, 80020 Culiacán Rosales, Sin.",
+      "phone": "6673090866",
+      "website": "https://www.innovasport.com/",
+      "coordinates": {
+        "lat": 24.8129451,
+        "lng": -107.4214947
+      },
+      "plusCode": "RJ72+F2 Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": true,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Luis Angel Cime NisLocal Guide · 88 opiniones · 40 fotos",
+          "rating": null,
+          "text": "Mala experiencia al momento de cambiar calzado, según el vendedor al momento de la compra tiene el comprador tiene 90 días para cambiar el calzado, me dijo eso pues percibió qué muy probablemente los tenis no me iban a quedar pero al… Más",
+          "date": "Editado Hace 4 meses"
+        },
+        {
+          "author": "Luis Angel Cime NisLocal Guide · 88 opiniones · 40 fotos",
+          "rating": null,
+          "text": "Mala experiencia al momento de cambiar calzado, según el vendedor al momento de la compra tiene el comprador tiene 90 días para cambiar el calzado, me dijo eso pues percibió qué muy probablemente los tenis no me iban a quedar pero al… Más",
+          "date": "Editado Hace 4 meses"
+        },
+        {
+          "author": "Sergio FelixLocal Guide · 21 opiniones · 1 foto",
+          "rating": null,
+          "text": "La tienda está bastante grande y muy bien surtida aunque la atención al cliente en cajas, es FATAL. ¿Cómo es posible que tengan una sola cajera en una tienda de este tamaño y además todos los empleados tomándose fotos en lugar de estar… Más",
+          "date": "Hace 7 años"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Innovasport+Forum+Culiac%C3%A1n/@24.8129451,-107.4214947,14z/data=!3m1!5s0x86bcda09e07e44e7:0xd2a738d88aefc6a3!4m11!1m3!2m2!1sTiendas+deportivas+en+Culiacan,+Mexico!6e6!3m6!1s0x86bcd0a763ddb18f:0x174ef55a84302f47!8m2!3d24.81368!4d-107.399961!15sCiZUaWVuZGFzIGRlcG9ydGl2YXMgZW4gQ3VsaWFjYW4sIE1leGljb1onIiV0aWVuZGFzIGRlcG9ydGl2YXMgZW4gY3VsaWFjYW4gbWV4aWNvkgEUc3BvcnRpbmdfZ29vZHNfc3RvcmWaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVUlhjaTFtT1U1UkVBReABAPoBBAgAEEI!16s%2Fg%2F12hnx95k3?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": "instagram.com/nbastoremex",
+        "facebook": "facebook.com/innovasport",
+        "twitter": "twitter.com/uwt",
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": "tiktok.com/@innovasport"
+      },
+      "searchQuery": {
+        "businessType": "Tiendas deportivas",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-17T10:14:18.859Z"
+    },
+    {
+      "position": 12,
+      "placeId": "0x86bcda062143a2e7:0xc805eeb6dd86da59",
+      "name": "dportenis Alvaro Obregón",
+      "rating": 4.5,
+      "reviewCount": 43,
+      "category": "Tienda de deportes",
+      "categories": [
+        "Tienda de deportes"
+      ],
+      "address": "Alvaro Obregón No. 298 Centro, centro, 80308 Culiacán Rosales, Sin.",
+      "phone": "6677124841",
+      "website": "https://www.dportenis.mx/",
+      "coordinates": {
+        "lat": 24.8129451,
+        "lng": -107.4214947
+      },
+      "plusCode": "RJ24+W7 Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Marina VargasLocal Guide · 138 opiniones · 146 fotos",
+          "rating": 5,
+          "text": "Muy buena atención de parte de los muchachos, mucha variedad en mercancía",
+          "date": "Editado Hace 3 años"
+        },
+        {
+          "author": "Marina VargasLocal Guide · 138 opiniones · 146 fotos",
+          "rating": 5,
+          "text": "Muy buena atención de parte de los muchachos, mucha variedad en mercancía",
+          "date": "Editado Hace 3 años"
+        },
+        {
+          "author": "Ssnty González2 opiniones · 3 fotos",
+          "rating": null,
+          "text": "No que alas 9 abren",
+          "date": "Hace 4 meses"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/dportenis+Alvaro+Obreg%C3%B3n/@24.8129451,-107.4214947,14z/data=!4m11!1m3!2m2!1sTiendas+deportivas+en+Culiacan,+Mexico!6e6!3m6!1s0x86bcda062143a2e7:0xc805eeb6dd86da59!8m2!3d24.8023482!4d-107.3943675!15sCiZUaWVuZGFzIGRlcG9ydGl2YXMgZW4gQ3VsaWFjYW4sIE1leGljb1onIiV0aWVuZGFzIGRlcG9ydGl2YXMgZW4gY3VsaWFjYW4gbWV4aWNvkgEUc3BvcnRpbmdfZ29vZHNfc3RvcmWaASRDaGREU1VoTk1HOW5TMFZKUTBGblNVTXliSFJFTm10blJSQULgAQD6AQQIABAv!16s%2Fg%2F1tslk4qf?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": "info@AuroraESite.xxx",
+      "allEmails": [
+        "info@AuroraESite.xxx"
+      ],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": "526699155300",
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Tiendas deportivas",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-17T10:14:23.107Z"
+    },
+    {
+      "position": 13,
+      "placeId": "0x86bcd0af113d7f43:0xb52eb0ebd4fd06c1",
+      "name": "dportenis Benito Juárez Culiacán",
+      "rating": 4.3,
+      "reviewCount": 43,
+      "category": "Tienda de deportes",
+      "categories": [
+        "Tienda de deportes"
+      ],
+      "address": "Calle Benito Juarez 13-Pte, Primer Cuadro, Centro, 80000 Culiacán Rosales, Sin.",
+      "phone": "6677521792",
+      "website": "https://www.dportenis.mx/",
+      "coordinates": {
+        "lat": 24.8129451,
+        "lng": -107.4214947
+      },
+      "plusCode": "RJ44+X4 Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "X XLocal Guide · 195 opiniones · 123 fotos",
+          "rating": 3,
+          "text": "Hay muy poca variedad de ropa además de siempre faltar tallas o venden la ropa muy grande o amplia, cada vez hay menos promociones, por ejemplo que ahora no entra Nike a descuento o pasar del segundo artículo a mitad de precio al 40% y ahora a 30%.",
+          "date": "Hace 4 años"
+        },
+        {
+          "author": "X XLocal Guide · 195 opiniones · 123 fotos",
+          "rating": 3,
+          "text": "Hay muy poca variedad de ropa además de siempre faltar tallas o venden la ropa muy grande o amplia, cada vez hay menos promociones, por ejemplo que ahora no entra Nike a descuento o pasar del segundo artículo a mitad de precio al 40% y ahora a 30%.",
+          "date": "Hace 4 años"
+        },
+        {
+          "author": "Jose Francisco Osorio SanchezLocal Guide · 11 opiniones",
+          "rating": 3,
+          "text": "La persona que me atendió muy atenta, otros parecen muy ocupados para atender los clientes, deberían ofrecer una pequeña comisión por venta mejoraría la atención a sus clientes y venderían mas",
+          "date": "Hace 4 años"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/dportenis+Benito+Ju%C3%A1rez+Culiac%C3%A1n/@24.8129451,-107.4214947,14z/data=!4m11!1m3!2m2!1sTiendas+deportivas+en+Culiacan,+Mexico!6e6!3m6!1s0x86bcd0af113d7f43:0xb52eb0ebd4fd06c1!8m2!3d24.8074749!4d-107.3946337!15sCiZUaWVuZGFzIGRlcG9ydGl2YXMgZW4gQ3VsaWFjYW4sIE1leGljb1onIiV0aWVuZGFzIGRlcG9ydGl2YXMgZW4gY3VsaWFjYW4gbWV4aWNvkgEUc3BvcnRpbmdfZ29vZHNfc3RvcmWaASRDaGREU1VoTk1HOW5TMFZKUTBGblNVTlhhRWx4UnpWblJSQULgAQD6AQQIABAn!16s%2Fg%2F11b76cmj6f?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": "info@AuroraESite.xxx",
+      "allEmails": [
+        "info@AuroraESite.xxx"
+      ],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": "526699155300",
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Tiendas deportivas",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-17T10:14:26.089Z"
+    },
+    {
+      "position": 14,
+      "placeId": "0x86bcd75f20708671:0x9457b529c36abf00",
+      "name": "Idearte Culiacán",
+      "rating": 4.3,
+      "reviewCount": 43,
+      "category": "Tienda de uniformes",
+      "categories": [
+        "Tienda de uniformes"
+      ],
+      "address": "Av Dr Ruperto Paliza 779, Primer Cuadro, 80000 Culiacán Rosales, Sin.",
+      "phone": "6671707553",
+      "website": null,
+      "coordinates": {
+        "lat": 24.8129451,
+        "lng": -107.4214947
+      },
+      "plusCode": "RJ64+P8 Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Patricio Bazua3 opiniones · 1 foto",
+          "rating": null,
+          "text": "Me habían dicho que ya estaban haciéndolos y que estarían listos para una fecha y días después me dejaron de contestar",
+          "date": "Hace 2 meses"
+        },
+        {
+          "author": "Patricio Bazua3 opiniones · 1 foto",
+          "rating": null,
+          "text": "Me habían dicho que ya estaban haciéndolos y que estarían listos para una fecha y días después me dejaron de contestar",
+          "date": "Hace 2 meses"
+        },
+        {
+          "author": "Julio Pérez MezaLocal Guide · 43 opiniones · 82 fotos",
+          "rating": 5,
+          "text": "He mandado a hacer uniformes de fútbol 2 veces, son muy atentos y accesibles, el precio está bien y cumplen en el tiempo de entrega.",
+          "date": "Editado Hace 4 años"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Idearte+Culiac%C3%A1n/@24.8129451,-107.4214947,14z/data=!4m11!1m3!2m2!1sTiendas+deportivas+en+Culiacan,+Mexico!6e6!3m6!1s0x86bcd75f20708671:0x9457b529c36abf00!8m2!3d24.81187!4d-107.3942225!15sCiZUaWVuZGFzIGRlcG9ydGl2YXMgZW4gQ3VsaWFjYW4sIE1leGljb5IBDXVuaWZvcm1fc3RvcmXgAQA!16s%2Fg%2F1hhwvplj4?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Tiendas deportivas",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-17T10:14:28.452Z"
+    },
+    {
+      "position": 15,
+      "placeId": "0x86bcd0af73e1b683:0x15ba49cb5d4cfe18",
+      "name": "Zapateria Y Deportes Lux",
+      "rating": 4.6,
+      "reviewCount": 43,
+      "category": "Zapatería",
+      "categories": [
+        "Zapatería"
+      ],
+      "address": "Av Gral Juan Carrasco 244, Primer Cuadro, 80000 Culiacán Rosales, Sin.",
+      "phone": "6677150351",
+      "website": null,
+      "coordinates": {
+        "lat": 24.8129451,
+        "lng": -107.4214947
+      },
+      "plusCode": "RJ43+MP Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "chilito gamer tv1 opinión",
+          "rating": 5,
+          "text": "Tienen buena forma de tratar a los clientes y puedes encontrar muchas cosas a un precio muy accesible",
+          "date": "Hace 3 años"
+        },
+        {
+          "author": "chilito gamer tv1 opinión",
+          "rating": 5,
+          "text": "Tienen buena forma de tratar a los clientes y puedes encontrar muchas cosas a un precio muy accesible",
+          "date": "Hace 3 años"
+        },
+        {
+          "author": "Eduardo GalvanLocal Guide · 44 opiniones · 102 fotos",
+          "rating": 5,
+          "text": "Muy buen lugar",
+          "date": "Hace 7 años"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Zapateria+Y+Deportes+Lux/@24.8129451,-107.4214947,14z/data=!4m11!1m3!2m2!1sTiendas+deportivas+en+Culiacan,+Mexico!6e6!3m6!1s0x86bcd0af73e1b683:0x15ba49cb5d4cfe18!8m2!3d24.8067464!4d-107.3956477!15sCiZUaWVuZGFzIGRlcG9ydGl2YXMgZW4gQ3VsaWFjYW4sIE1leGljb1onIiV0aWVuZGFzIGRlcG9ydGl2YXMgZW4gY3VsaWFjYW4gbWV4aWNvkgEKc2hvZV9zdG9yZZoBI0NoWkRTVWhOTUc5blMwVkpRMEZuU1VORWMwNXVUVXhuRUFF4AEA-gEECAAQPA!16s%2Fg%2F1tfsc8p2?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Tiendas deportivas",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-17T10:14:30.645Z"
+    },
+    {
+      "position": 16,
+      "placeId": "0x86bcdb6ca5255285:0xcd146f432f88484f",
+      "name": "HRT Sports Culiacan",
+      "rating": 5,
+      "reviewCount": 43,
+      "category": "Tienda de deportes",
+      "categories": [
+        "Tienda de deportes"
+      ],
+      "address": "Profr. Juan Macedo López, Desarrollo Urbano Tres Ríos, 80030 Culiacán Rosales, Sin.",
+      "phone": "6673368834",
+      "website": null,
+      "coordinates": {
+        "lat": 24.8129451,
+        "lng": -107.4214947
+      },
+      "plusCode": "RH9X+3M Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Adamir Alan OM2 opiniones",
+          "rating": 5,
+          "text": "Tienda con buena variedad de articulos, buenos precios y muy buena atencion",
+          "date": "Hace 6 años"
+        },
+        {
+          "author": "Adamir Alan OM2 opiniones",
+          "rating": 5,
+          "text": "Tienda con buena variedad de articulos, buenos precios y muy buena atencion",
+          "date": "Hace 6 años"
+        },
+        {
+          "author": "Rafael Vega6 opiniones · 1 foto",
+          "rating": 5,
+          "text": "Todo para beisbol y tenis.",
+          "date": "Hace 6 años"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/HRT+Sports+Culiacan/@24.8129451,-107.4214947,14z/data=!4m11!1m3!2m2!1sTiendas+deportivas+en+Culiacan,+Mexico!6e6!3m6!1s0x86bcdb6ca5255285:0xcd146f432f88484f!8m2!3d24.8177099!4d-107.400858!15sCiZUaWVuZGFzIGRlcG9ydGl2YXMgZW4gQ3VsaWFjYW4sIE1leGljb1onIiV0aWVuZGFzIGRlcG9ydGl2YXMgZW4gY3VsaWFjYW4gbWV4aWNvkgEUc3BvcnRpbmdfZ29vZHNfc3RvcmXgAQA!16s%2Fg%2F11gyyk4638?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Tiendas deportivas",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-17T10:14:32.309Z"
+    },
+    {
+      "position": 17,
+      "placeId": "0x86bcda177bc8394d:0xfad42a2a9ceadedc",
+      "name": "DEPORTES JOYCE 3 RIOS",
+      "rating": 3.8,
+      "reviewCount": 43,
+      "category": "Tienda de deportes",
+      "categories": [
+        "Tienda de deportes"
+      ],
+      "address": "Calle Universitarios Ote. 433, Comunicadores, 80030 Culiacán Rosales, Sin.",
+      "phone": "6677170202",
+      "website": "http://www.deportesjoyce.com.mx/",
+      "coordinates": {
+        "lat": 24.8129451,
+        "lng": -107.4214947
+      },
+      "plusCode": "RJM3+Q4 Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Sam LunaLocal Guide · 121 opiniones · 1 foto",
+          "rating": 5,
+          "text": "Buen surtido venden la marca Iker",
+          "date": "Hace 5 años"
+        },
+        {
+          "author": "Sam LunaLocal Guide · 121 opiniones · 1 foto",
+          "rating": 5,
+          "text": "Buen surtido venden la marca Iker",
+          "date": "Hace 5 años"
+        },
+        {
+          "author": "Gisel RodriguezLocal Guide · 65 opiniones · 227 fotos",
+          "rating": 5,
+          "text": "Calidad. Surtido y buen servicio",
+          "date": "Hace 6 años"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/DEPORTES+JOYCE+3+RIOS/@24.8129451,-107.4214947,14z/data=!4m11!1m3!2m2!1sTiendas+deportivas+en+Culiacan,+Mexico!6e6!3m6!1s0x86bcda177bc8394d:0xfad42a2a9ceadedc!8m2!3d24.8344529!4d-107.3972289!15sCiZUaWVuZGFzIGRlcG9ydGl2YXMgZW4gQ3VsaWFjYW4sIE1leGljb5IBFHNwb3J0aW5nX2dvb2RzX3N0b3Jl4AEA!16s%2Fg%2F11g_60kg_?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": "deportesjoyce@gmail.com",
+      "allEmails": [
+        "deportesjoyce@gmail.com",
+        "donotreply@nccdn.net",
+        "info@mybusiness.com"
+      ],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Tiendas deportivas",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-17T10:14:39.536Z"
+    },
+    {
+      "position": 18,
+      "placeId": "0x86bcd7640ece7ed3:0x8c61fe562e8d61e9",
+      "name": "Calzzasport Campiña",
+      "rating": 5,
+      "reviewCount": 43,
+      "category": "Tienda de deportes",
+      "categories": [
+        "Tienda de deportes"
+      ],
+      "address": "Blvrd Dr Mora 1725, La Campiña, 80060 Culiacán Rosales, Sin.",
+      "phone": "8009272867",
+      "website": "http://www.calzzasport.com/",
+      "coordinates": {
+        "lat": 24.8129451,
+        "lng": -107.4214947
+      },
+      "plusCode": "RJ8M+JR Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": true,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Jesús Manuel Contreras1 opinión · 3 fotos",
+          "rating": 5,
+          "text": "Muy amables y buena atención,tienen buenos productos y marcas,",
+          "date": "Hace 5 meses"
+        },
+        {
+          "author": "Jesús Manuel Contreras1 opinión · 3 fotos",
+          "rating": 5,
+          "text": "Muy amables y buena atención,tienen buenos productos y marcas,",
+          "date": "Hace 5 meses"
+        },
+        {
+          "author": "Enrique 23Local Guide · 451 opiniones · 3,966 fotos",
+          "rating": 5,
+          "text": "Tienen las mejores marcas de calzado y ropa deportiva.",
+          "date": "Hace 2 años"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Calzzasport+Campi%C3%B1a/@24.8129451,-107.4214947,14z/data=!4m11!1m3!2m2!1sTiendas+deportivas+en+Culiacan,+Mexico!6e6!3m6!1s0x86bcd7640ece7ed3:0x8c61fe562e8d61e9!8m2!3d24.8165727!4d-107.3654609!15sCiZUaWVuZGFzIGRlcG9ydGl2YXMgZW4gQ3VsaWFjYW4sIE1leGljb1onIiV0aWVuZGFzIGRlcG9ydGl2YXMgZW4gY3VsaWFjYW4gbWV4aWNvkgEUc3BvcnRpbmdfZ29vZHNfc3RvcmWaAURDaTlEUVVsUlFVTnZaRU5vZEhsalJqbHZUMjAxUjJKdWFIQlJWV3cwV1cweFVsVnFWa1JqUld4M1pGaEdaazV1WXhBQuABAPoBBAgAED4!16s%2Fg%2F11qh3y2k2j?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": "instagram.com/calzzasport.mx",
+        "facebook": "facebook.com/tr",
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": "tiktok.com/@calzzasport.mx"
+      },
+      "searchQuery": {
+        "businessType": "Tiendas deportivas",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-17T10:14:43.923Z"
+    },
+    {
+      "position": 19,
+      "placeId": "0x86bcd9f7b9497209:0x5568c26f4f137634",
+      "name": "Efectos",
+      "rating": 5,
+      "reviewCount": 43,
+      "category": "Tienda de deportes",
+      "categories": [
+        "Tienda de deportes"
+      ],
+      "address": "Heráclito 3013, U.a.s., UAS, 80000 Culiacán Rosales, Sin.",
+      "phone": "6677532584",
+      "website": null,
+      "coordinates": {
+        "lat": 24.8129451,
+        "lng": -107.4214947
+      },
+      "plusCode": "RJJ8+3P Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Briceyda Sanchez1 opinión",
+          "rating": 5,
+          "text": "me gusta  pero quisiera que hubieran imagenes casi como si estuvieras pasando tu por alli",
+          "date": "Hace 9 años"
+        },
+        {
+          "author": "Briceyda Sanchez1 opinión",
+          "rating": 5,
+          "text": "me gusta  pero quisiera que hubieran imagenes casi como si estuvieras pasando tu por alli",
+          "date": "Hace 9 años"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Efectos/@24.8129451,-107.4214947,14z/data=!4m11!1m3!2m2!1sTiendas+deportivas+en+Culiacan,+Mexico!6e6!3m6!1s0x86bcd9f7b9497209:0x5568c26f4f137634!8m2!3d24.8301753!4d-107.3831969!15sCiZUaWVuZGFzIGRlcG9ydGl2YXMgZW4gQ3VsaWFjYW4sIE1leGljb5IBFHNwb3J0aW5nX2dvb2RzX3N0b3Jl4AEA!16s%2Fg%2F1thw74_n?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Tiendas deportivas",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-17T10:14:46.545Z"
+    },
+    {
+      "position": 20,
+      "placeId": "0x86bcda724456a7f1:0x3203575738274df1",
+      "name": "Deportes Joyce",
+      "rating": 4.3,
+      "reviewCount": 43,
+      "category": "Tienda de deportes",
+      "categories": [
+        "Tienda de deportes"
+      ],
+      "address": "Enrique Félix Castro 1865, Infonavit Humaya, Humaya, 80020 Culiacán Rosales, Sin.",
+      "phone": "6672576000",
+      "website": null,
+      "coordinates": {
+        "lat": 24.8129451,
+        "lng": -107.4214947
+      },
+      "plusCode": "RHFQ+23 Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Jesus Omar Apodaca Orozco2 opiniones · 1 foto",
+          "rating": null,
+          "text": "Encuentras lo que buscas precios Altos pero la calidad si me dejo que desear, compre un pantalón el día Lunes, jugué un día sin siquiera barrerme (Softbol) y se descocio el entre piernas, y no me dieron solución. Por eso le doy 1 estrella",
+          "date": "Hace un año"
+        },
+        {
+          "author": "Jesus Omar Apodaca Orozco2 opiniones · 1 foto",
+          "rating": null,
+          "text": "Encuentras lo que buscas precios Altos pero la calidad si me dejo que desear, compre un pantalón el día Lunes, jugué un día sin siquiera barrerme (Softbol) y se descocio el entre piernas, y no me dieron solución. Por eso le doy 1 estrella",
+          "date": "Hace un año"
+        },
+        {
+          "author": "Karen Valdez2 opiniones",
+          "rating": 5,
+          "text": "Excelente, es la única deportiva que abre temprano en domingo... En vdd te saca del apuro",
+          "date": "Hace un mes"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Deportes+Joyce/@24.8129451,-107.4214947,14z/data=!4m11!1m3!2m2!1sTiendas+deportivas+en+Culiacan,+Mexico!6e6!3m6!1s0x86bcda724456a7f1:0x3203575738274df1!8m2!3d24.8225282!4d-107.4123742!15sCiZUaWVuZGFzIGRlcG9ydGl2YXMgZW4gQ3VsaWFjYW4sIE1leGljb1onIiV0aWVuZGFzIGRlcG9ydGl2YXMgZW4gY3VsaWFjYW4gbWV4aWNvkgEUc3BvcnRpbmdfZ29vZHNfc3RvcmWaASRDaGREU1VoTk1HOW5TMFZKUTBGblNVTkNjR1JpUmpsQlJSQULgAQD6AQQIABA0!16s%2Fg%2F11c5g40pdk?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Tiendas deportivas",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-17T10:14:48.708Z"
+    },
+    {
+      "position": 21,
+      "placeId": "0x86bcd9ffa97dad13:0xec0ba6f2dee8a302",
+      "name": "Raudor ️",
+      "rating": 4.8,
+      "reviewCount": 43,
+      "category": "Tienda de bicicletas",
+      "categories": [
+        "Tienda de bicicletas"
+      ],
+      "address": "80040, Blvd. Francisco Labastida Ochoa 1421, Chapultepec del Río, 80040 Culiacán Rosales, Sin.",
+      "phone": "6672575669",
+      "website": "http://www.raudor.com/",
+      "coordinates": {
+        "lat": 24.8225282,
+        "lng": -107.450483
+      },
+      "plusCode": "RJ98+MX Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Mónica CastroLocal Guide · 26 opiniones · 24 fotos",
+          "rating": 5,
+          "text": "Excelente surtido. Se ven de calidad los productos y además tiene servicios de reparación y mantenimiento para tus bicicletas.",
+          "date": "Hace 5 años"
+        },
+        {
+          "author": "Mónica CastroLocal Guide · 26 opiniones · 24 fotos",
+          "rating": 5,
+          "text": "Excelente surtido. Se ven de calidad los productos y además tiene servicios de reparación y mantenimiento para tus bicicletas.",
+          "date": "Hace 5 años"
+        },
+        {
+          "author": "Kevin uriel Madueño astorga1 opinión",
+          "rating": 5,
+          "text": "Excelente servicio 10/10 me dieron la bici como nueva y el mismo día que deje mi bici me la entregaron",
+          "date": "Hace 4 meses"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Raudor+%EF%B8%8F/@24.8225282,-107.450483,14z/data=!4m11!1m3!2m2!1sTiendas+deportivas+en+Culiacan,+Mexico!6e6!3m6!1s0x86bcd9ffa97dad13:0xec0ba6f2dee8a302!8m2!3d24.8191319!4d-107.3825507!15sCiZUaWVuZGFzIGRlcG9ydGl2YXMgZW4gQ3VsaWFjYW4sIE1leGljb1onIiV0aWVuZGFzIGRlcG9ydGl2YXMgZW4gY3VsaWFjYW4gbWV4aWNvkgENYmljeWNsZV9zdG9yZZoBJENoZERTVWhOTUc5blMwVkpRMEZuU1VOd01FeG1lSEJuUlJBQuABAPoBBAhcEBw!16s%2Fg%2F11clzhjf48?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": "instagram.com/raudormx",
+        "facebook": "facebook.com/raudor",
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": "tiktok.com/@raudormx"
+      },
+      "searchQuery": {
+        "businessType": "Tiendas deportivas",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-17T10:14:51.741Z"
+    },
+    {
+      "position": 22,
+      "placeId": "0x86bcda09d8d66c7b:0x123cae43100805cc",
+      "name": "dportenis Plaza Forum Culiacán",
+      "rating": 4.5,
+      "reviewCount": 43,
+      "category": "Tienda de ropa de deportes",
+      "categories": [
+        "Tienda de ropa de deportes"
+      ],
+      "address": "Blvd.Jose Diego Valadez No.1676 PA-09 Desarrollo Urbano Tres Rios 80000, Desarrollo Urbano Tres Ríos, 80020 Culiacán Rosales, Sin.",
+      "phone": "6699155300",
+      "website": "https://www.dportenis.mx/",
+      "coordinates": {
+        "lat": 24.8191319,
+        "lng": -107.4206595
+      },
+      "plusCode": "RH7X+PR Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": true,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Marco De La RochaLocal Guide · 103 opiniones · 142 fotos",
+          "rating": 5,
+          "text": "Está bien surtido 👌…",
+          "date": "Hace 8 años"
+        },
+        {
+          "author": "Marco De La RochaLocal Guide · 103 opiniones · 142 fotos",
+          "rating": 5,
+          "text": "Está bien surtido 👌…",
+          "date": "Hace 8 años"
+        },
+        {
+          "author": "Dmanuel Leyva MolinaLocal Guide · 25 opiniones · 2 fotos",
+          "rating": null,
+          "text": "Pésimo servicio, los muchachos les dices algo respeto al producto y te tratan de ignorante. Aunque uno tenga la razón.\nLa verdad jamás volvería a esa tienda en específico, mucha variedad no tienen.… Más",
+          "date": "Hace un año"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/dportenis+Plaza+Forum+Culiac%C3%A1n/@24.8191319,-107.4206595,14z/data=!3m1!5s0x86bcda09e07e44e7:0xd2a738d8696c08fc!4m11!1m3!2m2!1sTiendas+deportivas+en+Culiacan,+Mexico!6e6!3m6!1s0x86bcda09d8d66c7b:0x123cae43100805cc!8m2!3d24.8143019!4d-107.4004298!15sCiZUaWVuZGFzIGRlcG9ydGl2YXMgZW4gQ3VsaWFjYW4sIE1leGljb1onIiV0aWVuZGFzIGRlcG9ydGl2YXMgZW4gY3VsaWFjYW4gbWV4aWNvkgEQc3BvcnRzd2Vhcl9zdG9yZZoBJENoZERTVWhOTUc5blMwVkpRMEZuU1VRM2IySlFZbnBuUlJBQuABAPoBBAgAECU!16s%2Fg%2F1tggtz9k?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": "info@AuroraESite.xxx",
+      "allEmails": [
+        "info@AuroraESite.xxx"
+      ],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": "526699155300",
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Tiendas deportivas",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-17T10:14:55.549Z"
+    },
+    {
+      "position": 23,
+      "placeId": "0x86bcda09df07fa73:0xe04dfe51836f7a25",
+      "name": "CHARLY",
+      "rating": 4.4,
+      "reviewCount": 43,
+      "category": "Tienda de deportes",
+      "categories": [
+        "Tienda de deportes"
+      ],
+      "address": "Forum Culiacán Blvd. Jose Diego Valadez 1676 Local, PA - 07, Desarrollo Urbano Tres Ríos, 80020 Culiacán Rosales, Sin.",
+      "phone": "6677120302",
+      "website": null,
+      "coordinates": {
+        "lat": 24.8191319,
+        "lng": -107.4206595
+      },
+      "plusCode": "RH7X+MV Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": true,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Alberto GomezLocal Guide · 81 opiniones · 21 fotos",
+          "rating": null,
+          "text": "No recomiendo comprar en este lugar la sucursal Forum Culiacán, compré unos tenis que salieron defectuosos, fui para que me hicieran la devolución y ya ha pasado un mes, no he recibido el reembolso solo me dan largas y no resuelven nada, incluso se quedaron con el producto.",
+          "date": "Hace 6 meses"
+        },
+        {
+          "author": "Alberto GomezLocal Guide · 81 opiniones · 21 fotos",
+          "rating": null,
+          "text": "No recomiendo comprar en este lugar la sucursal Forum Culiacán, compré unos tenis que salieron defectuosos, fui para que me hicieran la devolución y ya ha pasado un mes, no he recibido el reembolso solo me dan largas y no resuelven nada, incluso se quedaron con el producto.",
+          "date": "Hace 6 meses"
+        },
+        {
+          "author": "Dalia EchavarriaLocal Guide · 21 opiniones · 15 fotos",
+          "rating": 2,
+          "text": "Estoy en la tienda y está un empleado amedrentando con comentarios machistas a sus compañeras, le dije que se escuchaba mal y se portó muy pedante, les falta vigilancia en el comportamiento de sus empleados.",
+          "date": "Hace 2 años"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/CHARLY/@24.8191319,-107.4206595,14z/data=!4m11!1m3!2m2!1sTiendas+deportivas+en+Culiacan,+Mexico!6e6!3m6!1s0x86bcda09df07fa73:0xe04dfe51836f7a25!8m2!3d24.814139!4d-107.4002912!15sCiZUaWVuZGFzIGRlcG9ydGl2YXMgZW4gQ3VsaWFjYW4sIE1leGljb1onIiV0aWVuZGFzIGRlcG9ydGl2YXMgZW4gY3VsaWFjYW4gbWV4aWNvkgEUc3BvcnRpbmdfZ29vZHNfc3RvcmXgAQA!16s%2Fg%2F11c6t6pdxm?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Tiendas deportivas",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-17T10:14:58.452Z"
+    },
+    {
+      "position": 24,
+      "placeId": "0x86bcd0af0b226265:0xc8877eb83dafe73",
+      "name": "Deportes Joyce",
+      "rating": 4.3,
+      "reviewCount": 43,
+      "category": "Tienda de deportes",
+      "categories": [
+        "Tienda de deportes"
+      ],
+      "address": "Mariano Escobedo 70, Primer Cuadro, 80000 Culiacán Rosales, Sin.",
+      "phone": "6677136212",
+      "website": null,
+      "coordinates": {
+        "lat": 24.8191319,
+        "lng": -107.4206595
+      },
+      "plusCode": null,
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [],
+      "profileUrl": "https://www.google.com/maps/place/Deportes+Joyce/@24.8191319,-107.4206595,14z/data=!4m11!1m3!2m2!1sTiendas+deportivas+en+Culiacan,+Mexico!6e6!3m6!1s0x86bcd0af0b226265:0xc8877eb83dafe73!8m2!3d24.8065464!4d-107.395043!15sCiZUaWVuZGFzIGRlcG9ydGl2YXMgZW4gQ3VsaWFjYW4sIE1leGljb1onIiV0aWVuZGFzIGRlcG9ydGl2YXMgZW4gY3VsaWFjYW4gbWV4aWNvkgEUc3BvcnRpbmdfZ29vZHNfc3RvcmWaASRDaGREU1VoTk1HOW5TMFZKUTBGblNVUXlkVXcyZUhWQlJSQULgAQD6AQQICRAv!16s%2Fg%2F1tn01ny5?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Tiendas deportivas",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-17T10:15:00.311Z"
+    },
+    {
+      "position": 25,
+      "placeId": "0x86bcdbc145cef7f3:0x2ee2d3b1924ed3f9",
+      "name": "Sport Saldos",
+      "rating": 2.8,
+      "reviewCount": 43,
+      "category": "Tienda de ropa de deportes",
+      "categories": [
+        "Tienda de ropa de deportes"
+      ],
+      "address": "C. Josefa Ortiz de Domínguez 1555, Gabriel Leyva, 80030 Culiacán Rosales, Sin.",
+      "phone": "6681254270",
+      "website": "https://www.facebook.com/CaroSaldos",
+      "coordinates": {
+        "lat": 24.8191319,
+        "lng": -107.4206595
+      },
+      "plusCode": "RJC3+F4 Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "briana yoali becerra alvarado2 opiniones · 6 fotos",
+          "rating": null,
+          "text": "NINGUNA ESTRELLA SE MERECE ESTE LUGAR ME ROBARON NUNCA COMPREN POR ENVÍOS , más de 2mil pesos !!!!! Me robó",
+          "date": "Hace 2 años"
+        },
+        {
+          "author": "briana yoali becerra alvarado2 opiniones · 6 fotos",
+          "rating": null,
+          "text": "NINGUNA ESTRELLA SE MERECE ESTE LUGAR ME ROBARON NUNCA COMPREN POR ENVÍOS , más de 2mil pesos !!!!! Me robó",
+          "date": "Hace 2 años"
+        },
+        {
+          "author": "José Alfredo Martínez guerraLocal Guide · 8 opiniones · 23 fotos",
+          "rating": null,
+          "text": "Pésimo lugar pésima atención",
+          "date": "Hace 2 años"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Sport+Saldos/@24.8191319,-107.4206595,14z/data=!4m11!1m3!2m2!1sTiendas+deportivas+en+Culiacan,+Mexico!6e6!3m6!1s0x86bcdbc145cef7f3:0x2ee2d3b1924ed3f9!8m2!3d24.821193!4d-107.3972475!15sCiZUaWVuZGFzIGRlcG9ydGl2YXMgZW4gQ3VsaWFjYW4sIE1leGljb5IBEHNwb3J0c3dlYXJfc3RvcmXgAQA!16s%2Fg%2F11rk4h0zpx?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": "facebook.com/CaroSaldos",
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Tiendas deportivas",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-17T10:15:04.864Z"
+    },
+    {
+      "position": 26,
+      "placeId": "0x86bcd0a6f2e95e1b:0x4a77daf83602b352",
+      "name": "dpvale Oficina Culiacán",
+      "rating": 4,
+      "reviewCount": 43,
+      "category": "Tienda de deportes",
+      "categories": [
+        "Tienda de deportes"
+      ],
+      "address": "Esq. con Miguel Hidalgo, Av Gral Juan Carrasco 360 norte, Primer Cuadro, Centro, 80000 Culiacán Rosales, Sin.",
+      "phone": "6677159311",
+      "website": "http://www.dportenis.mx/",
+      "coordinates": {
+        "lat": 24.8191319,
+        "lng": -107.4206595
+      },
+      "plusCode": "RJ63+6C Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Ana Bell Cuen1 opinión",
+          "rating": null,
+          "text": "Muy mala atención..nunca contestan..si las oficinas de dp vale Culiacán leen este mensaje, porfa póngale ojo a Hermosillo que tiene muchas distribuidoras con mil preguntas y problemas q resolver y nadie te resuelve nada..me gustaría q… Más",
+          "date": "Hace un año"
+        },
+        {
+          "author": "Ana Bell Cuen1 opinión",
+          "rating": null,
+          "text": "Muy mala atención..nunca contestan..si las oficinas de dp vale Culiacán leen este mensaje, porfa póngale ojo a Hermosillo que tiene muchas distribuidoras con mil preguntas y problemas q resolver y nadie te resuelve nada..me gustaría q… Más",
+          "date": "Hace un año"
+        },
+        {
+          "author": "Dora Alicia Montes Muro7 opiniones · 4 fotos",
+          "rating": 4,
+          "text": "Buena Atención de parte de las asesoras.",
+          "date": "Hace 5 años"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/dpvale+Oficina+Culiac%C3%A1n/@24.8191319,-107.4206595,14z/data=!4m11!1m3!2m2!1sTiendas+deportivas+en+Culiacan,+Mexico!6e6!3m6!1s0x86bcd0a6f2e95e1b:0x4a77daf83602b352!8m2!3d24.8105335!4d-107.3964309!15sCiZUaWVuZGFzIGRlcG9ydGl2YXMgZW4gQ3VsaWFjYW4sIE1leGljb1onIiV0aWVuZGFzIGRlcG9ydGl2YXMgZW4gY3VsaWFjYW4gbWV4aWNvkgEUc3BvcnRpbmdfZ29vZHNfc3RvcmWaASRDaGREU1VoTk1HOW5TMFZKUTBGblNVTjFhR1ZsYzNWblJSQULgAQD6AQQIABAW!16s%2Fg%2F11b76h6dxd?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": "info@AuroraESite.xxx",
+      "allEmails": [
+        "info@AuroraESite.xxx"
+      ],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": "526699155300",
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Tiendas deportivas",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-17T10:15:07.536Z"
+    },
+    {
+      "position": 27,
+      "placeId": "0x86bcd0a61e84dfc3:0xaea0038bd9770324",
+      "name": "dportenis Rubí Culiacán",
+      "rating": 4.5,
+      "reviewCount": 43,
+      "category": "Tienda de deportes",
+      "categories": [
+        "Tienda de deportes"
+      ],
+      "address": "Av. Gral. Domingo Rubi esq, Calle Gral Rafael Buelna Tenorio #685, Norte Col. Centro, 80000 Culiacán Rosales, Sin.",
+      "phone": "6699155300",
+      "website": "https://www.dportenis.mx/",
+      "coordinates": {
+        "lat": 24.8191319,
+        "lng": -107.4206595
+      },
+      "plusCode": "RJ63+55 Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Ricardo PachecoLocal Guide · 45 opiniones · 24 fotos",
+          "rating": 5,
+          "text": "Compre en línea y me lo enviaron desde esta tienda pero el empaque y como llego mi paquete fue muy gratificante. Todo venía bien cuidado . Muchas gracias !",
+          "date": "Hace 3 años"
+        },
+        {
+          "author": "Ricardo PachecoLocal Guide · 45 opiniones · 24 fotos",
+          "rating": 5,
+          "text": "Compre en línea y me lo enviaron desde esta tienda pero el empaque y como llego mi paquete fue muy gratificante. Todo venía bien cuidado . Muchas gracias !",
+          "date": "Hace 3 años"
+        },
+        {
+          "author": "Baltazar Ramos2 opiniones",
+          "rating": 5,
+          "text": "Está demasiado bien la tienda, calidad de tenis, mochilas, gorras entre otras cosas deportivas, a muy buen precio con sus medidas de sana distancia por la contingencia, la atención a los clientes fue genial y está algo bien.",
+          "date": "Hace 4 años"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/dportenis+Rub%C3%AD+Culiac%C3%A1n/@24.8191319,-107.4206595,14z/data=!3m1!5s0x86bcd0a618b32ad3:0x363f96a3af2dd7fe!4m11!1m3!2m2!1sTiendas+deportivas+en+Culiacan,+Mexico!6e6!3m6!1s0x86bcd0a61e84dfc3:0xaea0038bd9770324!8m2!3d24.8104003!4d-107.3970773!15sCiZUaWVuZGFzIGRlcG9ydGl2YXMgZW4gQ3VsaWFjYW4sIE1leGljb1onIiV0aWVuZGFzIGRlcG9ydGl2YXMgZW4gY3VsaWFjYW4gbWV4aWNvkgEUc3BvcnRpbmdfZ29vZHNfc3RvcmWaASRDaGREU1VoTk1HOW5TMFZKUTBGblNVUXRkRXBQUTNSM1JSQULgAQD6AQQIABAi!16s%2Fg%2F11b76lthys?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": "info@AuroraESite.xxx",
+      "allEmails": [
+        "info@AuroraESite.xxx"
+      ],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": "526699155300",
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Tiendas deportivas",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-17T10:15:11.518Z"
+    },
+    {
+      "position": 28,
+      "placeId": "0x86bcd9bdb88472fd:0x18401a11f63cb867",
+      "name": "Ciclobike",
+      "rating": 5,
+      "reviewCount": 43,
+      "category": "Taller de bicicletas",
+      "categories": [
+        "Taller de bicicletas"
+      ],
+      "address": "C. Josefa Ortiz de Domínguez 2295, La Lima, 80040 Culiacán Rosales, Sin.",
+      "phone": "6674191173",
+      "website": null,
+      "coordinates": {
+        "lat": 24.8191319,
+        "lng": -107.4206595
+      },
+      "plusCode": "RJHF+25 Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Katherine Gastélum1 opinión",
+          "rating": 5,
+          "text": null,
+          "date": "Hace 10 meses"
+        },
+        {
+          "author": "Katherine Gastélum1 opinión",
+          "rating": 5,
+          "text": null,
+          "date": "Hace 10 meses"
+        },
+        {
+          "author": "Sherlyn Gastelum3 fotos",
+          "rating": 5,
+          "text": null,
+          "date": "Hace 11 meses"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Ciclobike/@24.8191319,-107.4206595,14z/data=!4m11!1m3!2m2!1sTiendas+deportivas+en+Culiacan,+Mexico!6e6!3m6!1s0x86bcd9bdb88472fd:0x18401a11f63cb867!8m2!3d24.8276203!4d-107.3770692!15sCiZUaWVuZGFzIGRlcG9ydGl2YXMgZW4gQ3VsaWFjYW4sIE1leGljb5IBE2JpY3ljbGVfcmVwYWlyX3Nob3DgAQA!16s%2Fg%2F11q96gpqyy?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Tiendas deportivas",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-17T10:15:13.169Z"
+    },
+    {
+      "position": 29,
+      "placeId": "0x86bcd18354c31137:0xa8187e79754e5828",
+      "name": "F1TFER",
+      "rating": 5,
+      "reviewCount": 43,
+      "category": "Tienda de ropa de deportes",
+      "categories": [
+        "Tienda de ropa de deportes"
+      ],
+      "address": "Independencia 816-SUR, Centro Sinaloa, 80000 Culiacán Rosales, Sin.",
+      "phone": "6674710053",
+      "website": "https://fitfer.org/index.php",
+      "coordinates": {
+        "lat": 24.8191319,
+        "lng": -107.4206595
+      },
+      "plusCode": "QHWQ+H3 Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [
+        "Amigable con LGBTQ+",
+        "Se identifica como mujer empresaria"
+      ],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Paola Rabago2 opiniones · 1 foto",
+          "rating": 5,
+          "text": "Es una excelente tienda de ropa y accesorios deportivos, con una atención personalizada y de muy buena calidad",
+          "date": "Hace 2 años"
+        },
+        {
+          "author": "Paola Rabago2 opiniones · 1 foto",
+          "rating": 5,
+          "text": "Es una excelente tienda de ropa y accesorios deportivos, con una atención personalizada y de muy buena calidad",
+          "date": "Hace 2 años"
+        },
+        {
+          "author": "Lizbeth Valdez1 opinión",
+          "rating": 5,
+          "text": "Excelente calidad en la tela, no se transparenta,tienen un ajuste perfecto en abdomen, la tela es fresca y no se hace fea si se lavan en lavadora, no le pide nada a una de marca reconocida, f1tfer excelente servicio en atención al cliente, su respuesta es rápida y el envío el garantizado, 🤩👌…",
+          "date": "Hace 2 años"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/F1TFER/@24.8191319,-107.4206595,14z/data=!4m11!1m3!2m2!1sTiendas+deportivas+en+Culiacan,+Mexico!6e6!3m6!1s0x86bcd18354c31137:0xa8187e79754e5828!8m2!3d24.7964972!4d-107.4123126!15sCiZUaWVuZGFzIGRlcG9ydGl2YXMgZW4gQ3VsaWFjYW4sIE1leGljb1onIiV0aWVuZGFzIGRlcG9ydGl2YXMgZW4gY3VsaWFjYW4gbWV4aWNvkgEQc3BvcnRzd2Vhcl9zdG9yZZoBJENoZERTVWhOTUc5blMwVkpRMEZuU1VONE1HRlBVM2RuUlJBQuABAPoBBAheEBg!16s%2Fg%2F11kj25cqpc?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": "f1tfersport@gmail.com",
+      "allEmails": [
+        "f1tfersport@gmail.com"
+      ],
+      "socialMedia": {
+        "instagram": "instagram.com/fitferropadeportiva",
+        "facebook": "facebook.com/fitferropadeportiva",
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Tiendas deportivas",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-17T10:15:16.833Z"
+    },
+    {
+      "position": 30,
+      "placeId": "0x86bcdb17472d4a8d:0x9efde8161930c2b7",
+      "name": "Yazbek Culiacán Distribuidor Autorizado Grupo Playeras y Maz S.A. de C.V.",
+      "rating": 4.8,
+      "reviewCount": 43,
+      "category": "Mayorista",
+      "categories": [
+        "Mayorista"
+      ],
+      "address": "Fray Servando Teresa de Mier 2051, Centro Sinaloa, 80000 Culiacán Rosales, Sin.",
+      "phone": "6677137457",
+      "website": "http://www.playerasymas.com.mx/",
+      "coordinates": {
+        "lat": 24.8212032,
+        "lng": -107.4284608
+      },
+      "plusCode": null,
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [],
+      "profileUrl": "https://www.google.com/maps/place/SPORTSWEAR+MG/@24.8212032,-107.4284608,14z/data=!4m11!1m3!2m2!1sTiendas+deportivas+en+Culiacan,+Mexico!6e6!3m6!1s0x86bcdb17472d4a8d:0x9efde8161930c2b7!8m2!3d24.8212032!4d-107.390352!15sCiZUaWVuZGFzIGRlcG9ydGl2YXMgZW4gQ3VsaWFjYW4sIE1leGljb1onIiV0aWVuZGFzIGRlcG9ydGl2YXMgZW4gY3VsaWFjYW4gbWV4aWNvkgEOY2xvdGhpbmdfc3RvcmXgAQA!16s%2Fg%2F11q41fzdx8?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": "ventas@playerasymas.com.mx",
+      "allEmails": [
+        "ventas@playerasymas.com.mx",
+        "support@tawk.to"
+      ],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": "facebook.com/playerasymasmx",
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Tiendas deportivas",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-17T10:15:23.683Z"
+    },
+    {
+      "position": 31,
+      "placeId": "0x86bcd1e43f1dec8b:0xe1d7817bc436e73b",
+      "name": "Sideline Sports Mx",
+      "rating": 4.9,
+      "reviewCount": 43,
+      "category": "Tienda de deportes",
+      "categories": [
+        "Tienda de deportes"
+      ],
+      "address": "Del Porvenir 3108, Horizontes, 80054 Culiacán Rosales, Sin.",
+      "phone": "6671198224",
+      "website": "https://instagram.com/sidelinesports.mx?igshid=YmMyMTA2M2Y=",
+      "coordinates": {
+        "lat": 24.7951435,
+        "lng": -107.4513751
+      },
+      "plusCode": "RH7C+WM Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Fernando Mendoza1 opinión",
+          "rating": 5,
+          "text": "Excelente atención y gran variedad de productos deportivos. El personal conoce bien lo que vende y da muy buenas recomendaciones. La tienda está ordenada, limpia y es fácil encontrar lo que buscas. Además, permiten probar algunos artículos antes de comprar. ¡Totalmente recomendable para quienes aman",
+          "date": "Hace 2 meses"
+        },
+        {
+          "author": "Fernando Mendoza1 opinión",
+          "rating": 5,
+          "text": "Excelente atención y gran variedad de productos deportivos. El personal conoce bien lo que vende y da muy buenas recomendaciones. La tienda está ordenada, limpia y es fácil encontrar lo que buscas. Además, permiten probar algunos artículos antes de comprar. ¡Totalmente recomendable para quienes aman",
+          "date": "Hace 2 meses"
+        },
+        {
+          "author": "Jesús Joaquín Rosas Apodaca2 opiniones",
+          "rating": 5,
+          "text": "Buen servicio, buen surtido y excelente trato",
+          "date": "Hace 2 meses"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Sideline+Sports+Mx/@24.7951435,-107.4513751,14z/data=!4m11!1m3!2m2!1sTiendas+deportivas+en+Culiacan,+Mexico!6e6!3m6!1s0x86bcd1e43f1dec8b:0xe1d7817bc436e73b!8m2!3d24.8148545!4d-107.4283722!15sCiZUaWVuZGFzIGRlcG9ydGl2YXMgZW4gQ3VsaWFjYW4sIE1leGljb1onIiV0aWVuZGFzIGRlcG9ydGl2YXMgZW4gY3VsaWFjYW4gbWV4aWNvkgEUc3BvcnRpbmdfZ29vZHNfc3RvcmWaAURDaTlEUVVsUlFVTnZaRU5vZEhsalJqbHZUMnhhZG1OVVdsRk9TRlpPVG10MGRrMUZSVFJQVmxaeFRWWnNWRlV6WXhBQuABAPoBBQiCARBD!16s%2Fg%2F11rt_sw2cs?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": "instagram.com/rsrc.php",
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Tiendas deportivas",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-17T10:15:26.569Z"
+    },
+    {
+      "position": 32,
+      "placeId": "0x86bcd1444fd56549:0xd0a6add0371a5899",
+      "name": "KING SUPER SPORTS",
+      "rating": 5,
+      "reviewCount": 43,
+      "category": "Tienda de deportes",
+      "categories": [
+        "Tienda de deportes"
+      ],
+      "address": "Vicente Riva Palacio 692, Primer Cuadro, 80000 Culiacán Rosales, Sin.",
+      "phone": "6676587305",
+      "website": null,
+      "coordinates": {
+        "lat": 24.7951435,
+        "lng": -107.4513751
+      },
+      "plusCode": "RH6X+6F Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "TritonSoft Technologies1 foto",
+          "rating": 5,
+          "text": null,
+          "date": "Hace un año"
+        },
+        {
+          "author": "TritonSoft Technologies1 foto",
+          "rating": 5,
+          "text": null,
+          "date": "Hace un año"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/KING+SUPER+SPORTS/@24.7951435,-107.4513751,14z/data=!4m11!1m3!2m2!1sTiendas+deportivas+en+Culiacan,+Mexico!6e6!3m6!1s0x86bcd1444fd56549:0xd0a6add0371a5899!8m2!3d24.8105868!4d-107.4012985!15sCiZUaWVuZGFzIGRlcG9ydGl2YXMgZW4gQ3VsaWFjYW4sIE1leGljb5IBFHNwb3J0aW5nX2dvb2RzX3N0b3Jl4AEA!16s%2Fg%2F11lc_7l__5?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Tiendas deportivas",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-17T10:15:29.070Z"
+    },
+    {
+      "position": 33,
+      "placeId": "0x86bcd100037dbd7f:0x2f0b341ccf3d9404",
+      "name": "Deportes JYC",
+      "rating": 4.6,
+      "reviewCount": 43,
+      "category": "Tienda de equipamiento y ropa para actividades al aire libre",
+      "categories": [
+        "Tienda de equipamiento y ropa para actividades al aire libre"
+      ],
+      "address": "NOS CAMBIAMOS..NUEVA UBICACION, Av. Benjamín Hill 2216, Pemex, 80180 Culiacán Rosales, Sin.",
+      "phone": "6671292066",
+      "website": null,
+      "coordinates": {
+        "lat": 24.7951435,
+        "lng": -107.4513751
+      },
+      "plusCode": null,
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [],
+      "profileUrl": "https://www.google.com/maps/place/Deportes+JYC/@24.7951435,-107.4513751,14z/data=!4m11!1m3!2m2!1sTiendas+deportivas+en+Culiacan,+Mexico!6e6!3m6!1s0x86bcd100037dbd7f:0x2f0b341ccf3d9404!8m2!3d24.7670062!4d-107.4327619!15sCiZUaWVuZGFzIGRlcG9ydGl2YXMgZW4gQ3VsaWFjYW4sIE1leGljb5IBI291dGRvb3JfY2xvdGhpbmdfYW5kX2VxdWlwbWVudF9zaG9w4AEA!16s%2Fg%2F11c53hrcys?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Tiendas deportivas",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-17T10:15:34.284Z"
+    },
+    {
+      "position": 34,
+      "placeId": "0x86bcdbd1b97cd08b:0xcf1cfd165ba1b6c0",
+      "name": "DLOP deportes",
+      "rating": 3.7,
+      "reviewCount": 43,
+      "category": "Tienda de deportes",
+      "categories": [
+        "Tienda de deportes"
+      ],
+      "address": "Blvd, Enrique Félix Castro No. 1947, Infonavit Humaya, 80020 Culiacán Rosales, Sin.",
+      "phone": "6672010237",
+      "website": null,
+      "coordinates": {
+        "lat": 24.7670062,
+        "lng": -107.4708707
+      },
+      "plusCode": "RHFP+4P Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "carlos burgos1 opinión",
+          "rating": null,
+          "text": "Pésimo servicio. Te entregan lo que ellos quieren y no lo que tu les pides, te contestan de mala gana y muy informales con la entrega",
+          "date": "Hace un mes"
+        },
+        {
+          "author": "carlos burgos1 opinión",
+          "rating": null,
+          "text": "Pésimo servicio. Te entregan lo que ellos quieren y no lo que tu les pides, te contestan de mala gana y muy informales con la entrega",
+          "date": "Hace un mes"
+        },
+        {
+          "author": "MARCO CESAR VEGA SILVA1 opinión · 2 fotos",
+          "rating": 5,
+          "text": "Excelentes uniformes deportivos",
+          "date": "Hace 3 años"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/DLOP+deportes/@24.7670062,-107.4708707,14z/data=!4m11!1m3!2m2!1sTiendas+deportivas+en+Culiacan,+Mexico!6e6!3m6!1s0x86bcdbd1b97cd08b:0xcf1cfd165ba1b6c0!8m2!3d24.8227849!4d-107.4131613!15sCiZUaWVuZGFzIGRlcG9ydGl2YXMgZW4gQ3VsaWFjYW4sIE1leGljb1onIiV0aWVuZGFzIGRlcG9ydGl2YXMgZW4gY3VsaWFjYW4gbWV4aWNvkgEUc3BvcnRpbmdfZ29vZHNfc3RvcmWaASRDaGREU1VoTk1HOW5TMFZKUTBGblNVUlBOM1ZoWlhSM1JSQULgAQD6AQQIABAf!16s%2Fg%2F11gv0x6pk_?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Tiendas deportivas",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-17T10:15:37.003Z"
+    },
+    {
+      "position": 35,
+      "placeId": "0x86bcda0496e2bfc9:0x732962db3189ebc7",
+      "name": "Articulos Marciales",
+      "rating": 4.4,
+      "reviewCount": 43,
+      "category": "Tienda de material para artes marciales",
+      "categories": [
+        "Tienda de material para artes marciales"
+      ],
+      "address": "Av. Teniente Juan de la Barrera Nte. 2020 Nte, Burócrata, 80030 Culiacán Rosales, Sin.",
+      "phone": "6675044382",
+      "website": "http://articulosmarciales.com/",
+      "coordinates": {
+        "lat": 24.8227849,
+        "lng": -107.4512701
+      },
+      "plusCode": "RJG5+V8 Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "iliana carrazco2 opiniones · 2 fotos",
+          "rating": 5,
+          "text": "Gran variedad en sus artículos y marcas de calidad",
+          "date": "Hace 6 meses"
+        },
+        {
+          "author": "iliana carrazco2 opiniones · 2 fotos",
+          "rating": 5,
+          "text": "Gran variedad en sus artículos y marcas de calidad",
+          "date": "Hace 6 meses"
+        },
+        {
+          "author": "Valenzuela AlexanderLocal Guide · 82 opiniones · 4 fotos",
+          "rating": 5,
+          "text": "Nomás vine a recojer mi paquete de ML, muy amable el señor, 10/10",
+          "date": "Hace un año"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Articulos+Marciales/@24.8227849,-107.4512701,14z/data=!3m1!5s0x86bcda1b4dc7dcb3:0x266de57381628cd7!4m11!1m3!2m2!1sTiendas+deportivas+en+Culiacan,+Mexico!6e6!3m6!1s0x86bcda0496e2bfc9:0x732962db3189ebc7!8m2!3d24.8271404!4d-107.3917045!15sCiZUaWVuZGFzIGRlcG9ydGl2YXMgZW4gQ3VsaWFjYW4sIE1leGljb1onIiV0aWVuZGFzIGRlcG9ydGl2YXMgZW4gY3VsaWFjYW4gbWV4aWNvkgEZbWFydGlhbF9hcnRzX3N1cHBseV9zdG9yZZoBRENpOURRVWxSUVVOdlpFTm9kSGxqUmpsdlQyNXNVVmt3T0hwa1JUVnVaRzVHVVUxRVRYZFZSVXBUVm1wck1WbFhZeEFC4AEA-gEECAAQMg!16s%2Fg%2F11jhskqf9f?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": "Contacto@ArticulosMarciales.com",
+      "allEmails": [
+        "Contacto@ArticulosMarciales.com"
+      ],
+      "socialMedia": {
+        "instagram": "instagram.com/articulos_marciales",
+        "facebook": "facebook.com/ArticulosMarcialesOnline",
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Tiendas deportivas",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-17T10:15:40.727Z"
+    },
+    {
+      "position": 36,
+      "placeId": "0x86bcd7fbfc6ff8d9:0xbc01f1b279ec8a40",
+      "name": "Bash Active",
+      "rating": null,
+      "reviewCount": 43,
+      "category": "Tienda de ropa",
+      "categories": [
+        "Tienda de ropa"
+      ],
+      "address": "Blvrd Dr Mora 1395, Las Quintas, Plaza Uno, 80060 Culiacán Rosales, Sin.",
+      "phone": "6674235182",
+      "website": null,
+      "coordinates": {
+        "lat": 24.8271404,
+        "lng": -107.4298133
+      },
+      "plusCode": "RJ7G+R4 Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [],
+      "profileUrl": "https://www.google.com/maps/place/Bash+Active/@24.8271404,-107.4298133,14z/data=!4m11!1m3!2m2!1sTiendas+deportivas+en+Culiacan,+Mexico!6e6!3m6!1s0x86bcd7fbfc6ff8d9:0xbc01f1b279ec8a40!8m2!3d24.8145507!4d-107.3746501!15sCiZUaWVuZGFzIGRlcG9ydGl2YXMgZW4gQ3VsaWFjYW4sIE1leGljb5IBDmNsb3RoaW5nX3N0b3Jl4AEA!16s%2Fg%2F11y1jxf2sy?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Tiendas deportivas",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-17T10:15:42.977Z"
+    },
+    {
+      "position": 37,
+      "placeId": "0x86a28e98ea321735:0x1ed84524ce7a10c4",
+      "name": "BiciSport",
+      "rating": 4.6,
+      "reviewCount": 43,
+      "category": "Tienda de bicicletas",
+      "categories": [
+        "Tienda de bicicletas"
+      ],
+      "address": "Av. Gral. Domingo Rubí Sur 539, Jorge Almada, 80200 Culiacán Rosales, Sin.",
+      "phone": "6677166679",
+      "website": null,
+      "coordinates": {
+        "lat": 24.8271404,
+        "lng": -107.4298133
+      },
+      "plusCode": "QJX3+VW Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Axency (Axency)Local Guide · 48 opiniones · 87 fotos",
+          "rating": 4,
+          "text": "Precios justos en refacciones y la reparación es económica, nada más en el taller no se puede confiar ciegamente.\nTienes que agarrar de buenas al que está pelón porque lo he visto dándole… Más",
+          "date": "Hace 10 meses"
+        },
+        {
+          "author": "Axency (Axency)Local Guide · 48 opiniones · 87 fotos",
+          "rating": 4,
+          "text": "Precios justos en refacciones y la reparación es económica, nada más en el taller no se puede confiar ciegamente.\nTienes que agarrar de buenas al que está pelón porque lo he visto dándole… Más",
+          "date": "Hace 10 meses"
+        },
+        {
+          "author": "Lucinda RoblesLocal Guide · 357 opiniones · 2,357 fotos",
+          "rating": 5,
+          "text": "Excelente atención y rapidez en el servicio. Llevé a que ajustaran la llanta de mi bici y todo fue súper. También cuentan con un amplio catálogo de accesorios para el ciclismo, así como bicicletas para todas las edades y sus precios son… Más",
+          "date": "Hace 6 años"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/BiciSport/@24.8271404,-107.4298133,14z/data=!4m11!1m3!2m2!1sTiendas+deportivas+en+Culiacan,+Mexico!6e6!3m6!1s0x86a28e98ea321735:0x1ed84524ce7a10c4!8m2!3d24.799675!4d-107.3952439!15sCiZUaWVuZGFzIGRlcG9ydGl2YXMgZW4gQ3VsaWFjYW4sIE1leGljb1onIiV0aWVuZGFzIGRlcG9ydGl2YXMgZW4gY3VsaWFjYW4gbWV4aWNvkgENYmljeWNsZV9zdG9yZZoBJENoZERTVWhOTUc5blMwVkpRMEZuU1VSMk1FbGZaWE5uUlJBQuABAPoBBAgxEDE!16s%2Fg%2F1tgnxnn5?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Tiendas deportivas",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-17T10:15:44.671Z"
+    },
+    {
+      "position": 38,
+      "placeId": "0x86bcda09e4fe8459:0xa9cff980be253ac2",
+      "name": "Shasa Forum Culiacán",
+      "rating": 4.3,
+      "reviewCount": 43,
+      "category": "Tienda de ropa",
+      "categories": [
+        "Tienda de ropa"
+      ],
+      "address": "Forum Culiacán Diego Valadez, Diego Valadés Ríos 1676-Local: PB-22, Desarrollo Urbano Tres Ríos, 80000 Culiacán Rosales, Sin.",
+      "phone": "8007074272",
+      "website": "http://www.shasa.com/",
+      "coordinates": {
+        "lat": 24.8271404,
+        "lng": -107.4298133
+      },
+      "plusCode": "RH7X+CX Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": true,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Wenwen5 opiniones",
+          "rating": 5,
+          "text": "Es muy linda la tienda además de la ropa, siempre encuentro lo que busco además la atención de los chicos es muy buena!",
+          "date": "Hace un año"
+        },
+        {
+          "author": "Wenwen5 opiniones",
+          "rating": 5,
+          "text": "Es muy linda la tienda además de la ropa, siempre encuentro lo que busco además la atención de los chicos es muy buena!",
+          "date": "Hace un año"
+        },
+        {
+          "author": "Viki EmilianoLocal Guide · 121 opiniones · 194 fotos",
+          "rating": 4,
+          "text": "Me gusta la tienda ya que hay una enorme variedad de accesorios y ropa para mujeres. Desde los las finos y discretos hasta los más extravagantes y llamativos. Accesorios para el cabello, el celular, cositas para regalar, mochilas, carteras,… Más",
+          "date": "Hace 6 años"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Shasa+Forum+Culiac%C3%A1n/@24.8271404,-107.4298133,14z/data=!3m1!5s0x86bcda09e07e44e7:0xd2a738d8696c08fc!4m10!1m3!2m2!1sTiendas+deportivas+en+Culiacan,+Mexico!6e6!3m5!1s0x86bcda09e4fe8459:0xa9cff980be253ac2!8m2!3d24.813618!4d-107.4000508!16s%2Fg%2F1ydnty_cz?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": "info@stagheaddesigns.com",
+      "allEmails": [
+        "info@stagheaddesigns.com",
+        "customerservice@shasa.com"
+      ],
+      "socialMedia": {
+        "instagram": "instagram.com/shasa_mx",
+        "facebook": "facebook.com/shasa.brand",
+        "twitter": "twitter.com/Shasa_brand",
+        "whatsapp": "525579296550",
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": "tiktok.com/@shasa.brand"
+      },
+      "searchQuery": {
+        "businessType": "Tiendas deportivas",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-17T10:15:48.762Z"
+    },
+    {
+      "position": 39,
+      "placeId": "0x86bcd0bbbd10a76f:0xacf4e2cca04ca2c2",
+      "name": "Jaca sport",
+      "rating": 4.1,
+      "reviewCount": 43,
+      "category": "Comercio",
+      "categories": [
+        "Comercio"
+      ],
+      "address": "Vicente Riva Palacio 533, Jorge Almada, 80200 Culiacán Rosales, Sin.",
+      "phone": "6677158742",
+      "website": null,
+      "coordinates": {
+        "lat": 24.8271404,
+        "lng": -107.4298133
+      },
+      "plusCode": "QHXX+QV Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Ariel Meraz1 opinión",
+          "rating": null,
+          "text": "Van 3 veces que compro uniformes y las 3 veces se equivocan de número o talla, quedan mal en fechas de entrega y siempre se les olvida hacer una o dos prendas. La calidad es muy buena pero muchas fallas en la logística.",
+          "date": "Hace 8 meses"
+        },
+        {
+          "author": "Ariel Meraz1 opinión",
+          "rating": null,
+          "text": "Van 3 veces que compro uniformes y las 3 veces se equivocan de número o talla, quedan mal en fechas de entrega y siempre se les olvida hacer una o dos prendas. La calidad es muy buena pero muchas fallas en la logística.",
+          "date": "Hace 8 meses"
+        },
+        {
+          "author": "Daniel InzunzaLocal Guide · 92 opiniones · 27 fotos",
+          "rating": 5,
+          "text": "Jaca sport es una tienda deportiva donde encuentras articulos para el deporte y ahi tambien te hacen uniformies ya sea con serigrafia. Sublimados o bordado mucha variedad de uniformes para los deportes.",
+          "date": "Hace 3 años"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Jaca+sport/@24.8271404,-107.4298133,14z/data=!4m11!1m3!2m2!1sTiendas+deportivas+en+Culiacan,+Mexico!6e6!3m6!1s0x86bcd0bbbd10a76f:0xacf4e2cca04ca2c2!8m2!3d24.7994905!4d-107.4002884!15sCiZUaWVuZGFzIGRlcG9ydGl2YXMgZW4gQ3VsaWFjYW4sIE1leGljb1onIiV0aWVuZGFzIGRlcG9ydGl2YXMgZW4gY3VsaWFjYW4gbWV4aWNvkgEFc3RvcmWaASRDaGREU1VoTk1HOW5TMFZKUTBGblNVUjRlRFpNVkRGUlJSQULgAQD6AQQIABAv!16s%2Fg%2F11bwkdwmny?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Tiendas deportivas",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-17T10:15:51.080Z"
+    },
+    {
+      "position": 40,
+      "placeId": "0x86bcd0a575ea4c07:0x9f1e0c966ea0da1e",
+      "name": "Telas Deportivas de Culiacán",
+      "rating": 5,
+      "reviewCount": 43,
+      "category": "Tienda de telas",
+      "categories": [
+        "Tienda de telas"
+      ],
+      "address": "Av. Jose María Morelos Nte. 160, Primer Cuadro, 80000 Culiacán Rosales, Sin.",
+      "phone": "6677160390",
+      "website": null,
+      "coordinates": {
+        "lat": 24.8271404,
+        "lng": -107.4298133
+      },
+      "plusCode": "RJ42+9V Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Emeterio VillamanLocal Guide · 109 opiniones · 409 fotos",
+          "rating": 5,
+          "text": "Tdgkrdfh de la casa de mi mamá y a mi mamá y a mi mamá y a mi hermana por la vacuna del niño y su papá de mi mamá y a mi papá que se le hizo tarde para el dolor de cabeza y la cabeza de la cabeza y la cabeza de la cabeza y la espalda es que… Más",
+          "date": "Hace 3 años"
+        },
+        {
+          "author": "Emeterio VillamanLocal Guide · 109 opiniones · 409 fotos",
+          "rating": 5,
+          "text": "Tdgkrdfh de la casa de mi mamá y a mi mamá y a mi mamá y a mi hermana por la vacuna del niño y su papá de mi mamá y a mi papá que se le hizo tarde para el dolor de cabeza y la cabeza de la cabeza y la cabeza de la cabeza y la espalda es que… Más",
+          "date": "Hace 3 años"
+        },
+        {
+          "author": "Provinciando en CuliacanLocal Guide · 26 opiniones · 2 fotos",
+          "rating": 5,
+          "text": "Siempre encuentro las telas que necesito a precios accesibles y de muy buena calidad",
+          "date": "Hace 8 años"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Telas+Deportivas+de+Culiac%C3%A1n/@24.8271404,-107.4298133,14z/data=!4m11!1m3!2m2!1sTiendas+deportivas+en+Culiacan,+Mexico!6e6!3m6!1s0x86bcd0a575ea4c07:0x9f1e0c966ea0da1e!8m2!3d24.8059683!4d-107.3978611!15sCiZUaWVuZGFzIGRlcG9ydGl2YXMgZW4gQ3VsaWFjYW4sIE1leGljb5IBDGZhYnJpY19zdG9yZeABAA!16s%2Fg%2F1tcw8m9r?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Tiendas deportivas",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-17T10:15:53.776Z"
+    },
+    {
+      "position": 41,
+      "placeId": "0x86bcd71c4bb7278d:0xe618393a03cf610d",
+      "name": "Kick Depot",
+      "rating": 5,
+      "reviewCount": 43,
+      "category": "Tienda de ropa",
+      "categories": [
+        "Tienda de ropa"
+      ],
+      "address": "De Los Sauces 1998, La Campiña, 80060 Culiacán Rosales, Sin.",
+      "phone": "6671439358",
+      "website": null,
+      "coordinates": {
+        "lat": 24.8271404,
+        "lng": -107.4298133
+      },
+      "plusCode": "RJ7Q+3R Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "AnemoidLocal Guide · 32 opiniones · 1 foto",
+          "rating": 5,
+          "text": "Muy atentos al atenderte. Incluso al comentarles cuáles tenía me recomendaron pares más variedos, aún siendo algunos más baratos que los que pensaba comprar al inicio. No buscan solo venderte lo más caro y sacarle ganancia sino que toman en… Más",
+          "date": "Hace 2 años"
+        },
+        {
+          "author": "AnemoidLocal Guide · 32 opiniones · 1 foto",
+          "rating": 5,
+          "text": "Muy atentos al atenderte. Incluso al comentarles cuáles tenía me recomendaron pares más variedos, aún siendo algunos más baratos que los que pensaba comprar al inicio. No buscan solo venderte lo más caro y sacarle ganancia sino que toman en… Más",
+          "date": "Hace 2 años"
+        },
+        {
+          "author": "Carlos Rene De la Peña1 opinión",
+          "rating": 5,
+          "text": "Muy buena variedad y están muy padres los tennis",
+          "date": "Hace 2 años"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Kick+Depot/@24.8271404,-107.4298133,14z/data=!4m11!1m3!2m2!1sTiendas+deportivas+en+Culiacan,+Mexico!6e6!3m6!1s0x86bcd71c4bb7278d:0xe618393a03cf610d!8m2!3d24.8126622!4d-107.3604922!15sCiZUaWVuZGFzIGRlcG9ydGl2YXMgZW4gQ3VsaWFjYW4sIE1leGljb1onIiV0aWVuZGFzIGRlcG9ydGl2YXMgZW4gY3VsaWFjYW4gbWV4aWNvkgEOY2xvdGhpbmdfc3RvcmWaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVTjFjbEJIUlVoUkVBReABAPoBBAgAEDo!16s%2Fg%2F11rn7jtg2n?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Tiendas deportivas",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-17T10:15:56.671Z"
+    },
+    {
+      "position": 42,
+      "placeId": "0x86bcd116562d5979:0x1d9b106f32623b65",
+      "name": "FitFer y KCSoccer",
+      "rating": 5,
+      "reviewCount": 43,
+      "category": "Tienda de ropa de deportes",
+      "categories": [
+        "Tienda de ropa de deportes"
+      ],
+      "address": "https://g.co/kgs/pXj4CJL, Dr. Enrique Cabrera 3013, Infonavit Humaya, Humaya, 80020 Culiacán Rosales, Sin.",
+      "phone": "6672045841",
+      "website": null,
+      "coordinates": {
+        "lat": 24.8126622,
+        "lng": -107.398601
+      },
+      "plusCode": "RHCM+PJ Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Luis Fernando Andrade Chavez1 opinión · 11 fotos",
+          "rating": 5,
+          "text": "Calidad y buen servicio",
+          "date": "Hace 11 meses"
+        },
+        {
+          "author": "Luis Fernando Andrade Chavez1 opinión · 11 fotos",
+          "rating": 5,
+          "text": "Calidad y buen servicio",
+          "date": "Hace 11 meses"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/FitFer+y+KCSoccer/@24.8126622,-107.398601,14z/data=!4m11!1m3!2m2!1sTiendas+deportivas+en+Culiacan,+Mexico!6e6!3m6!1s0x86bcd116562d5979:0x1d9b106f32623b65!8m2!3d24.8218113!4d-107.4158802!15sCiZUaWVuZGFzIGRlcG9ydGl2YXMgZW4gQ3VsaWFjYW4sIE1leGljb1onIiV0aWVuZGFzIGRlcG9ydGl2YXMgZW4gY3VsaWFjYW4gbWV4aWNvkgEQc3BvcnRzd2Vhcl9zdG9yZZoBJENoZERTVWhOTUc5blMwVkpRMEZuVFVOQmR6Uk1kV3huUlJBQuABAPoBBAgAEBc!16s%2Fg%2F11vrdf6nrb?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Tiendas deportivas",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-17T10:15:58.712Z"
+    },
+    {
+      "position": 43,
+      "placeId": "0x86bcd786c414102b:0xfd95f663e8e4f9c3",
+      "name": "Culicci Bodega Skate",
+      "rating": 4.8,
+      "reviewCount": 43,
+      "category": "Tienda de monopatines",
+      "categories": [
+        "Tienda de monopatines"
+      ],
+      "address": "Blvd. Francisco I. Madero 1038, Las Vegas, 80090 Culiacán Rosales, Sin.",
+      "phone": "6671276851",
+      "website": "https://www.facebook.com/Culiccibodegaskate/",
+      "coordinates": {
+        "lat": 24.8218113,
+        "lng": -107.453989
+      },
+      "plusCode": "RJ49+3F Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Daniel QuistiánLocal Guide · 31 opiniones · 6 fotos",
+          "rating": 5,
+          "text": "Excelente atención, resolvió mis dudas que tenia sobre patinetas para mi hija y me dieron la mejor opción",
+          "date": "Hace 5 años"
+        },
+        {
+          "author": "Daniel QuistiánLocal Guide · 31 opiniones · 6 fotos",
+          "rating": 5,
+          "text": "Excelente atención, resolvió mis dudas que tenia sobre patinetas para mi hija y me dieron la mejor opción",
+          "date": "Hace 5 años"
+        },
+        {
+          "author": "isaí casarez1 opinión",
+          "rating": 4,
+          "text": "Hoy fui en hora en la que estaba la bodega abierta y la puerta estaba cerrada tengo que marcar antes de llegar??",
+          "date": "Hace un año"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Culicci+Bodega+Skate/@24.8218113,-107.453989,14z/data=!4m11!1m3!2m2!1sTiendas+deportivas+en+Culiacan,+Mexico!6e6!3m6!1s0x86bcd786c414102b:0xfd95f663e8e4f9c3!8m2!3d24.8052014!4d-107.3813373!15sCiZUaWVuZGFzIGRlcG9ydGl2YXMgZW4gQ3VsaWFjYW4sIE1leGljb1onIiV0aWVuZGFzIGRlcG9ydGl2YXMgZW4gY3VsaWFjYW4gbWV4aWNvkgEPc2thdGVib2FyZF9zaG9wmgEkQ2hkRFNVaE5NRzluUzBWSlEwRm5TVVJNZVRabFYyeDNSUkFC4AEA-gEECAAQJA!16s%2Fg%2F11fww6n4th?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": "facebook.com/Culiccibodegaskate",
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Tiendas deportivas",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-17T10:16:01.802Z"
+    },
+    {
+      "position": 44,
+      "placeId": "0x86bcd0a23c03bd2f:0x438439e5cfd63d19",
+      "name": "Cartuchos Deportivos el Coyote",
+      "rating": 4.6,
+      "reviewCount": 43,
+      "category": "Tienda de deportes",
+      "categories": [
+        "Tienda de deportes"
+      ],
+      "address": "C. Miguel Hidalgo 571, Primer Cuadro, 80000 Culiacán Rosales, Sin.",
+      "phone": "6677521909",
+      "website": null,
+      "coordinates": {
+        "lat": 24.8052014,
+        "lng": -107.4194461
+      },
+      "plusCode": "RJ56+MF Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "J.G. P.MLocal Guide · 60 opiniones · 28 fotos",
+          "rating": 4,
+          "text": "Aquí encontrarás cartuchos para cacería y de uso civil siempre y cuando presentes tus permisos también venden cosas de cacería,pesca y camping. Pongan aire acondicionado.",
+          "date": "Hace 8 años"
+        },
+        {
+          "author": "J.G. P.MLocal Guide · 60 opiniones · 28 fotos",
+          "rating": 4,
+          "text": "Aquí encontrarás cartuchos para cacería y de uso civil siempre y cuando presentes tus permisos también venden cosas de cacería,pesca y camping. Pongan aire acondicionado.",
+          "date": "Hace 8 años"
+        },
+        {
+          "author": "Jorge LopezLocal Guide · 150 opiniones · 37 fotos",
+          "rating": 5,
+          "text": "Tienen muy buena atención",
+          "date": "Hace 4 años"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Cartuchos+Deportivos+el+Coyote/@24.8052014,-107.4194461,14z/data=!4m11!1m3!2m2!1sTiendas+deportivas+en+Culiacan,+Mexico!6e6!3m6!1s0x86bcd0a23c03bd2f:0x438439e5cfd63d19!8m2!3d24.809169!4d-107.3888579!15sCiZUaWVuZGFzIGRlcG9ydGl2YXMgZW4gQ3VsaWFjYW4sIE1leGljb5IBFHNwb3J0aW5nX2dvb2RzX3N0b3Jl4AEA!16s%2Fg%2F1tl4dglb?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Tiendas deportivas",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-17T10:16:06.505Z"
+    },
+    {
+      "position": 45,
+      "placeId": "0x86bcd751a3275eeb:0xf488c111c2c01c70",
+      "name": "Uniformes y Bordados 30-07",
+      "rating": 5,
+      "reviewCount": 43,
+      "category": "Tienda de deportes",
+      "categories": [
+        "Tienda de deportes"
+      ],
+      "address": "Calle Benito Juarez 1279, Miguel Hidalgo, 80090 Culiacán Rosales, Sin.",
+      "phone": "6673229457",
+      "website": null,
+      "coordinates": {
+        "lat": 24.8052014,
+        "lng": -107.4194461
+      },
+      "plusCode": "RJ5F+62 Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Margarita Bojorquez CruzLocal Guide · 48 opiniones · 5 fotos",
+          "rating": 5,
+          "text": "Excelente trabajo, en tiempo y forma 👍🏻 10/10…",
+          "date": "Hace un año"
+        },
+        {
+          "author": "Margarita Bojorquez CruzLocal Guide · 48 opiniones · 5 fotos",
+          "rating": 5,
+          "text": "Excelente trabajo, en tiempo y forma 👍🏻 10/10…",
+          "date": "Hace un año"
+        },
+        {
+          "author": "Luis Alfonso AlvaradoLocal Guide · 140 opiniones · 76 fotos",
+          "rating": 5,
+          "text": "Buenos tiempos de entrega",
+          "date": "Hace 8 años"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Uniformes+y+Bordados+30-07/@24.8052014,-107.4194461,14z/data=!4m11!1m3!2m2!1sTiendas+deportivas+en+Culiacan,+Mexico!6e6!3m6!1s0x86bcd751a3275eeb:0xf488c111c2c01c70!8m2!3d24.808039!4d-107.3774336!15sCiZUaWVuZGFzIGRlcG9ydGl2YXMgZW4gQ3VsaWFjYW4sIE1leGljb1onIiV0aWVuZGFzIGRlcG9ydGl2YXMgZW4gY3VsaWFjYW4gbWV4aWNvkgEUc3BvcnRpbmdfZ29vZHNfc3RvcmWaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVTklNazFwVWsxM0VBReABAPoBBAgAEC0!16s%2Fg%2F113gg22k3?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Tiendas deportivas",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-17T10:16:08.371Z"
+    },
+    {
+      "position": 46,
+      "placeId": "0x86b98b2f5b834783:0xd15f3e3caa56a5a9",
+      "name": "Deportes Sánchez",
+      "rating": null,
+      "reviewCount": 43,
+      "category": "Tienda de deportes",
+      "categories": [
+        "Tienda de deportes"
+      ],
+      "address": "Ignacio Zaragoza 4, Primer Cuadro, 81200 Culiacán Rosales, Sin.",
+      "phone": "6688158616",
+      "website": null,
+      "coordinates": {
+        "lat": 24.8052014,
+        "lng": -107.4194461
+      },
+      "plusCode": "RJ63+GR Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [],
+      "profileUrl": "https://www.google.com/maps/place/Deportes+S%C3%A1nchez/@24.8052014,-107.4194461,14z/data=!4m11!1m3!2m2!1sTiendas+deportivas+en+Culiacan,+Mexico!6e6!3m6!1s0x86b98b2f5b834783:0xd15f3e3caa56a5a9!8m2!3d24.811359!4d-107.3953938!15sCiZUaWVuZGFzIGRlcG9ydGl2YXMgZW4gQ3VsaWFjYW4sIE1leGljb5IBFHNwb3J0aW5nX2dvb2RzX3N0b3Jl4AEA!16s%2Fg%2F1thd737x?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Tiendas deportivas",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-17T10:16:09.988Z"
+    }
+  ]
+}

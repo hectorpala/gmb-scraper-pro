@@ -1,0 +1,1555 @@
+{
+  "metadata": {
+    "query": {
+      "businessType": "Agentes inmobiliarios",
+      "city": "Culiacan",
+      "country": "Mexico"
+    },
+    "totalResults": 20,
+    "stats": {
+      "total": 20,
+      "withPhone": 20,
+      "withEmail": 14,
+      "withWebsite": 17,
+      "withInstagram": 10,
+      "withWhatsapp": 6
+    },
+    "exportedAt": "2026-01-17T08:45:44.318Z",
+    "version": "2.0"
+  },
+  "businesses": [
+    {
+      "position": 1,
+      "placeId": "0x86bcd12ef0cadfb9:0x98bca1d6123b5483",
+      "name": "Venza Plus Bienes Raíces",
+      "rating": 5,
+      "reviewCount": 109,
+      "category": "Agencia de bienes inmuebles comerciales",
+      "categories": [
+        "Agencia de bienes inmuebles comerciales"
+      ],
+      "address": "Plaza Musala, Blvd. Isla Musalá 1430-Local 11, Plaza Musala, Centro, 80065 Culiacán Rosales, Sin.",
+      "phone": "6672372307",
+      "website": "https://www.venzaplusbienesraices.com/",
+      "coordinates": {
+        "lat": 24.8251119,
+        "lng": -107.3741824
+      },
+      "plusCode": "RJFH+CM Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Nayeli AllendeLocal Guide · 38 opiniones",
+          "rating": 5,
+          "text": "Excelente trato, muy transparentes en sus procesos, todo el tiempo sentimos acompañamiento en nuestra compra y resolvían cada una de nuestras dudas. Recomiendo ampliamente sus servicios.",
+          "date": "Hace 4 meses"
+        },
+        {
+          "author": "Nayeli AllendeLocal Guide · 38 opiniones",
+          "rating": 5,
+          "text": "Excelente trato, muy transparentes en sus procesos, todo el tiempo sentimos acompañamiento en nuestra compra y resolvían cada una de nuestras dudas. Recomiendo ampliamente sus servicios.",
+          "date": "Hace 4 meses"
+        },
+        {
+          "author": "Beatriz Gómez1 opinión",
+          "rating": 5,
+          "text": "Estamos satisfechos con los servicios prestados por el Sr. Hector Nava director de Venza Plus. Muy atento y capaz para resolver problemas. Ahora con su nueva auxiliar seguramente llegarán a un nivel plus en su servicio.",
+          "date": "Hace 4 meses"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Venza+Plus+Bienes+Ra%C3%ADces/@24.8251119,-107.3741824,14z/data=!4m10!1m2!2m1!1sAgentes+inmobiliarios+en+Culiacan,+Mexico!3m6!1s0x86bcd12ef0cadfb9:0x98bca1d6123b5483!8m2!3d24.8235213!4d-107.3708252!15sCilBZ2VudGVzIGlubW9iaWxpYXJpb3MgZW4gQ3VsaWFjYW4sIE1leGljb1oqIihhZ2VudGVzIGlubW9iaWxpYXJpb3MgZW4gY3VsaWFjYW4gbWV4aWNvkgEdY29tbWVyY2lhbF9yZWFsX2VzdGF0ZV9hZ2VuY3maASNDaFpEU1VoTk1HOW5TMFZLZVcxeU5HRTVjalp4VjFsQkVBReABAPoBBAgAEDc!16s%2Fg%2F11ll9y3rx7?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoKLDEwMDc5MjA3M0gBUAM%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Agentes inmobiliarios",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-17T08:44:23.873Z"
+    },
+    {
+      "position": 2,
+      "placeId": "0x86bcd9c75171637d:0x8d299c8870a036cc",
+      "name": "JOM asesoría inmobiliaria",
+      "rating": 4.6,
+      "reviewCount": 50,
+      "category": "Agencia de bienes inmuebles comerciales",
+      "categories": [
+        "Agencia de bienes inmuebles comerciales"
+      ],
+      "address": "Blvrd Sinaloa, Las Quintas, 80060 Culiacán Rosales, Sin.",
+      "phone": "6677513711",
+      "website": "https://jominmobiliaria.wiggot.com/",
+      "coordinates": {
+        "lat": 24.8235213,
+        "lng": -107.408934
+      },
+      "plusCode": null,
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [],
+      "profileUrl": "https://www.google.com/maps/place/JOM+asesor%C3%ADa+inmobiliaria/@24.8235213,-107.408934,14z/data=!4m10!1m2!2m1!1sAgentes+inmobiliarios+en+Culiacan,+Mexico!3m6!1s0x86bcd9c75171637d:0x8d299c8870a036cc!8m2!3d24.8168105!4d-107.372852!15sCilBZ2VudGVzIGlubW9iaWxpYXJpb3MgZW4gQ3VsaWFjYW4sIE1leGljb1oqIihhZ2VudGVzIGlubW9iaWxpYXJpb3MgZW4gY3VsaWFjYW4gbWV4aWNvkgEdY29tbWVyY2lhbF9yZWFsX2VzdGF0ZV9hZ2VuY3maASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVUTVjM1ZUUTBwM0VBReABAPoBBAgAEEI!16s%2Fg%2F11h_3yspf7?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoKLDEwMDc5MjA3M0gBUAM%3D",
+      "claimedBusiness": false,
+      "email": "jomasesoria@gmail.com",
+      "allEmails": [
+        "jomasesoria@gmail.com"
+      ],
+      "socialMedia": {
+        "instagram": "instagram.com/jomasesoriainmobiliaria",
+        "facebook": "facebook.com/jomasesoriainmobiliaria",
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Agentes inmobiliarios",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-17T08:44:27.367Z"
+    },
+    {
+      "position": 3,
+      "placeId": "0x86bcdb26f46b7c95:0x18007bb3a545a511",
+      "name": "Gaxiola Inmobiliaria",
+      "rating": 4.8,
+      "reviewCount": 50,
+      "category": "Agencia inmobiliaria",
+      "categories": [
+        "Agencia inmobiliaria"
+      ],
+      "address": "Carlos Lineo 2217-2, Burócrata, Chapultepec, 80040 Culiacán Rosales, Sin.",
+      "phone": "6676887620",
+      "website": "https://gaxiolainmobiliaria.com/",
+      "coordinates": {
+        "lat": 24.8235213,
+        "lng": -107.408934
+      },
+      "plusCode": "RJH6+QF Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "alexia meza1 opinión",
+          "rating": null,
+          "text": "Pésima atención, les falta profesionalismo y palabra, solo te hacen perder el tiempo, te piden todos los documentos y después te piden dinero por adelantado sin firmar contrato y sin ninguna garantía, y como uno no soltó dinero al final a unas horas de firmar contrato te dicen que ya rentaron la cas",
+          "date": "Hace 3 meses"
+        },
+        {
+          "author": "alexia meza1 opinión",
+          "rating": null,
+          "text": "Pésima atención, les falta profesionalismo y palabra, solo te hacen perder el tiempo, te piden todos los documentos y después te piden dinero por adelantado sin firmar contrato y sin ninguna garantía, y como uno no soltó dinero al final a unas horas de firmar contrato te dicen que ya rentaron la cas",
+          "date": "Hace 3 meses"
+        },
+        {
+          "author": "Angela Sofía Almaráz Lizárraga1 opinión",
+          "rating": 5,
+          "text": "La mejor inmobiliaria de Culiacan, super confiables y excelente trato siempre con sus asesores.",
+          "date": "Hace un mes"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Gaxiola+Inmobiliaria/@24.8235213,-107.408934,14z/data=!4m10!1m2!2m1!1sAgentes+inmobiliarios+en+Culiacan,+Mexico!3m6!1s0x86bcdb26f46b7c95:0x18007bb3a545a511!8m2!3d24.8294328!4d-107.3887939!15sCilBZ2VudGVzIGlubW9iaWxpYXJpb3MgZW4gQ3VsaWFjYW4sIE1leGljb5IBEnJlYWxfZXN0YXRlX2FnZW5jeeABAA!16s%2Fg%2F11h7ntq52w?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoKLDEwMDc5MjA3M0gBUAM%3D",
+      "claimedBusiness": false,
+      "email": "contacto@gaxiolainmobiliaria.com",
+      "allEmails": [
+        "contacto@gaxiolainmobiliaria.com"
+      ],
+      "socialMedia": {
+        "instagram": "instagram.com/gaxiolainmobiliaria",
+        "facebook": "facebook.com/Gaxiolainmobiliaria",
+        "twitter": null,
+        "whatsapp": "526676887620",
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Agentes inmobiliarios",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-17T08:44:32.470Z"
+    },
+    {
+      "position": 4,
+      "placeId": "0x86bcdb51faeec831:0x7592de8a7d50e71e",
+      "name": "Fincax Inmobiliaria",
+      "rating": 5,
+      "reviewCount": 50,
+      "category": "Agencia inmobiliaria",
+      "categories": [
+        "Agencia inmobiliaria"
+      ],
+      "address": "Plaza las palmas, C. Josefa Ortiz de Domínguez 571-Local 10, Chapultepec, 80040 Culiacán Rosales, Sin.",
+      "phone": "6671603385",
+      "website": "https://www.facebook.com/Fincax.inmobiliaria",
+      "coordinates": {
+        "lat": 24.8235213,
+        "lng": -107.408934
+      },
+      "plusCode": "RJC6+G9 Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [
+        "Se identifica como mujer empresaria"
+      ],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Eduardo Puerta1 opinión",
+          "rating": 5,
+          "text": "Me encantó esta agencia inmobiliaria, todo excelente en tema de comunicación, lo recomiendo muchísimo 10/10",
+          "date": "Hace 2 meses"
+        },
+        {
+          "author": "Eduardo Puerta1 opinión",
+          "rating": 5,
+          "text": "Me encantó esta agencia inmobiliaria, todo excelente en tema de comunicación, lo recomiendo muchísimo 10/10",
+          "date": "Hace 2 meses"
+        },
+        {
+          "author": "Nicandro UrreaLocal Guide · 10 opiniones · 13 fotos",
+          "rating": 5,
+          "text": "Excelente presencia en redes, muy responsables y profesionales en todo momento de los trámites. El trato de su personal es muy honesto y cercano a las necesidades del cliente y sobre todo con bastantes opciones en el mercado.",
+          "date": "Hace 9 meses"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Fincax+Inmobiliaria/@24.8235213,-107.408934,14z/data=!4m10!1m2!2m1!1sAgentes+inmobiliarios+en+Culiacan,+Mexico!3m6!1s0x86bcdb51faeec831:0x7592de8a7d50e71e!8m2!3d24.8212903!4d-107.3890369!15sCilBZ2VudGVzIGlubW9iaWxpYXJpb3MgZW4gQ3VsaWFjYW4sIE1leGljb1oqIihhZ2VudGVzIGlubW9iaWxpYXJpb3MgZW4gY3VsaWFjYW4gbWV4aWNvkgEScmVhbF9lc3RhdGVfYWdlbmN5mgEkQ2hkRFNVaE5NRzluUzBWSlEwRm5UVU4zT1hWRE5taDNSUkFC4AEA-gEECAAQPA!16s%2Fg%2F11tb6r5l82?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoKLDEwMDc5MjA3M0gBUAM%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": "facebook.com/Fincax.inmobiliaria",
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Agentes inmobiliarios",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-17T08:44:35.171Z"
+    },
+    {
+      "position": 5,
+      "placeId": "0x86bcdb75c73774dd:0x20e03177b309bc3",
+      "name": "KwPluss Culiacan",
+      "rating": 5,
+      "reviewCount": 50,
+      "category": "Agentes inmobiliarios",
+      "categories": [
+        "Agentes inmobiliarios"
+      ],
+      "address": "Prol. Álvaro Obregón 768, Primer Cuadro, Centro, 80000 Culiacán Rosales, Sin.",
+      "phone": "6676882129",
+      "website": null,
+      "coordinates": {
+        "lat": 24.8235213,
+        "lng": -107.408934
+      },
+      "plusCode": "RJ64+M2 Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "MOISES CABRERALocal Guide · 19 opiniones · 27 fotos",
+          "rating": 5,
+          "text": "KW PLUSS DE KELLER WILLIAMS ES UNA EMPRESA CONFIABLE QUE BUSCA DAR EL MEJOR SERVICIO NO SOLO A SUS ASOCIADOS SINO TAMBIEN A SUS CLIENTES Y PROVEDORES, ES UN LUGAR DONDE LOS ASESORES SE PREPARAN PARA DAR EL MEJOR SERVICIO Y LAS INMOBILIARIAS… Más",
+          "date": "Hace 3 meses"
+        },
+        {
+          "author": "MOISES CABRERALocal Guide · 19 opiniones · 27 fotos",
+          "rating": 5,
+          "text": "KW PLUSS DE KELLER WILLIAMS ES UNA EMPRESA CONFIABLE QUE BUSCA DAR EL MEJOR SERVICIO NO SOLO A SUS ASOCIADOS SINO TAMBIEN A SUS CLIENTES Y PROVEDORES, ES UN LUGAR DONDE LOS ASESORES SE PREPARAN PARA DAR EL MEJOR SERVICIO Y LAS INMOBILIARIAS… Más",
+          "date": "Hace 3 meses"
+        },
+        {
+          "author": "Leticia AlmeidaLocal Guide · 11 opiniones · 52 fotos",
+          "rating": 5,
+          "text": "Mi experiencia en KW PLUS👍\nAlgo extraordinario, tienes que ingresar y sentir lo profesional que es cada integrante, aprender de los socios , ahí está la clave de kw inovarte todos los días, eso SII excelentes resultados en ventas, gracias equipo.👌☕🫂👑👍…",
+          "date": "Editado Hace 3 meses"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/KwPluss+Culiacan/@24.8235213,-107.408934,14z/data=!4m10!1m2!2m1!1sAgentes+inmobiliarios+en+Culiacan,+Mexico!3m6!1s0x86bcdb75c73774dd:0x20e03177b309bc3!8m2!3d24.8116349!4d-107.3949408!15sCilBZ2VudGVzIGlubW9iaWxpYXJpb3MgZW4gQ3VsaWFjYW4sIE1leGljb1oqIihhZ2VudGVzIGlubW9iaWxpYXJpb3MgZW4gY3VsaWFjYW4gbWV4aWNvkgEScmVhbF9lc3RhdGVfYWdlbnRzmgEkQ2hkRFNVaE5NRzluUzBWSlEwRm5TVU51YlRWRVZqRkJSUkFC4AEA-gEECAAQNQ!16s%2Fg%2F11gwlcvpp3?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoKLDEwMDc5MjA3M0gBUAM%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Agentes inmobiliarios",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-17T08:44:38.222Z"
+    },
+    {
+      "position": 6,
+      "placeId": "0x86bcd9cf56f471c7:0x4152919a260748fe",
+      "name": "3r Bienes Raíces",
+      "rating": 5,
+      "reviewCount": 50,
+      "category": "Agencia inmobiliaria",
+      "categories": [
+        "Agencia inmobiliaria"
+      ],
+      "address": "Gran Avenida El Dorado 1641-Local 12, Las Quintas, 80060 Culiacán Rosales, Sin.",
+      "phone": "6677550542",
+      "website": "http://3rbienesraices.com/",
+      "coordinates": {
+        "lat": 24.8116349,
+        "lng": -107.4330496
+      },
+      "plusCode": "RJ9H+M2 Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "dante ramosLocal Guide · 40 opiniones · 10 fotos",
+          "rating": 5,
+          "text": "Los mejores en bienes raíces",
+          "date": "Editado Hace 3 años"
+        },
+        {
+          "author": "dante ramosLocal Guide · 40 opiniones · 10 fotos",
+          "rating": 5,
+          "text": "Los mejores en bienes raíces",
+          "date": "Editado Hace 3 años"
+        },
+        {
+          "author": "Evelyn Beltrán",
+          "rating": 5,
+          "text": null,
+          "date": "Hace 2 años"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/3r+Bienes+Ra%C3%ADces/@24.8116349,-107.4330496,14z/data=!4m10!1m2!2m1!1sAgentes+inmobiliarios+en+Culiacan,+Mexico!3m6!1s0x86bcd9cf56f471c7:0x4152919a260748fe!8m2!3d24.8191646!4d-107.3724157!15sCilBZ2VudGVzIGlubW9iaWxpYXJpb3MgZW4gQ3VsaWFjYW4sIE1leGljb1oqIihhZ2VudGVzIGlubW9iaWxpYXJpb3MgZW4gY3VsaWFjYW4gbWV4aWNvkgEScmVhbF9lc3RhdGVfYWdlbmN5mgEkQ2hkRFNVaE5NRzluUzBWSlEwRm5TVVJ0ZW1WTVlUbDNSUkFC4AEA-gEECAAQHA!16s%2Fg%2F11pwxlh9qx?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoKLDEwMDc5MjA3M0gBUAM%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Agentes inmobiliarios",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-17T08:44:49.043Z"
+    },
+    {
+      "position": 7,
+      "placeId": "0x86bcd796690ad53d:0x7041f1683e829fac",
+      "name": "AISIN ASESORES",
+      "rating": null,
+      "reviewCount": 50,
+      "category": "Agencia inmobiliaria",
+      "categories": [
+        "Agencia inmobiliaria"
+      ],
+      "address": "Calle Gral Rafael Buelna Tenorio 1142, Las Quintas, 80060 Culiacán Rosales, Sin.",
+      "phone": "6672376768",
+      "website": "http://aisinasesores.com/",
+      "coordinates": {
+        "lat": 24.8116349,
+        "lng": -107.4330496
+      },
+      "plusCode": "RJ69+VW Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [],
+      "profileUrl": "https://www.google.com/maps/place/AISIN+ASESORES/@24.8116349,-107.4330496,14z/data=!4m10!1m2!2m1!1sAgentes+inmobiliarios+en+Culiacan,+Mexico!3m6!1s0x86bcd796690ad53d:0x7041f1683e829fac!8m2!3d24.8121913!4d-107.3801772!15sCilBZ2VudGVzIGlubW9iaWxpYXJpb3MgZW4gQ3VsaWFjYW4sIE1leGljb5IBEnJlYWxfZXN0YXRlX2FnZW5jeeABAA!16s%2Fg%2F11kk7zct43?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoKLDEwMDc5MjA3M0gBUAM%3D",
+      "claimedBusiness": false,
+      "email": "contacto@aisinasesores.com",
+      "allEmails": [
+        "contacto@aisinasesores.com"
+      ],
+      "socialMedia": {
+        "instagram": "instagram.com/aisinsinaloa",
+        "facebook": "facebook.com/aisinasesoresinmobiliarios",
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Agentes inmobiliarios",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-17T08:44:53.708Z"
+    },
+    {
+      "position": 8,
+      "placeId": "0x86bcd12774ff7f01:0x7ac309e55e5e648b",
+      "name": "MASTONII bienes raices y construccion",
+      "rating": 3,
+      "reviewCount": 50,
+      "category": "Agencia inmobiliaria",
+      "categories": [
+        "Agencia inmobiliaria"
+      ],
+      "address": "Prol. Álvaro Obregón 24-interior 7, Primer Cuadro, plaza paladio, 80000 Culiacán Rosales, Sin.",
+      "phone": "6671056185",
+      "website": "http://mastonii.wiggot.com/",
+      "coordinates": {
+        "lat": 24.8116349,
+        "lng": -107.4330496
+      },
+      "plusCode": "RJ34+P9 Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "KARELY CM2 opiniones",
+          "rating": null,
+          "text": "Pésimo servicio.. tenga cuidado con esta inmobiliaria, venden propiedades con adeudos y luego quieren que los compradores las paguen sin haberse comentado al momento de la compra . Ademas tienen convenio con una notaria que hasta el momento… Más",
+          "date": "Hace un año"
+        },
+        {
+          "author": "KARELY CM2 opiniones",
+          "rating": null,
+          "text": "Pésimo servicio.. tenga cuidado con esta inmobiliaria, venden propiedades con adeudos y luego quieren que los compradores las paguen sin haberse comentado al momento de la compra . Ademas tienen convenio con una notaria que hasta el momento… Más",
+          "date": "Hace un año"
+        },
+        {
+          "author": "elizabeth felix",
+          "rating": 5,
+          "text": null,
+          "date": "Hace un año"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/MASTONII+bienes+raices+y+construccion/@24.8116349,-107.4330496,14z/data=!4m10!1m2!2m1!1sAgentes+inmobiliarios+en+Culiacan,+Mexico!3m6!1s0x86bcd12774ff7f01:0x7ac309e55e5e648b!8m2!3d24.8042766!4d-107.3940308!15sCilBZ2VudGVzIGlubW9iaWxpYXJpb3MgZW4gQ3VsaWFjYW4sIE1leGljb5IBEnJlYWxfZXN0YXRlX2FnZW5jeeABAA!16s%2Fg%2F11mhwqx8_l?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoKLDEwMDc5MjA3M0gBUAM%3D",
+      "claimedBusiness": false,
+      "email": "mastoniibienesraices@gmail.com",
+      "allEmails": [
+        "mastoniibienesraices@gmail.com"
+      ],
+      "socialMedia": {
+        "instagram": "instagram.com/mastoniibienesraices",
+        "facebook": "facebook.com/mastoniibienesraices",
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": "linkedin.com/in/jorge-enrique-castro-roman-023344125",
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Agentes inmobiliarios",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-17T08:44:57.786Z"
+    },
+    {
+      "position": 9,
+      "placeId": "0x86bcd9adce27850b:0xe3aeb620e3fbfaaa",
+      "name": "Bosques De Imala Campestre",
+      "rating": 4.5,
+      "reviewCount": 50,
+      "category": "Agentes inmobiliarios",
+      "categories": [
+        "Agentes inmobiliarios"
+      ],
+      "address": "Carretera A Imala 2771, Los Angeles Fracc-Local 8, 80014 Culiacán Rosales, Sin.",
+      "phone": "6672032782",
+      "website": "https://bosques-de-imala-campestre.ueniweb.com/?utm_campaign=gmb",
+      "coordinates": {
+        "lat": 24.8116349,
+        "lng": -107.4330496
+      },
+      "plusCode": "RJRQ+3H Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Judith Sanchez RubioLocal Guide · 3 opiniones · 62 fotos",
+          "rating": 5,
+          "text": "El mejor campestre por precios y distancia de Culiacán",
+          "date": "Hace 5 años"
+        },
+        {
+          "author": "Judith Sanchez RubioLocal Guide · 3 opiniones · 62 fotos",
+          "rating": 5,
+          "text": "El mejor campestre por precios y distancia de Culiacán",
+          "date": "Hace 5 años"
+        },
+        {
+          "author": "Cesar Uriel Sandoval CamposLocal Guide · 186 opiniones",
+          "rating": 5,
+          "text": "Excelente lugar buena ubicación y ambiente egradable",
+          "date": "Hace 2 años"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Bosques+De+Imala+Campestre/@24.8116349,-107.4330496,14z/data=!4m10!1m2!2m1!1sAgentes+inmobiliarios+en+Culiacan,+Mexico!3m6!1s0x86bcd9adce27850b:0xe3aeb620e3fbfaaa!8m2!3d24.8401473!4d-107.3610824!15sCilBZ2VudGVzIGlubW9iaWxpYXJpb3MgZW4gQ3VsaWFjYW4sIE1leGljb1oqIihhZ2VudGVzIGlubW9iaWxpYXJpb3MgZW4gY3VsaWFjYW4gbWV4aWNvkgEScmVhbF9lc3RhdGVfYWdlbnRzmgEkQ2hkRFNVaE5NRzluUzBWSlEwRm5TVVJHZFhSRWJEQlJSUkFC4AEA-gEECAAQKQ!16s%2Fg%2F11j02zprlh?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoKLDEwMDc5MjA3M0gBUAM%3D",
+      "claimedBusiness": false,
+      "email": "jsr-1213@hotmail.com",
+      "allEmails": [
+        "jsr-1213@hotmail.com"
+      ],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": "facebook.com/share.php",
+        "twitter": "twitter.com/intent",
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Agentes inmobiliarios",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-17T08:45:01.743Z"
+    },
+    {
+      "position": 10,
+      "placeId": "0x86bcdb89bc4ee25b:0x6861c183ab82579b",
+      "name": "Gya inmobiliaria",
+      "rating": 5,
+      "reviewCount": 50,
+      "category": "Agencia inmobiliaria",
+      "categories": [
+        "Agencia inmobiliaria"
+      ],
+      "address": "Av. Gral. Mariano Arista Nte. 2045, Burócrata, 80030 Culiacán Rosales, Sin.",
+      "phone": "6673360588",
+      "website": "https://gyainmobiliariabr.wiggot.com/",
+      "coordinates": {
+        "lat": 24.8401473,
+        "lng": -107.3991912
+      },
+      "plusCode": "RJG5+RP Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Blanca Madrid",
+          "rating": 5,
+          "text": null,
+          "date": "Hace 2 meses"
+        },
+        {
+          "author": "Blanca Madrid",
+          "rating": 5,
+          "text": null,
+          "date": "Hace 2 meses"
+        },
+        {
+          "author": "Guerio G.1 opinión",
+          "rating": 5,
+          "text": null,
+          "date": "Editado Hace 3 años"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Gya+inmobiliaria/@24.8401473,-107.3991912,14z/data=!4m10!1m2!2m1!1sAgentes+inmobiliarios+en+Culiacan,+Mexico!3m6!1s0x86bcdb89bc4ee25b:0x6861c183ab82579b!8m2!3d24.8270944!4d-107.3907359!15sCilBZ2VudGVzIGlubW9iaWxpYXJpb3MgZW4gQ3VsaWFjYW4sIE1leGljb5IBEnJlYWxfZXN0YXRlX2FnZW5jeeABAA!16s%2Fg%2F11ls9qqfhq?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoKLDEwMDc5MjA3M0gBUAM%3D",
+      "claimedBusiness": false,
+      "email": "atcgyainmobiliaria@gmail.com",
+      "allEmails": [
+        "atcgyainmobiliaria@gmail.com"
+      ],
+      "socialMedia": {
+        "instagram": "instagram.com/tugyainmobiliaria",
+        "facebook": "facebook.com/tugyainmobiliario",
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Agentes inmobiliarios",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-17T08:45:05.653Z"
+    },
+    {
+      "position": 11,
+      "placeId": "0x86bcda70f9edbce3:0x190eb9b0b9a24266",
+      "name": "GLI Grupo Líder Inmobiliario",
+      "rating": 4.9,
+      "reviewCount": 50,
+      "category": "Agencia inmobiliaria",
+      "categories": [
+        "Agencia inmobiliaria"
+      ],
+      "address": "Blvd. Jose, Diego Valadés Ríos 571-Local 4A, Chapultepec, Desarrollo Urbano Tres Ríos, 80040 Culiacán Rosales, Sin.",
+      "phone": "6672366555",
+      "website": "https://gli.com.mx/",
+      "coordinates": {
+        "lat": 24.8270944,
+        "lng": -107.4288447
+      },
+      "plusCode": "RJ86+5V Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Yuri ZM2 opiniones · 1 foto",
+          "rating": 5,
+          "text": "Me encanta cómo manejan sus redes sociales. Publican propiedades súper claras, con fotos bonitas y toda la info que uno necesita. Todo se ve muy profesional pero a la vez cercano. Además, responden rápido y con buena actitud, lo que da mucha confianza. Se nota que saben lo que hacen y que les import",
+          "date": "una semana atrás Nueva"
+        },
+        {
+          "author": "Yuri ZM2 opiniones · 1 foto",
+          "rating": 5,
+          "text": "Me encanta cómo manejan sus redes sociales. Publican propiedades súper claras, con fotos bonitas y toda la info que uno necesita. Todo se ve muy profesional pero a la vez cercano. Además, responden rápido y con buena actitud, lo que da mucha confianza. Se nota que saben lo que hacen y que les import",
+          "date": "una semana atrás Nueva"
+        },
+        {
+          "author": "Karen Gizeth4 opiniones",
+          "rating": 5,
+          "text": "Mi experiencia fue muy positiva. Desde el principio me brindaron un trato súper claro y profesional, y siempre estuvieron atentos para resolver mis dudas. Su página y redes sociales están muy bien cuidadas y fáciles de navegar, lo cual me dio mucha confianza al momento de conocer sus servicios y las",
+          "date": "Hace un mes"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/GLI+Grupo+L%C3%ADder+Inmobiliario/@24.8270944,-107.4288447,14z/data=!4m10!1m2!2m1!1sAgentes+inmobiliarios+en+Culiacan,+Mexico!3m6!1s0x86bcda70f9edbce3:0x190eb9b0b9a24266!8m2!3d24.8154442!4d-107.3878481!15sCilBZ2VudGVzIGlubW9iaWxpYXJpb3MgZW4gQ3VsaWFjYW4sIE1leGljb1oqIihhZ2VudGVzIGlubW9iaWxpYXJpb3MgZW4gY3VsaWFjYW4gbWV4aWNvkgEScmVhbF9lc3RhdGVfYWdlbmN5mgFEQ2k5RFFVbFJRVU52WkVOb2RIbGpSamx2VDJwb1FsUkhjSEJWVnpsMFRtMW5lVTlIWkVoTlZHUjNVMGRTUjFvell4QULgAQD6AQQIABBE!16s%2Fg%2F11cn7vzc6z?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoKLDEwMDc5MjA3M0gBUAM%3D",
+      "claimedBusiness": false,
+      "email": "ventas@gli.com.mx",
+      "allEmails": [
+        "ventas@gli.com.mx"
+      ],
+      "socialMedia": {
+        "instagram": "instagram.com/inmobiliariagli",
+        "facebook": "facebook.com/GLI.INMOBILIARIA",
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": "tiktok.com/@gliinmobiliaria"
+      },
+      "searchQuery": {
+        "businessType": "Agentes inmobiliarios",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-17T08:45:10.371Z"
+    },
+    {
+      "position": 12,
+      "placeId": "0x86bcd7568dfd7473:0x752b29c1368026a7",
+      "name": "Felher Inmobiliaria",
+      "rating": 4.3,
+      "reviewCount": 50,
+      "category": "Agencia inmobiliaria",
+      "categories": [
+        "Agencia inmobiliaria"
+      ],
+      "address": "Blvrd Dr Mora 1197, Las Quintas, 80060 Culiacán Rosales, Sin.",
+      "phone": "6677154501",
+      "website": "https://www.felherinmobiliaria.com/",
+      "coordinates": {
+        "lat": 24.8270944,
+        "lng": -107.4288447
+      },
+      "plusCode": "RJ7C+FV Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Kriven EledosLocal Guide · 119 opiniones · 131 fotos",
+          "rating": 3,
+          "text": "Algo tétrico, al parecer no es para servicio al público, da miedo entrar al edificio donde están las oficinas.",
+          "date": "Hace 4 años"
+        },
+        {
+          "author": "Kriven EledosLocal Guide · 119 opiniones · 131 fotos",
+          "rating": 3,
+          "text": "Algo tétrico, al parecer no es para servicio al público, da miedo entrar al edificio donde están las oficinas.",
+          "date": "Hace 4 años"
+        },
+        {
+          "author": "cintya marlen sanchez leonLocal Guide · 13 opiniones · 10 fotos",
+          "rating": 4,
+          "text": null,
+          "date": "Hace 3 años"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Felher+Inmobiliaria/@24.8270944,-107.4288447,14z/data=!4m10!1m2!2m1!1sAgentes+inmobiliarios+en+Culiacan,+Mexico!3m6!1s0x86bcd7568dfd7473:0x752b29c1368026a7!8m2!3d24.81371!4d-107.377762!15sCilBZ2VudGVzIGlubW9iaWxpYXJpb3MgZW4gQ3VsaWFjYW4sIE1leGljb5IBEnJlYWxfZXN0YXRlX2FnZW5jeeABAA!16s%2Fg%2F1vhkk_1f?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoKLDEwMDc5MjA3M0gBUAM%3D",
+      "claimedBusiness": false,
+      "email": "karina@felher.com",
+      "allEmails": [
+        "karina@felher.com"
+      ],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": "5216672040722",
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Agentes inmobiliarios",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-17T08:45:15.291Z"
+    },
+    {
+      "position": 13,
+      "placeId": "0x86bcd98097ad3c4b:0x650fbf7a2650663",
+      "name": "Alcázar del rey",
+      "rating": 4.8,
+      "reviewCount": 50,
+      "category": "Complejo de apartamentos",
+      "categories": [
+        "Complejo de apartamentos"
+      ],
+      "address": "Blvrd Riberas del Tamazula, Rivera de Tamazula, Riberas de Tamazula, 80040 Culiacán Rosales, Sin.",
+      "phone": "6675991702",
+      "website": "https://jema.mx/alcazar/",
+      "coordinates": {
+        "lat": 24.8270944,
+        "lng": -107.4288447
+      },
+      "plusCode": "RJHF+QM Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Alexis PerazaLocal Guide · 123 opiniones · 1,942 fotos",
+          "rating": 5,
+          "text": "Lugar tranquilo para vivir",
+          "date": "3 semanas atrás Nueva"
+        },
+        {
+          "author": "Alexis PerazaLocal Guide · 123 opiniones · 1,942 fotos",
+          "rating": 5,
+          "text": "Lugar tranquilo para vivir",
+          "date": "3 semanas atrás Nueva"
+        },
+        {
+          "author": "ventas lignum cocinasLocal Guide · 20 opiniones · 24 fotos",
+          "rating": 5,
+          "text": null,
+          "date": "Hace 3 meses"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Alc%C3%A1zar+del+rey/@24.8270944,-107.4288447,14z/data=!4m10!1m2!2m1!1sAgentes+inmobiliarios+en+Culiacan,+Mexico!3m6!1s0x86bcd98097ad3c4b:0x650fbf7a2650663!8m2!3d24.8293874!4d-107.3757658!15sCilBZ2VudGVzIGlubW9iaWxpYXJpb3MgZW4gQ3VsaWFjYW4sIE1leGljb1oqIihhZ2VudGVzIGlubW9iaWxpYXJpb3MgZW4gY3VsaWFjYW4gbWV4aWNvkgERYXBhcnRtZW50X2NvbXBsZXiaAURDaTlEUVVsUlFVTnZaRU5vZEhsalJqbHZUMjFrY2xOc1NYZE9ia3BFVWtWc2NsRlVVa1ZrYlVwVVdqSmtSazVyUlJBQuABAPoBBAgAEBo!16s%2Fg%2F11stj4c921?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoKLDEwMDc5MjA3M0gBUAM%3D",
+      "claimedBusiness": false,
+      "email": "contacto@jema.mx",
+      "allEmails": [
+        "contacto@jema.mx"
+      ],
+      "socialMedia": {
+        "instagram": "instagram.com/inmobiliariajema",
+        "facebook": "facebook.com/InmobiliariaJema",
+        "twitter": null,
+        "whatsapp": "+526673360624",
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Agentes inmobiliarios",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-17T08:45:20.159Z"
+    },
+    {
+      "position": 14,
+      "placeId": "0x4a8b55393cf53905:0xa85cf0417242b146",
+      "name": "Asentum Agencia Inmobiliaria en Culiacán",
+      "rating": 5,
+      "reviewCount": 50,
+      "category": "Agencia inmobiliaria",
+      "categories": [
+        "Agencia inmobiliaria"
+      ],
+      "address": "San Agustín 136, Barrio San Agustín, La Primavera, 80199 Culiacán Rosales, Sin.",
+      "phone": "6672943248",
+      "website": "https://asentum.com.mx/",
+      "coordinates": {
+        "lat": 24.8270944,
+        "lng": -107.4288447
+      },
+      "plusCode": "PJQ2+Q8 Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [
+        "Amigable con LGBTQ+"
+      ],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Jose Fernando León HijarLocal Guide · 2 opiniones · 23 fotos",
+          "rating": 5,
+          "text": "Execelente servicio y gran información, muy recomendado.",
+          "date": "Hace un año"
+        },
+        {
+          "author": "Jose Fernando León HijarLocal Guide · 2 opiniones · 23 fotos",
+          "rating": 5,
+          "text": "Execelente servicio y gran información, muy recomendado.",
+          "date": "Hace un año"
+        },
+        {
+          "author": "David Ojeda11 opiniones · 1 foto",
+          "rating": 5,
+          "text": "Wow! ¡ El procedimiento de vender mi casa fue fácil! Era nuevo en la venta de casas y había escuchado historias de terror de amigos y familiares sobre agentes terribles. ¡Leonardo Rochin fue profesional y personal! ¡Nunca me hizo sentir incómodo y me ayudó en cada paso del camino!",
+          "date": "Hace 2 años"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Asentum+Agencia+Inmobiliaria+en+Culiac%C3%A1n/@24.8270944,-107.4288447,14z/data=!4m10!1m2!2m1!1sAgentes+inmobiliarios+en+Culiacan,+Mexico!3m6!1s0x4a8b55393cf53905:0xa85cf0417242b146!8m2!3d24.7394443!4d-107.3991361!15sCilBZ2VudGVzIGlubW9iaWxpYXJpb3MgZW4gQ3VsaWFjYW4sIE1leGljb1oqIihhZ2VudGVzIGlubW9iaWxpYXJpb3MgZW4gY3VsaWFjYW4gbWV4aWNvkgEScmVhbF9lc3RhdGVfYWdlbmN5mgEjQ2haRFNVaE5NRzluUzBWSlEwRm5TVU5LY1VsSExWaEJFQUXgAQD6AQQIABBJ!16s%2Fg%2F11svkdxpd6?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoKLDEwMDc5MjA3M0gBUAM%3D",
+      "claimedBusiness": false,
+      "email": "hola@asentum.com",
+      "allEmails": [
+        "hola@asentum.com",
+        "asentumweb@gmail.com"
+      ],
+      "socialMedia": {
+        "instagram": "instagram.com/asentum_mx",
+        "facebook": "facebook.com/tr",
+        "twitter": null,
+        "whatsapp": "526672943247",
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Agentes inmobiliarios",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-17T08:45:23.778Z"
+    },
+    {
+      "position": 15,
+      "placeId": "0x86bcd0a5d59186ed:0x4ac81b707ba90238",
+      "name": "CENTURY 21 Grupo Oro | Inmobiliaria",
+      "rating": 4.1,
+      "reviewCount": 50,
+      "category": "Agencia inmobiliaria",
+      "categories": [
+        "Agencia inmobiliaria"
+      ],
+      "address": "Av. Federalismo 2500, Col. Recursos Hidráulicos, 80100 Culiacán Rosales, Sin.",
+      "phone": "6677210021",
+      "website": "https://century21grupooro.com/",
+      "coordinates": {
+        "lat": 24.7394443,
+        "lng": -107.4372449
+      },
+      "plusCode": null,
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [
+        "Amigable con LGBTQ+"
+      ],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [],
+      "profileUrl": "https://www.google.com/maps/place/CENTURY+21+Grupo+Oro+%7C+Inmobiliaria/@24.7394443,-107.4372449,14z/data=!4m10!1m2!2m1!1sAgentes+inmobiliarios+en+Culiacan,+Mexico!3m6!1s0x86bcd0a5d59186ed:0x4ac81b707ba90238!8m2!3d24.7958245!4d-107.4166318!15sCilBZ2VudGVzIGlubW9iaWxpYXJpb3MgZW4gQ3VsaWFjYW4sIE1leGljb1oqIihhZ2VudGVzIGlubW9iaWxpYXJpb3MgZW4gY3VsaWFjYW4gbWV4aWNvkgEScmVhbF9lc3RhdGVfYWdlbmN5mgEkQ2hkRFNVaE5NRzluUzBWSlEwRm5TVVIxZFhCWWFURkJSUkFC4AEA-gEECAAQOQ!16s%2Fg%2F11bzzpcs1d?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoKLDEwMDc5MjA3M0gBUAM%3D",
+      "claimedBusiness": false,
+      "email": "grupooroc21@gmail.com",
+      "allEmails": [
+        "grupooroc21@gmail.com"
+      ],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Agentes inmobiliarios",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-17T08:45:28.544Z"
+    },
+    {
+      "position": 16,
+      "placeId": "0x86bcd782d193aaf3:0xa2045117cd23ca84",
+      "name": "Alviseya Inmobiliaria",
+      "rating": 5,
+      "reviewCount": 50,
+      "category": "Agencia inmobiliaria",
+      "categories": [
+        "Agencia inmobiliaria"
+      ],
+      "address": "Av. El Dorado #686 Col. Las Quintas Col, Gran Avenida El Dorado 698, Las Quintas, 80060 Culiacán Rosales, Sin.",
+      "phone": "6671310278",
+      "website": "http://www.alviseya.com/",
+      "coordinates": {
+        "lat": 24.7958245,
+        "lng": -107.4547406
+      },
+      "plusCode": "RJ6M+JM Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [
+        "Amigable con LGBTQ+"
+      ],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Juan Fco. GarcíaLocal Guide · 114 opiniones · 1 foto",
+          "rating": 5,
+          "text": "Muy variado y muy buenos productos",
+          "date": "Hace 3 años"
+        },
+        {
+          "author": "Juan Fco. GarcíaLocal Guide · 114 opiniones · 1 foto",
+          "rating": 5,
+          "text": "Muy variado y muy buenos productos",
+          "date": "Hace 3 años"
+        },
+        {
+          "author": "Blanca Estela JacoboLocal Guide · 38 opiniones",
+          "rating": 5,
+          "text": null,
+          "date": "Hace 5 años"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Alviseya+Inmobiliaria/@24.7958245,-107.4547406,14z/data=!4m10!1m2!2m1!1sAgentes+inmobiliarios+en+Culiacan,+Mexico!3m6!1s0x86bcd782d193aaf3:0xa2045117cd23ca84!8m2!3d24.8115851!4d-107.3658149!15sCilBZ2VudGVzIGlubW9iaWxpYXJpb3MgZW4gQ3VsaWFjYW4sIE1leGljb1oqIihhZ2VudGVzIGlubW9iaWxpYXJpb3MgZW4gY3VsaWFjYW4gbWV4aWNvkgEScmVhbF9lc3RhdGVfYWdlbmN5mgEjQ2haRFNVaE5NRzluUzBWSlEwRm5TVVF0Y0ZseGVFbFJFQUXgAQD6AQQIABAi!16s%2Fg%2F11h07ddhn0?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoKLDEwMDc5MjA3M0gBUAM%3D",
+      "claimedBusiness": false,
+      "email": "alviseya@gmail.com",
+      "allEmails": [
+        "alviseya@gmail.com"
+      ],
+      "socialMedia": {
+        "instagram": "instagram.com/alviseyamx",
+        "facebook": "facebook.com/alviseyamx",
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Agentes inmobiliarios",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-17T08:45:31.123Z"
+    },
+    {
+      "position": 17,
+      "placeId": "0x86bcd0a65d908583:0xdfc69723e3ee8da5",
+      "name": "VIEDAS Soluciones Inmobiliarias",
+      "rating": 5,
+      "reviewCount": 50,
+      "category": "Agentes inmobiliarios",
+      "categories": [
+        "Agentes inmobiliarios"
+      ],
+      "address": "Luis de La Torre 1330-Local 10, Chapultepec, 80040 Culiacán Rosales, Sin.",
+      "phone": "6671530298",
+      "website": null,
+      "coordinates": {
+        "lat": 24.8115851,
+        "lng": -107.4039237
+      },
+      "plusCode": "RJ94+8H Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Roberto Claudio Barron PachecoLocal Guide · 7 opiniones · 20 fotos",
+          "rating": 5,
+          "text": null,
+          "date": "Hace 4 años"
+        },
+        {
+          "author": "Roberto Claudio Barron PachecoLocal Guide · 7 opiniones · 20 fotos",
+          "rating": 5,
+          "text": null,
+          "date": "Hace 4 años"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/VIEDAS+Soluciones+Inmobiliarias/@24.8115851,-107.4039237,14z/data=!4m10!1m2!2m1!1sAgentes+inmobiliarios+en+Culiacan,+Mexico!3m6!1s0x86bcd0a65d908583:0xdfc69723e3ee8da5!8m2!3d24.8182771!4d-107.3935608!15sCilBZ2VudGVzIGlubW9iaWxpYXJpb3MgZW4gQ3VsaWFjYW4sIE1leGljb5IBEnJlYWxfZXN0YXRlX2FnZW50c-ABAA!16s%2Fg%2F11ddwpwt39?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoKLDEwMDc5MjA3M0gBUAM%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Agentes inmobiliarios",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-17T08:45:32.934Z"
+    },
+    {
+      "position": 18,
+      "placeId": "0x86bcda566311affd:0xf723c7086b3130b",
+      "name": "TuCasaIdeal",
+      "rating": 5,
+      "reviewCount": 50,
+      "category": "Agencia inmobiliaria",
+      "categories": [
+        "Agencia inmobiliaria"
+      ],
+      "address": "De Los Mangos 1885, La Campiña, 80060 Culiacán Rosales, Sin.",
+      "phone": "6671551366",
+      "website": "https://tucasaideal.com.mx/",
+      "coordinates": {
+        "lat": 24.8182771,
+        "lng": -107.4316696
+      },
+      "plusCode": "RJ8P+4C Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [
+        "Amigable con LGBTQ+"
+      ],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Armando Payàn3 opiniones",
+          "rating": 5,
+          "text": null,
+          "date": "Hace 3 años"
+        },
+        {
+          "author": "Armando Payàn3 opiniones",
+          "rating": 5,
+          "text": null,
+          "date": "Hace 3 años"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/TuCasaIdeal/@24.8182771,-107.4316696,14z/data=!4m10!1m2!2m1!1sAgentes+inmobiliarios+en+Culiacan,+Mexico!3m6!1s0x86bcda566311affd:0xf723c7086b3130b!8m2!3d24.815313!4d-107.3639945!15sCilBZ2VudGVzIGlubW9iaWxpYXJpb3MgZW4gQ3VsaWFjYW4sIE1leGljb1oqIihhZ2VudGVzIGlubW9iaWxpYXJpb3MgZW4gY3VsaWFjYW4gbWV4aWNvkgEScmVhbF9lc3RhdGVfYWdlbmN54AEA!16s%2Fg%2F11rffcdss0?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoKLDEwMDc5MjA3M0gBUAM%3D",
+      "claimedBusiness": false,
+      "email": "ventas@tucasaideal.com.mx",
+      "allEmails": [
+        "ventas@tucasaideal.com.mx",
+        "antonio.castillo.pantoja@gmail.com"
+      ],
+      "socialMedia": {
+        "instagram": "instagram.com/tucasaideal",
+        "facebook": "facebook.com/Tucasaideal.com.mx",
+        "twitter": "twitter.com/tu_casaideal",
+        "whatsapp": "526671551366",
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": "tiktok.com/@tucasaideal"
+      },
+      "searchQuery": {
+        "businessType": "Agentes inmobiliarios",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-17T08:45:37.167Z"
+    },
+    {
+      "position": 19,
+      "placeId": "0x86bcdba4d3b2840f:0xcac2dd9587a3cdbd",
+      "name": "Castañeda Asesores",
+      "rating": null,
+      "reviewCount": 50,
+      "category": "Agentes inmobiliarios",
+      "categories": [
+        "Agentes inmobiliarios"
+      ],
+      "address": "Art. 123 1449-2, Fovissste Chapultepec, Chapultepec, 80040 Culiacán Rosales, Sin.",
+      "phone": "6671600805",
+      "website": "https://castanedaasesores.com/",
+      "coordinates": {
+        "lat": 24.815313,
+        "lng": -107.4021033
+      },
+      "plusCode": "RJC7+FM Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [],
+      "profileUrl": "https://www.google.com/maps/place/Casta%C3%B1eda+Asesores/@24.815313,-107.4021033,14z/data=!4m10!1m2!2m1!1sAgentes+inmobiliarios+en+Culiacan,+Mexico!3m6!1s0x86bcdba4d3b2840f:0xcac2dd9587a3cdbd!8m2!3d24.8211313!4d-107.3858324!15sCilBZ2VudGVzIGlubW9iaWxpYXJpb3MgZW4gQ3VsaWFjYW4sIE1leGljb5IBEnJlYWxfZXN0YXRlX2FnZW50c-ABAA!16s%2Fg%2F11jsr9ml9t?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoKLDEwMDc5MjA3M0gBUAM%3D",
+      "claimedBusiness": false,
+      "email": "email@email.com",
+      "allEmails": [
+        "email@email.com",
+        "hola@castanedaasesores.com"
+      ],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": "facebook.com/sharer.php",
+        "twitter": "twitter.com/intent",
+        "whatsapp": "526674742780",
+        "linkedin": null,
+        "youtube": "youtube.com/channel/UC76OglXRvdYpHXY25QjrUmA",
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Agentes inmobiliarios",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-17T08:45:42.352Z"
+    },
+    {
+      "position": 20,
+      "placeId": "0x86bcdb21c913ad5f:0xd33c21e4568b39dd",
+      "name": "Gestión inmobiliaria del Noroeste",
+      "rating": 5,
+      "reviewCount": 50,
+      "category": "Agentes inmobiliarios",
+      "categories": [
+        "Agentes inmobiliarios"
+      ],
+      "address": "Blvrd Dr Manuel Romero 96-int. 14, Chapultepec, 80040 Culiacán Rosales, Sin.",
+      "phone": "6671654010",
+      "website": null,
+      "coordinates": {
+        "lat": 24.8211313,
+        "lng": -107.4239412
+      },
+      "plusCode": "RJ85+QX Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Elvia Pardo3 opiniones",
+          "rating": 5,
+          "text": "Estoy muy agradecida por las atenciones que me brindaron. El sr. Alfonso Escobar con su excelente y profesional trato. Siempre dispuesto a dar la mejor asesoría. Felicidades y muchas gracias!!",
+          "date": "Hace 5 años"
+        },
+        {
+          "author": "Elvia Pardo3 opiniones",
+          "rating": 5,
+          "text": "Estoy muy agradecida por las atenciones que me brindaron. El sr. Alfonso Escobar con su excelente y profesional trato. Siempre dispuesto a dar la mejor asesoría. Felicidades y muchas gracias!!",
+          "date": "Hace 5 años"
+        },
+        {
+          "author": "Deyanira Nava2 opiniones · 1 foto",
+          "rating": 5,
+          "text": "Siempre atento... Una persona muy eficiente y honrrado. Agradecida",
+          "date": "Hace 3 años"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Gesti%C3%B3n+inmobiliaria+del+Noroeste/@24.8211313,-107.4239412,14z/data=!4m10!1m2!2m1!1sAgentes+inmobiliarios+en+Culiacan,+Mexico!3m6!1s0x86bcdb21c913ad5f:0xd33c21e4568b39dd!8m2!3d24.8169332!4d-107.3900345!15sCilBZ2VudGVzIGlubW9iaWxpYXJpb3MgZW4gQ3VsaWFjYW4sIE1leGljb1oqIihhZ2VudGVzIGlubW9iaWxpYXJpb3MgZW4gY3VsaWFjYW4gbWV4aWNvkgEScmVhbF9lc3RhdGVfYWdlbnRzmgEjQ2haRFNVaE5NRzluUzBWSlEwRm5TVU4xYm1abU1XRm5FQUXgAQD6AQQIABA3!16s%2Fg%2F11fp9hwc6f?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoKLDEwMDc5MjA3M0gBUAM%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Agentes inmobiliarios",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-17T08:45:44.298Z"
+    }
+  ]
+}

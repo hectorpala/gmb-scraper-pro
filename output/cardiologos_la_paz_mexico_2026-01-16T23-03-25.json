@@ -1,0 +1,1344 @@
+{
+  "metadata": {
+    "query": {
+      "businessType": "Cardiologos",
+      "city": "La Paz",
+      "country": "Mexico"
+    },
+    "totalResults": 18,
+    "stats": {
+      "total": 18,
+      "withPhone": 18,
+      "withEmail": 7,
+      "withWebsite": 10,
+      "withInstagram": 2,
+      "withWhatsapp": 4
+    },
+    "exportedAt": "2026-01-16T23:03:25.802Z",
+    "version": "2.0"
+  },
+  "businesses": [
+    {
+      "position": 1,
+      "placeId": "0x86ae2cd3dd8ebfa3:0xff9ee283c8367bc2",
+      "name": "Dr Juan Manuel Olivares Aquino Cardiólogo en la Paz Baja California Sur",
+      "rating": 4.8,
+      "reviewCount": 10,
+      "category": "Cardiólogo",
+      "categories": [
+        "Cardiólogo"
+      ],
+      "address": "Hospital Fidepaz Consultorio, Del Pez Vela 22, Cd del Sol, 23094 La Paz, B.C.S.",
+      "phone": "6121199087",
+      "website": "http://www.cardiologoenlapaz.com/",
+      "coordinates": {
+        "lat": 24.8294669,
+        "lng": -107.5526052
+      },
+      "plusCode": null,
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [],
+      "profileUrl": "https://www.google.com/maps/place/Dr+Juan+Manuel+Olivares+Aquino+Cardi%C3%B3logo+en+la+Paz+Baja+California+Sur/@24.8294669,-107.5526052,12z/data=!4m10!1m2!2m1!1sCardiologos+en+La+Paz,+Mexico!3m6!1s0x86ae2cd3dd8ebfa3:0xff9ee283c8367bc2!8m2!3d24.1304674!4d-110.3425327!15sCh1DYXJkaW9sb2dvcyBlbiBMYSBQYXosIE1leGljb1oeIhxjYXJkaW9sb2dvcyBlbiBsYSBwYXogbWV4aWNvkgEMY2FyZGlvbG9naXN0mgEjQ2haRFNVaE5NRzluUzBWT1JFcG5PVXN3YWxveWNGQkJFQUXgAQD6AQUIwAEQOg!16s%2Fg%2F11b7gtv2fs?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoKLDEwMDc5MjA3M0gBUAM%3D",
+      "claimedBusiness": false,
+      "email": "drolivarescardio@gmail.com",
+      "allEmails": [
+        "drolivarescardio@gmail.com"
+      ],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": "5216121199087",
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Cardiologos",
+        "city": "La Paz",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T23:02:27.574Z"
+    },
+    {
+      "position": 2,
+      "placeId": "0x86afd341c8b1d693:0x633d9e2262bef30a",
+      "name": "Dr. Edgar Cuevas García",
+      "rating": 4.4,
+      "reviewCount": 10,
+      "category": "Cardiólogo",
+      "categories": [
+        "Cardiólogo"
+      ],
+      "address": "Mulegé 125, Adolfo Ruíz Cortínez, 23040 La Paz, B.C.S.",
+      "phone": "6121228915",
+      "website": "http://dredgarcuevasgarcia.com.mx/",
+      "coordinates": {
+        "lat": 24.1304674,
+        "lng": -110.494968
+      },
+      "plusCode": "4MJV+XF La Paz, Baja California Sur",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [
+        "Amigable con LGBTQ+"
+      ],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Fernando J. Rodriguez C.2 opiniones",
+          "rating": 5,
+          "text": "Super Capacitado… le gusta estudiar… Es mi Doctor desde hace mas de 15 años…",
+          "date": "Hace un año"
+        },
+        {
+          "author": "Fernando J. Rodriguez C.2 opiniones",
+          "rating": 5,
+          "text": "Super Capacitado… le gusta estudiar… Es mi Doctor desde hace mas de 15 años…",
+          "date": "Hace un año"
+        },
+        {
+          "author": "Agustin Villegas2 opiniones · 1 foto",
+          "rating": 5,
+          "text": "Excelente Cardiologo, muy humano y profesional. Altamente recomendable. Y muy acertado.",
+          "date": "Editado Hace 5 años"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Dr.+Edgar+Cuevas+Garc%C3%ADa/@24.1304674,-110.494968,12z/data=!4m10!1m2!2m1!1sCardiologos+en+La+Paz,+Mexico!3m6!1s0x86afd341c8b1d693:0x633d9e2262bef30a!8m2!3d24.1323986!4d-110.306267!15sCh1DYXJkaW9sb2dvcyBlbiBMYSBQYXosIE1leGljb1oeIhxjYXJkaW9sb2dvcyBlbiBsYSBwYXogbWV4aWNvkgEMY2FyZGlvbG9naXN0mgEjQ2haRFNVaE5NRzluUzBWSlEwRm5TVVJDZUZCVVNXTjNFQUXgAQD6AQQIABAc!16s%2Fg%2F11f3c6cn3z?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoKLDEwMDc5MjA3M0gBUAM%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Cardiologos",
+        "city": "La Paz",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T23:02:30.045Z"
+    },
+    {
+      "position": 3,
+      "placeId": "0x86ae2da9a2ed4ce3:0x9a198c00b15b51da",
+      "name": "Cardiólogo Dr. José de Jesús Sandoval Uribe",
+      "rating": 5,
+      "reviewCount": 10,
+      "category": "Cardiólogo",
+      "categories": [
+        "Cardiólogo"
+      ],
+      "address": "Blvd. Constituyentes de 1975 5151, Esperanza 2, 23000 La Paz, B.C.S.",
+      "phone": "6121410699",
+      "website": "https://www.cardiologojosesandoval.com/",
+      "coordinates": {
+        "lat": 24.1332777,
+        "lng": -110.4938072
+      },
+      "plusCode": "4MM5+8F La Paz, Baja California Sur",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "gabriela galvan gilLocal Guide · 5 opiniones · 11 fotos",
+          "rating": 5,
+          "text": null,
+          "date": "Hace un año"
+        },
+        {
+          "author": "gabriela galvan gilLocal Guide · 5 opiniones · 11 fotos",
+          "rating": 5,
+          "text": null,
+          "date": "Hace un año"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Cardi%C3%B3logo+Dr.+Jos%C3%A9+de+Jes%C3%BAs+Sandoval+Uribe/@24.1332777,-110.4938072,12z/data=!4m10!1m2!2m1!1sCardiologos+en+La+Paz,+Mexico!3m6!1s0x86ae2da9a2ed4ce3:0x9a198c00b15b51da!8m2!3d24.1332777!4d-110.3413719!15sCh1DYXJkaW9sb2dvcyBlbiBMYSBQYXosIE1leGljb5IBDGNhcmRpb2xvZ2lzdOABAA!16s%2Fg%2F11vk6hh6p7?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoKLDEwMDc5MjA3M0gBUAM%3D",
+      "claimedBusiness": false,
+      "email": "dr.jjsandovalcardio@gmail.com",
+      "allEmails": [
+        "dr.jjsandovalcardio@gmail.com"
+      ],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": "5216121410699",
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Cardiologos",
+        "city": "La Paz",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T23:02:37.585Z"
+    },
+    {
+      "position": 4,
+      "placeId": "0x86afd369dde9cb7f:0x7270f9f9e0dbfb6f",
+      "name": "Cardiólogo La Paz - Guadalupe Especialidades",
+      "rating": 5,
+      "reviewCount": 10,
+      "category": "Cardiólogo",
+      "categories": [
+        "Cardiólogo"
+      ],
+      "address": "Venustiano Carranza 1924, entre Rosales y Nicolás Bravo, Los Olivos, 23040 La Paz, B.C.S.",
+      "phone": "6121224091",
+      "website": "https://www.facebook.com/Clinica-Guadalupe-Especialidades-522739984897913/",
+      "coordinates": {
+        "lat": 24.1332777,
+        "lng": -110.4938072
+      },
+      "plusCode": "4PR3+XG La Paz, Baja California Sur",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Yanelí Ramirez",
+          "rating": 5,
+          "text": null,
+          "date": "Hace 6 meses"
+        },
+        {
+          "author": "Yanelí Ramirez",
+          "rating": 5,
+          "text": null,
+          "date": "Hace 6 meses"
+        },
+        {
+          "author": "Jose Luis Cervantes ArevaloLocal Guide · 6 opiniones · 80 fotos",
+          "rating": 5,
+          "text": null,
+          "date": "Hace 7 años"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Cardi%C3%B3logo+La+Paz+-+Guadalupe+Especialidades/@24.1332777,-110.4938072,12z/data=!4m10!1m2!2m1!1sCardiologos+en+La+Paz,+Mexico!3m6!1s0x86afd369dde9cb7f:0x7270f9f9e0dbfb6f!8m2!3d24.1424229!4d-110.2962001!15sCh1DYXJkaW9sb2dvcyBlbiBMYSBQYXosIE1leGljb5IBDGNhcmRpb2xvZ2lzdOABAA!16s%2Fg%2F1pt_v1qn2?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoKLDEwMDc5MjA3M0gBUAM%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": "facebook.com/clinicaguadalupelapaz",
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Cardiologos",
+        "city": "La Paz",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T23:02:40.643Z"
+    },
+    {
+      "position": 5,
+      "placeId": "0x86ae2ccf62341827:0x260308651538c453",
+      "name": "Dra. María Isabel Sánchez Ramírez Cardiólogo en La Paz B.C.S.",
+      "rating": 5,
+      "reviewCount": 10,
+      "category": "Cardiólogo",
+      "categories": [
+        "Cardiólogo"
+      ],
+      "address": "Central de Especialidades Médicas, FIDEPAZ, 23090 La Paz, B.C.S.",
+      "phone": "6121240400",
+      "website": "http://www.lapazmed.com.mx/dra-maria-isabel-sanchez-ramirez/",
+      "coordinates": {
+        "lat": 24.1332777,
+        "lng": -110.4938072
+      },
+      "plusCode": "4MJ4+6W La Paz, Baja California Sur",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Ana Peon6 opiniones",
+          "rating": 5,
+          "text": "Excelente Cardiologa, la mejor de La Paz!",
+          "date": "Hace 7 meses"
+        },
+        {
+          "author": "Ana Peon6 opiniones",
+          "rating": 5,
+          "text": "Excelente Cardiologa, la mejor de La Paz!",
+          "date": "Hace 7 meses"
+        },
+        {
+          "author": "Ivan MoyronLocal Guide · 16 opiniones",
+          "rating": 5,
+          "text": "Excelente intervencionista",
+          "date": "Hace un año"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Dra.+Mar%C3%ADa+Isabel+S%C3%A1nchez+Ram%C3%ADrez+Cardi%C3%B3logo+en+La+Paz+B.C.S./@24.1332777,-110.4938072,12z/data=!4m10!1m2!2m1!1sCardiologos+en+La+Paz,+Mexico!3m6!1s0x86ae2ccf62341827:0x260308651538c453!8m2!3d24.130556!4d-110.342631!15sCh1DYXJkaW9sb2dvcyBlbiBMYSBQYXosIE1leGljb1oeIhxjYXJkaW9sb2dvcyBlbiBsYSBwYXogbWV4aWNvkgEMY2FyZGlvbG9naXN0mgEkQ2hkRFNVaE5NRzluUzBWTmFqSXliek5QZUMxeGVESkJSUkFC4AEA-gEECAAQKQ!16s%2Fg%2F11g6bkjc8f?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoKLDEwMDc5MjA3M0gBUAM%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Cardiologos",
+        "city": "La Paz",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T23:02:44.002Z"
+    },
+    {
+      "position": 6,
+      "placeId": "0x86ae2dd03b864ebd:0x1c916e7e8e7534b7",
+      "name": "Dr. Luis Mauricio Padilla - Cardiologo Pediatra La Paz",
+      "rating": 5,
+      "reviewCount": 10,
+      "category": "Cardiólogo pediatra",
+      "categories": [
+        "Cardiólogo pediatra"
+      ],
+      "address": "Blvd. Constituyentes de 1975, La Selva Fidepaz, 23094 La Paz, B.C.S.",
+      "phone": "5633214279",
+      "website": "http://www.cardiopediatrabcs.com/",
+      "coordinates": {
+        "lat": 24.1332777,
+        "lng": -110.4938072
+      },
+      "plusCode": "4MJ5+H3 La Paz, Baja California Sur",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "axel serrano astudillo1 opinión",
+          "rating": 5,
+          "text": "Excelente médico, muy responsable y atento con el paciente, aclaró todas mis dudas sobre mi paciente.",
+          "date": "Hace 3 meses"
+        },
+        {
+          "author": "axel serrano astudillo1 opinión",
+          "rating": 5,
+          "text": "Excelente médico, muy responsable y atento con el paciente, aclaró todas mis dudas sobre mi paciente.",
+          "date": "Hace 3 meses"
+        },
+        {
+          "author": "Valeria Lagunes4 opiniones",
+          "rating": 5,
+          "text": "Gran cardiólogo , hace todos los estudios que considera pertinentes y los explica a la perfección, muy empático y profesional , 10000% recomendado.",
+          "date": "Hace 3 meses"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Dr.+Luis+Mauricio+Padilla+-+Cardiologo+Pediatra+La+Paz/@24.1332777,-110.4938072,12z/data=!4m10!1m2!2m1!1sCardiologos+en+La+Paz,+Mexico!3m6!1s0x86ae2dd03b864ebd:0x1c916e7e8e7534b7!8m2!3d24.1314581!4d-110.3423593!15sCh1DYXJkaW9sb2dvcyBlbiBMYSBQYXosIE1leGljb1oeIhxjYXJkaW9sb2dvcyBlbiBsYSBwYXogbWV4aWNvkgEWcGVkaWF0cmljX2NhcmRpb2xvZ2lzdJoBJENoZERTVWhOTUc5blMwVkpRMEZuU1VSZmVISlhSMnRCUlJBQuABAPoBBAgAEEg!16s%2Fg%2F11y580ph4x?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoKLDEwMDc5MjA3M0gBUAM%3D",
+      "claimedBusiness": false,
+      "email": "hola@cardiopediatrabcs.com",
+      "allEmails": [
+        "hola@cardiopediatrabcs.com"
+      ],
+      "socialMedia": {
+        "instagram": "instagram.com/cardiopedialapaz",
+        "facebook": "facebook.com/p",
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": "tiktok.com/@cardiopedialapaz"
+      },
+      "searchQuery": {
+        "businessType": "Cardiologos",
+        "city": "La Paz",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T23:02:49.533Z"
+    },
+    {
+      "position": 7,
+      "placeId": "0x86afd301a8a12125:0xfd6a554deb22ac1e",
+      "name": "Sainz",
+      "rating": 4.4,
+      "reviewCount": 10,
+      "category": "Cardiólogo",
+      "categories": [
+        "Cardiólogo"
+      ],
+      "address": "Gral Félix Ortega Aguilar 20, Zona Central, 23000 La Paz, B.C.S.",
+      "phone": "6121230425",
+      "website": null,
+      "coordinates": {
+        "lat": 24.1332777,
+        "lng": -110.4938072
+      },
+      "plusCode": "5M3V+CX La Paz, Baja California Sur",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Flower -2 opiniones",
+          "rating": 5,
+          "text": "Excelente cardiólogo, con mucha experiencia y de gran calidez humana 🙌🏻…",
+          "date": "una semana atrás Nueva"
+        },
+        {
+          "author": "Flower -2 opiniones",
+          "rating": 5,
+          "text": "Excelente cardiólogo, con mucha experiencia y de gran calidez humana 🙌🏻…",
+          "date": "una semana atrás Nueva"
+        },
+        {
+          "author": "Daniek Romero3 opiniones",
+          "rating": null,
+          "text": "Muy mal servicio … hice una cita para las 7:30, hablé a las 7 para confirmar y me dijo la señorita que si que a las 7:30 me esperaban, llegue a las 7:25 y me comenta la señorita que hay 6 personas esperando que si es la primera vez que… Más",
+          "date": "Hace un año"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Sainz/@24.1332777,-110.4938072,12z/data=!4m10!1m2!2m1!1sCardiologos+en+La+Paz,+Mexico!3m6!1s0x86afd301a8a12125:0xfd6a554deb22ac1e!8m2!3d24.1535943!4d-110.3050845!15sCh1DYXJkaW9sb2dvcyBlbiBMYSBQYXosIE1leGljb1oeIhxjYXJkaW9sb2dvcyBlbiBsYSBwYXogbWV4aWNvkgEMY2FyZGlvbG9naXN0mgEkQ2hkRFNVaE5NRzluUzBWSlEwRm5TVU14ZVRkTWEzUlJSUkFC4AEA-gEECAAQFA!16s%2Fg%2F11hny2twgy?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoKLDEwMDc5MjA3M0gBUAM%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Cardiologos",
+        "city": "La Paz",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T23:02:51.859Z"
+    },
+    {
+      "position": 8,
+      "placeId": "0x86ae2de4987e141f:0x786653536881fbce",
+      "name": "Dr. Ernesto Ibarra Álvarez, Cardiólogo",
+      "rating": 3.4,
+      "reviewCount": 10,
+      "category": "Cardiólogo",
+      "categories": [
+        "Cardiólogo"
+      ],
+      "address": "Carr. Al Nte., La Selva Fidepaz, 23070 La Paz, B.C.S.",
+      "phone": "6122470115",
+      "website": "https://www.doctoralia.com.mx/ernesto-ibarra-alvarez/cardiologo/la-paz?utm_source=google&utm_medium=gmb&utm_campaign=162646&utm_content=website",
+      "coordinates": {
+        "lat": 24.1332777,
+        "lng": -110.4938072
+      },
+      "plusCode": null,
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [],
+      "profileUrl": "https://www.google.com/maps/place/Dr.+Ernesto+Ibarra+%C3%81lvarez,+Cardi%C3%B3logo/@24.1332777,-110.4938072,12z/data=!4m10!1m2!2m1!1sCardiologos+en+La+Paz,+Mexico!3m6!1s0x86ae2de4987e141f:0x786653536881fbce!8m2!3d24.1314826!4d-110.3421362!15sCh1DYXJkaW9sb2dvcyBlbiBMYSBQYXosIE1leGljb1oeIhxjYXJkaW9sb2dvcyBlbiBsYSBwYXogbWV4aWNvkgEMY2FyZGlvbG9naXN0mgEjQ2haRFNVaE5NRzluUzBWSlEwRm5TVVJ5T0RsWWExcFJFQUXgAQD6AQQIABAQ!16s%2Fg%2F11h7tzbmwc?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoKLDEwMDc5MjA3M0gBUAM%3D",
+      "claimedBusiness": false,
+      "email": "soporte@doctoralia.com",
+      "allEmails": [
+        "soporte@doctoralia.com",
+        "contacto-mx@doctoralia.com"
+      ],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Cardiologos",
+        "city": "La Paz",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T23:02:54.058Z"
+    },
+    {
+      "position": 9,
+      "placeId": "0x86afd343eb93ede5:0x2e092356b84fd8e7",
+      "name": "CARDIOLOGIA PEDIATRICA DE BCS DR.CARLOS ENOC MARTINEZ JIMENEZ",
+      "rating": 4.7,
+      "reviewCount": 10,
+      "category": "Cardiólogo pediatra",
+      "categories": [
+        "Cardiólogo pediatra"
+      ],
+      "address": "Calle Lic. Primo Verdad 2221, Zona Central, 23000 La Paz, B.C.S.",
+      "phone": "6121852854",
+      "website": "https://www.dr.enoccardiopediabcs.com/",
+      "coordinates": {
+        "lat": 24.1332777,
+        "lng": -110.4938072
+      },
+      "plusCode": "4MXQ+P7 La Paz, Baja California Sur",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [
+        "Amigable con LGBTQ+"
+      ],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Maricela Zambrano1 opinión",
+          "rating": 5,
+          "text": "Muy recomendado, el dr atendió a mi nieta, muy profesional, domina su área, nos explicó todo a detalle, nos quedamos muy satisfechos. Gracias dr Enoc!!",
+          "date": "Hace 3 meses"
+        },
+        {
+          "author": "Maricela Zambrano1 opinión",
+          "rating": 5,
+          "text": "Muy recomendado, el dr atendió a mi nieta, muy profesional, domina su área, nos explicó todo a detalle, nos quedamos muy satisfechos. Gracias dr Enoc!!",
+          "date": "Hace 3 meses"
+        },
+        {
+          "author": "carolina Barragan1 opinión",
+          "rating": 5,
+          "text": "Excelente médico, explica de principio a fin, aclara todas tus dudas y siempre al pendiente de nuestros pequeños !!",
+          "date": "Hace 3 meses"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/CARDIOLOGIA+PEDIATRICA+DE+BCS+DR.CARLOS+ENOC+MARTINEZ+JIMENEZ/@24.1332777,-110.4938072,12z/data=!4m10!1m2!2m1!1sCardiologos+en+La+Paz,+Mexico!3m6!1s0x86afd343eb93ede5:0x2e092356b84fd8e7!8m2!3d24.1493116!4d-110.3118698!15sCh1DYXJkaW9sb2dvcyBlbiBMYSBQYXosIE1leGljb1oeIhxjYXJkaW9sb2dvcyBlbiBsYSBwYXogbWV4aWNvkgEWcGVkaWF0cmljX2NhcmRpb2xvZ2lzdJoBJENoZERTVWhOTUc5blMwVkpRMEZuVFVOWmFVbFBWVjlSUlJBQuABAPoBBAgAECU!16s%2Fg%2F11c0xp0bvv?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoKLDEwMDc5MjA3M0gBUAM%3D",
+      "claimedBusiness": false,
+      "email": "cardiopediatradrenoc@gmail.com",
+      "allEmails": [
+        "cardiopediatradrenoc@gmail.com"
+      ],
+      "socialMedia": {
+        "instagram": "instagram.com/cardiopediatraenoc",
+        "facebook": "facebook.com/CardiologoInfantilBCs",
+        "twitter": null,
+        "whatsapp": "5215512345678",
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": "tiktok.com/@lapazcardiopediadrenoc"
+      },
+      "searchQuery": {
+        "businessType": "Cardiologos",
+        "city": "La Paz",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T23:03:00.604Z"
+    },
+    {
+      "position": 10,
+      "placeId": "0x86afd3d2a6cda659:0xc0d624a7e340480b",
+      "name": "Dr. Jonathan Celis Espinosa, Cardiólogo",
+      "rating": null,
+      "reviewCount": 10,
+      "category": "Cardiólogo",
+      "categories": [
+        "Cardiólogo"
+      ],
+      "address": "C. Francisco I. Madero entre allende y juarez, Zona Central, 23000 La Paz, B.C.S.",
+      "phone": "6126907980",
+      "website": "https://www.doctoralia.com.mx/jonathan-celis-espinosa/cardiologo/la-paz?utm_source=google&utm_medium=gmb&utm_campaign=7601&utm_content=website",
+      "coordinates": {
+        "lat": 24.1332777,
+        "lng": -110.4938072
+      },
+      "plusCode": "5M4J+74 La Paz, Baja California Sur",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [],
+      "profileUrl": "https://www.google.com/maps/place/Dr.+Jonathan+Celis+Espinosa,+Cardi%C3%B3logo/@24.1332777,-110.4938072,12z/data=!4m10!1m2!2m1!1sCardiologos+en+La+Paz,+Mexico!3m6!1s0x86afd3d2a6cda659:0xc0d624a7e340480b!8m2!3d24.1556622!4d-110.3196323!15sCh1DYXJkaW9sb2dvcyBlbiBMYSBQYXosIE1leGljb5IBDGNhcmRpb2xvZ2lzdOABAA!16s%2Fg%2F11fnw00fsn?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoKLDEwMDc5MjA3M0gBUAM%3D",
+      "claimedBusiness": false,
+      "email": "soporte@doctoralia.com",
+      "allEmails": [
+        "soporte@doctoralia.com",
+        "contacto-mx@doctoralia.com"
+      ],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Cardiologos",
+        "city": "La Paz",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T23:03:04.834Z"
+    },
+    {
+      "position": 11,
+      "placeId": "0x86ae2de81b356025:0x8e67d8188f8e1284",
+      "name": "Dr. Enrique Valerio Moreno",
+      "rating": null,
+      "reviewCount": 10,
+      "category": "Cardiólogo",
+      "categories": [
+        "Cardiólogo"
+      ],
+      "address": "Del Pez Vela, La Selva Fidepaz, 23090 La Paz, B.C.S.",
+      "phone": "6122145728",
+      "website": null,
+      "coordinates": {
+        "lat": 24.1332777,
+        "lng": -110.4938072
+      },
+      "plusCode": null,
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [
+        "Se identifica como mujer empresaria"
+      ],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [],
+      "profileUrl": "https://www.google.com/maps/place/Dr.+Yajaziel+Azpeitia+Hernandez,+Cardi%C3%B3logo/@24.1332777,-110.4938072,12z/data=!4m10!1m2!2m1!1sCardiologos+en+La+Paz,+Mexico!3m6!1s0x86ae2de81b356025:0x8e67d8188f8e1284!8m2!3d24.1321984!4d-110.341751!15sCh1DYXJkaW9sb2dvcyBlbiBMYSBQYXosIE1leGljb5IBDGNhcmRpb2xvZ2lzdOABAA!16s%2Fg%2F11fnyc_z55?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoKLDEwMDc5MjA3M0gBUAM%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Cardiologos",
+        "city": "La Paz",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T23:03:08.140Z"
+    },
+    {
+      "position": 12,
+      "placeId": "0x86ae2d8027d77187:0xeb03c640395f8bbd",
+      "name": "Dr. Alan Irigoyen Especialista en Cardiología",
+      "rating": 5,
+      "reviewCount": 10,
+      "category": "Cardiólogo",
+      "categories": [
+        "Cardiólogo"
+      ],
+      "address": "médica del cortés, Blvd. Pino Pallas, Villas del Encanto, 23085 La Paz, B.C.S.",
+      "phone": "6621150508",
+      "website": null,
+      "coordinates": {
+        "lat": 24.1332777,
+        "lng": -110.4938072
+      },
+      "plusCode": "4M28+PW La Paz, Baja California Sur",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "karen bennett6 opiniones",
+          "rating": 5,
+          "text": "Vi al Dr. Alan dos veces. En ambas ocasiones fue muy minucioso, se tomó el tiempo de hacerme preguntas y escuchó atentamente mis respuestas.\nAdemás de ser un médico muy bueno y profesional, es una persona muy amable. Eso marca una gran diferencia para alguien que se preocupa por su salud.",
+          "date": "Hace 7 meses"
+        },
+        {
+          "author": "karen bennett6 opiniones",
+          "rating": 5,
+          "text": "Vi al Dr. Alan dos veces. En ambas ocasiones fue muy minucioso, se tomó el tiempo de hacerme preguntas y escuchó atentamente mis respuestas.\nAdemás de ser un médico muy bueno y profesional, es una persona muy amable. Eso marca una gran diferencia para alguien que se preocupa por su salud.",
+          "date": "Hace 7 meses"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Dr.+Alan+Irigoyen+Especialista+en+Cardiolog%C3%ADa/@24.1332777,-110.4938072,12z/data=!4m10!1m2!2m1!1sCardiologos+en+La+Paz,+Mexico!3m6!1s0x86ae2d8027d77187:0xeb03c640395f8bbd!8m2!3d24.1017687!4d-110.3327353!15sCh1DYXJkaW9sb2dvcyBlbiBMYSBQYXosIE1leGljb5IBDGNhcmRpb2xvZ2lzdOABAA!16s%2Fg%2F11vz3yrmbl?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoKLDEwMDc5MjA3M0gBUAM%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Cardiologos",
+        "city": "La Paz",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T23:03:10.666Z"
+    },
+    {
+      "position": 13,
+      "placeId": "0x86afd331f24e0789:0x497a01346f5d8b62",
+      "name": "Cardiologo Dr. Yajaziel Azpeitia",
+      "rating": 4.3,
+      "reviewCount": 10,
+      "category": "Cardiólogo",
+      "categories": [
+        "Cardiólogo"
+      ],
+      "address": "Boulevard Constituyentes de 1975 Ext. 113, Interior 3, La Selva Fidepaz, 23000 La Paz, B.C.S.",
+      "phone": "6121241602",
+      "website": null,
+      "coordinates": {
+        "lat": 24.1332777,
+        "lng": -110.4938072
+      },
+      "plusCode": "4MJ5+F7 La Paz, Baja California Sur",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Sun & Sea LivingthedreamLocal Guide · 99 opiniones · 28 fotos",
+          "rating": null,
+          "text": "visita muy breve y superficial, halter por 24 horas por 3000 pesos. Segun el todo bien no me cambio ma medicacion. Segui teniendo varios  episodios de taquicardias  y fui a otro cardiologo con una visita mas exhaustiva que si noto anomalias… Más",
+          "date": "Hace 8 meses"
+        },
+        {
+          "author": "Sun & Sea LivingthedreamLocal Guide · 99 opiniones · 28 fotos",
+          "rating": null,
+          "text": "visita muy breve y superficial, halter por 24 horas por 3000 pesos. Segun el todo bien no me cambio ma medicacion. Segui teniendo varios  episodios de taquicardias  y fui a otro cardiologo con una visita mas exhaustiva que si noto anomalias… Más",
+          "date": "Hace 8 meses"
+        },
+        {
+          "author": "YAZMIN ROCHA1 opinión",
+          "rating": 5,
+          "text": "Un gran médico que cuenta con ética profesional y pasión por lo que hace pero sobre todo calidad humana con cada uno de sus pacientes, ampliamente recomendado.",
+          "date": "Hace 9 años"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Cardiologo+Dr.+Yajaziel+Azpeitia/@24.1332777,-110.4938072,12z/data=!4m10!1m2!2m1!1sCardiologos+en+La+Paz,+Mexico!3m6!1s0x86afd331f24e0789:0x497a01346f5d8b62!8m2!3d24.1311896!4d-110.3417501!15sCh1DYXJkaW9sb2dvcyBlbiBMYSBQYXosIE1leGljb5IBDGNhcmRpb2xvZ2lzdOABAA!16s%2Fg%2F1ydpt9wrw?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoKLDEwMDc5MjA3M0gBUAM%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Cardiologos",
+        "city": "La Paz",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T23:03:12.666Z"
+    },
+    {
+      "position": 14,
+      "placeId": "0x86afd317f0154863:0xd84bea3ba2fc008e",
+      "name": "Cuevas Cardiology",
+      "rating": 5,
+      "reviewCount": 10,
+      "category": "Médico",
+      "categories": [
+        "Médico"
+      ],
+      "address": "Mulegé 125, El Campanario, 23040 La Paz, B.C.S.",
+      "phone": "6121228915",
+      "website": "https://dredgarcuevasgarcia.com.mx/",
+      "coordinates": {
+        "lat": 24.1332777,
+        "lng": -110.4938072
+      },
+      "plusCode": "4MJV+WF La Paz, Baja California Sur",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Erick CanoLocal Guide · 94 opiniones · 2,215 fotos",
+          "rating": 5,
+          "text": "Excelente Atención!\nMuy profesional y a la vanguardia en tecnología.",
+          "date": "Hace 3 años"
+        },
+        {
+          "author": "Erick CanoLocal Guide · 94 opiniones · 2,215 fotos",
+          "rating": 5,
+          "text": "Excelente Atención!\nMuy profesional y a la vanguardia en tecnología.",
+          "date": "Hace 3 años"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Cuevas+Cardiology/@24.1332777,-110.4938072,12z/data=!4m10!1m2!2m1!1sCardiologos+en+La+Paz,+Mexico!3m6!1s0x86afd317f0154863:0xd84bea3ba2fc008e!8m2!3d24.1323249!4d-110.3062744!15sCh1DYXJkaW9sb2dvcyBlbiBMYSBQYXosIE1leGljb1oeIhxjYXJkaW9sb2dvcyBlbiBsYSBwYXogbWV4aWNvkgEGZG9jdG9ymgEkQ2hkRFNVaE5NRzluUzBWSlEwRm5TVU10Y0hSNWJEVjNSUkFC4AEA-gEECBQQMA!16s%2Fg%2F11byyk942x?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoKLDEwMDc5MjA3M0gBUAM%3D",
+      "claimedBusiness": false,
+      "email": "cuevasgared@yahoo.com.mx",
+      "allEmails": [
+        "cuevasgared@yahoo.com.mx"
+      ],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": "facebook.com/share",
+        "twitter": null,
+        "whatsapp": "5216121508782",
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Cardiologos",
+        "city": "La Paz",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T23:03:16.617Z"
+    },
+    {
+      "position": 15,
+      "placeId": "0x86afd3d9d8831a71:0x1ca73cc6ae4316d2",
+      "name": "Cardiologo Santa Ana",
+      "rating": 4.5,
+      "reviewCount": 10,
+      "category": "Hospital",
+      "categories": [
+        "Hospital"
+      ],
+      "address": "Constitución 315, Zona Comercial, 23006 La Paz, B.C.S.",
+      "phone": "6121252839",
+      "website": null,
+      "coordinates": {
+        "lat": 24.1332777,
+        "lng": -110.4938072
+      },
+      "plusCode": "5M7Q+27 La Paz, Baja California Sur",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": true,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Joseline MendozaLocal Guide · 56 opiniones · 31 fotos",
+          "rating": 5,
+          "text": "Excelente trato, muy preparado. De los mejores cardiologos en el estado.",
+          "date": "Hace 2 años"
+        },
+        {
+          "author": "Joseline MendozaLocal Guide · 56 opiniones · 31 fotos",
+          "rating": 5,
+          "text": "Excelente trato, muy preparado. De los mejores cardiologos en el estado.",
+          "date": "Hace 2 años"
+        },
+        {
+          "author": "Lana SoloLocal Guide · 31 opiniones · 19 fotos",
+          "rating": 3,
+          "text": "Еl cardiólogo no notó los síntomas de tromboembolismo",
+          "date": "Hace 3 años"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Cardiologo+Santa+Ana/@24.1332777,-110.4938072,12z/data=!4m10!1m2!2m1!1sCardiologos+en+La+Paz,+Mexico!3m6!1s0x86afd3d9d8831a71:0x1ca73cc6ae4316d2!8m2!3d24.1625138!4d-110.3118656!15sCh1DYXJkaW9sb2dvcyBlbiBMYSBQYXosIE1leGljb1oeIhxjYXJkaW9sb2dvcyBlbiBsYSBwYXogbWV4aWNvkgEIaG9zcGl0YWyaASRDaGREU1VoTk1HOW5TMFZKUTBGblNVUjRPVFJmV0hCQlJSQULgAQD6AQQIIBAo!16s%2Fg%2F11flc3jmcf?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoKLDEwMDc5MjA3M0gBUAM%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Cardiologos",
+        "city": "La Paz",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T23:03:19.487Z"
+    },
+    {
+      "position": 16,
+      "placeId": "0x86afd36b3f612f17:0x492d9d48480dcddf",
+      "name": "Consultorio Cardiológico Dra. María De Jesús Ramírez Rivas",
+      "rating": 1,
+      "reviewCount": 10,
+      "category": "Cardiólogo",
+      "categories": [
+        "Cardiólogo"
+      ],
+      "address": "Ignacio Allende 1851, Los Olivos, 23040 La Paz, B.C.S.",
+      "phone": "6121255868",
+      "website": null,
+      "coordinates": {
+        "lat": 24.1332777,
+        "lng": -110.4938072
+      },
+      "plusCode": "4MVW+WX La Paz, Baja California Sur",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Esteban Olivas3 opiniones",
+          "rating": null,
+          "text": null,
+          "date": "Hace 5 años"
+        },
+        {
+          "author": "Esteban Olivas3 opiniones",
+          "rating": null,
+          "text": null,
+          "date": "Hace 5 años"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Consultorio+Cardiol%C3%B3gico+Dra.+Mar%C3%ADa+De+Jes%C3%BAs+Ram%C3%ADrez+Rivas/@24.1332777,-110.4938072,12z/data=!4m10!1m2!2m1!1sCardiologos+en+La+Paz,+Mexico!3m6!1s0x86afd36b3f612f17:0x492d9d48480dcddf!8m2!3d24.1447802!4d-110.3026058!15sCh1DYXJkaW9sb2dvcyBlbiBMYSBQYXosIE1leGljb5IBDGNhcmRpb2xvZ2lzdOABAA!16s%2Fg%2F11b725brlw?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoKLDEwMDc5MjA3M0gBUAM%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Cardiologos",
+        "city": "La Paz",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T23:03:22.155Z"
+    },
+    {
+      "position": 17,
+      "placeId": "0x86afd3d41ad523ff:0xdf0bff290ed1d7ca",
+      "name": "Electrocardiograma La Paz",
+      "rating": 1,
+      "reviewCount": 10,
+      "category": "Servicios médicos locales",
+      "categories": [
+        "Servicios médicos locales"
+      ],
+      "address": "Blvd. Pino Pallas 104, Villas del Encanto, 23085 La Paz, B.C.S.",
+      "phone": "6121570917",
+      "website": null,
+      "coordinates": {
+        "lat": 24.1332777,
+        "lng": -110.4938072
+      },
+      "plusCode": "3MXF+W5 La Paz, Baja California Sur",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [
+        "Amigable con LGBTQ+",
+        "Se identifica como mujer empresaria"
+      ],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Francisco Javier MorenoLocal Guide · 65 opiniones · 5 fotos",
+          "rating": null,
+          "text": "Ni siquiera entra la llamada.",
+          "date": "Hace 2 años"
+        },
+        {
+          "author": "Francisco Javier MorenoLocal Guide · 65 opiniones · 5 fotos",
+          "rating": null,
+          "text": "Ni siquiera entra la llamada.",
+          "date": "Hace 2 años"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Electrocardiograma+La+Paz/@24.1332777,-110.4938072,12z/data=!4m10!1m2!2m1!1sCardiologos+en+La+Paz,+Mexico!3m6!1s0x86afd3d41ad523ff:0xdf0bff290ed1d7ca!8m2!3d24.0998565!4d-110.3270795!15sCh1DYXJkaW9sb2dvcyBlbiBMYSBQYXosIE1leGljb5IBFmxvY2FsX21lZGljYWxfc2VydmljZXPgAQA!16s%2Fg%2F11rvlyc7lm?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoKLDEwMDc5MjA3M0gBUAM%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Cardiologos",
+        "city": "La Paz",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T23:03:24.068Z"
+    },
+    {
+      "position": 18,
+      "placeId": "0x86afd33903c73481:0x8e330abe54fc3b9e",
+      "name": "María Haydee Guadalupe Contreras Hernández",
+      "rating": null,
+      "reviewCount": 10,
+      "category": "Cardiólogo",
+      "categories": [
+        "Cardiólogo"
+      ],
+      "address": "Calle Sinaloa 1320, Las Garzas, 23060 La Paz, B.C.S.",
+      "phone": "6121224719",
+      "website": null,
+      "coordinates": {
+        "lat": 24.1332777,
+        "lng": -110.4938072
+      },
+      "plusCode": "4MQM+GR La Paz, Baja California Sur",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [],
+      "profileUrl": "https://www.google.com/maps/place/Mar%C3%ADa+Haydee+Guadalupe+Contreras+Hern%C3%A1ndez/@24.1332777,-110.4938072,12z/data=!4m10!1m2!2m1!1sCardiologos+en+La+Paz,+Mexico!3m6!1s0x86afd33903c73481:0x8e330abe54fc3b9e!8m2!3d24.1388605!4d-110.3154479!15sCh1DYXJkaW9sb2dvcyBlbiBMYSBQYXosIE1leGljb5IBDGNhcmRpb2xvZ2lzdOABAA!16s%2Fg%2F1vc_qt3j?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoKLDEwMDc5MjA3M0gBUAM%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Cardiologos",
+        "city": "La Paz",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T23:03:25.769Z"
+    }
+  ]
+}

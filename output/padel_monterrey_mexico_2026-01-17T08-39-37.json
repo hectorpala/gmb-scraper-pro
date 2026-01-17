@@ -1,0 +1,1791 @@
+{
+  "metadata": {
+    "query": {
+      "businessType": "Padel",
+      "city": "Monterrey",
+      "country": "Mexico"
+    },
+    "totalResults": 23,
+    "stats": {
+      "total": 23,
+      "withPhone": 23,
+      "withEmail": 7,
+      "withWebsite": 21,
+      "withInstagram": 19,
+      "withWhatsapp": 4
+    },
+    "exportedAt": "2026-01-17T08:39:37.085Z",
+    "version": "2.0"
+  },
+  "businesses": [
+    {
+      "position": 1,
+      "placeId": "0x86bcd7fcb5204341:0xccd7b1d03ce742e0",
+      "name": "Padel Capital - Monterrey",
+      "rating": 4.8,
+      "reviewCount": 46,
+      "category": "Club deportivo",
+      "categories": [
+        "Club deportivo"
+      ],
+      "address": "Carr Nacional Km 263, Los Cristales, 67300 Monterrey, N.L.",
+      "phone": "8115388895",
+      "website": "http://www.padelcapital.com.mx/",
+      "coordinates": {
+        "lat": 24.8104036,
+        "lng": -112.2487187
+      },
+      "plusCode": null,
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [],
+      "profileUrl": "https://www.google.com/maps/place/PadelPark+CLN/@24.8104036,-112.2487187,7z/data=!4m10!1m2!2m1!1sPadel+en+Monterrey,+Mexico!3m6!1s0x86bcd7fcb5204341:0xccd7b1d03ce742e0!8m2!3d24.8104036!4d-107.370789!15sChpQYWRlbCBlbiBNb250ZXJyZXksIE1leGljb1obIhlwYWRlbCBlbiBtb250ZXJyZXkgbWV4aWNvkgELcGFkZWxfY291cnSaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVTm9iblZEWkZsQkVBReABAPoBBAgAED4!16s%2Fg%2F11jnmcwqhd?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": "academia@padelcapital.com.mx",
+      "allEmails": [
+        "academia@padelcapital.com.mx",
+        "info@padelcapital.com.mx"
+      ],
+      "socialMedia": {
+        "instagram": "instagram.com/padelcapital",
+        "facebook": "facebook.com/Padelcapitalmty",
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Padel",
+        "city": "Monterrey",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-17T08:37:52.122Z"
+    },
+    {
+      "position": 2,
+      "placeId": "0x8662977f1fd0bd3f:0x51cd2e2c9d5299fa",
+      "name": "City Padel",
+      "rating": 4.9,
+      "reviewCount": 46,
+      "category": "Club de pádel",
+      "categories": [
+        "Club de pádel"
+      ],
+      "address": "Av. Dr. José Eleuterio González 315, Jardines del Cerro, 64060 Monterrey, N.L.",
+      "phone": "8119779782",
+      "website": "https://www.instagram.com/citypadelmonterrey/profilecard/?igsh=MXBqOWxtbjZuc3Jzbw==",
+      "coordinates": {
+        "lat": 25.5407416,
+        "lng": -105.098796
+      },
+      "plusCode": "MJHX+9Q Monterrey, Nuevo León",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Ricardo RamirezLocal Guide · 284 opiniones · 789 fotos",
+          "rating": 5,
+          "text": "Las canchas están en muy buenas condiciones, hay bastante espacio de estacionamiento y también hay una barra de bebidas botanas y cheves",
+          "date": "Hace 6 días Nueva"
+        },
+        {
+          "author": "Ricardo RamirezLocal Guide · 284 opiniones · 789 fotos",
+          "rating": 5,
+          "text": "Las canchas están en muy buenas condiciones, hay bastante espacio de estacionamiento y también hay una barra de bebidas botanas y cheves",
+          "date": "Hace 6 días Nueva"
+        },
+        {
+          "author": "Mauricio SeguraLocal Guide · 38 opiniones · 20 fotos",
+          "rating": 5,
+          "text": "Excelente vista, buen ambiente, música, pantallas para ver partidos de futbol, personal amable, las canchas en buen estado.",
+          "date": "Hace 5 meses"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/City+Padel/@25.5407416,-105.098796,7z/data=!4m10!1m2!2m1!1sPadel+en+Monterrey,+Mexico!3m6!1s0x8662977f1fd0bd3f:0x51cd2e2c9d5299fa!8m2!3d25.6784573!4d-100.3505652!15sChpQYWRlbCBlbiBNb250ZXJyZXksIE1leGljb1obIhlwYWRlbCBlbiBtb250ZXJyZXkgbWV4aWNvkgEKcGFkZWxfY2x1YpoBI0NoWkRTVWhOTUc5blMwVkpRMEZuVFVOM2JqVlRSMkZuRUFF4AEA-gEFCJ8BEBs!16s%2Fg%2F11wjb08_rp?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": "instagram.com/rsrc.php",
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Padel",
+        "city": "Monterrey",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-17T08:37:54.575Z"
+    },
+    {
+      "position": 3,
+      "placeId": "0x8662bfc13ab3088d:0x4a2292ce3d603c54",
+      "name": "Padel Park Indoor",
+      "rating": 4.8,
+      "reviewCount": 46,
+      "category": "Club deportivo",
+      "categories": [
+        "Club deportivo"
+      ],
+      "address": "Río Nazas 4109, Alfareros, 64753 Monterrey, N.L.",
+      "phone": "8115181211",
+      "website": "https://www.instagram.com/padelparkindoor?igsh=MW85NmhrdGo2emU0dQ==",
+      "coordinates": {
+        "lat": 25.5407416,
+        "lng": -105.098796
+      },
+      "plusCode": "JMPQ+64 Monterrey, Nuevo León",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Lila LanderosLocal Guide · 1,273 opiniones · 35,916 fotos",
+          "rating": 4,
+          "text": "- Este lugar es una excelente opción para pádel. Está techado y con clima.\n\n- El ambiente es agradable.… Más",
+          "date": "Hace 8 meses"
+        },
+        {
+          "author": "Lila LanderosLocal Guide · 1,273 opiniones · 35,916 fotos",
+          "rating": 4,
+          "text": "- Este lugar es una excelente opción para pádel. Está techado y con clima.\n\n- El ambiente es agradable.… Más",
+          "date": "Hace 8 meses"
+        },
+        {
+          "author": "Sar ELocal Guide · 393 opiniones · 2,306 fotos",
+          "rating": 5,
+          "text": "Muy buen lugar, en muy buen estado todas las instalaciones. El estacionamiento tiene los cajones muy estrechos y los muros incomodan para estacionarse. Hoy a 3C de temperatura, aquí adentro con calentadores de está a 8C",
+          "date": "Hace 10 meses"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Padel+Park+Indoor/@25.5407416,-105.098796,7z/data=!4m10!1m2!2m1!1sPadel+en+Monterrey,+Mexico!3m6!1s0x8662bfc13ab3088d:0x4a2292ce3d603c54!8m2!3d25.6355675!4d-100.3121559!15sChpQYWRlbCBlbiBNb250ZXJyZXksIE1leGljb1obIhlwYWRlbCBlbiBtb250ZXJyZXkgbWV4aWNvkgELc3BvcnRzX2NsdWKaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVTmlYMTk1ZVZKM0VBReABAPoBBAgAEEo!16s%2Fg%2F11w4hv7d65?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": "instagram.com/rsrc.php",
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Padel",
+        "city": "Monterrey",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-17T08:37:58.326Z"
+    },
+    {
+      "position": 4,
+      "placeId": "0x866297d568f089cd:0x5cb4623fc68879fd",
+      "name": "Padel Central",
+      "rating": 4.9,
+      "reviewCount": 46,
+      "category": "Club deportivo",
+      "categories": [
+        "Club deportivo"
+      ],
+      "address": "64619 Av Paseo de los Leones #2972 Cumbres del sur 5° sector, 64610 Monterrey, N.L.",
+      "phone": "8114833938",
+      "website": "https://www.instagram.com/padelcentrall/?hl=es-la",
+      "coordinates": {
+        "lat": 25.5407416,
+        "lng": -105.098796
+      },
+      "plusCode": null,
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [],
+      "profileUrl": "https://www.google.com/maps/place/Padel+Central/@25.5407416,-105.098796,7z/data=!4m10!1m2!2m1!1sPadel+en+Monterrey,+Mexico!3m6!1s0x866297d568f089cd:0x5cb4623fc68879fd!8m2!3d25.7223724!4d-100.392592!15sChpQYWRlbCBlbiBNb250ZXJyZXksIE1leGljb1obIhlwYWRlbCBlbiBtb250ZXJyZXkgbWV4aWNvkgELc3BvcnRzX2NsdWKaASNDaFpEU1VoTk1HOW5TMFZKUTBGblRVUlJaMTkxU0ZKM0VBReABAPoBBAgAEEI!16s%2Fg%2F11sn_0xrsf?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": "instagram.com/rsrc.php",
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Padel",
+        "city": "Monterrey",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-17T08:38:01.067Z"
+    },
+    {
+      "position": 5,
+      "placeId": "0x8662c1e6e551168f:0x1026ed5b77bb8099",
+      "name": "Power Padel",
+      "rating": 5,
+      "reviewCount": 46,
+      "category": "Club deportivo",
+      "categories": [
+        "Club deportivo"
+      ],
+      "address": "Loma de Los Pinos 5695, 64988 Monterrey, N.L.",
+      "phone": "8114960502",
+      "website": null,
+      "coordinates": {
+        "lat": 25.5407416,
+        "lng": -105.098796
+      },
+      "plusCode": "HPRW+H7 Monterrey, Nuevo León",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Julio De la Fuente S. (jufusa)Local Guide · 339 opiniones · 651 fotos",
+          "rating": 5,
+          "text": "Excelente club de padel. Muy buenas canchas y las que están climatizadas (4) son de muy buena calidad. También hay dos canchas techadas y dos más en exterior con una tipo estadio.",
+          "date": "Hace 2 años"
+        },
+        {
+          "author": "Julio De la Fuente S. (jufusa)Local Guide · 339 opiniones · 651 fotos",
+          "rating": 5,
+          "text": "Excelente club de padel. Muy buenas canchas y las que están climatizadas (4) son de muy buena calidad. También hay dos canchas techadas y dos más en exterior con una tipo estadio.",
+          "date": "Hace 2 años"
+        },
+        {
+          "author": "R LomasLocal Guide · 145 opiniones · 3,182 fotos",
+          "rating": 4,
+          "text": "Magnífico lugar para practicar padel, cuenta con canchas climatizadas, canchas techadas y canchas al aire libre, cuenta con tienda deportiva, cuenta con venta de snacks, comida y bebidas, está un poco retirado pero se entiende por la ciudad… Más",
+          "date": "Hace 5 meses"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Power+Padel/@25.5407416,-105.098796,7z/data=!4m10!1m2!2m1!1sPadel+en+Monterrey,+Mexico!3m6!1s0x8662c1e6e551168f:0x1026ed5b77bb8099!8m2!3d25.5913779!4d-100.254364!15sChpQYWRlbCBlbiBNb250ZXJyZXksIE1leGljb1obIhlwYWRlbCBlbiBtb250ZXJyZXkgbWV4aWNvkgELc3BvcnRzX2NsdWKaASRDaGREU1VoTk1HOW5TMFZKUTBGblNVTnNkR055VDJoM1JSQULgAQD6AQUIrAEQKQ!16s%2Fg%2F11vl7sp6lf?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Padel",
+        "city": "Monterrey",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-17T08:38:03.201Z"
+    },
+    {
+      "position": 6,
+      "placeId": "0x866297e35724e967:0x6a792f5a13c56de0",
+      "name": "República Pádel",
+      "rating": 4.7,
+      "reviewCount": 46,
+      "category": "Club deportivo",
+      "categories": [
+        "Club deportivo"
+      ],
+      "address": "Blvd. Rogelio Cantú Gómez 1801, Santa María, 64650 Monterrey, N.L.",
+      "phone": "8129112576",
+      "website": "https://www.instagram.com/republicapadel/",
+      "coordinates": {
+        "lat": 25.5407416,
+        "lng": -105.098796
+      },
+      "plusCode": "MJFF+PR Monterrey, Nuevo León",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "F Zavala2 opiniones",
+          "rating": 5,
+          "text": "Excelente ubicación y me gustó mucho que son techadas y te protege del sol.",
+          "date": "Hace 5 meses"
+        },
+        {
+          "author": "F Zavala2 opiniones",
+          "rating": 5,
+          "text": "Excelente ubicación y me gustó mucho que son techadas y te protege del sol.",
+          "date": "Hace 5 meses"
+        },
+        {
+          "author": "Julio De la Fuente S. (jufusa)Local Guide · 339 opiniones · 651 fotos",
+          "rating": 5,
+          "text": "Muy buenas canchas de padel. Son techadas qué aguantan brisa de lluvia. La atención de la gente es muy amable y servicial. Puedes rentar las 3 canchas y luego hacer carne asada pues tienen un buen asador y lugar para estar al menos 12 personas. Voy muy seguido a jugar.",
+          "date": "Hace un año"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Rep%C3%BAblica+P%C3%A1del/@25.5407416,-105.098796,7z/data=!4m10!1m2!2m1!1sPadel+en+Monterrey,+Mexico!3m6!1s0x866297e35724e967:0x6a792f5a13c56de0!8m2!3d25.6742836!4d-100.3754654!15sChpQYWRlbCBlbiBNb250ZXJyZXksIE1leGljb1obIhlwYWRlbCBlbiBtb250ZXJyZXkgbWV4aWNvkgELc3BvcnRzX2NsdWKaAURDaTlEUVVsUlFVTnZaRU5vZEhsalJqbHZUMjVCTVdOVVZtbFpWR1IxVm1wc1NFMXNVWFJPVm1ONllUSnNhV0ZZWXhBQuABAPoBBAgAEEM!16s%2Fg%2F11vdd4w_t4?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": "instagram.com/rsrc.php",
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Padel",
+        "city": "Monterrey",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-17T08:38:05.459Z"
+    },
+    {
+      "position": 7,
+      "placeId": "0x8662c79cb20e2b75:0x59770ab30cc44386",
+      "name": "PADX | Padel Match Complex",
+      "rating": 4.3,
+      "reviewCount": 46,
+      "category": "Club deportivo",
+      "categories": [
+        "Club deportivo"
+      ],
+      "address": "Carr Nacional 967, Sin Nombre de Col 50, 64984 Monterrey, N.L.",
+      "phone": "8137241426",
+      "website": "https://tennisexpress.mx/",
+      "coordinates": {
+        "lat": 25.5407416,
+        "lng": -105.098796
+      },
+      "plusCode": "HQF3+Q3 Monterrey, Nuevo León",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Israel TéllezLocal Guide · 16 opiniones",
+          "rating": 4,
+          "text": "Frecuentamos este sitio por estar cerca de casa, es un buen lugar, aunque solo tienen 1 cancha en buen estado, las otras dos, nos parece que tiene exceso de arena",
+          "date": "Hace 5 meses"
+        },
+        {
+          "author": "Israel TéllezLocal Guide · 16 opiniones",
+          "rating": 4,
+          "text": "Frecuentamos este sitio por estar cerca de casa, es un buen lugar, aunque solo tienen 1 cancha en buen estado, las otras dos, nos parece que tiene exceso de arena",
+          "date": "Hace 5 meses"
+        },
+        {
+          "author": "Fernando Derbis1 opinión",
+          "rating": 5,
+          "text": "Excelente club y cuenta con estacionamiento privado",
+          "date": "Hace 4 meses"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/PADX+%7C+Padel+Match+Complex/@25.5407416,-105.098796,7z/data=!4m10!1m2!2m1!1sPadel+en+Monterrey,+Mexico!3m6!1s0x8662c79cb20e2b75:0x59770ab30cc44386!8m2!3d25.574498!4d-100.2472853!15sChpQYWRlbCBlbiBNb250ZXJyZXksIE1leGljb1obIhlwYWRlbCBlbiBtb250ZXJyZXkgbWV4aWNvkgELc3BvcnRzX2NsdWKaAURDaTlEUVVsUlFVTnZaRU5vZEhsalJqbHZUMnRLY1ZneVJuQk9ibFYzVm10NGNHSXdTbGRPVlhSWVRGaE9VbE15WXhBQuABAPoBBAgAEDM!16s%2Fg%2F11kjdr7yvp?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": "instagram.com/somostennisexpress",
+        "facebook": "facebook.com/TennisExpressMX",
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Padel",
+        "city": "Monterrey",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-17T08:38:09.244Z"
+    },
+    {
+      "position": 8,
+      "placeId": "0x8662977d3ce4b33b:0xdaafe705589b586f",
+      "name": "ATIRANTADO Padel Club",
+      "rating": 4.5,
+      "reviewCount": 46,
+      "category": "Club de pádel",
+      "categories": [
+        "Club de pádel"
+      ],
+      "address": "Aaron Sáenz Garza 1918, Sin Nombre de Col 27, 64650 Monterrey, N.L.",
+      "phone": "8110250208",
+      "website": "https://playtomic.io/tenant/6bfb7407-24fa-4ad6-8b35-d5782f254b6b?utm_source=app_android&utm_campaign=share",
+      "coordinates": {
+        "lat": 25.5407416,
+        "lng": -105.098796
+      },
+      "plusCode": "MJFC+74 Monterrey, Nuevo León",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Liz MartinezLocal Guide · 31 opiniones · 6 fotos",
+          "rating": 5,
+          "text": "Me gustó la atención, el personal es muy accesible, el lugar es agradable.",
+          "date": "Hace 4 meses"
+        },
+        {
+          "author": "Liz MartinezLocal Guide · 31 opiniones · 6 fotos",
+          "rating": 5,
+          "text": "Me gustó la atención, el personal es muy accesible, el lugar es agradable.",
+          "date": "Hace 4 meses"
+        },
+        {
+          "author": "César Vargas9 opiniones · 1 foto",
+          "rating": 2,
+          "text": "Subieron el nivel del total (ahora es más caro jajaja) y las canchas cada vez están peor, las bolas se vuelan porqué no tienen malla de protección. Las alfombras y condiciones de las canchas son ya injugables",
+          "date": "Hace 2 meses"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/ATIRANTADO+Padel+Club/@25.5407416,-105.098796,7z/data=!4m10!1m2!2m1!1sPadel+en+Monterrey,+Mexico!3m6!1s0x8662977d3ce4b33b:0xdaafe705589b586f!8m2!3d25.6732196!4d-100.3797013!15sChpQYWRlbCBlbiBNb250ZXJyZXksIE1leGljb1obIhlwYWRlbCBlbiBtb250ZXJyZXkgbWV4aWNvkgEKcGFkZWxfY2x1YpoBI0NoWkRTVWhOTUc5blMwVkpRMEZuVFVOM2EyOXhNMHhSRUFF4AEA-gEECAAQPQ!16s%2Fg%2F11mng5n7xt?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": "instagram.com/playtomic",
+        "facebook": "facebook.com/playtomic.io",
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": "linkedin.com/company/playtomic",
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Padel",
+        "city": "Monterrey",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-17T08:38:13.792Z"
+    },
+    {
+      "position": 9,
+      "placeId": "0x8662bfc1b361fc5f:0xecfd3411bc19adee",
+      "name": "PADEL & PICKLE GM",
+      "rating": 4.9,
+      "reviewCount": 46,
+      "category": "Club de pádel",
+      "categories": [
+        "Club de pádel"
+      ],
+      "address": "Av. del Estado 1415, Tecnologico, Distrito Tec, 64849 Monterrey, N.L.",
+      "phone": "8115889535",
+      "website": "http://padelpicklegm.com/",
+      "coordinates": {
+        "lat": 25.5407416,
+        "lng": -105.098796
+      },
+      "plusCode": "MP47+XR Monterrey, Nuevo León",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Leslie MejiaLocal Guide · 129 opiniones · 154 fotos",
+          "rating": 5,
+          "text": "Buenísimo!! Me encantó tomar clases de pádel!! Muy buenos coaches ( Ger fue el mío) está muy agusto súper recomiendo. Hay muchas canchas y espacio para esperar o descansar.  Súper agusto le doy un 1000/10",
+          "date": "Hace un año"
+        },
+        {
+          "author": "Leslie MejiaLocal Guide · 129 opiniones · 154 fotos",
+          "rating": 5,
+          "text": "Buenísimo!! Me encantó tomar clases de pádel!! Muy buenos coaches ( Ger fue el mío) está muy agusto súper recomiendo. Hay muchas canchas y espacio para esperar o descansar.  Súper agusto le doy un 1000/10",
+          "date": "Hace un año"
+        },
+        {
+          "author": "José Alberto Cárdenas1 opinión",
+          "rating": 5,
+          "text": "Muy buenas canchas, excelente ubicación y servicio. Perfecto para ir a convivir un rato.",
+          "date": "Hace un mes"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/PADEL+%26+PICKLE+GM/@25.5407416,-105.098796,7z/data=!4m10!1m2!2m1!1sPadel+en+Monterrey,+Mexico!3m6!1s0x8662bfc1b361fc5f:0xecfd3411bc19adee!8m2!3d25.6574167!4d-100.2854968!15sChpQYWRlbCBlbiBNb250ZXJyZXksIE1leGljb1obIhlwYWRlbCBlbiBtb250ZXJyZXkgbWV4aWNvkgEKcGFkZWxfY2x1YpoBRENpOURRVWxSUVVOdlpFTm9kSGxqUmpsdlQydG9kR05zT1V4aVYyZ3hUakJrTmxGclZtOU9WV1EyVDFoU2VXSXdSUkFC4AEA-gEECAAQSQ!16s%2Fg%2F11jyc_n9yl?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": "instagram.com/padelpicklegm_mty",
+        "facebook": "facebook.com/padelpicklegm",
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Padel",
+        "city": "Monterrey",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-17T08:38:21.347Z"
+    },
+    {
+      "position": 10,
+      "placeId": "0x8662c7f617fd59fd:0xe350ec7b4e2cdedf",
+      "name": "Padel Club Esfera",
+      "rating": 4.2,
+      "reviewCount": 46,
+      "category": "Club deportivo",
+      "categories": [
+        "Club deportivo"
+      ],
+      "address": "Av. la Rioja, 64985 Monterrey, N.L.",
+      "phone": "8123536736",
+      "website": null,
+      "coordinates": {
+        "lat": 25.5407416,
+        "lng": -105.098796
+      },
+      "plusCode": "HQG3+PC Monterrey, Nuevo León",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Margarita MéndezLocal Guide · 109 opiniones · 119 fotos",
+          "rating": 5,
+          "text": "Tiene varias canchas y puedes rentar ahí mismo una raqueta sino tienes. Nosotras fuimos en modo principiantes y nos dimos cuenta que puedes tomar clase. Es un deporte divertido donde puedes relajarte y quemar muchas calorías!",
+          "date": "Hace un mes"
+        },
+        {
+          "author": "Margarita MéndezLocal Guide · 109 opiniones · 119 fotos",
+          "rating": 5,
+          "text": "Tiene varias canchas y puedes rentar ahí mismo una raqueta sino tienes. Nosotras fuimos en modo principiantes y nos dimos cuenta que puedes tomar clase. Es un deporte divertido donde puedes relajarte y quemar muchas calorías!",
+          "date": "Hace un mes"
+        },
+        {
+          "author": "Ricardo VelazquezLocal Guide · 214 opiniones · 1,138 fotos",
+          "rating": 5,
+          "text": "Lo que se puede esperar de unas canchas de pádel, si rentan palas no me di cuenta si vendían pelotas, las canchas están en buen estado y todo en orden con nuestro juego.",
+          "date": "Hace un año"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Padel+Club+Esfera/@25.5407416,-105.098796,7z/data=!4m10!1m2!2m1!1sPadel+en+Monterrey,+Mexico!3m6!1s0x8662c7f617fd59fd:0xe350ec7b4e2cdedf!8m2!3d25.5768593!4d-100.246475!15sChpQYWRlbCBlbiBNb250ZXJyZXksIE1leGljb1obIhlwYWRlbCBlbiBtb250ZXJyZXkgbWV4aWNvkgELc3BvcnRzX2NsdWKaASRDaGREU1VoTk1HOW5TMFZKUTBGblNVTXljbHBYUTNGQlJSQULgAQD6AQQIABAy!16s%2Fg%2F11sn_7bvtz?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Padel",
+        "city": "Monterrey",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-17T08:38:25.590Z"
+    },
+    {
+      "position": 11,
+      "placeId": "0x8662bfb7ef4c6e1d:0xd41d343b2981240c",
+      "name": "Padel Siete Seis Go",
+      "rating": 4.4,
+      "reviewCount": 46,
+      "category": "Club de pádel",
+      "categories": [
+        "Club de pádel"
+      ],
+      "address": "Av. Eugenio Garza Sada Sur 3755, Contry Estacionamiento, 3er piso, 64860 Monterrey, N.L.",
+      "phone": "8181729914",
+      "website": "https://www.padelsieteseis.com/",
+      "coordinates": {
+        "lat": 25.5407416,
+        "lng": -105.098796
+      },
+      "plusCode": "JPP9+M4 Monterrey, Nuevo León",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Raúl MuñozLocal Guide · 38 opiniones · 89 fotos",
+          "rating": 2,
+          "text": "Las canchas de pádel de Siete Seis Go de Plaza la Silla están descuidadas, no hay ningún tipo de servicio o atención, las pelotas se pueden volar al estacionamiento, en general la ubicación no es la mejor.",
+          "date": "Hace un año"
+        },
+        {
+          "author": "Raúl MuñozLocal Guide · 38 opiniones · 89 fotos",
+          "rating": 2,
+          "text": "Las canchas de pádel de Siete Seis Go de Plaza la Silla están descuidadas, no hay ningún tipo de servicio o atención, las pelotas se pueden volar al estacionamiento, en general la ubicación no es la mejor.",
+          "date": "Hace un año"
+        },
+        {
+          "author": "Jorge SaldañaLocal Guide · 13 opiniones · 3 fotos",
+          "rating": 4,
+          "text": "Buen espacio, renta de palas y venta de bolas. Bien iluminado, un poco complicado saber qué cancha rentaste si está ocupada, pero en general bien",
+          "date": "Hace 2 años"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Padel+Siete+Seis+Go/@25.5407416,-105.098796,7z/data=!3m1!5s0x8662be454ab08281:0xb5ba73540afe74b0!4m10!1m2!2m1!1sPadel+en+Monterrey,+Mexico!3m6!1s0x8662bfb7ef4c6e1d:0xd41d343b2981240c!8m2!3d25.6366836!4d-100.2821358!15sChpQYWRlbCBlbiBNb250ZXJyZXksIE1leGljb1obIhlwYWRlbCBlbiBtb250ZXJyZXkgbWV4aWNvkgEKcGFkZWxfY2x1YpoBJENoZERTVWhOTUc5blMwVkpRMEZuU1VRMU1HODJOSEpCUlJBQuABAPoBBAgAEC4!16s%2Fg%2F11tp3s6s3p?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": "info@padelsieteseis.com",
+      "allEmails": [
+        "info@padelsieteseis.com"
+      ],
+      "socialMedia": {
+        "instagram": "instagram.com/padelsieteseis",
+        "facebook": "facebook.com/padelsieteseis",
+        "twitter": null,
+        "whatsapp": "528110157382",
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Padel",
+        "city": "Monterrey",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-17T08:38:28.845Z"
+    },
+    {
+      "position": 12,
+      "placeId": "0x8662c736b8c9d2fd:0x11f7d0c209247d66",
+      "name": "Padel X",
+      "rating": 5,
+      "reviewCount": 46,
+      "category": "Club deportivo",
+      "categories": [
+        "Club deportivo"
+      ],
+      "address": "Cam. Real 87, Las Jaras, 64985 Monterrey, N.L.",
+      "phone": "8180873916",
+      "website": "https://padelpicklegm.com/",
+      "coordinates": {
+        "lat": 25.5407416,
+        "lng": -105.098796
+      },
+      "plusCode": "GQGR+R5 Monterrey, Nuevo León",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Mauricio Morales GarciaLocal Guide · 41 opiniones · 1 foto",
+          "rating": 5,
+          "text": "Excelentes canchas y buen ambiente",
+          "date": "Hace 2 años"
+        },
+        {
+          "author": "Mauricio Morales GarciaLocal Guide · 41 opiniones · 1 foto",
+          "rating": 5,
+          "text": "Excelentes canchas y buen ambiente",
+          "date": "Hace 2 años"
+        },
+        {
+          "author": "Claudio Gzz Cavalli (claudiogcav)3 opiniones",
+          "rating": 5,
+          "text": "Gracias Claudio por visitarnos! ¡NOS VEMOS EN LA CANCHA!",
+          "date": "Hace 6 meses"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Padel+X/@25.5407416,-105.098796,7z/data=!4m10!1m2!2m1!1sPadel+en+Monterrey,+Mexico!3m6!1s0x8662c736b8c9d2fd:0x11f7d0c209247d66!8m2!3d25.5270399!4d-100.2095952!15sChpQYWRlbCBlbiBNb250ZXJyZXksIE1leGljb1obIhlwYWRlbCBlbiBtb250ZXJyZXkgbWV4aWNvkgELc3BvcnRzX2NsdWKaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVTldOazlYTWtaQkVBReABAPoBBAgAECI!16s%2Fg%2F11l2zsjnxw?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": "instagram.com/padelpicklegm_mty",
+        "facebook": "facebook.com/padelpicklegm",
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Padel",
+        "city": "Monterrey",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-17T08:38:31.499Z"
+    },
+    {
+      "position": 13,
+      "placeId": "0x8662bf1bbfbdf4b7:0xf41e75f5cd11ad14",
+      "name": "Abu Indoor Padel Club",
+      "rating": 3.8,
+      "reviewCount": 46,
+      "category": "Club",
+      "categories": [
+        "Club"
+      ],
+      "address": "Río Nazas 126, Alfareros, 64753 Monterrey, N.L.",
+      "phone": "8132539778",
+      "website": "https://instagram.com/abupadelclub?igshid=YmMyMTA2M2Y=",
+      "coordinates": {
+        "lat": 25.5407416,
+        "lng": -105.098796
+      },
+      "plusCode": "JMPQ+H7 Monterrey, Nuevo León",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Aldo BorjasLocal Guide · 75 opiniones · 37 fotos",
+          "rating": 5,
+          "text": "Excelentes instalaciones y una gran opción en días con lluvia, viento o frío. Cuenta con vestidor y regaderas, todo lo que necesitas para un buen partido.",
+          "date": "Hace 2 años"
+        },
+        {
+          "author": "Aldo BorjasLocal Guide · 75 opiniones · 37 fotos",
+          "rating": 5,
+          "text": "Excelentes instalaciones y una gran opción en días con lluvia, viento o frío. Cuenta con vestidor y regaderas, todo lo que necesitas para un buen partido.",
+          "date": "Hace 2 años"
+        },
+        {
+          "author": "Denisse Rendón4 opiniones",
+          "rating": null,
+          "text": "Club inseguro. El 22 de octubre mi novio tuvo un accidente en el club, en el cual se le cayó encima una pared de vidrio(por malas instalaciones )y le ocasionó heridas en la pierna, mano y cabeza. El personal del club ni siquiera le pidió… Más",
+          "date": "Hace un año"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Abu+Indoor+Padel+Club/@25.5407416,-105.098796,7z/data=!4m10!1m2!2m1!1sPadel+en+Monterrey,+Mexico!3m6!1s0x8662bf1bbfbdf4b7:0xf41e75f5cd11ad14!8m2!3d25.6364991!4d-100.311777!15sChpQYWRlbCBlbiBNb250ZXJyZXksIE1leGljb1obIhlwYWRlbCBlbiBtb250ZXJyZXkgbWV4aWNvkgEEY2x1YpoBJENoZERTVWhOTUc5blMwVkpRMEZuU1VOU2VXOW1NM0JuUlJBQuABAPoBBAgAEDs!16s%2Fg%2F11t021n4gf?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": "instagram.com/rsrc.php",
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Padel",
+        "city": "Monterrey",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-17T08:38:35.439Z"
+    },
+    {
+      "position": 14,
+      "placeId": "0x8662bf6dde560e71:0x23f55933cee62ee0",
+      "name": "Padel Nation",
+      "rating": 4.5,
+      "reviewCount": 46,
+      "category": "Pista de pádel",
+      "categories": [
+        "Pista de pádel"
+      ],
+      "address": "Av. Eugenio Garza Sada 4467, Los Remates, 64878 Monterrey, N.L.",
+      "phone": "8111984084",
+      "website": "http://padelnation.mx/",
+      "coordinates": {
+        "lat": 25.5407416,
+        "lng": -105.098796
+      },
+      "plusCode": "JPFG+7J Monterrey, Nuevo León",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Sar ELocal Guide · 393 opiniones · 2,306 fotos",
+          "rating": 3,
+          "text": "Buen lugar, con buen estacionamiento. Últimamente los vidrios super sucios y ya tienen mochas semanas así, no puedes grabar video porque se ven todas las manchas de manos y sudor en los vidrios por dentro y polvo por fuera.Las canchas están… Más",
+          "date": "Editado Hace 8 meses"
+        },
+        {
+          "author": "Sar ELocal Guide · 393 opiniones · 2,306 fotos",
+          "rating": 3,
+          "text": "Buen lugar, con buen estacionamiento. Últimamente los vidrios super sucios y ya tienen mochas semanas así, no puedes grabar video porque se ven todas las manchas de manos y sudor en los vidrios por dentro y polvo por fuera.Las canchas están… Más",
+          "date": "Editado Hace 8 meses"
+        },
+        {
+          "author": "Ricardo RamirezLocal Guide · 284 opiniones · 789 fotos",
+          "rating": 5,
+          "text": "Las canchas y las instalaciones están en buenas condiciones, usualmente siempre hay espacio de estacionamiento.",
+          "date": "3 semanas atrás Nueva"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Padel+Nation/@25.5407416,-105.098796,7z/data=!4m10!1m2!2m1!1sPadel+en+Monterrey,+Mexico!3m6!1s0x8662bf6dde560e71:0x23f55933cee62ee0!8m2!3d25.6231827!4d-100.2734551!15sChpQYWRlbCBlbiBNb250ZXJyZXksIE1leGljb1obIhlwYWRlbCBlbiBtb250ZXJyZXkgbWV4aWNvkgELcGFkZWxfY291cnSaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVTk1ObVZxVFV4QkVBReABAPoBBAgAEDo!16s%2Fg%2F11kjpjz4dh?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": "hola@padelnation.mx",
+      "allEmails": [
+        "hola@padelnation.mx"
+      ],
+      "socialMedia": {
+        "instagram": "instagram.com/padelnation_mx",
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": "5218111984084",
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Padel",
+        "city": "Monterrey",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-17T08:38:40.460Z"
+    },
+    {
+      "position": 15,
+      "placeId": "0x866293abbe153499:0xa79ce9ff13adf2a5",
+      "name": "Padelarium",
+      "rating": 4.9,
+      "reviewCount": 46,
+      "category": "Club de pádel",
+      "categories": [
+        "Club de pádel"
+      ],
+      "address": "Las Plazas Outlet Monterrey, 66058 Cdad. Gral. Escobedo, N.L.",
+      "phone": "8126121401",
+      "website": "https://depalas.com/",
+      "coordinates": {
+        "lat": 25.5407416,
+        "lng": -105.098796
+      },
+      "plusCode": "QMGW+8H Cdad. Gral. Escobedo, Nuevo León",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Jorge PimentelLocal Guide · 229 opiniones · 196 fotos",
+          "rating": 5,
+          "text": "Buen lugar de padel. Pero la botana y bebidas preparadas hasta después de las 4 pm",
+          "date": "Hace 10 meses"
+        },
+        {
+          "author": "Jorge PimentelLocal Guide · 229 opiniones · 196 fotos",
+          "rating": 5,
+          "text": "Buen lugar de padel. Pero la botana y bebidas preparadas hasta después de las 4 pm",
+          "date": "Hace 10 meses"
+        },
+        {
+          "author": "MARTHA MARIA YAZMIN MARTINEZ ANGUIANOLocal Guide · 14 opiniones · 11 fotos",
+          "rating": 5,
+          "text": "Lugar limpio, rentas accesibles, comida rica, todo el personal atentos y coordiales. Regreso 😀😀😀😀😀…",
+          "date": "Hace un año"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Padelarium/@25.5407416,-105.098796,7z/data=!4m10!1m2!2m1!1sPadel+en+Monterrey,+Mexico!3m6!1s0x866293abbe153499:0xa79ce9ff13adf2a5!8m2!3d25.7758179!4d-100.3036208!15sChpQYWRlbCBlbiBNb250ZXJyZXksIE1leGljb1obIhlwYWRlbCBlbiBtb250ZXJyZXkgbWV4aWNvkgEKcGFkZWxfY2x1YpoBI0NoWkRTVWhOTUc5blMwVkpRMEZuU1VSc2JXSlVVMHAzRUFF4AEA-gEECAAQSA!16s%2Fg%2F11l209jqtv?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": "info@depalas.com",
+      "allEmails": [
+        "info@depalas.com"
+      ],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Padel",
+        "city": "Monterrey",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-17T08:38:44.962Z"
+    },
+    {
+      "position": 16,
+      "placeId": "0x866297388c36622d:0x96caa16452ef8452",
+      "name": "Santo Padel",
+      "rating": 5,
+      "reviewCount": 46,
+      "category": "Club de pádel",
+      "categories": [
+        "Club de pádel"
+      ],
+      "address": "Avenida Alejandro de Rodas 8993 Puerta de Hierro Ariza, Av. Alejandro de Rodas 8993, 64346 Monterrey, N.L.",
+      "phone": "8135636680",
+      "website": "https://www.instagram.com/santopadelmx/",
+      "coordinates": {
+        "lat": 25.5407416,
+        "lng": -105.098796
+      },
+      "plusCode": null,
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [],
+      "profileUrl": "https://www.google.com/maps/place/Santo+Padel/@25.5407416,-105.098796,7z/data=!4m10!1m2!2m1!1sPadel+en+Monterrey,+Mexico!3m6!1s0x866297388c36622d:0x96caa16452ef8452!8m2!3d25.7478936!4d-100.4173743!15sChpQYWRlbCBlbiBNb250ZXJyZXksIE1leGljb1obIhlwYWRlbCBlbiBtb250ZXJyZXkgbWV4aWNvkgEKcGFkZWxfY2x1YpoBJENoZERTVWhOTUc5blMwVkpRMEZuU1VSa2JHSlBPSEozUlJBQuABAPoBBAgAECM!16s%2Fg%2F11rzjfj88z?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": "instagram.com/rsrc.php",
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Padel",
+        "city": "Monterrey",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-17T08:38:47.729Z"
+    },
+    {
+      "position": 17,
+      "placeId": "0x8662bf5d72c4cf07:0xfbfaa5cc54d530c0",
+      "name": "Padel 10.20",
+      "rating": 4.6,
+      "reviewCount": 46,
+      "category": "Club de pádel",
+      "categories": [
+        "Club de pádel"
+      ],
+      "address": "P.º de las Américas 1124, Contry La Silla, 67173 Monterrey, N.L.",
+      "phone": "8123529779",
+      "website": "https://www.instagram.com/padel10.20/",
+      "coordinates": {
+        "lat": 25.5407416,
+        "lng": -105.098796
+      },
+      "plusCode": "JPRJ+JJ Monterrey, Nuevo León",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Ricardo RamirezLocal Guide · 284 opiniones · 789 fotos",
+          "rating": 4,
+          "text": "Las instalaciones están bien, sin embargo es un poco molesto la baja altura del techo y que las paredes de la cancha no tenga una red más alta para evitar que se vuele la pelota y tener que ir por ella dado que el terreno tiene desniveles.",
+          "date": "Hace 9 meses"
+        },
+        {
+          "author": "Ricardo RamirezLocal Guide · 284 opiniones · 789 fotos",
+          "rating": 4,
+          "text": "Las instalaciones están bien, sin embargo es un poco molesto la baja altura del techo y que las paredes de la cancha no tenga una red más alta para evitar que se vuele la pelota y tener que ir por ella dado que el terreno tiene desniveles.",
+          "date": "Hace 9 meses"
+        },
+        {
+          "author": "Gerardo10 opiniones · 4 fotos",
+          "rating": 5,
+          "text": "Gran Club, super limpio y muy buenas las canchas.",
+          "date": "Hace 2 años"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Padel+10.20/@25.5407416,-105.098796,7z/data=!4m10!1m2!2m1!1sPadel+en+Monterrey,+Mexico!3m6!1s0x8662bf5d72c4cf07:0xfbfaa5cc54d530c0!8m2!3d25.6415995!4d-100.2684934!15sChpQYWRlbCBlbiBNb250ZXJyZXksIE1leGljb1obIhlwYWRlbCBlbiBtb250ZXJyZXkgbWV4aWNvkgEKcGFkZWxfY2x1YpoBI0NoWkRTVWhOTUc5blMwVkpRMEZuU1VSa2IwMVlURXhCRUFF4AEA-gEECAAQOg!16s%2Fg%2F11shd030n1?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": "instagram.com/rsrc.php",
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Padel",
+        "city": "Monterrey",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-17T08:38:51.406Z"
+    },
+    {
+      "position": 18,
+      "placeId": "0x8662bd3f86f2204f:0xad0af70be4af364f",
+      "name": "Padel Point",
+      "rating": 3.3,
+      "reviewCount": 46,
+      "category": "Club de pádel",
+      "categories": [
+        "Club de pádel"
+      ],
+      "address": "Dr. Roberto J. Cantú 25, Sin Nombre de Col 32, 64710 Monterrey, N.L.",
+      "phone": "8135875303",
+      "website": "http://www.padelpoint.mx/",
+      "coordinates": {
+        "lat": 25.5407416,
+        "lng": -105.098796
+      },
+      "plusCode": "MJ8X+FH Monterrey, Nuevo León",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Mauricio Galvan2 opiniones",
+          "rating": null,
+          "text": "El día de ayer 12 de junio cristalearon 2 carros, no hay NADA de seguridad, la caseta de vigilancia está vacía y la única cámara de seguridad está dentro de la recepción por lo que no sirve de nada. Los delincuentes tuvieron todo el tiempo… Más",
+          "date": "Hace 7 meses"
+        },
+        {
+          "author": "Mauricio Galvan2 opiniones",
+          "rating": null,
+          "text": "El día de ayer 12 de junio cristalearon 2 carros, no hay NADA de seguridad, la caseta de vigilancia está vacía y la única cámara de seguridad está dentro de la recepción por lo que no sirve de nada. Los delincuentes tuvieron todo el tiempo… Más",
+          "date": "Hace 7 meses"
+        },
+        {
+          "author": "Hector LeducLocal Guide · 20 opiniones",
+          "rating": null,
+          "text": "NO VAYAN A JUGAR AHÍ. Hay robos y daños a vehículos! AYER Jueves 12 Junio 2025 CRISTALEARON a dos carros junto en la entrada en donde uno era de un amigo mío. Supuestamente hay un guardia pero hace nada. Si quieren jugar en un lugar inseguro este es el lugar.",
+          "date": "Hace 7 meses"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Padel+Point/@25.5407416,-105.098796,7z/data=!4m10!1m2!2m1!1sPadel+en+Monterrey,+Mexico!3m6!1s0x8662bd3f86f2204f:0xad0af70be4af364f!8m2!3d25.6661766!4d-100.351118!15sChpQYWRlbCBlbiBNb250ZXJyZXksIE1leGljb5IBCnBhZGVsX2NsdWLgAQA!16s%2Fg%2F11kqlw5vs7?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Padel",
+        "city": "Monterrey",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-17T08:38:58.204Z"
+    },
+    {
+      "position": 19,
+      "placeId": "0x866297e60f5d9b93:0x901bc94ee09f3d04",
+      "name": "Pádel GM Cumbres",
+      "rating": 4.8,
+      "reviewCount": 46,
+      "category": "Club deportivo",
+      "categories": [
+        "Club deportivo"
+      ],
+      "address": "Av Pedro Infante 2036, Cumbres Las Palmas Residencial, 64349 Monterrey, N.L.",
+      "phone": "8115387911",
+      "website": "https://padelpicklegm.com/",
+      "coordinates": {
+        "lat": 25.5407416,
+        "lng": -105.098796
+      },
+      "plusCode": "PJM2+C2 Monterrey, Nuevo León",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Rosa Gonzalez7 opiniones · 7 fotos",
+          "rating": 5,
+          "text": "Super divertido , un ambiente muy agradable y el Servio maravilloso.",
+          "date": "Hace 2 años"
+        },
+        {
+          "author": "Rosa Gonzalez7 opiniones · 7 fotos",
+          "rating": 5,
+          "text": "Super divertido , un ambiente muy agradable y el Servio maravilloso.",
+          "date": "Hace 2 años"
+        },
+        {
+          "author": "Omar MaldonadoorLocal Guide · 64 opiniones · 172 fotos",
+          "rating": 5,
+          "text": "Muy buena atención y gran ambiente muy familiar.\nTe recomiendo llevar calzado adecuado para jugar ya que la canchas se vuelven algo resbaladizo.… Más",
+          "date": "Hace 9 meses"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/P%C3%A1del+GM+Cumbres/@25.5407416,-105.098796,7z/data=!4m10!1m2!2m1!1sPadel+en+Monterrey,+Mexico!3m6!1s0x866297e60f5d9b93:0x901bc94ee09f3d04!8m2!3d25.7336003!4d-100.399953!15sChpQYWRlbCBlbiBNb250ZXJyZXksIE1leGljb1obIhlwYWRlbCBlbiBtb250ZXJyZXkgbWV4aWNvkgELc3BvcnRzX2NsdWKaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVTjRYM1JUZUdabkVBReABAPoBBAgAEDQ!16s%2Fg%2F11q3vx37v_?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": "instagram.com/padelpicklegm_mty",
+        "facebook": "facebook.com/padelpicklegm",
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Padel",
+        "city": "Monterrey",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-17T08:39:02.851Z"
+    },
+    {
+      "position": 20,
+      "placeId": "0x8662bf2dcabc6625:0xbb844c5f98979104",
+      "name": "SIETE SEIS PADEL LA SILLA",
+      "rating": null,
+      "reviewCount": 46,
+      "category": "Club deportivo",
+      "categories": [
+        "Club deportivo"
+      ],
+      "address": "Av. Eugenio Garza Sada 3524-SUR, Contry, 64860 Monterrey, N.L.",
+      "phone": "8181729914",
+      "website": "https://www.padelsieteseis.com/",
+      "coordinates": {
+        "lat": 25.5407416,
+        "lng": -105.098796
+      },
+      "plusCode": "JPR7+9P Monterrey, Nuevo León",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [],
+      "profileUrl": "https://www.google.com/maps/place/SIETE+SEIS+PADEL+LA+SILLA/@25.5407416,-105.098796,7z/data=!4m10!1m2!2m1!1sPadel+en+Monterrey,+Mexico!3m6!1s0x8662bf2dcabc6625:0xbb844c5f98979104!8m2!3d25.6409578!4d-100.2857212!15sChpQYWRlbCBlbiBNb250ZXJyZXksIE1leGljb5IBC3Nwb3J0c19jbHVi4AEA!16s%2Fg%2F11y47yq1_w?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": "info@padelsieteseis.com",
+      "allEmails": [
+        "info@padelsieteseis.com"
+      ],
+      "socialMedia": {
+        "instagram": "instagram.com/padelsieteseis",
+        "facebook": "facebook.com/padelsieteseis",
+        "twitter": null,
+        "whatsapp": "528110157382",
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Padel",
+        "city": "Monterrey",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-17T08:39:08.453Z"
+    },
+    {
+      "position": 21,
+      "placeId": "0x8662c7af70266d49:0x126305147a8c1e20",
+      "name": "Padel Siete Seis",
+      "rating": 4.9,
+      "reviewCount": 46,
+      "category": "Club de pádel",
+      "categories": [
+        "Club de pádel"
+      ],
+      "address": "Carr Nacional #500, Valle Alto, 64989 Monterrey, N.L.",
+      "phone": "8110157382",
+      "website": "http://www.padelsieteseis.com/",
+      "coordinates": {
+        "lat": 25.5407416,
+        "lng": -105.098796
+      },
+      "plusCode": "HQG2+98 Monterrey, Nuevo León",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Sar ELocal Guide · 393 opiniones · 2,306 fotos",
+          "rating": 5,
+          "text": "Muy buen lugar para jugar o entrenar y también para ir a ver los juegos. El ambiente se siente bien. La parte central está muy bien para tomar alguna bebida o algún aperitivo. Muy recomendable.",
+          "date": "Hace 11 meses"
+        },
+        {
+          "author": "Sar ELocal Guide · 393 opiniones · 2,306 fotos",
+          "rating": 5,
+          "text": "Muy buen lugar para jugar o entrenar y también para ir a ver los juegos. El ambiente se siente bien. La parte central está muy bien para tomar alguna bebida o algún aperitivo. Muy recomendable.",
+          "date": "Hace 11 meses"
+        },
+        {
+          "author": "mono tres nueveLocal Guide · 92 opiniones · 468 fotos",
+          "rating": 5,
+          "text": "Muy buen lugar para jugar padel pero muy poco espacio para los espectadores.",
+          "date": "Hace 3 años"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Padel+Siete+Seis/@25.5407416,-105.098796,7z/data=!4m10!1m2!2m1!1sPadel+en+Monterrey,+Mexico!3m6!1s0x8662c7af70266d49:0x126305147a8c1e20!8m2!3d25.575888!4d-100.2491945!15sChpQYWRlbCBlbiBNb250ZXJyZXksIE1leGljb1obIhlwYWRlbCBlbiBtb250ZXJyZXkgbWV4aWNvkgEKcGFkZWxfY2x1YpoBI0NoWkRTVWhOTUc5blMwVkpRMEZuU1VOUGRITmxjRlpCRUFF4AEA-gEECE8QLQ!16s%2Fg%2F11rwrhxxd0?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": "info@padelsieteseis.com",
+      "allEmails": [
+        "info@padelsieteseis.com"
+      ],
+      "socialMedia": {
+        "instagram": "instagram.com/padelsieteseis",
+        "facebook": "facebook.com/padelsieteseis",
+        "twitter": null,
+        "whatsapp": "528110157382",
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Padel",
+        "city": "Monterrey",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-17T08:39:15.793Z"
+    },
+    {
+      "position": 22,
+      "placeId": "0x866297948eb9191d:0x444843c0dafa3999",
+      "name": "IPlay Padel",
+      "rating": 5,
+      "reviewCount": 46,
+      "category": "Tienda de deportes",
+      "categories": [
+        "Tienda de deportes"
+      ],
+      "address": "Paricutín 114-A, Los Urdiales, 64430 Monterrey, N.L.",
+      "phone": "8112502931",
+      "website": "https://iplaypadel.mx/",
+      "coordinates": {
+        "lat": 25.5407416,
+        "lng": -105.098796
+      },
+      "plusCode": "MMX2+R3 Monterrey, Nuevo León",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Ricardo Rodriguez3 opiniones",
+          "rating": 5,
+          "text": "100% recomendable me atendieron muy bien y tenían todo lo que necesitaba",
+          "date": "Hace 9 meses"
+        },
+        {
+          "author": "Ricardo Rodriguez3 opiniones",
+          "rating": 5,
+          "text": "100% recomendable me atendieron muy bien y tenían todo lo que necesitaba",
+          "date": "Hace 9 meses"
+        },
+        {
+          "author": "Homero Ceccopieri1 opinión",
+          "rating": 5,
+          "text": "Excelente servicio de venta, cuentan con variedad de productos y la atención es personalizada.",
+          "date": "Hace 9 meses"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/IPlay+Padel/@25.5407416,-105.098796,7z/data=!4m10!1m2!2m1!1sPadel+en+Monterrey,+Mexico!3m6!1s0x866297948eb9191d:0x444843c0dafa3999!8m2!3d25.6995472!4d-100.3498102!15sChpQYWRlbCBlbiBNb250ZXJyZXksIE1leGljb1obIhlwYWRlbCBlbiBtb250ZXJyZXkgbWV4aWNvkgEUc3BvcnRpbmdfZ29vZHNfc3RvcmWaASNDaFpEU1VoTk1HOW5TMFZKUTBGblRVTkpPWFZZUmtkQkVBReABAPoBBAgAEBg!16s%2Fg%2F11vszgtrp_?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": "Logotipo_IPP_Color_180x@2x.webp",
+      "allEmails": [
+        "Logotipo_IPP_Color_180x@2x.webp",
+        "Logotipo_IPP_Color_180x@3x.webp",
+        "Adidas_400x@2x.svg",
+        "Adidas_400x@3x.svg",
+        "Nox_400x@2x.svg",
+        "Nox_400x@3x.svg",
+        "Drybreak_400x@2x.svg",
+        "Drybreak_400x@3x.svg",
+        "Slinger_400x@2x.svg",
+        "Slinger_400x@3x.svg",
+        "Oxdog_400x@2x.svg",
+        "Oxdog_400x@3x.svg",
+        "ACA_7ecf3ce4-414a-4b1d-b2f5-a206225b2291_400x@2x.svg",
+        "ACA_7ecf3ce4-414a-4b1d-b2f5-a206225b2291_400x@3x.svg",
+        "Bullpadel_400x@2x.svg",
+        "Bullpadel_400x@3x.svg",
+        "SECCO_400x@2x.svg",
+        "SECCO_400x@3x.svg",
+        "Siux_400x@2x.svg",
+        "Siux_400x@3x.svg",
+        "Olagrip_400x@2x.svg",
+        "Olagrip_400x@3x.svg",
+        "Babolat_400x@2x.svg",
+        "Babolat_400x@3x.svg",
+        "Head_400x@2x.svg",
+        "Head_400x@3x.svg",
+        "Kombat_400x@2x.svg",
+        "Kombat_400x@3x.svg",
+        "VIBOR-A_400x@2x.svg",
+        "VIBOR-A_400x@3x.svg",
+        "Starvie_400x@2x.svg",
+        "Starvie_400x@3x.svg",
+        "iplaypadelmx@tesamty.mx"
+      ],
+      "socialMedia": {
+        "instagram": "instagram.com/iplaypadelmx",
+        "facebook": "facebook.com/people",
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Padel",
+        "city": "Monterrey",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-17T08:39:22.863Z"
+    },
+    {
+      "position": 23,
+      "placeId": "0x866295c2fc00430d:0x8c9b7e4c80b257ab",
+      "name": "Maxima Padel & Pickleball Arena Full Indoor",
+      "rating": 5,
+      "reviewCount": 46,
+      "category": "Club deportivo",
+      "categories": [
+        "Club deportivo"
+      ],
+      "address": "Av Lázaro Cárdenas 999, Las Brisas, 64780 Monterrey, N.L.",
+      "phone": "8183663346",
+      "website": "https://instagram.com/maximapickleball?igshid=MzRlODBiNWFlZA==",
+      "coordinates": {
+        "lat": 25.5407416,
+        "lng": -105.098796
+      },
+      "plusCode": null,
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [],
+      "profileUrl": "https://www.google.com/maps/place/Padel+Chepevera/@25.5407416,-105.098796,7z/data=!4m10!1m2!2m1!1sPadel+en+Monterrey,+Mexico!3m6!1s0x866295c2fc00430d:0x8c9b7e4c80b257ab!8m2!3d25.6831769!4d-100.3441956!15sChpQYWRlbCBlbiBNb250ZXJyZXksIE1leGljb5IBC3Nwb3J0c19jbHVi4AEA!16s%2Fg%2F11v59bgyrp?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": "instagram.com/rsrc.php",
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Padel",
+        "city": "Monterrey",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-17T08:39:37.038Z"
+    }
+  ]
+}

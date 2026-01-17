@@ -1,0 +1,3081 @@
+{
+  "metadata": {
+    "query": {
+      "businessType": "Cerrajeros",
+      "city": "Culiacan",
+      "country": "Mexico"
+    },
+    "totalResults": 42,
+    "stats": {
+      "total": 42,
+      "withPhone": 42,
+      "withEmail": 5,
+      "withWebsite": 15,
+      "withInstagram": 4,
+      "withWhatsapp": 5
+    },
+    "exportedAt": "2026-01-16T23:07:48.977Z",
+    "version": "2.0"
+  },
+  "businesses": [
+    {
+      "position": 1,
+      "placeId": "0x86bcd70604724c4b:0xdc556a3237a3ce74",
+      "name": "Cerrajeria Las Vegas",
+      "rating": 4.7,
+      "reviewCount": 45,
+      "category": "Cerrajero",
+      "categories": [
+        "Cerrajero"
+      ],
+      "address": "Av Venustiano Carranza 377, Primer Cuadro, 80000 Culiacán Rosales, Sin.",
+      "phone": "6677951878",
+      "website": null,
+      "coordinates": {
+        "lat": 24.8281312,
+        "lng": -107.4155233
+      },
+      "plusCode": null,
+      "hours": "Abierto · Cierra a las 11 p.m.",
+      "hoursDetailed": [],
+      "isOpenNow": true,
+      "priceLevel": null,
+      "services": [
+        "Se identifica como mujer empresaria"
+      ],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [],
+      "profileUrl": "https://www.google.com/maps/place/Cerrajeria+Las+Vegas/@24.8281312,-107.4155233,14z/data=!4m10!1m2!2m1!1sCerrajeros+en+Culiacan,+Mexico!3m6!1s0x86bcd70604724c4b:0xdc556a3237a3ce74!8m2!3d24.8093381!4d-107.3841302!15sCh5DZXJyYWplcm9zIGVuIEN1bGlhY2FuLCBNZXhpY29aHyIdY2VycmFqZXJvcyBlbiBjdWxpYWNhbiBtZXhpY2-SAQlsb2Nrc21pdGiaAURDaTlEUVVsUlFVTnZaRU5vZEhsalJqbHZUMnMxVWxwdFRsUmhiV2hvV2xoc2VFOUlaRWhOTWxKdFZVaG9jVTR4UlJBQuABAPoBBAgAECY!16s%2Fg%2F11fhvxn589?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Cerrajeros",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T23:05:42.331Z"
+    },
+    {
+      "position": 2,
+      "placeId": "0x86bcd9e641cb8cd3:0x36df0195bd9ffb90",
+      "name": "Cerrajeria Las Quintas",
+      "rating": 4,
+      "reviewCount": 45,
+      "category": "Cerrajero",
+      "categories": [
+        "Cerrajero"
+      ],
+      "address": "Av. Sinaloa esq. Con Laguna de zayula 1398 Plaza Dolce plaza L 3, Blvrd Sinaloa col, Las Quintas, 80060 Culiacán Rosales, Sin.",
+      "phone": "6671503070",
+      "website": "http://facebook.com/cerrajeria-las-quintas-280302785909794/",
+      "coordinates": {
+        "lat": 24.8281312,
+        "lng": -107.4155233
+      },
+      "plusCode": "RJ7G+38 Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Manuel QuinteroLocal Guide · 55 opiniones · 16 fotos",
+          "rating": 2,
+          "text": "Disque abre temprano y fui varias veces a sacar copia de mi llaves porque me quedaba cercas y estaba cerrado.",
+          "date": "Hace 4 meses"
+        },
+        {
+          "author": "Manuel QuinteroLocal Guide · 55 opiniones · 16 fotos",
+          "rating": 2,
+          "text": "Disque abre temprano y fui varias veces a sacar copia de mi llaves porque me quedaba cercas y estaba cerrado.",
+          "date": "Hace 4 meses"
+        },
+        {
+          "author": "JESUS ALFREDO SAUCEDALocal Guide · 10 opiniones · 25 fotos",
+          "rating": null,
+          "text": "Dice que abren a las 8:30am, no abren a las 8:30am, tengalo en cuenta.",
+          "date": "Hace 4 meses"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Cerrajeria+Las+Quintas/@24.8281312,-107.4155233,14z/data=!4m10!1m2!2m1!1sCerrajeros+en+Culiacan,+Mexico!3m6!1s0x86bcd9e641cb8cd3:0x36df0195bd9ffb90!8m2!3d24.8126499!4d-107.3741711!15sCh5DZXJyYWplcm9zIGVuIEN1bGlhY2FuLCBNZXhpY29aHyIdY2VycmFqZXJvcyBlbiBjdWxpYWNhbiBtZXhpY2-SAQlsb2Nrc21pdGiaASRDaGREU1VoTk1HOW5TMFZKUTBGblNVUmlkemRsWDNwM1JSQULgAQD6AQQIABAg!16s%2Fg%2F11qvctx_cq?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": "facebook.com/people",
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Cerrajeros",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T23:05:45.610Z"
+    },
+    {
+      "position": 3,
+      "placeId": "0x86bcdbb3ab656f59:0x738b2d80d621d3ac",
+      "name": "CERRAJERIA VALENZUELA ( La mejor opción 🔑🔐🚗🏫🏭🏬🏪🌃🇲🇽)",
+      "rating": 5,
+      "reviewCount": 45,
+      "category": "Cerrajero",
+      "categories": [
+        "Cerrajero"
+      ],
+      "address": "Esq. Con, Av. Obregón, C. Catedráticos 1690 Nte, Tierra Blanca, 80030 Culiacán Rosales, Sin.",
+      "phone": "6672431936",
+      "website": null,
+      "coordinates": {
+        "lat": 24.8281312,
+        "lng": -107.4155233
+      },
+      "plusCode": null,
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [],
+      "profileUrl": "https://www.google.com/maps/place/CERRAJERIA+VALENZUELA+(+La+mejor+opci%C3%B3n+%F0%9F%94%91%F0%9F%94%90%F0%9F%9A%97%F0%9F%8F%AB%F0%9F%8F%AD%F0%9F%8F%AC%F0%9F%8F%AA%F0%9F%8C%83%F0%9F%87%B2%F0%9F%87%BD)/@24.8281312,-107.4155233,14z/data=!4m10!1m2!2m1!1sCerrajeros+en+Culiacan,+Mexico!3m6!1s0x86bcdbb3ab656f59:0x738b2d80d621d3ac!8m2!3d24.8226083!4d-107.3961901!15sCh5DZXJyYWplcm9zIGVuIEN1bGlhY2FuLCBNZXhpY29aHyIdY2VycmFqZXJvcyBlbiBjdWxpYWNhbiBtZXhpY2-SAQlsb2Nrc21pdGiaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVTnFNRnB0VjBOQkVBReABAPoBBAgAEEQ!16s%2Fg%2F11stymvmq0?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Cerrajeros",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T23:05:47.316Z"
+    },
+    {
+      "position": 4,
+      "placeId": "0x86bcd161ce6c3e25:0xa7ddbb56ca98933c",
+      "name": "CERRAJERIA HERNAN CULIACAN",
+      "rating": 4.7,
+      "reviewCount": 45,
+      "category": "Cerrajero",
+      "categories": [
+        "Cerrajero"
+      ],
+      "address": "Calle Gral Rafael Buelna Tenorio 358 PONIENTE, Primer Cuadro, Centro, 80000 Culiacán Rosales, Sin.",
+      "phone": "6679967938",
+      "website": "http://cerrajeriahernanculiacan.com/",
+      "coordinates": {
+        "lat": 24.8281312,
+        "lng": -107.4155233
+      },
+      "plusCode": "RJ62+26 Culiacán Rosales, Sinaloa",
+      "hours": "Abierto · Cierra a las 6:30 p.m.",
+      "hoursDetailed": [],
+      "isOpenNow": true,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "MiaRoblox7302 opiniones",
+          "rating": 5,
+          "text": "Exelente servicio los empleados muy buena onda",
+          "date": "Hace un año"
+        },
+        {
+          "author": "MiaRoblox7302 opiniones",
+          "rating": 5,
+          "text": "Exelente servicio los empleados muy buena onda",
+          "date": "Hace un año"
+        },
+        {
+          "author": "Jose Astorga3 opiniones · 1 foto",
+          "rating": 5,
+          "text": "Muy buen servicio y muy amable la persona que me atendio",
+          "date": "Hace 2 años"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/CERRAJERIA+HERNAN+CULIACAN/@24.8281312,-107.4155233,14z/data=!4m10!1m2!2m1!1sCerrajeros+en+Culiacan,+Mexico!3m6!1s0x86bcd161ce6c3e25:0xa7ddbb56ca98933c!8m2!3d24.8101228!4d-107.3994578!15sCh5DZXJyYWplcm9zIGVuIEN1bGlhY2FuLCBNZXhpY29aHyIdY2VycmFqZXJvcyBlbiBjdWxpYWNhbiBtZXhpY2-SAQlsb2Nrc21pdGiaASRDaGREU1VoTk1HOW5TMFZKUTBGblNVTXRPV0kzTUdkQlJSQULgAQD6AQQIABA-!16s%2Fg%2F11fmr63cyj?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Cerrajeros",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T23:05:51.636Z"
+    },
+    {
+      "position": 5,
+      "placeId": "0x86bcdb6fd1fee275:0xd0cd8c499ecc3b3d",
+      "name": "CERRAJERIA Key Solutions (C.U.)",
+      "rating": 4.8,
+      "reviewCount": 45,
+      "category": "Cerrajero",
+      "categories": [
+        "Cerrajero"
+      ],
+      "address": "frente a ley express, Calle Universitarios Ote. 244-A, Burócrata, 80030 Culiacán Rosales, Sin.",
+      "phone": "6673151185",
+      "website": null,
+      "coordinates": {
+        "lat": 24.8101228,
+        "lng": -107.4375666
+      },
+      "plusCode": "RJJ5+JQ Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Cuauhtemoc Rendon5 opiniones · 3 fotos",
+          "rating": 5,
+          "text": "Mejor cerrajería en Culiacán. Cesar siempre trabaja rápido y tiene los mejores precios. Tiene un Ley al frente para estacionarse",
+          "date": "Hace 2 años"
+        },
+        {
+          "author": "Cuauhtemoc Rendon5 opiniones · 3 fotos",
+          "rating": 5,
+          "text": "Mejor cerrajería en Culiacán. Cesar siempre trabaja rápido y tiene los mejores precios. Tiene un Ley al frente para estacionarse",
+          "date": "Hace 2 años"
+        },
+        {
+          "author": "Rafarush45Local Guide · 23 opiniones · 10 fotos",
+          "rating": 5,
+          "text": "Excelente servicio 👌🏼👌🏼…",
+          "date": "Hace 6 meses"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/CERRAJERIA+Key+Solutions+(C.U.)/@24.8101228,-107.4375666,14z/data=!4m10!1m2!2m1!1sCerrajeros+en+Culiacan,+Mexico!3m6!1s0x86bcdb6fd1fee275:0xd0cd8c499ecc3b3d!8m2!3d24.8315138!4d-107.390544!15sCh5DZXJyYWplcm9zIGVuIEN1bGlhY2FuLCBNZXhpY29aHyIdY2VycmFqZXJvcyBlbiBjdWxpYWNhbiBtZXhpY2-SAQlsb2Nrc21pdGiaASRDaGREU1VoTk1HOW5TMFZKUTBGblNVTldMWFIyY1RSUlJSQULgAQD6AQQIABAd!16s%2Fg%2F11g_x742n7?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Cerrajeros",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T23:05:54.229Z"
+    },
+    {
+      "position": 6,
+      "placeId": "0x86bcda19bb791d73:0x680f2362d7220ee3",
+      "name": "Cerrajeria El Alamo",
+      "rating": 4.4,
+      "reviewCount": 45,
+      "category": "Cerrajero",
+      "categories": [
+        "Cerrajero"
+      ],
+      "address": "Prol. Álvaro Obregón 2508, Ignacio Allende, 80010 Culiacán Rosales, Sin.",
+      "phone": "6671374767",
+      "website": null,
+      "coordinates": {
+        "lat": 24.8101228,
+        "lng": -107.4375666
+      },
+      "plusCode": "RJM4+J5 Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [
+        "Amigable con LGBTQ+"
+      ],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "El Diablito M1 opinión",
+          "rating": null,
+          "text": "Muy mal servicio el señor es muy prepotente y no se ase responsable de los daños que ase\nNo lo recomiendo para nada 👎🏻…",
+          "date": "Hace 4 meses"
+        },
+        {
+          "author": "El Diablito M1 opinión",
+          "rating": null,
+          "text": "Muy mal servicio el señor es muy prepotente y no se ase responsable de los daños que ase\nNo lo recomiendo para nada 👎🏻…",
+          "date": "Hace 4 meses"
+        },
+        {
+          "author": "Miguel GuzmánLocal Guide · 64 opiniones · 9 fotos",
+          "rating": 5,
+          "text": "Todo bien, todas las veces que he ido quedan bien y es rapido.",
+          "date": "Hace 2 años"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Cerrajeria+El+Alamo/@24.8101228,-107.4375666,14z/data=!4m10!1m2!2m1!1sCerrajeros+en+Culiacan,+Mexico!3m6!1s0x86bcda19bb791d73:0x680f2362d7220ee3!8m2!3d24.834112!4d-107.3945632!15sCh5DZXJyYWplcm9zIGVuIEN1bGlhY2FuLCBNZXhpY29aHyIdY2VycmFqZXJvcyBlbiBjdWxpYWNhbiBtZXhpY2-SAQlsb2Nrc21pdGiaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVUklNMXAyY0VSbkVBReABAPoBBAgAEC8!16s%2Fg%2F1tcyxw88?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Cerrajeros",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T23:05:56.041Z"
+    },
+    {
+      "position": 7,
+      "placeId": "0x86bcdb851fa10263:0x982991597a336203",
+      "name": "Cerrajero de culiacan",
+      "rating": 4.6,
+      "reviewCount": 45,
+      "category": "Cerrajero",
+      "categories": [
+        "Cerrajero"
+      ],
+      "address": "Enrique cabrera 1524-102 (a Calle sarh, Dr. Enrique Cabrera esq, 80029 Culiacán Rosales, Sin.",
+      "phone": "6673486623",
+      "website": "https://cerrajerodeculiacan.com/",
+      "coordinates": {
+        "lat": 24.8101228,
+        "lng": -107.4375666
+      },
+      "plusCode": "RHJR+W2 Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Nelly Selene Perez Morales2 opiniones",
+          "rating": 5,
+          "text": "Muy buen servicio y atención",
+          "date": "Hace 5 meses"
+        },
+        {
+          "author": "Nelly Selene Perez Morales2 opiniones",
+          "rating": 5,
+          "text": "Muy buen servicio y atención",
+          "date": "Hace 5 meses"
+        },
+        {
+          "author": "Raúl Niebla3 opiniones",
+          "rating": 5,
+          "text": "Excelente servicio. Muy eficaz.",
+          "date": "Hace 5 meses"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Cerrajero+de+culiacan/@24.8101228,-107.4375666,14z/data=!4m10!1m2!2m1!1sCerrajeros+en+Culiacan,+Mexico!3m6!1s0x86bcdb851fa10263:0x982991597a336203!8m2!3d24.832284!4d-107.4099965!15sCh5DZXJyYWplcm9zIGVuIEN1bGlhY2FuLCBNZXhpY29aHyIdY2VycmFqZXJvcyBlbiBjdWxpYWNhbiBtZXhpY2-SAQlsb2Nrc21pdGiaASRDaGREU1VoTk1HOW5TMFZKUTBGblNVUnNkazFYYnkxblJSQULgAQD6AQQIABAs!16s%2Fg%2F11j4lwfd_l?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": "instagram.com/cerrajerodeculiacan",
+        "facebook": "facebook.com/tr",
+        "twitter": null,
+        "whatsapp": "5216673486623",
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Cerrajeros",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T23:06:01.990Z"
+    },
+    {
+      "position": 8,
+      "placeId": "0x86bcd05e7fa12289:0x710465038dd743fa",
+      "name": "Cerrajería El Caballito",
+      "rating": 4.6,
+      "reviewCount": 45,
+      "category": "Cerrajero",
+      "categories": [
+        "Cerrajero"
+      ],
+      "address": "Blvd. Emiliano Zapata 1660-Pte, Centro Sinaloa, 80000 Culiacán Rosales, Sin.",
+      "phone": "6679969409",
+      "website": null,
+      "coordinates": {
+        "lat": 24.8101228,
+        "lng": -107.4375666
+      },
+      "plusCode": null,
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [],
+      "profileUrl": "https://www.google.com/maps/place/Cerrajer%C3%ADa+El+Caballito/@24.8101228,-107.4375666,14z/data=!4m10!1m2!2m1!1sCerrajeros+en+Culiacan,+Mexico!3m6!1s0x86bcd05e7fa12289:0x710465038dd743fa!8m2!3d24.7931653!4d-107.4151212!15sCh5DZXJyYWplcm9zIGVuIEN1bGlhY2FuLCBNZXhpY29aHyIdY2VycmFqZXJvcyBlbiBjdWxpYWNhbiBtZXhpY2-SAQlsb2Nrc21pdGiaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVUlhlVnA1VGtsQkVBReABAPoBBAgAEEI!16s%2Fg%2F1tdwqjt2?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Cerrajeros",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T23:06:04.015Z"
+    },
+    {
+      "position": 9,
+      "placeId": "0x86bcd139657e60db:0xf42cac880f7659c8",
+      "name": "Cerrajero de Emergencia",
+      "rating": 4.7,
+      "reviewCount": 45,
+      "category": "Servicio de duplicación de llaves",
+      "categories": [
+        "Servicio de duplicación de llaves"
+      ],
+      "address": "Francisco Zarco 646, Miguel Alemán, 80230 Culiacán Rosales, Sin.",
+      "phone": "6672678067",
+      "website": "https://cerrajero-de-emergencia.ueniweb.com/?utm_campaign=gmb",
+      "coordinates": {
+        "lat": 24.8101228,
+        "lng": -107.4375666
+      },
+      "plusCode": "QJX5+2J Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Sofía R.Local Guide · 14 opiniones · 8 fotos",
+          "rating": 5,
+          "text": "Excelente servicio, además de ser muy rápido y profesional. Recomendable 100% hasta me regaló una taza y un té 🙌🏼 muchas gracias.…",
+          "date": "Hace 2 años"
+        },
+        {
+          "author": "Sofía R.Local Guide · 14 opiniones · 8 fotos",
+          "rating": 5,
+          "text": "Excelente servicio, además de ser muy rápido y profesional. Recomendable 100% hasta me regaló una taza y un té 🙌🏼 muchas gracias.…",
+          "date": "Hace 2 años"
+        },
+        {
+          "author": "Sixto Rodríguez1 opinión",
+          "rating": 5,
+          "text": "Muy buen servicio",
+          "date": "Hace un año"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Cerrajero+de+Emergencia/@24.8101228,-107.4375666,14z/data=!4m10!1m2!2m1!1sCerrajeros+en+Culiacan,+Mexico!3m6!1s0x86bcd139657e60db:0xf42cac880f7659c8!8m2!3d24.7976071!4d-107.3909527!15sCh5DZXJyYWplcm9zIGVuIEN1bGlhY2FuLCBNZXhpY29aHyIdY2VycmFqZXJvcyBlbiBjdWxpYWNhbiBtZXhpY2-SARdrZXlfZHVwbGljYXRpb25fc2VydmljZZoBI0NoWkRTVWhOTUc5blMwVkpRMEZuU1VSV2FUbEhabFpCRUFF4AEA-gEECAAQOw!16s%2Fg%2F11ql146z3y?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": "seminuevosculiacan@hotmail.com",
+      "allEmails": [
+        "seminuevosculiacan@hotmail.com"
+      ],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": "facebook.com/share.php",
+        "twitter": "twitter.com/intent",
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Cerrajeros",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T23:06:07.570Z"
+    },
+    {
+      "position": 10,
+      "placeId": "0x86bcda23059afca9:0x876c7ea20ff89714",
+      "name": "Cerrajeria 6 de Enero",
+      "rating": 4.2,
+      "reviewCount": 45,
+      "category": "Cerrajero",
+      "categories": [
+        "Cerrajero"
+      ],
+      "address": "Prol. Álvaro Obregón 3244, 6 de Enero, 80010 Culiacán Rosales, Sin.",
+      "phone": "6672279431",
+      "website": null,
+      "coordinates": {
+        "lat": 24.8101228,
+        "lng": -107.4375666
+      },
+      "plusCode": "RJR4+J8 Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Mitzy Ojeda2 opiniones",
+          "rating": 5,
+          "text": "Exelente servicio y un trato muy cordial y con respeto siempre. 👌😌…",
+          "date": "Hace 4 años"
+        },
+        {
+          "author": "Mitzy Ojeda2 opiniones",
+          "rating": 5,
+          "text": "Exelente servicio y un trato muy cordial y con respeto siempre. 👌😌…",
+          "date": "Hace 4 años"
+        },
+        {
+          "author": "Ernesto OjedaLocal Guide · 68 opiniones · 22 fotos",
+          "rating": null,
+          "text": "Pésimo servicio pase y le dije el domicilio que ocupaba abrir y no llegó, le llame y me dijo que siempre no tenía tiempo y me dejó con el servicio tirado. PESIMO",
+          "date": "Hace 5 años"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Cerrajeria+6+de+Enero/@24.8101228,-107.4375666,14z/data=!4m10!1m2!2m1!1sCerrajeros+en+Culiacan,+Mexico!3m6!1s0x86bcda23059afca9:0x876c7ea20ff89714!8m2!3d24.8415527!4d-107.3941769!15sCh5DZXJyYWplcm9zIGVuIEN1bGlhY2FuLCBNZXhpY29aHyIdY2VycmFqZXJvcyBlbiBjdWxpYWNhbiBtZXhpY2-SAQlsb2Nrc21pdGiaASRDaGREU1VoTk1HOW5TMFZKUTBGblNVTlhjR05oVVdoM1JSQULgAQD6AQQIABAk!16s%2Fg%2F11fzfcmkf5?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Cerrajeros",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T23:06:09.777Z"
+    },
+    {
+      "position": 11,
+      "placeId": "0x86bcd9b5df3c402d:0xbb265b8a055ddcba",
+      "name": "CERRAJERIA AUTOMOTRIZ",
+      "rating": 5,
+      "reviewCount": 45,
+      "category": "Cerrajero",
+      "categories": [
+        "Cerrajero"
+      ],
+      "address": "CALLE CANAL DE PANAMA 2135, PORTABELO, 80014, 80014 Culiacán Rosales, Sin.",
+      "phone": "6674835326",
+      "website": null,
+      "coordinates": {
+        "lat": 24.8415527,
+        "lng": -107.4322857
+      },
+      "plusCode": "RJPR+R4 Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Amado Rodriguez Arellano1 opinión",
+          "rating": 5,
+          "text": "Excelente servicio",
+          "date": "Hace un año"
+        },
+        {
+          "author": "Amado Rodriguez Arellano1 opinión",
+          "rating": 5,
+          "text": "Excelente servicio",
+          "date": "Hace un año"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/CERRAJERIA+AUTOMOTRIZ/@24.8415527,-107.4322857,14z/data=!4m10!1m2!2m1!1sCerrajeros+en+Culiacan,+Mexico!3m6!1s0x86bcd9b5df3c402d:0xbb265b8a055ddcba!8m2!3d24.8370308!4d-107.3597117!15sCh5DZXJyYWplcm9zIGVuIEN1bGlhY2FuLCBNZXhpY29aHyIdY2VycmFqZXJvcyBlbiBjdWxpYWNhbiBtZXhpY2-SAQlsb2Nrc21pdGiaASRDaGREU1VoTk1HOW5TMFZKUTBGblNVUlFhRGMzUmpoblJSQULgAQD6AQQIABAS!16s%2Fg%2F11h23_5qjx?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Cerrajeros",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T23:06:12.275Z"
+    },
+    {
+      "position": 12,
+      "placeId": "0x86bcd71380a81719:0x7a3aad71d9f9c984",
+      "name": "KEY TEST CERRAJERIA CULIACÁN",
+      "rating": 4.8,
+      "reviewCount": 45,
+      "category": "Cerrajero",
+      "categories": [
+        "Cerrajero"
+      ],
+      "address": "C. Lic. José Vasconcelos 3968, Emiliano Zapata, Guadalupe Victoria, 80240 Culiacán Rosales, Sin.",
+      "phone": "6673227040",
+      "website": "http://www.keytest.com.mx/",
+      "coordinates": {
+        "lat": 24.8370308,
+        "lng": -107.3978205
+      },
+      "plusCode": "QJVV+9Q Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "BLocal Guide · 13 opiniones · 1 foto",
+          "rating": null,
+          "text": "Hablé para cotizar mandé fotos y ubicación, nos pusimos de acuerdo con el precio ,me dijeron en 25 min llegaban y nunca llegaron,después envié mensaje y llamé y no contestaron, careros y mal quedados. Porque si les iba a pagar 400",
+          "date": "Hace un año"
+        },
+        {
+          "author": "BLocal Guide · 13 opiniones · 1 foto",
+          "rating": null,
+          "text": "Hablé para cotizar mandé fotos y ubicación, nos pusimos de acuerdo con el precio ,me dijeron en 25 min llegaban y nunca llegaron,después envié mensaje y llamé y no contestaron, careros y mal quedados. Porque si les iba a pagar 400",
+          "date": "Hace un año"
+        },
+        {
+          "author": "Christian CarrascoLocal Guide · 16 opiniones · 7 fotos",
+          "rating": 5,
+          "text": "Es la segunda vez que ocupo un trabajo de cerrajería, en las dos ocasiones me ha solucionado bien el problema y ha buen precio lo recomiendo al 100%",
+          "date": "Hace 4 años"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/KEY+TEST+CERRAJERIA+CULIAC%C3%81N/@24.8370308,-107.3978205,14z/data=!4m10!1m2!2m1!1sCerrajeros+en+Culiacan,+Mexico!3m6!1s0x86bcd71380a81719:0x7a3aad71d9f9c984!8m2!3d24.7934668!4d-107.3555487!15sCh5DZXJyYWplcm9zIGVuIEN1bGlhY2FuLCBNZXhpY29aHyIdY2VycmFqZXJvcyBlbiBjdWxpYWNhbiBtZXhpY2-SAQlsb2Nrc21pdGiaASRDaGREU1VoTk1HOW5TMFZKUTBGblNVUm9PVW8yY0RWM1JSQULgAQD6AQQIABAe!16s%2Fg%2F11fvg_np42?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": "contacto@keytest.com.mx",
+      "allEmails": [
+        "contacto@keytest.com.mx"
+      ],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": "526673227040",
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Cerrajeros",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T23:06:16.330Z"
+    },
+    {
+      "position": 13,
+      "placeId": "0x86bcd1b2f2a080db:0x8c6d6f45f62c9c86",
+      "name": "CERRAJERIA LA LOMITA",
+      "rating": 5,
+      "reviewCount": 45,
+      "category": "Cerrajero",
+      "categories": [
+        "Cerrajero"
+      ],
+      "address": "Calle Constitución 46-ote, entre Obregón y paliza, Jorge Almada, Miguel Alemán, 80200 Culiacán Rosales, Sin.",
+      "phone": "6674260010",
+      "website": "https://cerrajerialalomita.negocio.site/?utm_source=gmb&utm_medium=referral",
+      "coordinates": {
+        "lat": 24.7934668,
+        "lng": -107.3936575
+      },
+      "plusCode": "QJX4+MH Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Carmen Lopez1 opinión",
+          "rating": 5,
+          "text": "Super amable , excelente servicio .Aspectos positivosPuntualidad, Cali… Más",
+          "date": "Hace 5 años"
+        },
+        {
+          "author": "Carmen Lopez1 opinión",
+          "rating": 5,
+          "text": "Super amable , excelente servicio .Aspectos positivosPuntualidad, Cali… Más",
+          "date": "Hace 5 años"
+        },
+        {
+          "author": "Jose Antonio Ibarra MedinaLocal Guide · 11 opiniones · 38 fotos",
+          "rating": 5,
+          "text": null,
+          "date": "Hace 5 años"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/CERRAJERIA+LA+LOMITA/@24.7934668,-107.3936575,14z/data=!4m10!1m2!2m1!1sCerrajeros+en+Culiacan,+Mexico!3m6!1s0x86bcd1b2f2a080db:0x8c6d6f45f62c9c86!8m2!3d24.7991665!4d-107.3936122!15sCh5DZXJyYWplcm9zIGVuIEN1bGlhY2FuLCBNZXhpY2-SAQlsb2Nrc21pdGjgAQA!16s%2Fg%2F11lfzp8qb4?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Cerrajeros",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T23:06:18.465Z"
+    },
+    {
+      "position": 14,
+      "placeId": "0x86bcd0b29d7055a1:0x12e6c6dfdd5d7d30",
+      "name": "Cerrajería Madero",
+      "rating": 5,
+      "reviewCount": 45,
+      "category": "Cerrajero",
+      "categories": [
+        "Cerrajero"
+      ],
+      "address": "Granados 48 Norte, Primer Cuadro, 80000 Culiacán Rosales, Sin.",
+      "phone": "6677153757",
+      "website": null,
+      "coordinates": {
+        "lat": 24.7991665,
+        "lng": -107.431721
+      },
+      "plusCode": "RJ47+53 Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Emmanuel TobiasLocal Guide · 172 opiniones · 28 fotos",
+          "rating": 5,
+          "text": "Excelente servicio, muy buen trabajo y atención",
+          "date": "Hace 9 meses"
+        },
+        {
+          "author": "Emmanuel TobiasLocal Guide · 172 opiniones · 28 fotos",
+          "rating": 5,
+          "text": "Excelente servicio, muy buen trabajo y atención",
+          "date": "Hace 9 meses"
+        },
+        {
+          "author": "Luis AréchigaLocal Guide · 154 opiniones · 233 fotos",
+          "rating": 5,
+          "text": "Excelente servicio, su personal con mucha experiencia y capacitación.  👍…",
+          "date": "Hace 4 años"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Cerrajer%C3%ADa+Madero/@24.7991665,-107.431721,14z/data=!4m10!1m2!2m1!1sCerrajeros+en+Culiacan,+Mexico!3m6!1s0x86bcd0b29d7055a1:0x12e6c6dfdd5d7d30!8m2!3d24.8054943!4d-107.3872585!15sCh5DZXJyYWplcm9zIGVuIEN1bGlhY2FuLCBNZXhpY29aHyIdY2VycmFqZXJvcyBlbiBjdWxpYWNhbiBtZXhpY2-SAQlsb2Nrc21pdGiaASNDaFpEU1VoTk1HOW5TMFZKUTBGblRVTkpPR1pYY21OUkVBReABAPoBBAgAEC8!16s%2Fg%2F1td_c3bv?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Cerrajeros",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T23:06:20.358Z"
+    },
+    {
+      "position": 15,
+      "placeId": "0x86bcd1c9be09049f:0x62de10488d878fa1",
+      "name": "CERRAJERIA LA LOMITA CULIACAN",
+      "rating": 5,
+      "reviewCount": 45,
+      "category": "Cerrajero",
+      "categories": [
+        "Cerrajero"
+      ],
+      "address": "Calle Constitución 46-ote, Miguel Alemán, 80200 Culiacán Rosales, Sin.",
+      "phone": "6674535215",
+      "website": null,
+      "coordinates": {
+        "lat": 24.7991665,
+        "lng": -107.431721
+      },
+      "plusCode": "QJX4+JJ Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Gregorio Valenzuela1 opinión",
+          "rating": 5,
+          "text": "Muy buen servicio y atencion",
+          "date": "Hace 4 años"
+        },
+        {
+          "author": "Gregorio Valenzuela1 opinión",
+          "rating": 5,
+          "text": "Muy buen servicio y atencion",
+          "date": "Hace 4 años"
+        },
+        {
+          "author": "Alarmas Centralizadas1 opinión",
+          "rating": 5,
+          "text": "Muy buen servicio!!!",
+          "date": "Hace 2 años"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/CERRAJERIA+LA+LOMITA+CULIACAN/@24.7991665,-107.431721,14z/data=!4m10!1m2!2m1!1sCerrajeros+en+Culiacan,+Mexico!3m6!1s0x86bcd1c9be09049f:0x62de10488d878fa1!8m2!3d24.7991143!4d-107.3934927!15sCh5DZXJyYWplcm9zIGVuIEN1bGlhY2FuLCBNZXhpY29aHyIdY2VycmFqZXJvcyBlbiBjdWxpYWNhbiBtZXhpY2-SAQlsb2Nrc21pdGiaASRDaGREU1VoTk1HOW5TMFZKUTBGblNVTlNkVTAyVFRaUlJSQULgAQD6AQQIABAU!16s%2Fg%2F11r_t6vkq9?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Cerrajeros",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T23:06:22.821Z"
+    },
+    {
+      "position": 16,
+      "placeId": "0x86bcda6e28bd6205:0x9d6cf8c330a0048",
+      "name": "Cerrajeria Autochipkeys Humaya",
+      "rating": 4.8,
+      "reviewCount": 45,
+      "category": "Cerrajero",
+      "categories": [
+        "Cerrajero"
+      ],
+      "address": "Enrique Félix Castro 3108, Infonavit Humaya, Humaya, 80020 Culiacán Rosales, Sin.",
+      "phone": "6675790112",
+      "website": "http://www.cerrajeriaculiacan.mx/",
+      "coordinates": {
+        "lat": 24.7991665,
+        "lng": -107.431721
+      },
+      "plusCode": "RHFM+H8 Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Maria Jose Palafox1 opinión",
+          "rating": 5,
+          "text": "buen servicio, atención muy rápida",
+          "date": "Hace un mes"
+        },
+        {
+          "author": "Maria Jose Palafox1 opinión",
+          "rating": 5,
+          "text": "buen servicio, atención muy rápida",
+          "date": "Hace un mes"
+        },
+        {
+          "author": "Silvia Mariela Velázquez Verdugo1 opinión",
+          "rating": 5,
+          "text": "Excelente servicio y buen precio.",
+          "date": "Hace un mes"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Cerrajeria+Autochipkeys+Humaya/@24.7991665,-107.431721,14z/data=!4m10!1m2!2m1!1sCerrajeros+en+Culiacan,+Mexico!3m6!1s0x86bcda6e28bd6205:0x9d6cf8c330a0048!8m2!3d24.8239672!4d-107.416682!15sCh5DZXJyYWplcm9zIGVuIEN1bGlhY2FuLCBNZXhpY29aHyIdY2VycmFqZXJvcyBlbiBjdWxpYWNhbiBtZXhpY2-SAQlsb2Nrc21pdGiaASRDaGREU1VoTk1HOW5TMFZKUTBGblNVTkViRFZYVlhwblJSQULgAQD6AQQIABBD!16s%2Fg%2F1v1slnwt?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": "autochipkeys21@gmail.com",
+      "allEmails": [
+        "autochipkeys21@gmail.com"
+      ],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": "facebook.com/autochip.cerrajeria",
+        "twitter": null,
+        "whatsapp": "5216675790112",
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Cerrajeros",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T23:06:27.198Z"
+    },
+    {
+      "position": 17,
+      "placeId": "0x86bcd76e822ad28b:0x5fc5d366c0dfdff8",
+      "name": "Cerrajería sanalona",
+      "rating": 4.4,
+      "reviewCount": 45,
+      "category": "Cerrajero",
+      "categories": [
+        "Cerrajero"
+      ],
+      "address": "Blvd. Francisco I. Madero 1919, Miguel Hidalgo, 80090 Culiacán Rosales, Sin.",
+      "phone": "6677154021",
+      "website": null,
+      "coordinates": {
+        "lat": 24.8239672,
+        "lng": -107.4547908
+      },
+      "plusCode": "RJ2J+VP Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Ricardo GastélumLocal Guide · 221 opiniones · 10 fotos",
+          "rating": 5,
+          "text": "Excelente servicio y atención personalizada, recomendada al 100 %.\nVayan y no se arrepentirán de haber ido.",
+          "date": "Hace 4 años"
+        },
+        {
+          "author": "Ricardo GastélumLocal Guide · 221 opiniones · 10 fotos",
+          "rating": 5,
+          "text": "Excelente servicio y atención personalizada, recomendada al 100 %.\nVayan y no se arrepentirán de haber ido.",
+          "date": "Hace 4 años"
+        },
+        {
+          "author": "Julio UriasLocal Guide · 173 opiniones · 1,112 fotos",
+          "rating": 5,
+          "text": "Excelente servicio por parte del señor y con amplio conocimiento para ayudar a hacer la mejor selección de llaves a la hora de comprar!",
+          "date": "Hace 3 años"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Cerrajer%C3%ADa+sanalona/@24.8239672,-107.4547908,14z/data=!4m10!1m2!2m1!1sCerrajeros+en+Culiacan,+Mexico!3m6!1s0x86bcd76e822ad28b:0x5fc5d366c0dfdff8!8m2!3d24.8021332!4d-107.3681303!15sCh5DZXJyYWplcm9zIGVuIEN1bGlhY2FuLCBNZXhpY29aHyIdY2VycmFqZXJvcyBlbiBjdWxpYWNhbiBtZXhpY2-SAQlsb2Nrc21pdGiaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVTmtjMWwxTTJKbkVBReABAPoBBAgAED4!16s%2Fg%2F1tg5vh8x?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Cerrajeros",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T23:06:29.927Z"
+    },
+    {
+      "position": 18,
+      "placeId": "0x86bcd751eb685feb:0xb9fd124061edd140",
+      "name": "Cerrajería Especializada Águila Master",
+      "rating": 4.5,
+      "reviewCount": 45,
+      "category": "Cerrajero",
+      "categories": [
+        "Cerrajero"
+      ],
+      "address": "Mariano Escobedo 1264, Miguel Hidalgo, 80090 Culiacán Rosales, Sin.",
+      "phone": "6671525277",
+      "website": null,
+      "coordinates": {
+        "lat": 24.8021332,
+        "lng": -107.4062391
+      },
+      "plusCode": "RJ4C+QQ Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Ig ALocal Guide · 20 opiniones · 2 fotos",
+          "rating": 5,
+          "text": "Excelente atención. Muy amables, soy cliente desde hace 6 años.",
+          "date": "Hace 2 años"
+        },
+        {
+          "author": "Ig ALocal Guide · 20 opiniones · 2 fotos",
+          "rating": 5,
+          "text": "Excelente atención. Muy amables, soy cliente desde hace 6 años.",
+          "date": "Hace 2 años"
+        },
+        {
+          "author": "carlos zamudioLocal Guide · 65 opiniones · 38 fotos",
+          "rating": 5,
+          "text": "Mágica atención por el sr Alfredo Sandoval, su propietario, con la capacidad, creatividad y conocimientos para resolver cualquier problema relacionado con la cerrajería especializada en los vehículos modernos y antiguos,, con el mejor precio, honestidad y buen trato al los clientes",
+          "date": "Hace 2 años"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Cerrajer%C3%ADa+Especializada+%C3%81guila+Master/@24.8021332,-107.4062391,14z/data=!4m10!1m2!2m1!1sCerrajeros+en+Culiacan,+Mexico!3m6!1s0x86bcd751eb685feb:0xb9fd124061edd140!8m2!3d24.8069707!4d-107.3780227!15sCh5DZXJyYWplcm9zIGVuIEN1bGlhY2FuLCBNZXhpY29aHyIdY2VycmFqZXJvcyBlbiBjdWxpYWNhbiBtZXhpY2-SAQlsb2Nrc21pdGiaASRDaGREU1VoTk1HOW5TMFZKUTBGblNVTTFlRFJtTm1oM1JSQULgAQD6AQQIABBF!16s%2Fg%2F1vgw91ll?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Cerrajeros",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T23:06:32.049Z"
+    },
+    {
+      "position": 19,
+      "placeId": "0x86bcdb62d712fc49:0x68d63d76a08c4575",
+      "name": "CERRAJERIA LAS AMERICAS",
+      "rating": null,
+      "reviewCount": 45,
+      "category": "Cerrajero",
+      "categories": [
+        "Cerrajero"
+      ],
+      "address": "esquina con avenidas, C. Profa Mariana Valdez 945, Lomas del Sol, Las Américas, 80016 Culiacán Rosales, Sin.",
+      "phone": "6671043500",
+      "website": null,
+      "coordinates": {
+        "lat": 24.8021332,
+        "lng": -107.4062391
+      },
+      "plusCode": "RJR7+7V Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [],
+      "profileUrl": "https://www.google.com/maps/place/CERRAJERIA+LAS+AMERICAS/@24.8021332,-107.4062391,14z/data=!4m10!1m2!2m1!1sCerrajeros+en+Culiacan,+Mexico!3m6!1s0x86bcdb62d712fc49:0x68d63d76a08c4575!8m2!3d24.8406391!4d-107.3853727!15sCh5DZXJyYWplcm9zIGVuIEN1bGlhY2FuLCBNZXhpY2-SAQlsb2Nrc21pdGjgAQA!16s%2Fg%2F11qqxr1bgp?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Cerrajeros",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T23:06:34.384Z"
+    },
+    {
+      "position": 20,
+      "placeId": "0x86bcd9a008f1507f:0x4fd9976c1f3f4069",
+      "name": "CERRAJERIA LOS ANGELES",
+      "rating": 2.6,
+      "reviewCount": 45,
+      "category": "Cerrajero",
+      "categories": [
+        "Cerrajero"
+      ],
+      "address": "Blvd. California #3152-4 esquina con Calle Santa Cristina, Los Angeles FRACCIONAMIENTO, 80014 Culiacán Rosales, Sin.",
+      "phone": "6671751323",
+      "website": null,
+      "coordinates": {
+        "lat": 24.8406391,
+        "lng": -107.4234815
+      },
+      "plusCode": null,
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [],
+      "profileUrl": "https://www.google.com/maps/place/CERRAJERIA+LOS+ANGELES/@24.8406391,-107.4234815,14z/data=!4m10!1m2!2m1!1sCerrajeros+en+Culiacan,+Mexico!3m6!1s0x86bcd9a008f1507f:0x4fd9976c1f3f4069!8m2!3d24.8515366!4d-107.3609546!15sCh5DZXJyYWplcm9zIGVuIEN1bGlhY2FuLCBNZXhpY29aHyIdY2VycmFqZXJvcyBlbiBjdWxpYWNhbiBtZXhpY2-SAQlsb2Nrc21pdGiaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVUk9ibU42TldaM0VBReABAPoBBAgMEA4!16s%2Fg%2F11fj813975?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Cerrajeros",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T23:06:36.891Z"
+    },
+    {
+      "position": 21,
+      "placeId": "0x86bcda72a9772753:0x69f516986ba955e8",
+      "name": "Cerrajeria Tres Rios",
+      "rating": 4.7,
+      "reviewCount": 45,
+      "category": "Cerrajero",
+      "categories": [
+        "Cerrajero"
+      ],
+      "address": "Blvd. Republica de Brasil 2293, Humaya, 80000 Culiacán Rosales, Sin.",
+      "phone": "6672144262",
+      "website": null,
+      "coordinates": {
+        "lat": 24.8515366,
+        "lng": -107.3990634
+      },
+      "plusCode": "RHFR+VC Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "loriel diaz1 opinión · 1 foto",
+          "rating": 5,
+          "text": "Rápido y buen precio",
+          "date": "Editado Hace 6 meses"
+        },
+        {
+          "author": "loriel diaz1 opinión · 1 foto",
+          "rating": 5,
+          "text": "Rápido y buen precio",
+          "date": "Editado Hace 6 meses"
+        },
+        {
+          "author": "eduardo Cañada10 opiniones",
+          "rating": 5,
+          "text": "Muy buen servicio",
+          "date": "Hace 6 años"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Cerrajeria+Tres+Rios/@24.8515366,-107.3990634,14z/data=!4m10!1m2!2m1!1sCerrajeros+en+Culiacan,+Mexico!3m6!1s0x86bcda72a9772753:0x69f516986ba955e8!8m2!3d24.8246784!4d-107.4089889!15sCh5DZXJyYWplcm9zIGVuIEN1bGlhY2FuLCBNZXhpY29aHyIdY2VycmFqZXJvcyBlbiBjdWxpYWNhbiBtZXhpY2-SAQlsb2Nrc21pdGiaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVUm9NMWxmYTJSbkVBReABAPoBBAgAEDE!16s%2Fg%2F1vnrlg43?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Cerrajeros",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T23:06:39.183Z"
+    },
+    {
+      "position": 22,
+      "placeId": "0x86bcdbf616e3d2f7:0x6c5eab5e7929af59",
+      "name": "Cerrajería Culiacán Suc.U de O",
+      "rating": 4.2,
+      "reviewCount": 45,
+      "category": "Cerrajero",
+      "categories": [
+        "Cerrajero"
+      ],
+      "address": "Lola Beltrán 3146, Horizontes, 80054 Culiacán Rosales, Sin.",
+      "phone": "6675790112",
+      "website": null,
+      "coordinates": {
+        "lat": 24.8246784,
+        "lng": -107.4470977
+      },
+      "plusCode": "RH8C+4C Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Adan Gamez2 opiniones · 1 foto",
+          "rating": 5,
+          "text": "Muy buena atencion al servicio al cliente",
+          "date": "Hace un año"
+        },
+        {
+          "author": "Adan Gamez2 opiniones · 1 foto",
+          "rating": 5,
+          "text": "Muy buena atencion al servicio al cliente",
+          "date": "Hace un año"
+        },
+        {
+          "author": "Uziel Daniel Cruz Castro3 opiniones",
+          "rating": 5,
+          "text": "Excelente servicio 100% recomendado!.",
+          "date": "Hace un año"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Cerrajer%C3%ADa+Culiac%C3%A1n+Suc.U+de+O/@24.8246784,-107.4470977,14z/data=!4m10!1m2!2m1!1sCerrajeros+en+Culiacan,+Mexico!3m6!1s0x86bcdbf616e3d2f7:0x6c5eab5e7929af59!8m2!3d24.8153499!4d-107.4289085!15sCh5DZXJyYWplcm9zIGVuIEN1bGlhY2FuLCBNZXhpY29aHyIdY2VycmFqZXJvcyBlbiBjdWxpYWNhbiBtZXhpY2-SAQlsb2Nrc21pdGiaASRDaGREU1VoTk1HOW5TMFZKUTBGblNVTnFMV0ZmTVROQlJSQULgAQD6AQQIABAl!16s%2Fg%2F11h6typpvk?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Cerrajeros",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T23:06:41.838Z"
+    },
+    {
+      "position": 23,
+      "placeId": "0x86bcd7413c2fd59d:0x25e9bdafed6c108a",
+      "name": "CERRAJERIA LOCKS AND KEYS",
+      "rating": 4.3,
+      "reviewCount": 45,
+      "category": "Cerrajero",
+      "categories": [
+        "Cerrajero"
+      ],
+      "address": "Av Revolución 1023, Guadalupe Victoria, 80240 Culiacán Rosales, Sin.",
+      "phone": "6677840809",
+      "website": null,
+      "coordinates": {
+        "lat": 24.8246784,
+        "lng": -107.4470977
+      },
+      "plusCode": null,
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [],
+      "profileUrl": "https://www.google.com/maps/place/CERRAJERIA+LOCKS+AND+KEYS/@24.8246784,-107.4470977,14z/data=!4m10!1m2!2m1!1sCerrajeros+en+Culiacan,+Mexico!3m6!1s0x86bcd7413c2fd59d:0x25e9bdafed6c108a!8m2!3d24.7960976!4d-107.3660488!15sCh5DZXJyYWplcm9zIGVuIEN1bGlhY2FuLCBNZXhpY29aHyIdY2VycmFqZXJvcyBlbiBjdWxpYWNhbiBtZXhpY2-SAQlsb2Nrc21pdGiaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVUjRhbHBMVFV4UkVBReABAPoBBAgAECE!16s%2Fg%2F1vc_qt51?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Cerrajeros",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T23:06:44.300Z"
+    },
+    {
+      "position": 24,
+      "placeId": "0x86bcda871dcd7179:0x28f8bd03f60d07d9",
+      "name": "CERRAJERIA CONTROL KEYS-CHIP",
+      "rating": 4.7,
+      "reviewCount": 45,
+      "category": "Cerrajero",
+      "categories": [
+        "Cerrajero"
+      ],
+      "address": "Blvd. Rolando Arjona Amabilis 1412-L6, RESIDENCIAL AZALEAS, 80058 Culiacán Rosales, Sin.",
+      "phone": "6671548996",
+      "website": null,
+      "coordinates": {
+        "lat": 24.7960976,
+        "lng": -107.4041576
+      },
+      "plusCode": "RH98+53 Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Jose Paul Aragon BeltranLocal Guide · 35 opiniones · 7 fotos",
+          "rating": 5,
+          "text": "Excelente servicio, con tecnología actualizada a estos tiempos y muy atentos. Recomendado!",
+          "date": "Hace 2 meses"
+        },
+        {
+          "author": "Jose Paul Aragon BeltranLocal Guide · 35 opiniones · 7 fotos",
+          "rating": 5,
+          "text": "Excelente servicio, con tecnología actualizada a estos tiempos y muy atentos. Recomendado!",
+          "date": "Hace 2 meses"
+        },
+        {
+          "author": "David MillánLocal Guide · 2 opiniones · 2 fotos",
+          "rating": 5,
+          "text": "Excelente servicio",
+          "date": "Hace 3 meses"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/CERRAJERIA+CONTROL+KEYS-CHIP/@24.7960976,-107.4041576,14z/data=!4m10!1m2!2m1!1sCerrajeros+en+Culiacan,+Mexico!3m6!1s0x86bcda871dcd7179:0x28f8bd03f60d07d9!8m2!3d24.8179466!4d-107.4347797!15sCh5DZXJyYWplcm9zIGVuIEN1bGlhY2FuLCBNZXhpY29aHyIdY2VycmFqZXJvcyBlbiBjdWxpYWNhbiBtZXhpY2-SAQlsb2Nrc21pdGiaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVUkVOM0JIVFZaM0VBReABAPoBBAgAEEI!16s%2Fg%2F11c56rgllx?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Cerrajeros",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T23:06:45.892Z"
+    },
+    {
+      "position": 25,
+      "placeId": "0x86bcd14d802844eb:0x3f23d67c188f29d3",
+      "name": "cerrajeria chip keys",
+      "rating": 4.7,
+      "reviewCount": 45,
+      "category": "Cerrajero",
+      "categories": [
+        "Cerrajero"
+      ],
+      "address": "Blvd. Ciudades Hermanas 222 oriente, Guadalupe, 80220 Culiacán Rosales, Sin.",
+      "phone": "6671430196",
+      "website": null,
+      "coordinates": {
+        "lat": 24.8179466,
+        "lng": -107.4728885
+      },
+      "plusCode": "QJV6+66 Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "C G G GLocal Guide · 370 opiniones · 127 fotos",
+          "rating": 4,
+          "text": "Buen servicio, buenos precios y muy profesionales",
+          "date": "Hace 8 meses"
+        },
+        {
+          "author": "C G G GLocal Guide · 370 opiniones · 127 fotos",
+          "rating": 4,
+          "text": "Buen servicio, buenos precios y muy profesionales",
+          "date": "Hace 8 meses"
+        },
+        {
+          "author": "Silvia HigueraLocal Guide · 24 opiniones",
+          "rating": 4,
+          "text": "Me agrada ir a está cerrajería pues realizan sú trabajo rápido y con muy buenos precios, lo único es qué el estacionamiento es pequeño y hay horas qué se dificulta estacionarse",
+          "date": "Hace 3 años"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/cerrajeria+chip+keys/@24.8179466,-107.4728885,14z/data=!4m10!1m2!2m1!1sCerrajeros+en+Culiacan,+Mexico!3m6!1s0x86bcd14d802844eb:0x3f23d67c188f29d3!8m2!3d24.7930004!4d-107.3893926!15sCh5DZXJyYWplcm9zIGVuIEN1bGlhY2FuLCBNZXhpY29aHyIdY2VycmFqZXJvcyBlbiBjdWxpYWNhbiBtZXhpY2-SAQlsb2Nrc21pdGiaASRDaGREU1VoTk1HOW5TMFZKUTBGblNVUTNkRTVMUm5wM1JSQULgAQD6AQQIABAu!16s%2Fg%2F11fv1mtk1x?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Cerrajeros",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T23:06:48.749Z"
+    },
+    {
+      "position": 26,
+      "placeId": "0x86bcdbb2b91a7c21:0x67dfaebe8ab69578",
+      "name": "Cerrajería Infonavit Humaya",
+      "rating": 5,
+      "reviewCount": 45,
+      "category": "Cerrajero",
+      "categories": [
+        "Cerrajero"
+      ],
+      "address": "Enrique Félix Castro 3108, Infonavit Humaya, Humaya, 80020 Culiacán Rosales, Sin.",
+      "phone": "6677504880",
+      "website": "http://cerrajeriaculiacan.mx/",
+      "coordinates": {
+        "lat": 24.7930004,
+        "lng": -107.4275014
+      },
+      "plusCode": "RHFM+HF Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Antonio DiazLocal Guide · 15 opiniones · 17 fotos",
+          "rating": 5,
+          "text": null,
+          "date": "Hace 5 meses"
+        },
+        {
+          "author": "Antonio DiazLocal Guide · 15 opiniones · 17 fotos",
+          "rating": 5,
+          "text": null,
+          "date": "Hace 5 meses"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Cerrajer%C3%ADa+Infonavit+Humaya/@24.7930004,-107.4275014,14z/data=!4m10!1m2!2m1!1sCerrajeros+en+Culiacan,+Mexico!3m6!1s0x86bcdbb2b91a7c21:0x67dfaebe8ab69578!8m2!3d24.8239822!4d-107.4163513!15sCh5DZXJyYWplcm9zIGVuIEN1bGlhY2FuLCBNZXhpY2-SAQlsb2Nrc21pdGjgAQA!16s%2Fg%2F11t2rhctwp?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": "autochipkeys21@gmail.com",
+      "allEmails": [
+        "autochipkeys21@gmail.com"
+      ],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": "facebook.com/autochip.cerrajeria",
+        "twitter": null,
+        "whatsapp": "5216675790112",
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Cerrajeros",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T23:06:52.845Z"
+    },
+    {
+      "position": 27,
+      "placeId": "0x86bcd7ae6ade646b:0x29d882a208bc8cc1",
+      "name": "Cerrajería MY LOCK",
+      "rating": null,
+      "reviewCount": 45,
+      "category": "Cerrajero",
+      "categories": [
+        "Cerrajero"
+      ],
+      "address": "Blvrd Gral Gabriel Leyva Solano 861-L3, Primer Cuadro, Esq, 80000 Culiacán Rosales, Sin.",
+      "phone": "6673885033",
+      "website": null,
+      "coordinates": {
+        "lat": 24.8239822,
+        "lng": -107.4544601
+      },
+      "plusCode": "RJ38+HH Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [],
+      "profileUrl": "https://www.google.com/maps/place/Cerrajer%C3%ADa+MY+LOCK/@24.8239822,-107.4544601,14z/data=!4m10!1m2!2m1!1sCerrajeros+en+Culiacan,+Mexico!3m6!1s0x86bcd7ae6ade646b:0x29d882a208bc8cc1!8m2!3d24.8039338!4d-107.3835075!15sCh5DZXJyYWplcm9zIGVuIEN1bGlhY2FuLCBNZXhpY2-SAQlsb2Nrc21pdGjgAQA!16s%2Fg%2F11xrh0vypc?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Cerrajeros",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T23:06:55.425Z"
+    },
+    {
+      "position": 28,
+      "placeId": "0x86bcd74ea41bb675:0xb2b264468ef55609",
+      "name": "Cerrajería Seanik",
+      "rating": 5,
+      "reviewCount": 45,
+      "category": "Cerrajero",
+      "categories": [
+        "Cerrajero"
+      ],
+      "address": "Dr. Enrique Cabrera 1990, Humaya, 80020 Culiacán Rosales, Sin.",
+      "phone": "6674259960",
+      "website": null,
+      "coordinates": {
+        "lat": 24.8039338,
+        "lng": -107.4216163
+      },
+      "plusCode": null,
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [
+        "Amigable con LGBTQ+"
+      ],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [],
+      "profileUrl": "https://www.google.com/maps/place/Cerrajeria+Y+Herreria/@24.8039338,-107.4216163,14z/data=!4m10!1m2!2m1!1sCerrajeros+en+Culiacan,+Mexico!3m6!1s0x86bcd74ea41bb675:0xb2b264468ef55609!8m2!3d24.8007722!4d-107.3785499!15sCh5DZXJyYWplcm9zIGVuIEN1bGlhY2FuLCBNZXhpY2-SAQlsb2Nrc21pdGjgAQA!16s%2Fg%2F11bzz5l4wh?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Cerrajeros",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T23:07:04.857Z"
+    },
+    {
+      "position": 29,
+      "placeId": "0x86bcda7243f36667:0x7819b8c5f6fd1e8e",
+      "name": "Cerrajeria Chips Y Regalos KINIS",
+      "rating": 4.6,
+      "reviewCount": 45,
+      "category": "Servicio de duplicación de llaves",
+      "categories": [
+        "Servicio de duplicación de llaves"
+      ],
+      "address": "Enrique Félix Castro 1871, Infonavit Humaya, Humaya, 80020 Culiacán Rosales, Sin.",
+      "phone": "6672041661",
+      "website": "https://www.facebook.com/Geovanny-Arballo-Cerrajeria-Kinis-1503244549728501/",
+      "coordinates": {
+        "lat": 24.8236095,
+        "lng": -107.4523419
+      },
+      "plusCode": "RHFQ+22 Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Didi AbcLocal Guide · 247 opiniones · 574 fotos",
+          "rating": 5,
+          "text": "Para dar un regalo a personas especiales, que mejor que con un buen envoltorio, además que las personas se quedan sorprendidas de la dedicación de el envoltorio de papel o manualidad, regalando 2 veces en 1 ... De paso saqué copia de llaves y no he tenido ningun problema alguno al usalo🤗 Gracias eq",
+          "date": "Hace 2 años"
+        },
+        {
+          "author": "Didi AbcLocal Guide · 247 opiniones · 574 fotos",
+          "rating": 5,
+          "text": "Para dar un regalo a personas especiales, que mejor que con un buen envoltorio, además que las personas se quedan sorprendidas de la dedicación de el envoltorio de papel o manualidad, regalando 2 veces en 1 ... De paso saqué copia de llaves y no he tenido ningun problema alguno al usalo🤗 Gracias eq",
+          "date": "Hace 2 años"
+        },
+        {
+          "author": "Federico ValenzuelaLocal Guide · 24 opiniones · 3 fotos",
+          "rating": 4,
+          "text": "Hacen un trabajo muy bueno, aunque pues con el correspondiente aumento de costo. Lo unico malo es que he ido dos veces y no hay nadie que atienda, esta un poco descuidada la atención",
+          "date": "Hace 2 años"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Cerrajeria+Chips+Y+Regalos+KINIS/@24.8236095,-107.4523419,14z/data=!4m10!1m2!2m1!1sCerrajeros+en+Culiacan,+Mexico!3m6!1s0x86bcda7243f36667:0x7819b8c5f6fd1e8e!8m2!3d24.8225343!4d-107.4123873!15sCh5DZXJyYWplcm9zIGVuIEN1bGlhY2FuLCBNZXhpY29aHyIdY2VycmFqZXJvcyBlbiBjdWxpYWNhbiBtZXhpY2-SAQpsb2NrX3N0b3JlmgEkQ2hkRFNVaE5NRzluUzBWSlEwRm5TVVF6TlhGUVVUWm5SUkFC4AEA-gEECAAQGg!16s%2Fg%2F11dxn0r7pt?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": "facebook.com/people",
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Cerrajeros",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T23:07:08.766Z"
+    },
+    {
+      "position": 30,
+      "placeId": "0x86bcda706b643389:0x332cbc4b76e26f3a",
+      "name": "Cerrajeria Heras",
+      "rating": 5,
+      "reviewCount": 45,
+      "category": "Cerrajero",
+      "categories": [
+        "Cerrajero"
+      ],
+      "address": "Av Obrero Mundial 3195, Humaya, 80020 Culiacán Rosales, Sin.",
+      "phone": "6677502312",
+      "website": null,
+      "coordinates": {
+        "lat": 24.8236095,
+        "lng": -107.4523419
+      },
+      "plusCode": "RHHM+7W Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": true,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "mireya zamora guelLocal Guide · 11 opiniones",
+          "rating": 5,
+          "text": "Excelente👌 y servicio rápido, calidad en sus productos y atención al cliente..sigan triunfando…",
+          "date": "Hace 3 años"
+        },
+        {
+          "author": "mireya zamora guelLocal Guide · 11 opiniones",
+          "rating": 5,
+          "text": "Excelente👌 y servicio rápido, calidad en sus productos y atención al cliente..sigan triunfando…",
+          "date": "Hace 3 años"
+        },
+        {
+          "author": "Químico Leopolodo CastroLocal Guide · 27 opiniones · 56 fotos",
+          "rating": 5,
+          "text": "Buen servicio",
+          "date": "Hace 5 años"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Cerrajeria+Heras/@24.8236095,-107.4523419,14z/data=!4m10!1m2!2m1!1sCerrajeros+en+Culiacan,+Mexico!3m6!1s0x86bcda706b643389:0x332cbc4b76e26f3a!8m2!3d24.8281921!4d-107.4151892!15sCh5DZXJyYWplcm9zIGVuIEN1bGlhY2FuLCBNZXhpY2-SAQlsb2Nrc21pdGjgAQA!16s%2Fg%2F1tgj97zn?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Cerrajeros",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T23:07:11.798Z"
+    },
+    {
+      "position": 31,
+      "placeId": "0x86bcd07772348129:0xd65a7282dcc19501",
+      "name": "Cerrajería Castro Culiacan",
+      "rating": 4.6,
+      "reviewCount": 45,
+      "category": "Cerrajero",
+      "categories": [
+        "Cerrajero"
+      ],
+      "address": "Av Villas del Río 3045, Villas del Río, 80050 Culiacán Rosales, Sin.",
+      "phone": "6673060655",
+      "website": "http://www.cerrajeriacastroculiacan.com/",
+      "coordinates": {
+        "lat": 24.8236095,
+        "lng": -107.4523419
+      },
+      "plusCode": null,
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [],
+      "profileUrl": "https://www.google.com/maps/place/Cerrajer%C3%ADa+Castro+Culiacan/@24.8236095,-107.4523419,14z/data=!4m10!1m2!2m1!1sCerrajeros+en+Culiacan,+Mexico!3m6!1s0x86bcd07772348129:0xd65a7282dcc19501!8m2!3d24.8056308!4d-107.4452038!15sCh5DZXJyYWplcm9zIGVuIEN1bGlhY2FuLCBNZXhpY29aHyIdY2VycmFqZXJvcyBlbiBjdWxpYWNhbiBtZXhpY2-SAQlsb2Nrc21pdGiaASRDaGREU1VoTk1HOW5TMFZKUTBGblNVTTFkRTFMVjNOQlJSQULgAQD6AQQIABAs!16s%2Fg%2F1thq149p?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": "instagram.com/cerrajeriacastroculiacan",
+        "facebook": "facebook.com/cerrajeriacastro.com.mx",
+        "twitter": null,
+        "whatsapp": "526673060655",
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": "tiktok.com/@cerrajeriacastroculiacan"
+      },
+      "searchQuery": {
+        "businessType": "Cerrajeros",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T23:07:14.778Z"
+    },
+    {
+      "position": 32,
+      "placeId": "0x86bcdb9a7641cec9:0x65facd8a46f850d3",
+      "name": "Cerrajería alamo barrancos",
+      "rating": null,
+      "reviewCount": 45,
+      "category": null,
+      "categories": [],
+      "address": "Felipe angeles, Blvd. benjamín jill 4396 barrancos, Rey Melchor 3518, Vicente Lombardo Toledano, 80018 Culiacán Rosales, Sin.",
+      "phone": "6671211035",
+      "website": null,
+      "coordinates": {
+        "lat": 24.8056308,
+        "lng": -107.4833126
+      },
+      "plusCode": "RJW4+HV Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [],
+      "profileUrl": "https://www.google.com/maps/place/Cerrajer%C3%ADa+alamo+barrancos/@24.8056308,-107.4833126,14z/data=!4m10!1m2!2m1!1sCerrajeros+en+Culiacan,+Mexico!3m6!1s0x86bcdb9a7641cec9:0x65facd8a46f850d3!8m2!3d24.8464176!4d-107.3928652!15sCh5DZXJyYWplcm9zIGVuIEN1bGlhY2FuLCBNZXhpY2-SARtlbWVyZ2VuY3lfbG9ja3NtaXRoX3NlcnZpY2XgAQA!16s%2Fg%2F11ldgs06wh?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Cerrajeros",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T23:07:16.826Z"
+    },
+    {
+      "position": 33,
+      "placeId": "0x86bcda40b4f4a33f:0x7fbd77406332e3a0",
+      "name": "CERRAJERIAS EL Alamo",
+      "rating": 2,
+      "reviewCount": 45,
+      "category": null,
+      "categories": [],
+      "address": "Santa Fe, Sta Fe, 80029 Culiacán Rosales, Sin.",
+      "phone": "6673150928",
+      "website": null,
+      "coordinates": {
+        "lat": 24.8464176,
+        "lng": -107.430974
+      },
+      "plusCode": "RHRR+Q3 Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Gus16 opiniones",
+          "rating": 2,
+          "text": "Algo abusones con los precios",
+          "date": "3 semanas atrás Nueva"
+        },
+        {
+          "author": "Gus16 opiniones",
+          "rating": 2,
+          "text": "Algo abusones con los precios",
+          "date": "3 semanas atrás Nueva"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/CERRAJERIAS+EL+Alamo/@24.8464176,-107.430974,14z/data=!4m10!1m2!2m1!1sCerrajeros+en+Culiacan,+Mexico!3m6!1s0x86bcda40b4f4a33f:0x7fbd77406332e3a0!8m2!3d24.8419246!4d-107.4098104!15sCh5DZXJyYWplcm9zIGVuIEN1bGlhY2FuLCBNZXhpY29aHyIdY2VycmFqZXJvcyBlbiBjdWxpYWNhbiBtZXhpY2-SARtlbWVyZ2VuY3lfbG9ja3NtaXRoX3NlcnZpY2WaAURDaTlEUVVsUlFVTnZaRU5vZEhsalJqbHZUMjVvTldORmJIQk5SbFpvVkcxT1RFNXRkM3BVYTNnMFZGVlNNbU5ZWXhBQuABAPoBBAgAEB0!16s%2Fg%2F11yb7pxy0t?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Cerrajeros",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T23:07:19.004Z"
+    },
+    {
+      "position": 34,
+      "placeId": "0x86bcdb1b6543f713:0x86f02b2fc57d405c",
+      "name": "Cerrajeria La Conquista",
+      "rating": 5,
+      "reviewCount": 45,
+      "category": "Servicio de duplicación de llaves",
+      "categories": [
+        "Servicio de duplicación de llaves"
+      ],
+      "address": "Del Oasis 1862, El Acueducto, 80058 Culiacán Rosales, Sin.",
+      "phone": "6672563411",
+      "website": null,
+      "coordinates": {
+        "lat": 24.8464176,
+        "lng": -107.430974
+      },
+      "plusCode": "RHC4+FJ Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Rafael Villalobos7 opiniones · 7 fotos",
+          "rating": 5,
+          "text": "Muy buen servicio de los muchachos.\nHicieron un trabajo eficiente, con buena atención y buen costo por la solución del problema.… Más",
+          "date": "2 semanas atrás Nueva"
+        },
+        {
+          "author": "Rafael Villalobos7 opiniones · 7 fotos",
+          "rating": 5,
+          "text": "Muy buen servicio de los muchachos.\nHicieron un trabajo eficiente, con buena atención y buen costo por la solución del problema.… Más",
+          "date": "2 semanas atrás Nueva"
+        },
+        {
+          "author": "Naylea Garcia3 opiniones",
+          "rating": 5,
+          "text": "Excelente servicio, muy preparado con el equipo y herramientas adecuadas para el servicio solicitado. Llegó rápido y aclaró mis dudas respecto a las llaves que le pedimos que nos hiciera posteriormente.",
+          "date": "3 semanas atrás Nueva"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Cerrajeria+La+Conquista/@24.8464176,-107.430974,14z/data=!4m10!1m2!2m1!1sCerrajeros+en+Culiacan,+Mexico!3m6!1s0x86bcdb1b6543f713:0x86f02b2fc57d405c!8m2!3d24.8212322!4d-107.4434825!15sCh5DZXJyYWplcm9zIGVuIEN1bGlhY2FuLCBNZXhpY29aHyIdY2VycmFqZXJvcyBlbiBjdWxpYWNhbiBtZXhpY2-SAQpsb2NrX3N0b3JlmgFEQ2k5RFFVbFJRVU52WkVOb2RIbGpSamx2VDJwTk5WWXliRWhSZWtvMlRsUmFkRkZWVVhwU01GSk1aVzA1U0UweFJSQULgAQD6AQQIABAq!16s%2Fg%2F11ypdtr8zq?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Cerrajeros",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T23:07:21.576Z"
+    },
+    {
+      "position": 35,
+      "placeId": "0x86bcdb20af9101dd:0xd78df53b10daa3bf",
+      "name": "Cerrajeria Chip y Controles KINIS",
+      "rating": 5,
+      "reviewCount": 45,
+      "category": "Servicio de duplicación de llaves",
+      "categories": [
+        "Servicio de duplicación de llaves"
+      ],
+      "address": "Calle Polo Nte 3612, Santa Elena, Sta Elena, 80028 Culiacán Rosales, Sin.",
+      "phone": "6672041661",
+      "website": "https://www.facebook.com/geovanny.arballo.9",
+      "coordinates": {
+        "lat": 24.810123,
+        "lng": -107.4375668
+      },
+      "plusCode": "RHPF+J5 Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Gabriel CastellanosLocal Guide · 33 opiniones · 5 fotos",
+          "rating": 5,
+          "text": "Excelente atención, muy buen servicio y honestas recomendaciones!",
+          "date": "Hace 3 años"
+        },
+        {
+          "author": "Gabriel CastellanosLocal Guide · 33 opiniones · 5 fotos",
+          "rating": 5,
+          "text": "Excelente atención, muy buen servicio y honestas recomendaciones!",
+          "date": "Hace 3 años"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Cerrajeria+Chip+y+Controles+KINIS/@24.810123,-107.4375668,14z/data=!4m10!1m2!2m1!1sCerrajeros+en+Culiacan,+Mexico!3m6!1s0x86bcdb20af9101dd:0xd78df53b10daa3bf!8m2!3d24.8365849!4d-107.4271223!15sCh5DZXJyYWplcm9zIGVuIEN1bGlhY2FuLCBNZXhpY29aHyIdY2VycmFqZXJvcyBlbiBjdWxpYWNhbiBtZXhpY2-SAQpsb2NrX3N0b3JlmgEkQ2hkRFNVaE5NRzluUzBWSlEwRm5TVU5sYUdWMlJITlJSUkFC4AEA-gEECAAQQQ!16s%2Fg%2F11fvwqm82n?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": "facebook.com/geovanny.arballo.9",
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Cerrajeros",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T23:07:27.237Z"
+    },
+    {
+      "position": 36,
+      "placeId": "0x86bcd71f881576a1:0x6656454fc58c4b47",
+      "name": "Central chip- Cerrajería automotríz",
+      "rating": null,
+      "reviewCount": 45,
+      "category": "Cerrajero",
+      "categories": [
+        "Cerrajero"
+      ],
+      "address": "Heroico Colegio Militar 1226, Emiliano Zapata, 80240 Culiacán Rosales, Sin.",
+      "phone": "6671444904",
+      "website": "https://www.instagram.com/centralchip_/",
+      "coordinates": {
+        "lat": 24.8365849,
+        "lng": -107.4652311
+      },
+      "plusCode": "QJRG+RM Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [],
+      "profileUrl": "https://www.google.com/maps/place/Central+chip-+Cerrajer%C3%ADa+automotr%C3%ADz/@24.8365849,-107.4652311,14z/data=!4m10!1m2!2m1!1sCerrajeros+en+Culiacan,+Mexico!3m6!1s0x86bcd71f881576a1:0x6656454fc58c4b47!8m2!3d24.7920142!4d-107.3732642!15sCh5DZXJyYWplcm9zIGVuIEN1bGlhY2FuLCBNZXhpY2-SAQlsb2Nrc21pdGjgAQA!16s%2Fg%2F11yhf99j0_?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": "instagram.com/rsrc.php",
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Cerrajeros",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T23:07:30.062Z"
+    },
+    {
+      "position": 37,
+      "placeId": "0x86bcd73adc28f5d1:0x139ad2285a6177c6",
+      "name": "Cerrajeria sinaloa",
+      "rating": 3.8,
+      "reviewCount": 45,
+      "category": "Cerrajero",
+      "categories": [
+        "Cerrajero"
+      ],
+      "address": "Heroico Colegio Militar 2521, Sinaloa, 80260 Culiacán Rosales, Sin.",
+      "phone": "6671362317",
+      "website": null,
+      "coordinates": {
+        "lat": 24.8308082,
+        "lng": -107.4731279
+      },
+      "plusCode": "QJMH+VQ Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Dafne Arnila Morales Campos4 opiniones",
+          "rating": null,
+          "text": "Pésima experiencia,se aprovecha de la situación para encajar la uña y cobrar carisimo ,nada recomendado",
+          "date": "Hace 4 meses"
+        },
+        {
+          "author": "Dafne Arnila Morales Campos4 opiniones",
+          "rating": null,
+          "text": "Pésima experiencia,se aprovecha de la situación para encajar la uña y cobrar carisimo ,nada recomendado",
+          "date": "Hace 4 meses"
+        },
+        {
+          "author": "Rodrigo Martinez IribeLocal Guide · 1,271 opiniones · 1,292 fotos",
+          "rating": 4,
+          "text": "Ampliamente recomendable",
+          "date": "Hace un año"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Cerrajeria+sinaloa/@24.8308082,-107.4731279,14z/data=!4m10!1m2!2m1!1sCerrajeros+en+Culiacan,+Mexico!3m6!1s0x86bcd73adc28f5d1:0x139ad2285a6177c6!8m2!3d24.7847075!4d-107.3706117!15sCh5DZXJyYWplcm9zIGVuIEN1bGlhY2FuLCBNZXhpY29aHyIdY2VycmFqZXJvcyBlbiBjdWxpYWNhbiBtZXhpY2-SAQlsb2Nrc21pdGiaASRDaGREU1VoTk1HOW5TMFZKUTBGblNVUTNORzlmWm5OM1JSQULgAQD6AQQIABAY!16s%2Fg%2F11c6101h8b?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Cerrajeros",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T23:07:33.746Z"
+    },
+    {
+      "position": 38,
+      "placeId": "0x86bcdb407bd51b47:0x62836a6ed3871953",
+      "name": "Cerrajeria Sabbath La Conquista",
+      "rating": 5,
+      "reviewCount": 45,
+      "category": "Cerrajero",
+      "categories": [
+        "Cerrajero"
+      ],
+      "address": "C. Universo 1337-a, El Acueducto, 80058 Culiacán Rosales, Sin.",
+      "phone": "6671509469",
+      "website": null,
+      "coordinates": {
+        "lat": 24.7847075,
+        "lng": -107.4087205
+      },
+      "plusCode": null,
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [],
+      "profileUrl": "https://www.google.com/maps/place/Cerrajeria+Sabbath+La+Conquista/@24.7847075,-107.4087205,14z/data=!4m10!1m2!2m1!1sCerrajeros+en+Culiacan,+Mexico!3m6!1s0x86bcdb407bd51b47:0x62836a6ed3871953!8m2!3d24.8181337!4d-107.4418192!15sCh5DZXJyYWplcm9zIGVuIEN1bGlhY2FuLCBNZXhpY29aHyIdY2VycmFqZXJvcyBlbiBjdWxpYWNhbiBtZXhpY2-SAQpsb2NrX3N0b3JlmgEkQ2hkRFNVaE5NRzluUzBWSlEwRm5TVVJTZVRndGFIWlJSUkFC4AEA-gEECAAQHA!16s%2Fg%2F11t_m757yk?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Cerrajeros",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T23:07:35.407Z"
+    },
+    {
+      "position": 39,
+      "placeId": "0x86bcd1a93d0a38f7:0x2fbce214e898f397",
+      "name": "Duplikate",
+      "rating": null,
+      "reviewCount": 45,
+      "category": "Servicio de duplicación de llaves",
+      "categories": [
+        "Servicio de duplicación de llaves"
+      ],
+      "address": "Calle Cristóbal Colón, Primer Cuadro, 80000 Culiacán Rosales, Sin.",
+      "phone": "6671936265",
+      "website": "https://duplikate-1.ueniweb.com/?utm_campaign=gmb",
+      "coordinates": {
+        "lat": 24.8181337,
+        "lng": -107.479928
+      },
+      "plusCode": null,
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [],
+      "profileUrl": "https://www.google.com/maps/place/Duplikate/@24.8181337,-107.479928,14z/data=!4m10!1m2!2m1!1sCerrajeros+en+Culiacan,+Mexico!3m6!1s0x86bcd1a93d0a38f7:0x2fbce214e898f397!8m2!3d24.8055847!4d-107.3931746!15sCh5DZXJyYWplcm9zIGVuIEN1bGlhY2FuLCBNZXhpY2-SARdrZXlfZHVwbGljYXRpb25fc2VydmljZeABAA!16s%2Fg%2F11mn7_4qff?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": "xaviervalenciano@gmail.com",
+      "allEmails": [
+        "xaviervalenciano@gmail.com"
+      ],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": "facebook.com/share.php",
+        "twitter": "twitter.com/intent",
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Cerrajeros",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T23:07:38.448Z"
+    },
+    {
+      "position": 40,
+      "placeId": "0x86bcdb734d2e8d13:0x1a6f99b763229e33",
+      "name": "CERRAJERIA LOS HUERTOS",
+      "rating": 4.5,
+      "reviewCount": 45,
+      "category": "Cerrajero",
+      "categories": [
+        "Cerrajero"
+      ],
+      "address": "Blvd, Fracc, De La Pradera # 89, Los Huertos, 80019 Culiacán Rosales, Sin.",
+      "phone": "6671619517",
+      "website": "https://sites.google.com/view/cerrajerialoshuertos/contacto",
+      "coordinates": {
+        "lat": 24.8055847,
+        "lng": -107.4312834
+      },
+      "plusCode": "VJ75+V4 Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Zona Hs Harware And Software1 opinión",
+          "rating": 5,
+          "text": "excelente servicio y calidad muy amable la persona y buen trabajo",
+          "date": "Hace 2 años"
+        },
+        {
+          "author": "Zona Hs Harware And Software1 opinión",
+          "rating": 5,
+          "text": "excelente servicio y calidad muy amable la persona y buen trabajo",
+          "date": "Hace 2 años"
+        },
+        {
+          "author": "Jonatan JaimeLocal Guide · 123 opiniones · 231 fotos",
+          "rating": null,
+          "text": "En duplicado deja mucho q desear.\nSalen más grandes q el principal y tiene q dar uno vueltas, para q se corrigan..",
+          "date": "Hace 2 años"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/CERRAJERIA+LOS+HUERTOS/@24.8055847,-107.4312834,14z/data=!4m10!1m2!2m1!1sCerrajeros+en+Culiacan,+Mexico!3m6!1s0x86bcdb734d2e8d13:0x1a6f99b763229e33!8m2!3d24.8647323!4d-107.3922229!15sCh5DZXJyYWplcm9zIGVuIEN1bGlhY2FuLCBNZXhpY29aHyIdY2VycmFqZXJvcyBlbiBjdWxpYWNhbiBtZXhpY2-SAQpsb2NrX3N0b3JlmgEkQ2hkRFNVaE5NRzluUzBWSlEwRm5TVU5XZUhOTVVtOVJSUkFC4AEA-gEECAAQQQ!16s%2Fg%2F11p0zmd02l?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Cerrajeros",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T23:07:42.216Z"
+    },
+    {
+      "position": 41,
+      "placeId": "0x86bcd1d3330408fb:0x1197404379c6684",
+      "name": "Cerrajería San Isidro",
+      "rating": 4.6,
+      "reviewCount": 45,
+      "category": "Cerrajero",
+      "categories": [
+        "Cerrajero"
+      ],
+      "address": "Lomas de San Isidro 643, Fraccionamiento, 80197 Culiacán Rosales, Sin.",
+      "phone": "6671060910",
+      "website": null,
+      "coordinates": {
+        "lat": 24.7625912,
+        "lng": -107.432718
+      },
+      "plusCode": "QJ74+25 Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "Al Garza1 opinión",
+          "rating": 5,
+          "text": "muy buen servicio muy amables se los recomiendo al 💯…Aspectos positivos… Más",
+          "date": "Hace 4 años"
+        },
+        {
+          "author": "Al Garza1 opinión",
+          "rating": 5,
+          "text": "muy buen servicio muy amables se los recomiendo al 💯…Aspectos positivos… Más",
+          "date": "Hace 4 años"
+        },
+        {
+          "author": "Bernardo Lugo SalasLocal Guide · 13 opiniones",
+          "rating": 5,
+          "text": "Excelente servicio 👍🏽…",
+          "date": "Hace 3 años"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/Cerrajer%C3%ADa+San+Isidro/@24.7625912,-107.432718,14z/data=!4m10!1m2!2m1!1sCerrajeros+en+Culiacan,+Mexico!3m6!1s0x86bcd1d3330408fb:0x1197404379c6684!8m2!3d24.7625912!4d-107.3946092!15sCh5DZXJyYWplcm9zIGVuIEN1bGlhY2FuLCBNZXhpY29aHyIdY2VycmFqZXJvcyBlbiBjdWxpYWNhbiBtZXhpY2-SAQlsb2Nrc21pdGiaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVUXlhWFZYTVZoQkVBReABAPoBBAgAEBI!16s%2Fg%2F11s1832jr2?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Cerrajeros",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T23:07:44.728Z"
+    },
+    {
+      "position": 42,
+      "placeId": "0x86bcd10d4c4471c9:0xf916e17fc3e6a4e",
+      "name": "CERRAJERÍA BOOM",
+      "rating": 4.8,
+      "reviewCount": 45,
+      "category": "Cerrajero",
+      "categories": [
+        "Cerrajero"
+      ],
+      "address": "Av. Manuel J. Clouthier # 2120-local # 20, Cañadas, Nuevo Culiacán, 80110 Culiacán Rosales, Sin.",
+      "phone": "6677573055",
+      "website": "https://wa.me/message/AA5PDRA5KFFKA1",
+      "coordinates": {
+        "lat": 24.7625912,
+        "lng": -107.432718
+      },
+      "plusCode": "QHPM+37 Culiacán Rosales, Sinaloa",
+      "hours": null,
+      "hoursDetailed": [],
+      "isOpenNow": null,
+      "priceLevel": null,
+      "services": [],
+      "attributes": {
+        "delivery": false,
+        "takeout": false,
+        "dineIn": false,
+        "curbside": false,
+        "wheelchair": false,
+        "wifi": false,
+        "parking": false
+      },
+      "reservationUrl": null,
+      "menuUrl": null,
+      "orderUrl": null,
+      "mainPhoto": null,
+      "photosCount": 0,
+      "topReviews": [
+        {
+          "author": "AAA HernandezLocal Guide · 61 opiniones · 331 fotos",
+          "rating": 5,
+          "text": "Expertos en reparación de cerraduras automotriz, controles",
+          "date": "Hace 7 meses"
+        },
+        {
+          "author": "AAA HernandezLocal Guide · 61 opiniones · 331 fotos",
+          "rating": 5,
+          "text": "Expertos en reparación de cerraduras automotriz, controles",
+          "date": "Hace 7 meses"
+        },
+        {
+          "author": "ARTURO ERNESTO GONZALEZ AGUILARLocal Guide · 1,077 opiniones · 4,440 fotos",
+          "rating": 5,
+          "text": "Rápido y bien echas las llaves",
+          "date": "Hace 7 meses"
+        }
+      ],
+      "profileUrl": "https://www.google.com/maps/place/CERRAJER%C3%8DA+BOOM/@24.7625912,-107.432718,14z/data=!3m1!5s0x86bcd0ec48474dd3:0x1e040521c6ad4238!4m10!1m2!2m1!1sCerrajeros+en+Culiacan,+Mexico!3m6!1s0x86bcd10d4c4471c9:0xf916e17fc3e6a4e!8m2!3d24.7852234!4d-107.4167779!15sCh5DZXJyYWplcm9zIGVuIEN1bGlhY2FuLCBNZXhpY29aHyIdY2VycmFqZXJvcyBlbiBjdWxpYWNhbiBtZXhpY2-SAQlsb2Nrc21pdGiaAURDaTlEUVVsUlFVTnZaRU5vZEhsalJqbHZUMjFhV1dSclZqRmhiV3hHWTBkdk5HRlhUbEphTTA1RllWaHJlV05XUlJBQuABAPoBBAgAEDo!16s%2Fg%2F11fsq1z07b?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+      "claimedBusiness": false,
+      "email": null,
+      "allEmails": [],
+      "socialMedia": {
+        "instagram": "instagram.com/whatsapp",
+        "facebook": "facebook.com/profile.php",
+        "twitter": "x.com/whatsapp",
+        "whatsapp": null,
+        "linkedin": null,
+        "youtube": "youtube.com/channel/UCAuerig2N-RZWJT8x75V9yw",
+        "tiktok": null
+      },
+      "searchQuery": {
+        "businessType": "Cerrajeros",
+        "city": "Culiacan",
+        "country": "Mexico",
+        "coordinates": null,
+        "radius": null
+      },
+      "scrapedAt": "2026-01-16T23:07:48.902Z"
+    }
+  ]
+}
