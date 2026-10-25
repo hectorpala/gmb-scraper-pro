@@ -61,7 +61,7 @@ function extractNameFromUrl(url) {
 function getChromePath() {
   const platform = os.platform();
   const chromePaths = {
-    darwin: '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome',
+    darwin: '/Users/openclaw/.local/bin/chrome-pruebas',
     win32: 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe',
     linux: '/usr/bin/google-chrome'
   };
